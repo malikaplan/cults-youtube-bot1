@@ -8,7 +8,8 @@ Doldurulacak alanlar:
   1) CULTS_USERNAME, CULTS_API_KEY   -> config.py içinde (zaten dolu)
   2) CLIENT_SECRET_FILE               -> Google Cloud Console'dan indirilen client_secret.json
   3) logo.png                         -> aynı klasörde, video altına eklenecek logo (şeffaf PNG önerilir)
-  4) (opsiyonel) TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID -> her çalıştırmada özet mesaj almak için
+  4) music/ klasörü                   -> mp3 dosyalarınız buraya (MUSIC_TRACKS listesiyle eşleşen dosya adlarıyla)
+  5) (opsiyonel) TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID -> her çalıştırmada özet mesaj almak için
 
 Çalıştırma:
   calistir.bat dosyasına çift tıklayın (veya: python cults_to_youtube.py)
@@ -18,7 +19,7 @@ video yükler (private + publishAt ile planlı, TÜMÜ AYNI GÜN İÇİNDE), son
 çalıştırmada bir sonraki güne geçer.
 """
 
-import json, os, re, subprocess, datetime, webbrowser
+import json, os, re, random, subprocess, datetime, webbrowser
 from pathlib import Path
 import requests
 from googleapiclient.discovery import build
@@ -62,6 +63,37 @@ TITLE_TOP_MARGIN = 230           # başlık şeridinin üstünde bırakılan bo�
 # Her çalıştırma sonunda özet mesajı için (boş bırakırsanız bildirim gönderilmez)
 TELEGRAM_BOT_TOKEN = ""
 TELEGRAM_CHAT_ID = ""
+
+# ---------- MÜZİK (arka plan müziği + Spotify tanıtımı) ----------
+# mp3 dosyaları bu klasörde olmalı (hem Masaüstü/cults hem GitHub repo kökünde):
+MUSIC_DIR = "music"
+
+# Her video için bu listeden RASTGELE bir şarkı seçilir, şarkının içinde
+# RASTGELE bir başlangıç saniyesinden itibaren video süresi kadar kırpılır.
+MUSIC_TRACKS = [
+    {"file": "Steel Wings.mp3", "title": "Steel Wings",
+     "spotify": "https://open.spotify.com/intl-tr/track/6E9u8N5KFI57zWOeRKQJV3?si=c353a5f4446447b9"},
+    {"file": "Black Hydraulics.mp3", "title": "Black Hydraulics",
+     "spotify": "https://open.spotify.com/intl-tr/track/5uD4nOMWKsS79XLbeM9I7l?si=737419ff45c54d27"},
+    {"file": "Short Circuit.mp3", "title": "Short Circuit",
+     "spotify": "https://open.spotify.com/intl-tr/track/2heiNPglXZR0CQBtiquSmu?si=5f581054d4f44b3c"},
+    {"file": "Night Shift.mp3", "title": "Night Shift",
+     "spotify": "https://open.spotify.com/intl-tr/track/1PMEkhE7t8w8kedOkFLV6L?si=799688fd00d44070"},
+    {"file": "Engine Room.mp3", "title": "Engine Room",
+     "spotify": "https://open.spotify.com/intl-tr/track/4VgVkGZvkhsy2aOlWEgeBs?si=58de1d8261f24cc0"},
+    {"file": "Glitch in the Code.mp3", "title": "Glitch in the Code",
+     "spotify": "https://open.spotify.com/intl-tr/track/4yLEYeUXS3M2145ad9729r?si=d85b9024ac9d4292"},
+    {"file": "System Rage.mp3", "title": "System Rage",
+     "spotify": "https://open.spotify.com/intl-tr/track/3o4P239ROD0Rbdq9mRSUy5?si=8720fb662b1c456f"},
+    {"file": "The Foundry.mp3", "title": "The Foundry",
+     "spotify": "https://open.spotify.com/intl-tr/track/043VQQMoRpRj3OaZqyidbB?si=28134284f5a448fc"},
+]
+MUSIC_ARTIST_SPOTIFY = "https://open.spotify.com/intl-tr/artist/2Wcd68SGrXGBGzO1BbxKVX?si=77Xbxd55QSS_7f8iv6LkRQ"
+
+# (opsiyonel) ayrı müzik YouTube kanalın için çapraz tanıtım - doldurursan
+# her video açıklamasına otomatik eklenir, boş bırakırsan hiç eklenmez:
+MUSIC_CHANNEL_NAME = "The Soundscapes"   # örn: "Retro Techno Beats"
+MUSIC_CHANNEL_URL = "https://www.youtube.com/@thesoundscapess"    # örn: "https://youtube.com/@kanaladi"
 # ==============================================
 
 STATE_FILE = "state.json"
@@ -154,6 +186,20 @@ def get_video_url(creation, debug=False):
         if debug:
             print(f"   [DEBUG] hata: {e}")
         return None
+
+
+def build_music_credit(music_track):
+    """Videoda kullanılan müzik için açıklamaya eklenecek kredi/tanıtım
+    bloğunu oluşturur. music_track None ise (müzik bulunamadıysa) boş
+    string döner."""
+    if not music_track:
+        return ""
+    lines = [f"\n\n🎵 Music: {music_track['title']} — Listen on Spotify: {music_track['spotify']}"]
+    if MUSIC_ARTIST_SPOTIFY:
+        lines.append(f"More music: {MUSIC_ARTIST_SPOTIFY}")
+    if MUSIC_CHANNEL_NAME and MUSIC_CHANNEL_URL:
+        lines.append(f"More tracks like this on {MUSIC_CHANNEL_NAME}: {MUSIC_CHANNEL_URL}")
+    return "\n".join(lines)
 
 
 def clean_description(desc):
@@ -594,6 +640,37 @@ def get_logo_pulse_frames(width=CANVAS_W, height=LOGO_BAND_HEIGHT):
     return _LOGO_PULSE_DIR
 
 
+def probe_duration(path):
+    """Bir medya dosyasının (video/ses) saniye cinsinden süresini döndürür,
+    okunamazsa None döner."""
+    try:
+        r = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+             "-of", "default=noprint_wrappers=1:nokey=1", path],
+            capture_output=True, text=True, check=True, creationflags=_NO_WINDOW)
+        return float(r.stdout.strip())
+    except Exception:
+        return None
+
+
+def pick_music_segment(target_duration):
+    """MUSIC_TRACKS'ten rastgele bir şarkı seçer, şarkının süresi yeterliyse
+    içinde rastgele bir başlangıç saniyesi de seçer (şarkı kısaysa 0'dan
+    başlar, ffmpeg tarafında zaten döngüye alınıp video süresine tamamlanır).
+    MUSIC_TRACKS boşsa veya klasör/mp3'ler bulunamazsa (None, None, 0) döner."""
+    available = [t for t in MUSIC_TRACKS if Path(MUSIC_DIR, t["file"]).exists()]
+    if not available:
+        return None, None, 0.0
+    track = random.choice(available)
+    path = str(Path(MUSIC_DIR, track["file"]))
+    song_duration = probe_duration(path)
+    if song_duration and song_duration > target_duration:
+        start = random.uniform(0, song_duration - target_duration)
+    else:
+        start = 0.0
+    return track, path, start
+
+
 def make_vertical(input_path, output_path, title_text):
     """
     Yatay videoyu 1080x1920 dikey Shorts formatına çevirir:
@@ -601,7 +678,12 @@ def make_vertical(input_path, output_path, title_text):
     - Orta: orijinal video, oranı bozulmadan, ortada net
     - Üst şerit: model başlığı (otomatik sığdırılmış, asla taşmaz)
     - Alt şerit: logonuz (nabız atışı gibi animasyonlu)
+    - Ses: MUSIC_TRACKS'ten rastgele seçilmiş bir şarkının rastgele bir
+      bölümü (video sessiz olduğu için baştan sona bu müzik duyulur)
     - Süre: en fazla MAX_SHORT_SECONDS ile sınırlanır (Shorts kuralı)
+
+    Dönüş: (music_track dict veya None) - hangi şarkının kullanıldığı,
+    YouTube açıklamasına kredi/Spotify linki eklemek için.
     """
     # YouTube Shorts'un kendi arayüzü (ses simgesi, duraklat, ilerleme çubuğu)
     # ekranın en tepesinde durur; başlık şeridi tam y=0'da başlarsa onun
@@ -612,6 +694,13 @@ def make_vertical(input_path, output_path, title_text):
     logo_frame_dir = get_logo_pulse_frames()
     logo_pattern = str(logo_frame_dir / "frame_%03d.png")
 
+    # Nihai video süresini önceden belirle (müzik başlangıcını ve fade-out
+    # zamanlamasını buna göre ayarlayabilmek için)
+    src_duration = probe_duration(input_path) or MAX_SHORT_SECONDS
+    target_duration = min(src_duration, MAX_SHORT_SECONDS)
+    music_track, music_path, music_start = pick_music_segment(target_duration)
+    fade_out_start = max(0.0, target_duration - 1.5)
+
     top_offset = TITLE_TOP_MARGIN + BAND_HEIGHT
     mid_h = CANVAS_H - top_offset - LOGO_BAND_HEIGHT
     filter_complex = (
@@ -620,12 +709,27 @@ def make_vertical(input_path, output_path, title_text):
         f"[vfull][1:v]overlay=0:{TITLE_TOP_MARGIN}[v2];"
         f"[v2][2:v]overlay=0:{CANVAS_H - LOGO_BAND_HEIGHT}:shortest=1[v]"
     )
+
     cmd = [
         "ffmpeg", "-y", "-i", input_path, "-i", title_bar_path,
         "-stream_loop", "-1", "-framerate", str(LOGO_PULSE_FPS), "-i", logo_pattern,
+    ]
+    if music_path:
+        # -stream_loop -1: şarkı video süresinden kısa kalırsa baştan tekrar
+        # döner, hiçbir zaman sessiz kalınan an olmaz.
+        cmd += ["-stream_loop", "-1", "-ss", f"{music_start:.2f}", "-i", music_path]
+        filter_complex += (
+            f";[3:a]afade=t=in:st=0:d=1,afade=t=out:st={fade_out_start:.2f}:d=1.5[aout]"
+        )
+        audio_map = ["-map", "[aout]"]
+    else:
+        # Müzik dosyaları bulunamadıysa eskisi gibi sessiz devam et (script durmasın)
+        audio_map = ["-map", "0:a?"]
+
+    cmd += [
         "-filter_complex", filter_complex,
-        "-map", "[v]", "-map", "0:a?",
-        "-t", str(MAX_SHORT_SECONDS),
+        "-map", "[v]", *audio_map,
+        "-t", str(target_duration),
         "-c:v", "libx264", "-c:a", "aac", "-shortest",
         output_path,
     ]
@@ -634,6 +738,7 @@ def make_vertical(input_path, output_path, title_text):
         os.remove(title_bar_path)
     except OSError:
         pass
+    return music_track
 
 
 # ============================================================
@@ -800,12 +905,15 @@ def main():
         tmp_vertical_path = "tmp_video_vertical.mp4"
         try:
             download_temp(video_url, tmp_path)
+            music_track = None
             try:
-                make_vertical(tmp_path, tmp_vertical_path, creation["name"])
+                music_track = make_vertical(tmp_path, tmp_vertical_path, creation["name"])
                 upload_path = tmp_vertical_path
             except Exception as e:
                 print(f"   [UYARI] Dikeyleştirme başarısız, yatay yüklenecek: {e}")
                 upload_path = tmp_path
+            if music_track:
+                print(f"   [MÜZİK] {music_track['title']}")
 
             hour = PUBLISH_HOURS_UTC[len(uploaded) % len(PUBLISH_HOURS_UTC)]
             publish_dt = next_day.replace(hour=hour, minute=0, second=0, microsecond=0)
@@ -814,7 +922,7 @@ def main():
             vid_id = upload_video(
                 youtube, upload_path,
                 title=creation["name"] + " #Shorts",
-                description=clean_description(creation.get("description")) + f"\n\nModel: {creation['url']}\n#Shorts",
+                description=clean_description(creation.get("description")) + f"\n\nModel: {creation['url']}\n#Shorts" + build_music_credit(music_track),
                 tags=build_seo_tags(creation),
                 publish_at=publish_at_str,
             )
