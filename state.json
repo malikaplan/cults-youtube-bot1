@@ -1,0 +1,88 @@
+{
+  "next_index": 6,
+  "next_publish_date": "2026-08-02T00:00:00",
+  "run_count": 1,
+  "total_uploaded": 6,
+  "total_models": 1270,
+  "start_date": "2026-08-01",
+  "last_run": {
+    "date": "2026-08-01",
+    "day_number": 1,
+    "uploaded": [
+      {
+        "title": "Renault Trafic Fender Liner / Mud Guard Fastener Clips",
+        "publish_at": "2026-08-01T09:00:00Z",
+        "link": "https://youtu.be/V0WOjMZ9jto"
+      },
+      {
+        "title": "Renault Trafic Hood Prop Rod Retention Clip / Bracket",
+        "publish_at": "2026-08-01T11:00:00Z",
+        "link": "https://youtu.be/T5BT96XHIX8"
+      },
+      {
+        "title": "Renault Trafic AC Air Vent Adjuster Tab /Directional Louver Blade",
+        "publish_at": "2026-08-01T13:00:00Z",
+        "link": "https://youtu.be/4gWNrQi2Lgk"
+      },
+      {
+        "title": "Renault Trafic Door Hinge Cover / Cap",
+        "publish_at": "2026-08-01T15:00:00Z",
+        "link": "https://youtu.be/tzGdU0d7CRQ"
+      },
+      {
+        "title": "Renault Trafic Interior / Exterior Door Handle",
+        "publish_at": "2026-08-01T17:00:00Z",
+        "link": "https://youtu.be/xG_f6Hbsavg"
+      },
+      {
+        "title": "Renault Kangoo Air Intake Bulkhead Flange/Adapter",
+        "publish_at": "2026-08-01T19:00:00Z",
+        "link": "https://youtu.be/rPaWCGDYWjg"
+      }
+    ],
+    "skipped_nsfw": 0,
+    "skipped_no_video": 0,
+    "errors": []
+  },
+  "history": [
+    {
+      "date": "2026-08-01",
+      "day_number": 1,
+      "uploaded": [
+        {
+          "title": "Renault Trafic Fender Liner / Mud Guard Fastener Clips",
+          "publish_at": "2026-08-01T09:00:00Z",
+          "link": "https://youtu.be/V0WOjMZ9jto"
+        },
+        {
+          "title": "Renault Trafic Hood Prop Rod Retention Clip / Bracket",
+          "publish_at": "2026-08-01T11:00:00Z",
+          "link": "https://youtu.be/T5BT96XHIX8"
+        },
+        {
+          "title": "Renault Trafic AC Air Vent Adjuster Tab /Directional Louver Blade",
+          "publish_at": "2026-08-01T13:00:00Z",
+          "link": "https://youtu.be/4gWNrQi2Lgk"
+        },
+        {
+          "title": "Renault Trafic Door Hinge Cover / Cap",
+          "publish_at": "2026-08-01T15:00:00Z",
+          "link": "https://youtu.be/tzGdU0d7CRQ"
+        },
+        {
+          "title": "Renault Trafic Interior / Exterior Door Handle",
+          "publish_at": "2026-08-01T17:00:00Z",
+          "link": "https://youtu.be/xG_f6Hbsavg"
+        },
+        {
+          "title": "Renault Kangoo Air Intake Bulkhead Flange/Adapter",
+          "publish_at": "2026-08-01T19:00:00Z",
+          "link": "https://youtu.be/rPaWCGDYWjg"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "errors": []
+    }
+  ]
+}
