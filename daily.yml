@@ -1,0 +1,43 @@
+name: Otomatik Yukleme
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Depoyu indir
+        uses: actions/checkout@v4
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: ffmpeg kur
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Gerekli paketleri kur
+        run: pip install -r requirements.txt
+      - name: Gizli dosyalari geri yukle
+        env:
+          CONFIG_PY_B64: ${{ secrets.CONFIG_PY_B64 }}
+          CLIENT_SECRET_B64: ${{ secrets.CLIENT_SECRET_B64 }}
+          TOKEN_PICKLE_B64: ${{ secrets.TOKEN_PICKLE_B64 }}
+        run: |
+          echo "$CONFIG_PY_B64" | base64 -d > config.py
+          echo "$CLIENT_SECRET_B64" | base64 -d > client_secret.json
+          echo "$TOKEN_PICKLE_B64" | base64 -d > token.pickle
+      - name: Videolari isle ve YouTubea yukle
+        run: python cults_to_youtube.py
+      - name: Ilerlemeyi geri kaydet
+        run: |
+          git config user.name "cults-youtube-bot"
+          git config user.email "actions@github.com"
+          git add state.json durum.html
+          git diff --staged --quiet || git commit -m "Otomatik gunluk yukleme"
+          git push
