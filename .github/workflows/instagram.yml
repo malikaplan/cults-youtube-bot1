@@ -1,0 +1,43 @@
+name: Otomatik Yukleme Instagram
+
+on:
+  schedule:
+    # Her saat basi, TR saatiyle 10:00 - 22:00 arasi (UTC 07:00 - 19:00)
+    # Her calistirma 1 video paylasir, gunluk toplam DAILY_POST_LIMIT ile sinirlanir.
+    - cron: "0 7-19 * * *"
+  workflow_dispatch: {}   # Actions sekmesinden elle "Run workflow" ile de tetiklenebilir
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu indir
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: ffmpeg kur
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Bagimliliklari kur
+        run: pip install -r requirements.txt
+
+      - name: config.py olustur
+        run: echo "${{ secrets.CONFIG_PY_B64 }}" | base64 -d > config.py
+
+      - name: cults_to_instagram.py calistir
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python cults_to_instagram.py
+
+      - name: state_instagram.json degisikliklerini geri gonder
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add state_instagram.json
+          git diff --cached --quiet || git commit -m "state_instagram.json guncellendi [skip ci]"
+          git push
