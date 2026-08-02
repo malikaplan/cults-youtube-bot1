@@ -8,7 +8,7 @@ Doldurulacak alanlar:
   1) CULTS_USERNAME, CULTS_API_KEY   -> config.py içinde (zaten dolu)
   2) CLIENT_SECRET_FILE               -> Google Cloud Console'dan indirilen client_secret.json
   3) logo.png                         -> aynı klasörde, video altına eklenecek logo (şeffaf PNG önerilir)
-  4) music/ klasörü                   -> mp3 dosyalarınız buraya (MUSIC_TRACKS listesiyle eşleşen dosya adlarıyla)
+  4) 8 mp3 dosyanız                   -> aynı klasörde (ana/kök dizin), ayrı bir alt klasör GEREKMİYOR
   5) (opsiyonel) TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID -> her çalıştırmada özet mesaj almak için
 
 Çalıştırma:
@@ -66,7 +66,9 @@ TELEGRAM_CHAT_ID = ""
 
 # ---------- MÜZİK (arka plan müziği + Spotify tanıtımı) ----------
 # mp3 dosyaları bu klasörde olmalı (hem Masaüstü/cults hem GitHub repo kökünde):
-MUSIC_DIR = "music"
+# mp3 dosyaları bu klasörde olmalı (hem Masaüstü/cults hem GitHub repo kökünde) -
+# "." = script ile aynı klasör (ana/kök dizin), ayrı bir alt klasör GEREKMİYOR:
+MUSIC_DIR = "."
 
 # Her video için bu listeden RASTGELE bir şarkı seçilir, şarkının içinde
 # RASTGELE bir başlangıç saniyesinden itibaren video süresi kadar kırpılır.
