@@ -1,0 +1,68 @@
+name: Otomatik Yukleme Instagram
+
+on:
+  schedule:
+    # Gunde 25 tetikleme, TR saatiyle 08:00-19:30 (UTC 05:00-16:30) arasi
+    # yogunlastirilmis, en cok etkilesim alinan sabah/ogle/aksam saatlerine
+    # gore ayarlanmis. Her calistirma 1 video paylasir (DAILY_POST_LIMIT=25).
+    - cron: "0 5 * * *"
+    - cron: "30 5 * * *"
+    - cron: "0 6 * * *"
+    - cron: "30 6 * * *"
+    - cron: "0 7 * * *"
+    - cron: "30 7 * * *"
+    - cron: "0 8 * * *"
+    - cron: "30 8 * * *"
+    - cron: "0 9 * * *"
+    - cron: "30 9 * * *"
+    - cron: "0 10 * * *"
+    - cron: "30 10 * * *"
+    - cron: "0 11 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 14 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 16 * * *"
+    - cron: "30 16 * * *"
+    - cron: "0 17 * * *"
+    - cron: "30 17 * * *"
+    - cron: "0 18 * * *"
+    - cron: "30 18 * * *"
+    - cron: "0 19 * * *"
+    - cron: "30 19 * * *"
+  workflow_dispatch: {}   # Actions sekmesinden elle "Run workflow" ile de tetiklenebilir
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu indir
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: ffmpeg kur
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Bagimliliklari kur
+        run: pip install -r requirements.txt
+
+      - name: config.py olustur
+        run: echo "${{ secrets.CONFIG_PY_B64 }}" | base64 -d > config.py
+
+      - name: cults_to_instagram.py calistir
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python cults_to_instagram.py
+
+      - name: state_instagram.json degisikliklerini geri gonder
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add state_instagram.json
+          git diff --cached --quiet || git commit -m "state_instagram.json guncellendi [skip ci]"
+          git push
