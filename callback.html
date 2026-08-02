@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>TikTok Yetkilendirme</title>
+</head>
+<body style="font-family: sans-serif; max-width: 700px; margin: 40px auto; line-height: 1.6;">
+<h1>TikTok Yetkilendirme Kodu</h1>
+<p>Aşağıdaki kodu kopyalayıp terminaldeki scripte yapıştır:</p>
+<div id="code" style="font-size: 20px; font-weight: bold; background: #eee; padding: 15px; border-radius: 6px; word-break: break-all;"></div>
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const code = params.get("code");
+  document.getElementById("code").textContent = code || "Kod bulunamadı, URL'yi kontrol et.";
+</script>
+</body>
+</html>
