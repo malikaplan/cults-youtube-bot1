@@ -1,43 +1,43 @@
 {
-  "next_index": 6,
-  "next_publish_date": "2026-08-02T00:00:00",
-  "run_count": 1,
-  "total_uploaded": 6,
+  "next_index": 12,
+  "next_publish_date": "2026-08-03T00:00:00",
+  "run_count": 2,
+  "total_uploaded": 12,
   "total_models": 1270,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-01",
-    "day_number": 1,
+    "date": "2026-08-02",
+    "day_number": 2,
     "uploaded": [
       {
         "title": "Renault Trafic Fender Liner / Mud Guard Fastener Clips",
-        "publish_at": "2026-08-01T09:00:00Z",
-        "link": "https://youtu.be/V0WOjMZ9jto"
+        "publish_at": "2026-08-02T09:00:00Z",
+        "link": "https://youtu.be/nv7VYegzh-g"
       },
       {
         "title": "Renault Trafic Hood Prop Rod Retention Clip / Bracket",
-        "publish_at": "2026-08-01T11:00:00Z",
-        "link": "https://youtu.be/T5BT96XHIX8"
+        "publish_at": "2026-08-02T11:00:00Z",
+        "link": "https://youtu.be/97fHQDO2wtA"
       },
       {
         "title": "Renault Trafic AC Air Vent Adjuster Tab /Directional Louver Blade",
-        "publish_at": "2026-08-01T13:00:00Z",
-        "link": "https://youtu.be/4gWNrQi2Lgk"
+        "publish_at": "2026-08-02T13:00:00Z",
+        "link": "https://youtu.be/RfsGq0Dv-Qw"
       },
       {
         "title": "Renault Trafic Door Hinge Cover / Cap",
-        "publish_at": "2026-08-01T15:00:00Z",
-        "link": "https://youtu.be/tzGdU0d7CRQ"
+        "publish_at": "2026-08-02T15:00:00Z",
+        "link": "https://youtu.be/MqCfExCA5es"
       },
       {
         "title": "Renault Trafic Interior / Exterior Door Handle",
-        "publish_at": "2026-08-01T17:00:00Z",
-        "link": "https://youtu.be/xG_f6Hbsavg"
+        "publish_at": "2026-08-02T17:00:00Z",
+        "link": "https://youtu.be/GxL4B5pVqZQ"
       },
       {
         "title": "Renault Kangoo Air Intake Bulkhead Flange/Adapter",
-        "publish_at": "2026-08-01T19:00:00Z",
-        "link": "https://youtu.be/rPaWCGDYWjg"
+        "publish_at": "2026-08-02T19:00:00Z",
+        "link": "https://youtu.be/kS6qzKat8lc"
       }
     ],
     "skipped_nsfw": 0,
@@ -83,6 +83,45 @@
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-02",
+      "day_number": 2,
+      "uploaded": [
+        {
+          "title": "Renault Trafic Fender Liner / Mud Guard Fastener Clips",
+          "publish_at": "2026-08-02T09:00:00Z",
+          "link": "https://youtu.be/nv7VYegzh-g"
+        },
+        {
+          "title": "Renault Trafic Hood Prop Rod Retention Clip / Bracket",
+          "publish_at": "2026-08-02T11:00:00Z",
+          "link": "https://youtu.be/97fHQDO2wtA"
+        },
+        {
+          "title": "Renault Trafic AC Air Vent Adjuster Tab /Directional Louver Blade",
+          "publish_at": "2026-08-02T13:00:00Z",
+          "link": "https://youtu.be/RfsGq0Dv-Qw"
+        },
+        {
+          "title": "Renault Trafic Door Hinge Cover / Cap",
+          "publish_at": "2026-08-02T15:00:00Z",
+          "link": "https://youtu.be/MqCfExCA5es"
+        },
+        {
+          "title": "Renault Trafic Interior / Exterior Door Handle",
+          "publish_at": "2026-08-02T17:00:00Z",
+          "link": "https://youtu.be/GxL4B5pVqZQ"
+        },
+        {
+          "title": "Renault Kangoo Air Intake Bulkhead Flange/Adapter",
+          "publish_at": "2026-08-02T19:00:00Z",
+          "link": "https://youtu.be/kS6qzKat8lc"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -91,7 +130,13 @@
     "https://cults3d.com/:4719284",
     "https://cults3d.com/:4719401",
     "https://cults3d.com/:4719758",
-    "https://cults3d.com/:4719778"
+    "https://cults3d.com/:4719778",
+    "https://cults3d.com/:4719812",
+    "https://cults3d.com/:4719828",
+    "https://cults3d.com/:4719835",
+    "https://cults3d.com/:4719856",
+    "https://cults3d.com/:4719876",
+    "https://cults3d.com/:4719887"
   ],
   "migrated_to_url_tracking": true
 }
