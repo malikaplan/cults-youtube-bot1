@@ -118,14 +118,33 @@ BROWSER_HEADERS = {
 # CULTS3D
 # ============================================================
 
-def cults_query(query):
-    r = requests.post(CULTS_ENDPOINT, json={"query": query},
-                       auth=(CULTS_USERNAME, CULTS_API_KEY))
-    r.raise_for_status()
-    data = r.json()
-    if "errors" in data:
-        raise RuntimeError(data["errors"])
-    return data["data"]
+def cults_query(query, max_retries=5):
+    """Cults3D ara sira gecici 403 verebiliyor (bilinen, kisa sureli bir
+    sorun). Bu yuzden basarisiz olursa birkac kez, artan bekleme
+    sureleriyle (10s, 30s, 60s, 120s, 240s) otomatik tekrar dener -
+    boylece elle 'Re-run' yapmaya gerek kalmaz."""
+    import time
+    delays = [10, 30, 60, 120, 240]
+    last_error = None
+    for attempt in range(max_retries):
+        try:
+            r = requests.post(CULTS_ENDPOINT, json={"query": query},
+                               auth=(CULTS_USERNAME, CULTS_API_KEY))
+            r.raise_for_status()
+            data = r.json()
+            if "errors" in data:
+                raise RuntimeError(data["errors"])
+            return data["data"]
+        except (requests.exceptions.HTTPError, requests.exceptions.ConnectionError) as e:
+            last_error = e
+            if attempt < max_retries - 1:
+                wait = delays[min(attempt, len(delays) - 1)]
+                print(f"   [UYARI] Cults3D istegi basarisiz ({e}), {wait} saniye sonra tekrar denenecek "
+                      f"(deneme {attempt + 1}/{max_retries})...")
+                time.sleep(wait)
+            else:
+                print(f"   [HATA] Cults3D {max_retries} denemeden sonra hala cevap vermedi, vazgeciliyor.")
+    raise last_error
 
 
 def get_all_creations():
