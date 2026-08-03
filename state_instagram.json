@@ -18,11 +18,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-interior-door-handle",
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-door-release-handle",
     "https://cults3d.com/en/3d-model/tool/renault-laguna-headlight-washer-nozzle-assembly-parts",
-    "https://cults3d.com/en/3d-model/tool/renault-laguna-door-handle-key-lock-cover-cap-oem-8200028782"
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-door-handle-key-lock-cover-cap-oem-8200028782",
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-cabin-air-filter-lid-cover"
   ],
   "today_date": "2026-08-03",
-  "today_count": 15,
-  "total_posted": 19,
+  "today_count": 16,
+  "total_posted": 20,
   "history": [
     {
       "date": "2026-08-02",
@@ -119,6 +120,12 @@
       "date": "2026-08-03",
       "title": "Renault Laguna Door Handle Key Lock Cover Cap (OEM: 8200028782)",
       "media_id": "17998787858990803",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Renault Laguna Cabin Air Filter Lid / Cover",
+      "media_id": "18152713576484389",
       "fb_media_id": null
     }
   ]
