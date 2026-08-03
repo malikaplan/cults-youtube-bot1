@@ -1,43 +1,43 @@
 {
-  "next_index": 12,
-  "next_publish_date": "2026-08-03T00:00:00",
-  "run_count": 2,
-  "total_uploaded": 12,
+  "next_index": 18,
+  "next_publish_date": "2026-08-04T00:00:00",
+  "run_count": 3,
+  "total_uploaded": 18,
   "total_models": 1270,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-02",
-    "day_number": 2,
+    "date": "2026-08-03",
+    "day_number": 3,
     "uploaded": [
       {
-        "title": "Renault Trafic Fender Liner / Mud Guard Fastener Clips",
-        "publish_at": "2026-08-02T09:00:00Z",
-        "link": "https://youtu.be/nv7VYegzh-g"
+        "title": "Renault Kangoo Tailgate Handle / Hatch Latch Release Lever",
+        "publish_at": "2026-08-03T09:00:00Z",
+        "link": "https://youtu.be/CbbOJuVOVQY"
       },
       {
-        "title": "Renault Trafic Hood Prop Rod Retention Clip / Bracket",
-        "publish_at": "2026-08-02T11:00:00Z",
-        "link": "https://youtu.be/97fHQDO2wtA"
+        "title": "Renault Kangoo Overhead Rearview Mirror Small Storage Pocket / Tray",
+        "publish_at": "2026-08-03T11:00:00Z",
+        "link": "https://youtu.be/kV-gho68w9A"
       },
       {
-        "title": "Renault Trafic AC Air Vent Adjuster Tab /Directional Louver Blade",
-        "publish_at": "2026-08-02T13:00:00Z",
-        "link": "https://youtu.be/RfsGq0Dv-Qw"
+        "title": "Renault Kangoo Steering Wheel Media Control Adapter",
+        "publish_at": "2026-08-03T13:00:00Z",
+        "link": "https://youtu.be/1RKr-SX04IQ"
       },
       {
-        "title": "Renault Trafic Door Hinge Cover / Cap",
-        "publish_at": "2026-08-02T15:00:00Z",
-        "link": "https://youtu.be/MqCfExCA5es"
+        "title": "Renault Kangoo Interior Door Handle",
+        "publish_at": "2026-08-03T15:00:00Z",
+        "link": "https://youtu.be/ia3zwOTQQcI"
       },
       {
-        "title": "Renault Trafic Interior / Exterior Door Handle",
-        "publish_at": "2026-08-02T17:00:00Z",
-        "link": "https://youtu.be/GxL4B5pVqZQ"
+        "title": "Renault Kangoo Door Release Handle",
+        "publish_at": "2026-08-03T17:00:00Z",
+        "link": "https://youtu.be/C-Hzw4Xzcm4"
       },
       {
-        "title": "Renault Kangoo Air Intake Bulkhead Flange/Adapter",
-        "publish_at": "2026-08-02T19:00:00Z",
-        "link": "https://youtu.be/kS6qzKat8lc"
+        "title": "Renault Laguna Headlight Washer Nozzle Assembly Parts",
+        "publish_at": "2026-08-03T19:00:00Z",
+        "link": "https://youtu.be/ONm3SVE8008"
       }
     ],
     "skipped_nsfw": 0,
@@ -122,9 +122,54 @@
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-03",
+      "day_number": 3,
+      "uploaded": [
+        {
+          "title": "Renault Kangoo Tailgate Handle / Hatch Latch Release Lever",
+          "publish_at": "2026-08-03T09:00:00Z",
+          "link": "https://youtu.be/CbbOJuVOVQY"
+        },
+        {
+          "title": "Renault Kangoo Overhead Rearview Mirror Small Storage Pocket / Tray",
+          "publish_at": "2026-08-03T11:00:00Z",
+          "link": "https://youtu.be/kV-gho68w9A"
+        },
+        {
+          "title": "Renault Kangoo Steering Wheel Media Control Adapter",
+          "publish_at": "2026-08-03T13:00:00Z",
+          "link": "https://youtu.be/1RKr-SX04IQ"
+        },
+        {
+          "title": "Renault Kangoo Interior Door Handle",
+          "publish_at": "2026-08-03T15:00:00Z",
+          "link": "https://youtu.be/ia3zwOTQQcI"
+        },
+        {
+          "title": "Renault Kangoo Door Release Handle",
+          "publish_at": "2026-08-03T17:00:00Z",
+          "link": "https://youtu.be/C-Hzw4Xzcm4"
+        },
+        {
+          "title": "Renault Laguna Headlight Washer Nozzle Assembly Parts",
+          "publish_at": "2026-08-03T19:00:00Z",
+          "link": "https://youtu.be/ONm3SVE8008"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4715726",
+    "https://cults3d.com/:4715886",
+    "https://cults3d.com/:4718286",
+    "https://cults3d.com/:4718339",
+    "https://cults3d.com/:4718370",
+    "https://cults3d.com/:4718972",
     "https://cults3d.com/:4719068",
     "https://cults3d.com/:4719263",
     "https://cults3d.com/:4719284",
