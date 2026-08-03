@@ -1,1 +1,76 @@
+name: Otomatik Yukleme Instagram
 
+concurrency:
+  group: instagram-upload
+  cancel-in-progress: false
+
+on:
+  schedule:
+    # Gunde 25 tetikleme, TR saatiyle 08:00-19:30 (UTC 05:00-16:30) arasi
+    # yogunlastirilmis, en cok etkilesim alinan sabah/ogle/aksam saatlerine
+    # gore ayarlanmis. Her calistirma 1 video paylasir (DAILY_POST_LIMIT=25).
+    - cron: "7 5 * * *"
+    - cron: "37 5 * * *"
+    - cron: "7 6 * * *"
+    - cron: "37 6 * * *"
+    - cron: "7 7 * * *"
+    - cron: "37 7 * * *"
+    - cron: "7 8 * * *"
+    - cron: "37 8 * * *"
+    - cron: "7 9 * * *"
+    - cron: "37 9 * * *"
+    - cron: "7 10 * * *"
+    - cron: "37 10 * * *"
+    - cron: "7 11 * * *"
+    - cron: "7 12 * * *"
+    - cron: "7 13 * * *"
+    - cron: "7 14 * * *"
+    - cron: "7 15 * * *"
+    - cron: "7 16 * * *"
+    - cron: "37 16 * * *"
+    - cron: "7 17 * * *"
+    - cron: "37 17 * * *"
+    - cron: "7 18 * * *"
+    - cron: "37 18 * * *"
+    - cron: "7 19 * * *"
+    - cron: "37 19 * * *"
+  workflow_dispatch: {}   # Actions sekmesinden elle "Run workflow" ile de tetiklenebilir
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu indir
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: ffmpeg kur
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Bagimliliklari kur
+        run: pip install -r requirements.txt
+
+      - name: config.py olustur
+        run: echo "${{ secrets.CONFIG_PY_B64 }}" | base64 -d > config.py
+
+      - name: cults_to_instagram.py calistir
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python cults_to_instagram.py
+
+      - name: state_instagram.json degisikliklerini geri gonder
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add state_instagram.json
+          git diff --cached --quiet || git commit -m "state_instagram.json guncellendi [skip ci]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push basarisiz, tekrar deneniyor ($i/5)..."
+            sleep 5
+          done
