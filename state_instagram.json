@@ -4,11 +4,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-trafic-hood-prop-rod-retention-clip-bracket",
     "https://cults3d.com/en/3d-model/tool/renault-trafic-ac-air-vent-adjuster-tab-directional-louver-blade",
     "https://cults3d.com/en/3d-model/tool/renault-trafic-door-hinge-cover-cap",
-    "https://cults3d.com/en/3d-model/tool/renault-trafic-interior-exterior-door-handle"
+    "https://cults3d.com/en/3d-model/tool/renault-trafic-interior-exterior-door-handle",
+    "https://cults3d.com/en/3d-model/tool/renault-kangoo-air-intake-bulkhead-flange-adapter"
   ],
   "today_date": "2026-08-03",
-  "today_count": 1,
-  "total_posted": 5,
+  "today_count": 2,
+  "total_posted": 6,
   "history": [
     {
       "date": "2026-08-02",
@@ -34,6 +35,11 @@
       "date": "2026-08-03",
       "title": "Renault Trafic Interior / Exterior Door Handle",
       "media_id": "18340052122269071"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Renault Kangoo Air Intake Bulkhead Flange/Adapter",
+      "media_id": "18160211842469365"
     }
   ]
 }
