@@ -74,3 +74,5 @@ jobs:
             echo "Push basarisiz, tekrar deneniyor ($i/5)..."
             sleep 5
           done
+
+# test
