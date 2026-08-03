@@ -118,13 +118,13 @@ BROWSER_HEADERS = {
 # CULTS3D
 # ============================================================
 
-def cults_query(query, max_retries=5):
+def cults_query(query, max_retries=8):
     """Cults3D ara sira gecici 403 verebiliyor (bilinen, kisa sureli bir
     sorun). Bu yuzden basarisiz olursa birkac kez, artan bekleme
-    sureleriyle (10s, 30s, 60s, 120s, 240s) otomatik tekrar dener -
-    boylece elle 'Re-run' yapmaya gerek kalmaz."""
+    sureleriyle (10s, 20s, 40s, 60s, 90s, 120s, 180s, 240s) otomatik
+    tekrar dener - boylece elle 'Re-run' yapmaya gerek kalmaz."""
     import time
-    delays = [10, 30, 60, 120, 240]
+    delays = [10, 20, 40, 60, 90, 120, 180, 240]
     last_error = None
     for attempt in range(max_retries):
         try:
