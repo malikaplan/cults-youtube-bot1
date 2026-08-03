@@ -10,11 +10,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-door-latch-lock-catch-component",
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-2-side-mirror-interior-trim-mounting-clip",
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-filler-cap-plug-assembly",
-    "https://cults3d.com/en/3d-model/tool/renault-kangoo-mounting-bracket-support-holder"
+    "https://cults3d.com/en/3d-model/tool/renault-kangoo-mounting-bracket-support-holder",
+    "https://cults3d.com/en/3d-model/tool/renault-kangoo-interior-grab-handle"
   ],
   "today_date": "2026-08-03",
-  "today_count": 7,
-  "total_posted": 11,
+  "today_count": 8,
+  "total_posted": 12,
   "history": [
     {
       "date": "2026-08-02",
@@ -70,6 +71,11 @@
       "date": "2026-08-03",
       "title": "Renault Kangoo Mounting Bracket / Support Holder",
       "media_id": "17927579910144556"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Renault Kangoo Interior Grab Handle",
+      "media_id": "18105817865128403"
     }
   ]
 }
