@@ -15,11 +15,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-tailgate-handle-hatch-latch-release-lever",
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-overhead-rearview-mirror-small-storage-pocket-tray",
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-steering-wheel-media-control-adapter",
-    "https://cults3d.com/en/3d-model/tool/renault-kangoo-interior-door-handle"
+    "https://cults3d.com/en/3d-model/tool/renault-kangoo-interior-door-handle",
+    "https://cults3d.com/en/3d-model/tool/renault-kangoo-door-release-handle"
   ],
   "today_date": "2026-08-03",
-  "today_count": 12,
-  "total_posted": 16,
+  "today_count": 13,
+  "total_posted": 17,
   "history": [
     {
       "date": "2026-08-02",
@@ -100,6 +101,11 @@
       "date": "2026-08-03",
       "title": "Renault Kangoo Interior Door Handle",
       "media_id": "18167828614459919"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Renault Kangoo Door Release Handle",
+      "media_id": "18111993292785607"
     }
   ]
 }
