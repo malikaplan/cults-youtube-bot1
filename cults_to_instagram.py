@@ -39,6 +39,9 @@ IG_ACCESS_TOKEN = os.environ.get("IG_ACCESS_TOKEN", "")
 HOST_REPO = "malikaplan/cults-video-host"  # video barindirma icin gecici genel repo
 GH_PAT = os.environ.get("GH_PAT", "")
 
+FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "")                    # Mali Kaplan sayfasinin ID'si
+FB_PAGE_ACCESS_TOKEN = os.environ.get("FB_PAGE_ACCESS_TOKEN", "")  # Sayfa erisim anahtari
+
 DAILY_POST_LIMIT = 25   # Instagram'in Reels/feed icin API ile yayinlamaya izin verdigi gunluk ust sinir
 MAX_HASHTAGS = 20
 
@@ -157,6 +160,31 @@ def ig_publish_container(container_id):
 
 
 # ============================================================
+# FACEBOOK SAYFASINA PAYLASIM
+# ============================================================
+
+def fb_post_video(video_url, caption):
+    """Ayni videoyu Facebook sayfasina (Mali Kaplan) yukler. Instagram'in
+    otomatik "profiller arasi paylasim" ozelligi API ile yuklenen
+    icerikte calismadigi icin bu adim ayrica gerekiyor."""
+    if not FB_PAGE_ID or not FB_PAGE_ACCESS_TOKEN:
+        print("   [FACEBOOK] FB_PAGE_ID veya FB_PAGE_ACCESS_TOKEN eksik, atlaniyor.")
+        return None
+
+    url = f"https://graph.facebook.com/{IG_API_VERSION}/{FB_PAGE_ID}/videos"
+    resp = requests.post(url, data={
+        "file_url": video_url,
+        "description": caption,
+        "access_token": FB_PAGE_ACCESS_TOKEN,
+    })
+    if not resp.ok:
+        print(f"   [FACEBOOK HATASI] {resp.status_code}: {resp.text}")
+        return None
+    resp.raise_for_status()
+    return resp.json().get("id")
+
+
+# ============================================================
 # ACIKLAMA / HASHTAG URETIMI
 # ============================================================
 
@@ -251,10 +279,19 @@ def main():
         state["processed_urls"].append(creation["url"])
         state["today_count"] += 1
         state["total_posted"] += 1
+
+        print("Facebook sayfasina da yukleniyor...")
+        fb_media_id = fb_post_video(raw_url, build_caption(creation, music_track))
+        if fb_media_id:
+            print(f"FACEBOOK BASARILI -> media_id={fb_media_id}")
+        else:
+            print("[UYARI] Facebook'a yukleme yapilamadi (Instagram tarafi yine de basarili sayilir).")
+
         state["history"].append({
             "date": today_str(),
             "title": creation["name"],
             "media_id": media_id,
+            "fb_media_id": fb_media_id,
         })
     else:
         print("[HATA] Instagram videoyu isleyemedi (timeout ya da ERROR durumu).")
