@@ -16,11 +16,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-overhead-rearview-mirror-small-storage-pocket-tray",
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-steering-wheel-media-control-adapter",
     "https://cults3d.com/en/3d-model/tool/renault-kangoo-interior-door-handle",
-    "https://cults3d.com/en/3d-model/tool/renault-kangoo-door-release-handle"
+    "https://cults3d.com/en/3d-model/tool/renault-kangoo-door-release-handle",
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-headlight-washer-nozzle-assembly-parts"
   ],
   "today_date": "2026-08-03",
-  "today_count": 13,
-  "total_posted": 17,
+  "today_count": 14,
+  "total_posted": 18,
   "history": [
     {
       "date": "2026-08-02",
@@ -106,6 +107,12 @@
       "date": "2026-08-03",
       "title": "Renault Kangoo Door Release Handle",
       "media_id": "18111993292785607"
+    },
+    {
+      "date": "2026-08-03",
+      "title": "Renault Laguna Headlight Washer Nozzle Assembly Parts",
+      "media_id": "17892079143395054",
+      "fb_media_id": null
     }
   ]
 }
