@@ -25,11 +25,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-laguna-wheel-center-cap-hubcap",
     "https://cults3d.com/en/3d-model/tool/renault-laguna-interior-trim-clip",
     "https://cults3d.com/en/3d-model/tool/renault-laguna-window-regulator-clip-slider",
-    "https://cults3d.com/en/3d-model/tool/renault-laguna-gear-shift-knob-lever-cover"
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-gear-shift-knob-lever-cover",
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-driver-side-interior-door-handle-pull-grab"
   ],
   "today_date": "2026-08-04",
-  "today_count": 6,
-  "total_posted": 26,
+  "today_count": 7,
+  "total_posted": 27,
   "history": [
     {
       "date": "2026-08-02",
@@ -168,6 +169,12 @@
       "date": "2026-08-04",
       "title": "Renault Laguna Gear Shift Knob / Lever Cover",
       "media_id": "18135048313567129",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Renault Laguna Driver Side Interior Door Handle / Pull Grab",
+      "media_id": "18107807375125135",
       "fb_media_id": null
     }
   ]
