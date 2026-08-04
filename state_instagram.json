@@ -20,11 +20,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-laguna-headlight-washer-nozzle-assembly-parts",
     "https://cults3d.com/en/3d-model/tool/renault-laguna-door-handle-key-lock-cover-cap-oem-8200028782",
     "https://cults3d.com/en/3d-model/tool/renault-laguna-cabin-air-filter-lid-cover",
-    "https://cults3d.com/en/3d-model/tool/renault-laguna-interior-trim-clamp-fastener-bracket"
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-interior-trim-clamp-fastener-bracket",
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-hood-release-handle-cable-pull-lever"
   ],
   "today_date": "2026-08-04",
-  "today_count": 1,
-  "total_posted": 21,
+  "today_count": 2,
+  "total_posted": 22,
   "history": [
     {
       "date": "2026-08-02",
@@ -133,6 +134,12 @@
       "date": "2026-08-04",
       "title": "Renault Laguna Interior Trim Clamp / Fastener Bracket",
       "media_id": "18171899383411534",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Renault Laguna Hood Release Handle / Cable Pull Lever",
+      "media_id": "18262345096306173",
       "fb_media_id": null
     }
   ]
