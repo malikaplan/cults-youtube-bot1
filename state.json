@@ -1,16 +1,48 @@
 {
-  "next_index": 54,
-  "next_publish_date": "2026-08-05T00:00:00",
-  "run_count": 4,
-  "total_uploaded": 18,
+  "next_index": 60,
+  "next_publish_date": "2026-08-06T00:00:00",
+  "run_count": 5,
+  "total_uploaded": 24,
   "total_models": 1270,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-08-04",
-    "day_number": 4,
-    "uploaded": [],
-    "skipped_nsfw": 14,
-    "skipped_no_video": 22,
+    "day_number": 5,
+    "uploaded": [
+      {
+        "title": "Renault Twingo Rear View -Side Mirror Cover and Mount",
+        "publish_at": "2026-08-05T09:00:00Z",
+        "link": "https://youtu.be/UI02hMh3Fm8"
+      },
+      {
+        "title": "Renault Twingo Heater Control Knob -Bouton Chauffage",
+        "publish_at": "2026-08-05T11:00:00Z",
+        "link": "https://youtu.be/jUkk-a1gJy0"
+      },
+      {
+        "title": "Renault Twingo Speaker Mount - Bracket -Halterung",
+        "publish_at": "2026-08-05T13:00:00Z",
+        "link": "https://youtu.be/IrEcHDkub-E"
+      },
+      {
+        "title": "Renault Twingo Fastener Clip",
+        "publish_at": "2026-08-05T15:00:00Z",
+        "link": "https://youtu.be/pnyCZYSi8bo"
+      },
+      {
+        "title": "Renault Twingo Fog Light Trim - Cover",
+        "publish_at": "2026-08-05T17:00:00Z",
+        "link": "https://youtu.be/a3w6uyB4MHA"
+      },
+      {
+        "title": "Renault Twingo Interior Trim and Panel Clip",
+        "publish_at": "2026-08-05T19:00:00Z",
+        "link": "https://youtu.be/m6vyb874ldI"
+      }
+    ],
+    "skipped_nsfw": 0,
+    "skipped_no_video": 0,
+    "skipped_blocked": 0,
     "errors": []
   },
   "history": [
@@ -138,9 +170,55 @@
       "skipped_nsfw": 14,
       "skipped_no_video": 22,
       "errors": []
+    },
+    {
+      "date": "2026-08-04",
+      "day_number": 5,
+      "uploaded": [
+        {
+          "title": "Renault Twingo Rear View -Side Mirror Cover and Mount",
+          "publish_at": "2026-08-05T09:00:00Z",
+          "link": "https://youtu.be/UI02hMh3Fm8"
+        },
+        {
+          "title": "Renault Twingo Heater Control Knob -Bouton Chauffage",
+          "publish_at": "2026-08-05T11:00:00Z",
+          "link": "https://youtu.be/jUkk-a1gJy0"
+        },
+        {
+          "title": "Renault Twingo Speaker Mount - Bracket -Halterung",
+          "publish_at": "2026-08-05T13:00:00Z",
+          "link": "https://youtu.be/IrEcHDkub-E"
+        },
+        {
+          "title": "Renault Twingo Fastener Clip",
+          "publish_at": "2026-08-05T15:00:00Z",
+          "link": "https://youtu.be/pnyCZYSi8bo"
+        },
+        {
+          "title": "Renault Twingo Fog Light Trim - Cover",
+          "publish_at": "2026-08-05T17:00:00Z",
+          "link": "https://youtu.be/a3w6uyB4MHA"
+        },
+        {
+          "title": "Renault Twingo Interior Trim and Panel Clip",
+          "publish_at": "2026-08-05T19:00:00Z",
+          "link": "https://youtu.be/m6vyb874ldI"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4668175",
+    "https://cults3d.com/:4668182",
+    "https://cults3d.com/:4668196",
+    "https://cults3d.com/:4668207",
+    "https://cults3d.com/:4668212",
+    "https://cults3d.com/:4668217",
     "https://cults3d.com/:4668235",
     "https://cults3d.com/:4668248",
     "https://cults3d.com/:4668260",
