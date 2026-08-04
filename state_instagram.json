@@ -23,11 +23,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-laguna-interior-trim-clamp-fastener-bracket",
     "https://cults3d.com/en/3d-model/tool/renault-laguna-hood-release-handle-cable-pull-lever",
     "https://cults3d.com/en/3d-model/tool/renault-laguna-wheel-center-cap-hubcap",
-    "https://cults3d.com/en/3d-model/tool/renault-laguna-interior-trim-clip"
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-interior-trim-clip",
+    "https://cults3d.com/en/3d-model/tool/renault-laguna-window-regulator-clip-slider"
   ],
   "today_date": "2026-08-04",
-  "today_count": 4,
-  "total_posted": 24,
+  "today_count": 5,
+  "total_posted": 25,
   "history": [
     {
       "date": "2026-08-02",
@@ -154,6 +155,12 @@
       "date": "2026-08-04",
       "title": "Renault Laguna Interior Trim Clip",
       "media_id": "18084182885660603",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-04",
+      "title": "Renault Laguna Window Regulator Clip / Slider",
+      "media_id": "18009858950950548",
       "fb_media_id": null
     }
   ]
