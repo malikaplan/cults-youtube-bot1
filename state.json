@@ -1,43 +1,43 @@
 {
-  "next_index": 60,
-  "next_publish_date": "2026-08-06T00:00:00",
-  "run_count": 5,
-  "total_uploaded": 24,
+  "next_index": 66,
+  "next_publish_date": "2026-08-07T00:00:00",
+  "run_count": 6,
+  "total_uploaded": 30,
   "total_models": 1270,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-04",
-    "day_number": 5,
+    "date": "2026-08-05",
+    "day_number": 6,
     "uploaded": [
       {
-        "title": "Renault Twingo Rear View -Side Mirror Cover and Mount",
-        "publish_at": "2026-08-05T09:00:00Z",
-        "link": "https://youtu.be/UI02hMh3Fm8"
+        "title": "Renault Twingo Ventilation Grill",
+        "publish_at": "2026-08-06T09:00:00Z",
+        "link": "https://youtu.be/LO-t7GDz-08"
       },
       {
-        "title": "Renault Twingo Heater Control Knob -Bouton Chauffage",
-        "publish_at": "2026-08-05T11:00:00Z",
-        "link": "https://youtu.be/jUkk-a1gJy0"
+        "title": "Renault Twingo Seat adjustment lever",
+        "publish_at": "2026-08-06T11:00:00Z",
+        "link": "https://youtu.be/Ng4pIgg9pGw"
       },
       {
-        "title": "Renault Twingo Speaker Mount - Bracket -Halterung",
-        "publish_at": "2026-08-05T13:00:00Z",
-        "link": "https://youtu.be/IrEcHDkub-E"
+        "title": "Renault Twingo Cup Holder",
+        "publish_at": "2026-08-06T13:00:00Z",
+        "link": "https://youtu.be/IaaMgHvzU_8"
       },
       {
-        "title": "Renault Twingo Fastener Clip",
-        "publish_at": "2026-08-05T15:00:00Z",
-        "link": "https://youtu.be/pnyCZYSi8bo"
+        "title": "Renault Twingo Tailgate Trunk Button",
+        "publish_at": "2026-08-06T15:00:00Z",
+        "link": "https://youtu.be/wDUufarhM34"
       },
       {
-        "title": "Renault Twingo Fog Light Trim - Cover",
-        "publish_at": "2026-08-05T17:00:00Z",
-        "link": "https://youtu.be/a3w6uyB4MHA"
+        "title": "Renault Twingo Cup and Phone Holder",
+        "publish_at": "2026-08-06T17:00:00Z",
+        "link": "https://youtu.be/BM3fE-glj8E"
       },
       {
-        "title": "Renault Twingo Interior Trim and Panel Clip",
-        "publish_at": "2026-08-05T19:00:00Z",
-        "link": "https://youtu.be/m6vyb874ldI"
+        "title": "Renault Twingo Seat Adjustment Handle Redesign",
+        "publish_at": "2026-08-06T19:00:00Z",
+        "link": "https://youtu.be/qS81Ahr1Cds"
       }
     ],
     "skipped_nsfw": 0,
@@ -210,9 +210,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-05",
+      "day_number": 6,
+      "uploaded": [
+        {
+          "title": "Renault Twingo Ventilation Grill",
+          "publish_at": "2026-08-06T09:00:00Z",
+          "link": "https://youtu.be/LO-t7GDz-08"
+        },
+        {
+          "title": "Renault Twingo Seat adjustment lever",
+          "publish_at": "2026-08-06T11:00:00Z",
+          "link": "https://youtu.be/Ng4pIgg9pGw"
+        },
+        {
+          "title": "Renault Twingo Cup Holder",
+          "publish_at": "2026-08-06T13:00:00Z",
+          "link": "https://youtu.be/IaaMgHvzU_8"
+        },
+        {
+          "title": "Renault Twingo Tailgate Trunk Button",
+          "publish_at": "2026-08-06T15:00:00Z",
+          "link": "https://youtu.be/wDUufarhM34"
+        },
+        {
+          "title": "Renault Twingo Cup and Phone Holder",
+          "publish_at": "2026-08-06T17:00:00Z",
+          "link": "https://youtu.be/BM3fE-glj8E"
+        },
+        {
+          "title": "Renault Twingo Seat Adjustment Handle Redesign",
+          "publish_at": "2026-08-06T19:00:00Z",
+          "link": "https://youtu.be/qS81Ahr1Cds"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4668116",
+    "https://cults3d.com/:4668124",
+    "https://cults3d.com/:4668134",
+    "https://cults3d.com/:4668146",
+    "https://cults3d.com/:4668157",
+    "https://cults3d.com/:4668167",
     "https://cults3d.com/:4668175",
     "https://cults3d.com/:4668182",
     "https://cults3d.com/:4668196",
