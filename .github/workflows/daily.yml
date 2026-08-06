@@ -29,9 +29,9 @@ jobs:
           CLIENT_SECRET_B64: ${{ secrets.CLIENT_SECRET_B64 }}
           TOKEN_PICKLE_B64: ${{ secrets.TOKEN_PICKLE_B64 }}
         run: |
-          echo "$CONFIG_PY_B64" | base64 -d > config.py
-          echo "$CLIENT_SECRET_B64" | base64 -d > client_secret.json
-          echo "$TOKEN_PICKLE_B64" | base64 -d > token.pickle
+          echo "$CONFIG_PY_B64" | base64 -d --ignore-garbage > config.py
+          echo "$CLIENT_SECRET_B64" | base64 -d --ignore-garbage > client_secret.json
+          echo "$TOKEN_PICKLE_B64" | base64 -d --ignore-garbage > token.pickle
       - name: Videolari isle ve YouTubea yukle
         run: python cults_to_youtube.py
       - name: Ilerlemeyi geri kaydet
