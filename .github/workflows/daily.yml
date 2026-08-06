@@ -39,7 +39,7 @@ jobs:
           $CLIENT_SECRET_JSON
           EOF
       - name: Videolari isle ve YouTubea yukle
-        run: python cults_to_youtube.py
+        run: python -u cults_to_youtube.py
       - name: Ilerlemeyi geri kaydet
         run: |
           git config user.name "cults-youtube-bot"
