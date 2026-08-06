@@ -238,7 +238,7 @@ def main():
             continue
         if bot.is_nsfw(c):
             continue
-        vurl = bot.get_video_url(c)
+        vurl = bot.get_video_url(c, debug=True)
         if not vurl or vurl == "RETRY_LATER":
             # RETRY_LATER: Cults3D o an sayfayi vermedi (gecici blok) -
             # bu model "islenmis" SAYILMIYOR, bir sonraki calistirmada
