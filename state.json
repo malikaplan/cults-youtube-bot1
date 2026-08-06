@@ -1,48 +1,17 @@
 {
   "next_index": 66,
-  "next_publish_date": "2026-08-07T00:00:00",
-  "run_count": 6,
+  "next_publish_date": "2026-08-08T00:00:00",
+  "run_count": 7,
   "total_uploaded": 30,
-  "total_models": 1270,
+  "total_models": 1269,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-05",
-    "day_number": 6,
-    "uploaded": [
-      {
-        "title": "Renault Twingo Ventilation Grill",
-        "publish_at": "2026-08-06T09:00:00Z",
-        "link": "https://youtu.be/LO-t7GDz-08"
-      },
-      {
-        "title": "Renault Twingo Seat adjustment lever",
-        "publish_at": "2026-08-06T11:00:00Z",
-        "link": "https://youtu.be/Ng4pIgg9pGw"
-      },
-      {
-        "title": "Renault Twingo Cup Holder",
-        "publish_at": "2026-08-06T13:00:00Z",
-        "link": "https://youtu.be/IaaMgHvzU_8"
-      },
-      {
-        "title": "Renault Twingo Tailgate Trunk Button",
-        "publish_at": "2026-08-06T15:00:00Z",
-        "link": "https://youtu.be/wDUufarhM34"
-      },
-      {
-        "title": "Renault Twingo Cup and Phone Holder",
-        "publish_at": "2026-08-06T17:00:00Z",
-        "link": "https://youtu.be/BM3fE-glj8E"
-      },
-      {
-        "title": "Renault Twingo Seat Adjustment Handle Redesign",
-        "publish_at": "2026-08-06T19:00:00Z",
-        "link": "https://youtu.be/qS81Ahr1Cds"
-      }
-    ],
+    "date": "2026-08-06",
+    "day_number": 7,
+    "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
-    "skipped_blocked": 0,
+    "skipped_blocked": 36,
     "errors": []
   },
   "history": [
@@ -249,6 +218,15 @@
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
       "skipped_blocked": 0,
+      "errors": []
+    },
+    {
+      "date": "2026-08-06",
+      "day_number": 7,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 36,
       "errors": []
     }
   ],
