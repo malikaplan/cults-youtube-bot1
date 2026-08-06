@@ -149,7 +149,7 @@ def cults_query(query, max_retries=8):
 
 
 CREATIONS_CACHE_FILE = "creations_cache.json"
-CREATIONS_CACHE_MAX_AGE_HOURS = 20  # bu sureden taze onbellek varsa API'ye hic gidilmez
+CREATIONS_CACHE_MAX_AGE_HOURS = 168  # bu sureden taze onbellek varsa API'ye hic gidilmez
 
 
 def get_all_creations(force_refresh=False):
