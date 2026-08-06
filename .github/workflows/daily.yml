@@ -25,16 +25,18 @@ jobs:
         run: pip install -r requirements.txt
       - name: Gizli dosyalari geri yukle
         env:
-          CLIENT_SECRET_B64: ${{ secrets.CLIENT_SECRET_B64 }}
           TOKEN_PICKLE_B64: ${{ secrets.TOKEN_PICKLE_B64 }}
           CULTS_USERNAME: ${{ secrets.CULTS_USERNAME }}
           CULTS_API_KEY: ${{ secrets.CULTS_API_KEY }}
+          CLIENT_SECRET_JSON: ${{ secrets.CLIENT_SECRET_JSON }}
         run: |
-          echo "$CLIENT_SECRET_B64" | base64 -d --ignore-garbage > client_secret.json
           echo "$TOKEN_PICKLE_B64" | base64 -d --ignore-garbage > token.pickle
           cat > config.py << EOF
           CULTS_USERNAME = "$CULTS_USERNAME"
           CULTS_API_KEY = "$CULTS_API_KEY"
+          EOF
+          cat > client_secret.json << EOF
+          $CLIENT_SECRET_JSON
           EOF
       - name: Videolari isle ve YouTubea yukle
         run: python cults_to_youtube.py
