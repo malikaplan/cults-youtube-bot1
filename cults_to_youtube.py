@@ -109,9 +109,22 @@ _NO_WINDOW = subprocess.CREATE_NO_WINDOW if os.name == "nt" else 0
 BROWSER_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                   "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
     "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://cults3d.com/",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+    "Connection": "keep-alive",
 }
+
+# Model sayfalarina art arda cok hizli istek atmak Cults3D'nin bot
+# korumasini (Cloudflare) tetikliyor ve IP'yi gecici olarak engelliyor.
+# Ayni oturumu (cookie + TCP baglantisi) koruyarak ve her istekten once
+# kisa, rastgele bir bekleme koyarak gercek bir tarayici gibi davraniyoruz.
+_PAGE_SESSION = requests.Session()
+_PAGE_SESSION.headers.update(BROWSER_HEADERS)
 
 
 # ============================================================
@@ -266,7 +279,10 @@ def get_video_url(creation, debug=False):
     delays = [5, 15, 30]
     for attempt in range(len(delays) + 1):
         try:
-            r = requests.get(page_url, headers=BROWSER_HEADERS, timeout=20)
+            # Cok hizli art arda istek atmamak icin kucuk, rastgele bir
+            # bekleme (bot korumasini tetiklememek icin).
+            time.sleep(random.uniform(1.5, 3.5))
+            r = _PAGE_SESSION.get(page_url, timeout=20)
             html = r.text
             if r.status_code == 403:
                 if debug:
@@ -894,7 +910,7 @@ def is_nsfw(creation):
 
 
 def download_temp(url, dest):
-    r = requests.get(url, headers=BROWSER_HEADERS, stream=True)
+    r = _PAGE_SESSION.get(url, stream=True)
     r.raise_for_status()
     with open(dest, "wb") as f:
         for chunk in r.iter_content(1 << 20):
