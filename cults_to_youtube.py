@@ -123,7 +123,15 @@ BROWSER_HEADERS = {
 # korumasini (Cloudflare) tetikliyor ve IP'yi gecici olarak engelliyor.
 # Ayni oturumu (cookie + TCP baglantisi) koruyarak ve her istekten once
 # kisa, rastgele bir bekleme koyarak gercek bir tarayici gibi davraniyoruz.
-_PAGE_SESSION = requests.Session()
+try:
+    import cloudscraper
+    _PAGE_SESSION = cloudscraper.create_scraper(
+        browser={"browser": "chrome", "platform": "windows", "mobile": False}
+    )
+except ImportError:
+    print("   [UYARI] 'cloudscraper' kurulu degil, normal requests kullanilacak. "
+          "Kurmak icin: pip install cloudscraper")
+    _PAGE_SESSION = requests.Session()
 _PAGE_SESSION.headers.update(BROWSER_HEADERS)
 
 
