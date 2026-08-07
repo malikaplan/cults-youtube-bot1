@@ -343,9 +343,7 @@ def get_video_url(creation, debug=False):
     except Exception as e:
         if debug:
             print(f"   [DEBUG] hata: {e}")
-                continue
-            return None
-    return None
+        return None
 
 
 def build_music_credit(music_track):
