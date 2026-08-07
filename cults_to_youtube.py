@@ -264,18 +264,49 @@ def get_all_creations(force_refresh=False):
         return creations
 
 
+# ------------------------------------------------------------------
+# GUNLUK ISTEK KOTASI (Cults3D'nin belgelenen limiti: ~60 istek/30sn,
+# ~500 istek/gun). Bu limiti asmak account'u gecici olarak
+# bloke ediyor (403). Bu sayac hem YouTube hem Instagram scriptleri
+# arasinda PAYLASILIR (ayni dosyaya yazar) - ikisi toplam gunluk
+# kotayi asmasin diye.
+# ------------------------------------------------------------------
+_BUDGET_FILE = "request_budget.json"
+_DAILY_REQUEST_CAP = 350  # 500'un altinda, guvenlik payi birakilmis
+
+def _check_and_use_budget():
+    """Gunluk paylasimli istek kotasindan 1 hak dusurur. Kota bittiyse
+    False doner (o gun icin sayfa cekmeyi durdurmak gerekir)."""
+    import time
+    today = datetime.date.today().isoformat()
+    data = {"date": today, "count": 0}
+    if os.path.exists(_BUDGET_FILE):
+        try:
+            with open(_BUDGET_FILE, "r", encoding="utf-8") as f:
+                saved = json.load(f)
+            if saved.get("date") == today:
+                data = saved
+        except Exception:
+            pass
+    if data["count"] >= _DAILY_REQUEST_CAP:
+        return False
+    data["count"] += 1
+    with open(_BUDGET_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f)
+    return True
+
+
 def get_video_url(creation, debug=False):
     """
     Modelin herkese açık sayfasını indirip, video dosyasının orijinal
     linkini (fbi.cults3d.com/.../....mp4) bulur. Bulamazsa herhangi bir
     .mp4/.webm/.mov linkine geri döner. debug=True ise nedenini yazdırır.
 
-    Cults3D bu sayfa isteklerinde de ara sira gecici 403 verebiliyor
-    (GraphQL'deki ile ayni koruma sistemi). Eskiden tek denemede 403
-    gelince model YANLISLIKLA "videosuz" damgalanip bir daha hic
-    denenmiyordu - artik kisa bir retry (5s, 15s, 30s) yapiliyor, sadece
-    GERCEKTEN 200 donup icinde video bulunamayan sayfalar "videosuz"
-    sayiliyor.
+    Cults3D'nin GUNLUK ISTEK KOTASI var (~500/gun). Once bu script
+    tekrar tekrar (4 kez) deniyordu - bu kotayi hizla tuketip sorunu
+    BUYUTUYORDU. Artik: 403 gelince TEK seferde vazgecilip bir sonraki
+    modele gecilir (kota bosa harcanmaz), ve paylasimli gunluk sayac
+    dolduysa sayfa cekme hic denenmez.
     """
     import time
     page_url = creation.get("url")
@@ -284,40 +315,34 @@ def get_video_url(creation, debug=False):
             print("   [DEBUG] creation'da 'url' alanı yok")
         return None
 
-    delays = [5, 15, 30]
-    for attempt in range(len(delays) + 1):
-        try:
-            # Cok hizli art arda istek atmamak icin kucuk, rastgele bir
-            # bekleme (bot korumasini tetiklememek icin).
-            time.sleep(random.uniform(1.5, 3.5))
-            r = _PAGE_SESSION.get(page_url, timeout=20)
-            html = r.text
-            if r.status_code == 403:
-                if debug:
-                    print(f"   [DEBUG] status=403 (gecici blok olabilir), "
-                          f"deneme {attempt + 1}/{len(delays) + 1}")
-                if attempt < len(delays):
-                    time.sleep(delays[attempt])
-                    continue
-                else:
-                    if debug:
-                        print("   [DEBUG] 403 tekrar denemelerden sonra da surdu - "
-                              "bu model 'videosuz' SAYILMAYACAK, bir sonraki "
-                              "calistirmada tekrar denenecek.")
-                    return "RETRY_LATER"
+    if not _check_and_use_budget():
+        if debug:
+            print("   [DEBUG] gunluk istek kotasi doldu - bu calistirmada "
+                  "sayfa cekmeye devam edilmiyor, yarin tekrar denenecek.")
+        return "RETRY_LATER"
+
+    try:
+        # Cok hizli art arda istek atmamak icin bekleme (bot korumasini
+        # tetiklememek ve kotayi yavas tuketmek icin).
+        time.sleep(random.uniform(3.0, 6.0))
+        r = _PAGE_SESSION.get(page_url, timeout=20)
+        html = r.text
+        if r.status_code == 403:
             if debug:
-                print(f"   [DEBUG] status={r.status_code} html_uzunluk={len(html)} "
-                      f"'mp4' geciyor mu={'mp4' in html} 'fbi.cults3d.com' geciyor mu={'fbi.cults3d.com' in html}")
-            match = re.search(r'https?://fbi\.cults3d\.com/[^\s"\'<>]+\.mp4', html, re.IGNORECASE)
-            if match:
-                return match.group(0)
-            match = re.search(r'https?://[^\s"\'<>]+\.(?:mp4|webm|mov)', html, re.IGNORECASE)
-            return match.group(0) if match else None
-        except Exception as e:
-            if debug:
-                print(f"   [DEBUG] hata: {e}")
-            if attempt < len(delays):
-                time.sleep(delays[attempt])
+                print("   [DEBUG] status=403 - bu model 'videosuz' "
+                      "SAYILMAYACAK, bir sonraki calistirmada tekrar denenecek.")
+            return "RETRY_LATER"
+        if debug:
+            print(f"   [DEBUG] status={r.status_code} html_uzunluk={len(html)} "
+                  f"'mp4' geciyor mu={'mp4' in html} 'fbi.cults3d.com' geciyor mu={'fbi.cults3d.com' in html}")
+        match = re.search(r'https?://fbi\.cults3d\.com/[^\s"\'<>]+\.mp4', html, re.IGNORECASE)
+        if match:
+            return match.group(0)
+        match = re.search(r'https?://[^\s"\'<>]+\.(?:mp4|webm|mov)', html, re.IGNORECASE)
+        return match.group(0) if match else None
+    except Exception as e:
+        if debug:
+            print(f"   [DEBUG] hata: {e}")
                 continue
             return None
     return None
