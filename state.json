@@ -1,13 +1,13 @@
 {
   "next_index": 66,
-  "next_publish_date": "2026-08-08T00:00:00",
-  "run_count": 7,
+  "next_publish_date": "2026-08-09T00:00:00",
+  "run_count": 8,
   "total_uploaded": 30,
   "total_models": 1269,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-06",
-    "day_number": 7,
+    "date": "2026-08-07",
+    "day_number": 8,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -223,6 +223,15 @@
     {
       "date": "2026-08-06",
       "day_number": 7,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 36,
+      "errors": []
+    },
+    {
+      "date": "2026-08-07",
+      "day_number": 8,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
