@@ -119,20 +119,26 @@ BROWSER_HEADERS = {
     "Connection": "keep-alive",
 }
 
-# Model sayfalarina art arda cok hizli istek atmak Cults3D'nin bot
-# korumasini (Cloudflare) tetikliyor ve IP'yi gecici olarak engelliyor.
-# Ayni oturumu (cookie + TCP baglantisi) koruyarak ve her istekten once
-# kisa, rastgele bir bekleme koyarak gercek bir tarayici gibi davraniyoruz.
-try:
-    import cloudscraper
-    _PAGE_SESSION = cloudscraper.create_scraper(
-        browser={"browser": "chrome", "platform": "windows", "mobile": False}
-    )
-except ImportError:
-    print("   [UYARI] 'cloudscraper' kurulu degil, normal requests kullanilacak. "
-          "Kurmak icin: pip install cloudscraper")
-    _PAGE_SESSION = requests.Session()
-_PAGE_SESSION.headers.update(BROWSER_HEADERS)
+def _fetch_page_via_seleniumbase(url):
+    """Model sayfasini SeleniumBase'in UC Mode'u (undetected-chromedriver)
+    ile acar - Cloudflare Turnstile dogrulamasini asmak icin ozellesmis
+    bir teknik. Ayri bir program/uygulama GEREKMEZ, sadece
+    'pip install seleniumbase' yeterli, kendi Chrome'unu kullanir.
+    Basarisiz olursa None doner."""
+    try:
+        from seleniumbase import SB
+        with SB(uc=True, headless=False, incognito=True) as sb:
+            sb.uc_open_with_reconnect(url, reconnect_time=4)
+            try:
+                sb.uc_gui_click_captcha()
+            except Exception:
+                pass
+            sb.sleep(2)
+            html = sb.get_page_source()
+            return 200, html
+    except Exception as e:
+        print(f"   [HATA] SeleniumBase istegi basarisiz: {e}")
+        return None, None
 
 
 # ============================================================
@@ -322,18 +328,20 @@ def get_video_url(creation, debug=False):
         return "RETRY_LATER"
 
     try:
-        # Cok hizli art arda istek atmamak icin bekleme (bot korumasini
-        # tetiklememek ve kotayi yavas tuketmek icin).
-        time.sleep(random.uniform(3.0, 6.0))
-        r = _PAGE_SESSION.get(page_url, timeout=20)
-        html = r.text
-        if r.status_code == 403:
+        # Cok hizli art arda istek atmamak icin bekleme.
+        time.sleep(random.uniform(1.0, 2.0))
+        status, html = _fetch_page_via_seleniumbase(page_url)
+        if html is None:
+            # FlareSolverr'a hic ulasilamadi (kapali/kurulu degil) -
+            # bu modeli "videosuz" saymadan bir sonraki calistirmaya birak.
+            return "RETRY_LATER"
+        if status == 403:
             if debug:
-                print("   [DEBUG] status=403 - bu model 'videosuz' "
-                      "SAYILMAYACAK, bir sonraki calistirmada tekrar denenecek.")
+                print("   [DEBUG] status=403 (FlareSolverr da asamadi) - bu model "
+                      "'videosuz' SAYILMAYACAK, bir sonraki calistirmada tekrar denenecek.")
             return "RETRY_LATER"
         if debug:
-            print(f"   [DEBUG] status={r.status_code} html_uzunluk={len(html)} "
+            print(f"   [DEBUG] status={status} html_uzunluk={len(html)} "
                   f"'mp4' geciyor mu={'mp4' in html} 'fbi.cults3d.com' geciyor mu={'fbi.cults3d.com' in html}")
         match = re.search(r'https?://fbi\.cults3d\.com/[^\s"\'<>]+\.mp4', html, re.IGNORECASE)
         if match:
@@ -396,6 +404,10 @@ def load_state():
     # (ki bu mevcut sıralamayı kaydırabilir) hiçbir model atlanmaz ya da
     # yanlışlıkla tekrar yüklenmez.
     state.setdefault("processed_urls", [])
+    # Video yayına girdiğinde (private+publishAt planlaması nedeniyle YouTube
+    # henüz yayınlanmamış videoya yorum eklemeyi reddedebiliyor) atılamayan
+    # model-linki yorumları burada bekletilir, her çalıştırmada tekrar denenir.
+    state.setdefault("pending_comments", [])
     return state
 
 
@@ -518,6 +530,65 @@ def build_dashboard(state, total_models):
 # ============================================================
 # YOUTUBE
 # ============================================================
+
+def add_youtube_comment(youtube, video_id, text):
+    """Videoya, izleyicilerin tıklayıp Cults3D modeline gidebilmesi için
+    link yorum olarak eklenir. Video henüz yayınlanmamışsa (private+
+    publishAt ile planlı) YouTube bu isteği reddedebilir - bu durumda
+    False döner, çağıran taraf yorumu 'pending_comments' kuyruğuna alıp
+    video gerçekten yayına girdiğinde tekrar dener."""
+    try:
+        youtube.commentThreads().insert(
+            part="snippet",
+            body={"snippet": {"videoId": video_id,
+                               "topLevelComment": {"snippet": {"textOriginal": text}}}}
+        ).execute()
+        return True
+    except Exception as e:
+        print(f"   [YORUM] Şimdilik eklenemedi (video henüz yayında olmayabilir), sonra tekrar denenecek: {e}")
+        return False
+
+
+def retry_pending_comments(youtube, state):
+    """Önceki çalıştırmalarda videonun henüz yayında olmaması yüzünden
+    atılamamış yorumları tekrar dener; başarılı olanları kuyruktan çıkarır."""
+    if not state.get("pending_comments"):
+        return
+    still_pending = []
+    for item in state["pending_comments"]:
+        ok = add_youtube_comment(youtube, item["video_id"], item["text"])
+        if ok:
+            print(f"   [YORUM] Bekleyen yorum artık eklendi -> {item['text']}")
+        else:
+            still_pending.append(item)
+    state["pending_comments"] = still_pending
+
+
+def get_priority_order(creations, seen_urls_file):
+    """Modelleri normalde eskiden beri bilinen sırayla (backlog) döndürür,
+    ANCAK Cults3D hesabına bu çalıştırmadan önce YENİ eklenmiş modeller
+    varsa onları listenin en başına koyar - böylece yeni yüklenen bir
+    model, eski sıradaki modeller bitmeden hemen işlenir."""
+    current_urls = [(c.get("shortUrl") or c["url"]) for c in creations]
+    if Path(seen_urls_file).exists():
+        try:
+            seen = set(json.loads(Path(seen_urls_file).read_text(encoding="utf-8")))
+        except Exception:
+            seen = set(current_urls)
+    else:
+        seen = set(current_urls)  # ilk çalıştırma: mevcut tüm liste "bilinen" sayılır
+
+    new_ones = [c for c in creations if (c.get("shortUrl") or c["url"]) not in seen]
+    rest = [c for c in creations if (c.get("shortUrl") or c["url"]) in seen]
+
+    Path(seen_urls_file).write_text(json.dumps(current_urls, ensure_ascii=False), encoding="utf-8")
+
+    if new_ones:
+        names = ", ".join(c["name"] for c in new_ones[:5])
+        print(f"   [YENİ MODEL] {len(new_ones)} yeni model tespit edildi, öncelik verilecek: {names}"
+              + ("..." if len(new_ones) > 5 else ""))
+    return new_ones + rest
+
 
 def get_youtube_service():
     creds = None
@@ -941,7 +1012,7 @@ def is_nsfw(creation):
 
 
 def download_temp(url, dest):
-    r = _PAGE_SESSION.get(url, stream=True)
+    r = requests.get(url, stream=True, headers=BROWSER_HEADERS, timeout=60)
     r.raise_for_status()
     with open(dest, "wb") as f:
         for chunk in r.iter_content(1 << 20):
@@ -1013,6 +1084,16 @@ def main():
 
     if state["next_publish_date"]:
         next_day = datetime.datetime.fromisoformat(state["next_publish_date"])
+        # Art arda birden fazla calistirma (ayni gun icinde test vs.) yuzunden
+        # saklanan tarih gercek "yarin"dan daha ileriye kaymis olabilir - kullanici
+        # her calistirdiginda hep GERCEK bugunun bir sonraki gunune planlanmasini
+        # istiyor, o yuzden ileri kaymisi gercek yarina geri cekiyoruz.
+        real_tomorrow = datetime.datetime.utcnow().replace(hour=0, minute=0, second=0, microsecond=0) \
+            + datetime.timedelta(days=1)
+        if next_day > real_tomorrow:
+            print(f"   [TARİH DÜZELTME] Kayıtlı yayın tarihi ({next_day.date()}) gerçek yarından "
+                  f"({real_tomorrow.date()}) ileriydi, geri çekildi.")
+            next_day = real_tomorrow
     elif START_DATE:
         next_day = datetime.datetime.strptime(START_DATE, "%Y-%m-%d")
     else:
@@ -1028,12 +1109,17 @@ def main():
 
     youtube = get_youtube_service()
 
+    retry_pending_comments(youtube, state)
+    save_state(state)
+
     uploaded, skipped_nsfw, skipped_no_video, skipped_blocked, errors = [], 0, 0, 0, []
     stopped_early = False
     scanned = 0
     scan_limit = VIDEOS_PER_DAY * 6  # aşırı taramaya karşı sınır (işlenmemiş model sayısı üzerinden)
 
-    for creation in creations:
+    ordered_creations = get_priority_order(creations, "seen_urls_youtube.json")
+
+    for creation in ordered_creations:
         if len(uploaded) >= VIDEOS_PER_DAY or scanned >= scan_limit:
             break
 
@@ -1094,6 +1180,14 @@ def main():
             print(f"[YÜKLENDİ] {creation['name']} -> https://youtu.be/{vid_id} | yayın: {publish_at_str}")
             uploaded.append({"title": creation["name"], "publish_at": publish_at_str,
                               "link": f"https://youtu.be/{vid_id}"})
+
+            print("   Model linki yorum olarak ekleniyor...")
+            comment_ok = add_youtube_comment(youtube, vid_id, creation["url"])
+            if comment_ok:
+                print(f"   [YORUM] Eklendi -> {creation['url']}")
+            else:
+                state["pending_comments"].append({"video_id": vid_id, "text": creation["url"]})
+
             os.remove(tmp_path)
             if os.path.exists(tmp_vertical_path):
                 os.remove(tmp_vertical_path)

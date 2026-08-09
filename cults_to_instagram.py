@@ -8,12 +8,13 @@ YENIDEN KULLANIR, kod tekrarlanmaz.
 Kendi ayri ilerleme dosyasini (state_instagram.json) tutar - YouTube
 tarafini (state.json) hic etkilemez, birbirinden tamamen bagimsizdir.
 
-Instagram'in native "ileri tarihe planla" ozelligi olmadigi icin, bu
-script HER CALISTIGINDA 1 video secip HEMEN yayinlar. Gunde birden fazla
-kez (orn. saatte bir) GitHub Actions ile tetiklenerek gunluk 10-20
-paylasima ulasilir. DAILY_POST_LIMIT gunluk toplam sayiyi sinirlar.
+HER CALISTIRMADA 1 video secip HEMEN yayinlar (eskisi gibi). Kullanici
+gun icinde farkli zamanlarda kendisi tetikler, boylece paylasimlar dogal
+sekilde saatlere yayilir. DAILY_POST_LIMIT gunluk (takvim gunu bazinda)
+toplam sayiyi sinirlar - bu sinira ulasildiginda script YENI PAYLASIM
+YAPMAZ, sadece bilgilendirici mesaj basar.
 
-Gereken ortam degiskenleri (GitHub Actions secrets):
+Gereken ortam degiskenleri:
   IG_ACCESS_TOKEN  -> Instagram/Meta erisim anahtari
   GH_PAT           -> cults-video-host reposuna yazma izni olan GitHub token
 
@@ -24,6 +25,7 @@ Calistirma:
 import base64
 import json
 import os
+import re
 import time
 from pathlib import Path
 
@@ -42,7 +44,7 @@ GH_PAT = os.environ.get("GH_PAT", "")
 FB_PAGE_ID = os.environ.get("FB_PAGE_ID", "")                    # Mali Kaplan sayfasinin ID'si
 FB_PAGE_ACCESS_TOKEN = os.environ.get("FB_PAGE_ACCESS_TOKEN", "")  # Sayfa erisim anahtari
 
-DAILY_POST_LIMIT = 25   # Instagram'in Reels/feed icin API ile yayinlamaya izin verdigi gunluk ust sinir
+DAILY_POST_LIMIT = 24   # gunluk hedef - buna ulasilinca script yeni paylasim yapmaz
 MAX_HASHTAGS = 20
 
 STATE_FILE = "state_instagram.json"
@@ -63,6 +65,51 @@ def load_state():
     state.setdefault("today_count", 0)
     state.setdefault("total_posted", 0)
     state.setdefault("history", [])
+    state.setdefault("recovered_from_account", False)
+    return state
+
+
+def recover_processed_from_account(state):
+    """BİR KEZ ÇALIŞIR: state_instagram.json'daki processed_urls listesi
+    önceki bir hata yüzünden eksik kalmış olabilir (video yayınlandı ama
+    kayıt hiç yapılamadı). Bu yüzden Instagram hesabındaki GERÇEKTEN
+    yayınlanmış reels'lerin caption'larından ("Model: <url>" satırı) model
+    linkleri okunup processed_urls'e geri eklenir - böylece zaten
+    yayınlanmış hiçbir model bir daha tekrar yüklenmez."""
+    if state.get("recovered_from_account"):
+        return state
+
+    print("[KURTARMA] Instagram hesabındaki geçmiş paylaşımlar taranıyor (bir kereye mahsus)...")
+    recovered = []
+    url = f"https://graph.facebook.com/{IG_API_VERSION}/{IG_USER_ID}/media"
+    params = {"fields": "caption,permalink,timestamp", "limit": 100, "access_token": IG_ACCESS_TOKEN}
+    pages = 0
+    while url and pages < 30:
+        resp = requests.get(url, params=params)
+        if not resp.ok:
+            print(f"   [UYARI] Hesap taranamadi: {resp.status_code} {resp.text}")
+            break
+        data = resp.json()
+        for item in data.get("data", []):
+            caption = item.get("caption") or ""
+            m = re.search(r"Model:\s*(https://cults3d\.com/\S+)", caption)
+            if m:
+                recovered.append(m.group(1).rstrip(").,"))
+        next_url = (data.get("paging") or {}).get("next")
+        url = next_url
+        params = None
+        pages += 1
+
+    added = 0
+    for u in recovered:
+        if u not in state["processed_urls"]:
+            state["processed_urls"].append(u)
+            added += 1
+
+    state["recovered_from_account"] = True
+    print(f"   [KURTARMA] Hesapta {len(recovered)} eski paylaşım bulundu, {added} tanesi "
+          f"processed_urls listesine geri eklendi (artık tekrar yüklenmeyecekler).")
+    save_state(state)
     return state
 
 
@@ -115,7 +162,7 @@ def delete_from_host_repo(remote_name, sha):
 # ============================================================
 
 def ig_create_container(video_url, caption):
-    url = f"https://graph.instagram.com/{IG_API_VERSION}/{IG_USER_ID}/media"
+    url = f"https://graph.facebook.com/{IG_API_VERSION}/{IG_USER_ID}/media"
     resp = requests.post(url, data={
         "media_type": "REELS",
         "video_url": video_url,
@@ -129,7 +176,7 @@ def ig_create_container(video_url, caption):
 
 
 def ig_wait_for_container(container_id, timeout_seconds=300, poll_every=10):
-    url = f"https://graph.instagram.com/{IG_API_VERSION}/{container_id}"
+    url = f"https://graph.facebook.com/{IG_API_VERSION}/{container_id}"
     waited = 0
     while waited < timeout_seconds:
         resp = requests.get(url, params={
@@ -148,7 +195,7 @@ def ig_wait_for_container(container_id, timeout_seconds=300, poll_every=10):
 
 
 def ig_publish_container(container_id):
-    url = f"https://graph.instagram.com/{IG_API_VERSION}/{IG_USER_ID}/media_publish"
+    url = f"https://graph.facebook.com/{IG_API_VERSION}/{IG_USER_ID}/media_publish"
     resp = requests.post(url, data={
         "creation_id": container_id,
         "access_token": IG_ACCESS_TOKEN,
@@ -157,6 +204,20 @@ def ig_publish_container(container_id):
         print(f"   [INSTAGRAM HATASI] {resp.status_code}: {resp.text}")
     resp.raise_for_status()
     return resp.json()["id"]
+
+
+def ig_add_comment(media_id, text):
+    """Yayinlanan Instagram gonderisine, tikla-git yapabilsinler diye
+    Cults3D model linkini yorum olarak ekler."""
+    url = f"https://graph.facebook.com/{IG_API_VERSION}/{media_id}/comments"
+    resp = requests.post(url, data={
+        "message": text,
+        "access_token": IG_ACCESS_TOKEN,
+    })
+    if not resp.ok:
+        print(f"   [YORUM HATASI] {resp.status_code}: {resp.text}")
+        return None
+    return resp.json().get("id")
 
 
 # ============================================================
@@ -208,7 +269,7 @@ def build_caption(creation, music_track):
 
 
 # ============================================================
-# ANA AKIS
+# ANA AKIS - HER CALISTIRMADA 1 VIDEO
 # ============================================================
 
 def main():
@@ -219,21 +280,30 @@ def main():
     print(f"[TOKEN DEBUG] uzunluk={len(IG_ACCESS_TOKEN)} baş={IG_ACCESS_TOKEN[:6]!r} son={IG_ACCESS_TOKEN[-6:]!r}")
 
     state = load_state()
+    state = recover_processed_from_account(state)
     if state["today_date"] != today_str():
         state["today_date"] = today_str()
         state["today_count"] = 0
+        save_state(state)
 
     if state["today_count"] >= DAILY_POST_LIMIT:
-        print(f"Bugunku limit ({DAILY_POST_LIMIT}) zaten doldu, bu calistirmada yeni paylasim yapilmayacak.")
-        save_state(state)
+        print(f"[LIMIT DOLDU] Bugun ({state['today_date']}) zaten {state['today_count']}/{DAILY_POST_LIMIT} "
+              f"paylasim yapildi. Bu calistirmada YENI PAYLASIM YAPILMAYACAK. "
+              f"Limiti asmamak icin yarina kadar beklemen gerekiyor.")
         return
+
+    print(f"[DURUM] Bugun {state['today_count']}/{DAILY_POST_LIMIT} paylasim yapilmis, "
+          f"{DAILY_POST_LIMIT - state['today_count']} hakkin kaldi.")
 
     print("Modeller cekiliyor...")
     creations = bot.get_all_creations()
+    print(f"   [DEBUG] Toplam model: {len(creations)}, su ana kadar islenmis: {len(state['processed_urls'])}")
+
+    ordered_creations = bot.get_priority_order(creations, "seen_urls_instagram.json")
 
     creation = None
     video_url = None
-    for c in creations:
+    for c in ordered_creations:
         if c.get("url") in state["processed_urls"]:
             continue
         if bot.is_nsfw(c):
@@ -270,46 +340,61 @@ def main():
     print("Gecici barindirma reposuna yukleniyor...")
     raw_url, sha = push_to_host_repo(vertical_path, remote_name)
 
-    print("Instagram konteynerı olusturuluyor...")
-    container_id = ig_create_container(raw_url, build_caption(creation, music_track))
+    try:
+        print("Instagram konteynerı olusturuluyor...")
+        container_id = ig_create_container(raw_url, build_caption(creation, music_track))
 
-    print("Instagram videoyu isliyor, bekleniyor...")
-    ok = ig_wait_for_container(container_id)
+        print("Instagram videoyu isliyor, bekleniyor...")
+        ok = ig_wait_for_container(container_id)
 
-    if ok:
-        print("Yayinlaniyor...")
-        media_id = ig_publish_container(container_id)
-        print(f"BASARILI -> media_id={media_id}")
-        state["processed_urls"].append(creation["url"])
-        state["today_count"] += 1
-        state["total_posted"] += 1
+        if ok:
+            print("Yayinlaniyor...")
+            media_id = ig_publish_container(container_id)
+            print(f"BASARILI -> media_id={media_id}")
 
-        print("Facebook sayfasina da yukleniyor...")
-        fb_media_id = fb_post_video(raw_url, build_caption(creation, music_track))
-        if fb_media_id:
-            print(f"FACEBOOK BASARILI -> media_id={fb_media_id}")
+            print("Model linki yorum olarak ekleniyor...")
+            comment_id = ig_add_comment(media_id, creation["url"])
+            if comment_id:
+                print(f"   [YORUM] Eklendi -> {creation['url']}")
+            else:
+                print("   [UYARI] Yorum eklenemedi (paylasim yine de basarili sayilir).")
+
+            # ONEMLI: video yayinlanir yayinlanmaz HEMEN kaydet (asagida
+            # Facebook adimi veya temizlik hata verse bile bu video bir
+            # daha ASLA tekrar secilmesin - "kaldigi yerden devam" hatasi
+            # buradan kaynaklaniyordu, kayit calistirmanin en sonuna
+            # birakilmisti).
+            state["processed_urls"].append(creation["url"])
+            state["today_count"] += 1
+            state["total_posted"] += 1
+            state["history"].append({
+                "date": today_str(),
+                "title": creation["name"],
+                "media_id": media_id,
+                "fb_media_id": None,
+            })
+            save_state(state)
+            print(f"   [KAYIT] state_instagram.json guncellendi -> bugun {state['today_count']}/{DAILY_POST_LIMIT}")
+
+            print("Facebook sayfasina da yukleniyor...")
+            fb_media_id = fb_post_video(raw_url, build_caption(creation, music_track))
+            if fb_media_id:
+                print(f"FACEBOOK BASARILI -> media_id={fb_media_id}")
+                state["history"][-1]["fb_media_id"] = fb_media_id
+                save_state(state)
+            else:
+                print("[UYARI] Facebook'a yukleme yapilamadi (Instagram tarafi yine de basarili sayilir).")
         else:
-            print("[UYARI] Facebook'a yukleme yapilamadi (Instagram tarafi yine de basarili sayilir).")
-
-        state["history"].append({
-            "date": today_str(),
-            "title": creation["name"],
-            "media_id": media_id,
-            "fb_media_id": fb_media_id,
-        })
-    else:
-        print("[HATA] Instagram videoyu isleyemedi (timeout ya da ERROR durumu).")
-
-    print("Barindirma reposundan temizleniyor...")
-    delete_from_host_repo(remote_name, sha)
-
-    for p in (tmp_path, vertical_path):
-        try:
-            os.remove(p)
-        except OSError:
-            pass
-
-    save_state(state)
+            print("[HATA] Instagram videoyu isleyemedi (timeout ya da ERROR durumu). Bu model tekrar denenecek.")
+    finally:
+        print("Barindirma reposundan temizleniyor...")
+        delete_from_host_repo(remote_name, sha)
+        for p in (tmp_path, vertical_path):
+            try:
+                os.remove(p)
+            except OSError:
+                pass
+        save_state(state)
 
 
 if __name__ == "__main__":
