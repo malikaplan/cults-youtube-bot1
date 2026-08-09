@@ -146,10 +146,12 @@ def _fetch_page_via_seleniumbase(url):
 # ============================================================
 
 def cults_query(query, max_retries=8):
-    """Cults3D ara sira gecici 403 verebiliyor (bilinen, kisa sureli bir
-    sorun). Bu yuzden basarisiz olursa birkac kez, artan bekleme
-    sureleriyle (10s, 20s, 40s, 60s, 90s, 120s, 180s, 240s) otomatik
-    tekrar dener - boylece elle 'Re-run' yapmaya gerek kalmaz."""
+    """Cults3D ara sira gecici 403 verebiliyor, ya da bazen 200 donup
+    icinde BOS/GECERSIZ bir govde (JSON olmayan bos govde) donduruyor -
+    bu da bilinen, kisa sureli bir sorun. Bu yuzden basarisiz olursa
+    birkac kez, artan bekleme sureleriyle (10s, 20s, 40s, 60s, 90s,
+    120s, 180s, 240s) otomatik tekrar dener - boylece elle 'Re-run'
+    yapmaya gerek kalmaz."""
     import time
     delays = [10, 20, 40, 60, 90, 120, 180, 240]
     last_error = None
@@ -159,11 +161,18 @@ def cults_query(query, max_retries=8):
                                auth=(CULTS_USERNAME, CULTS_API_KEY),
                                headers=BROWSER_HEADERS)
             r.raise_for_status()
-            data = r.json()
+            if not r.text.strip():
+                raise RuntimeError(f"Cults3D bos govde dondurdu (status={r.status_code})")
+            try:
+                data = r.json()
+            except ValueError:
+                raise RuntimeError(
+                    f"Cults3D gecersiz/JSON-olmayan govde dondurdu "
+                    f"(status={r.status_code}, ilk 200 karakter: {r.text[:200]!r})")
             if "errors" in data:
                 raise RuntimeError(data["errors"])
             return data["data"]
-        except (requests.exceptions.HTTPError, requests.exceptions.ConnectionError) as e:
+        except (requests.exceptions.HTTPError, requests.exceptions.ConnectionError, RuntimeError) as e:
             last_error = e
             if attempt < max_retries - 1:
                 wait = delays[min(attempt, len(delays) - 1)]
