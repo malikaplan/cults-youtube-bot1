@@ -40,11 +40,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-twingo-glovebox-cooler-part",
     "https://cults3d.com/en/3d-model/tool/renault-twingo-seat-adjustment-release-lever-a",
     "https://cults3d.com/en/3d-model/tool/renault-twingo-a-clips",
-    "https://cults3d.com/en/3d-model/game/porsche-wall-art-makdesign"
+    "https://cults3d.com/en/3d-model/game/porsche-wall-art-makdesign",
+    "https://cults3d.com/en/3d-model/game/porsche-gt3-rs-silhouette-art"
   ],
   "today_date": "2026-08-09",
-  "today_count": 3,
-  "total_posted": 8,
+  "today_count": 4,
+  "total_posted": 9,
   "history": [
     {
       "date": "2026-08-08",
@@ -92,6 +93,12 @@
       "date": "2026-08-09",
       "title": "Porsche Wall Art",
       "media_id": "18464361088112610",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-09",
+      "title": "Porsche GT3 RS Silhouette Art",
+      "media_id": "17869925430634859",
       "fb_media_id": null
     }
   ],
