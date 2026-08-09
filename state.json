@@ -1,145 +1,51 @@
 {
-  "next_index": 66,
+  "next_index": 78,
   "next_publish_date": "2026-08-11T00:00:00",
-  "run_count": 10,
-  "total_uploaded": 30,
+  "run_count": 14,
+  "total_uploaded": 42,
   "total_models": 1269,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-08",
-    "day_number": 10,
-    "uploaded": [],
+    "date": "2026-08-09",
+    "day_number": 14,
+    "uploaded": [
+      {
+        "title": "Renault Kadjar / Nissan Qashqai Sun Visor Vanity Mirror Cover",
+        "publish_at": "2026-08-10T09:00:00Z",
+        "link": "https://youtu.be/H2RGj25wjOk"
+      },
+      {
+        "title": "Renault Kadjar Door Panel Trim Rivet / Fastener Clip",
+        "publish_at": "2026-08-10T11:00:00Z",
+        "link": "https://youtu.be/04k6rKpKlgQ"
+      },
+      {
+        "title": "Renault Kadjar Parcel Shelf / Luggage Cover Retainer Bracket",
+        "publish_at": "2026-08-10T13:00:00Z",
+        "link": "https://youtu.be/tjvpmKpzCts"
+      },
+      {
+        "title": "Renault Kadjar Mounting Bracket / Support Holder",
+        "publish_at": "2026-08-10T15:00:00Z",
+        "link": "https://youtu.be/9nTgxIwzI6c"
+      },
+      {
+        "title": "Renault Kadjar Wireless Charger Console Pad",
+        "publish_at": "2026-08-10T17:00:00Z",
+        "link": "https://youtu.be/28rdfn13OO4"
+      },
+      {
+        "title": "Renault Megane Seat Belt Pillar Trim Cap",
+        "publish_at": "2026-08-10T19:00:00Z",
+        "link": "https://youtu.be/jsk2GP46pDs"
+      }
+    ],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
-    "skipped_blocked": 36,
+    "skipped_blocked": 0,
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-01",
-      "day_number": 1,
-      "uploaded": [
-        {
-          "title": "Renault Trafic Fender Liner / Mud Guard Fastener Clips",
-          "publish_at": "2026-08-01T09:00:00Z",
-          "link": "https://youtu.be/V0WOjMZ9jto"
-        },
-        {
-          "title": "Renault Trafic Hood Prop Rod Retention Clip / Bracket",
-          "publish_at": "2026-08-01T11:00:00Z",
-          "link": "https://youtu.be/T5BT96XHIX8"
-        },
-        {
-          "title": "Renault Trafic AC Air Vent Adjuster Tab /Directional Louver Blade",
-          "publish_at": "2026-08-01T13:00:00Z",
-          "link": "https://youtu.be/4gWNrQi2Lgk"
-        },
-        {
-          "title": "Renault Trafic Door Hinge Cover / Cap",
-          "publish_at": "2026-08-01T15:00:00Z",
-          "link": "https://youtu.be/tzGdU0d7CRQ"
-        },
-        {
-          "title": "Renault Trafic Interior / Exterior Door Handle",
-          "publish_at": "2026-08-01T17:00:00Z",
-          "link": "https://youtu.be/xG_f6Hbsavg"
-        },
-        {
-          "title": "Renault Kangoo Air Intake Bulkhead Flange/Adapter",
-          "publish_at": "2026-08-01T19:00:00Z",
-          "link": "https://youtu.be/rPaWCGDYWjg"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "errors": []
-    },
-    {
-      "date": "2026-08-02",
-      "day_number": 2,
-      "uploaded": [
-        {
-          "title": "Renault Trafic Fender Liner / Mud Guard Fastener Clips",
-          "publish_at": "2026-08-02T09:00:00Z",
-          "link": "https://youtu.be/nv7VYegzh-g"
-        },
-        {
-          "title": "Renault Trafic Hood Prop Rod Retention Clip / Bracket",
-          "publish_at": "2026-08-02T11:00:00Z",
-          "link": "https://youtu.be/97fHQDO2wtA"
-        },
-        {
-          "title": "Renault Trafic AC Air Vent Adjuster Tab /Directional Louver Blade",
-          "publish_at": "2026-08-02T13:00:00Z",
-          "link": "https://youtu.be/RfsGq0Dv-Qw"
-        },
-        {
-          "title": "Renault Trafic Door Hinge Cover / Cap",
-          "publish_at": "2026-08-02T15:00:00Z",
-          "link": "https://youtu.be/MqCfExCA5es"
-        },
-        {
-          "title": "Renault Trafic Interior / Exterior Door Handle",
-          "publish_at": "2026-08-02T17:00:00Z",
-          "link": "https://youtu.be/GxL4B5pVqZQ"
-        },
-        {
-          "title": "Renault Kangoo Air Intake Bulkhead Flange/Adapter",
-          "publish_at": "2026-08-02T19:00:00Z",
-          "link": "https://youtu.be/kS6qzKat8lc"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "errors": []
-    },
-    {
-      "date": "2026-08-03",
-      "day_number": 3,
-      "uploaded": [
-        {
-          "title": "Renault Kangoo Tailgate Handle / Hatch Latch Release Lever",
-          "publish_at": "2026-08-03T09:00:00Z",
-          "link": "https://youtu.be/CbbOJuVOVQY"
-        },
-        {
-          "title": "Renault Kangoo Overhead Rearview Mirror Small Storage Pocket / Tray",
-          "publish_at": "2026-08-03T11:00:00Z",
-          "link": "https://youtu.be/kV-gho68w9A"
-        },
-        {
-          "title": "Renault Kangoo Steering Wheel Media Control Adapter",
-          "publish_at": "2026-08-03T13:00:00Z",
-          "link": "https://youtu.be/1RKr-SX04IQ"
-        },
-        {
-          "title": "Renault Kangoo Interior Door Handle",
-          "publish_at": "2026-08-03T15:00:00Z",
-          "link": "https://youtu.be/ia3zwOTQQcI"
-        },
-        {
-          "title": "Renault Kangoo Door Release Handle",
-          "publish_at": "2026-08-03T17:00:00Z",
-          "link": "https://youtu.be/C-Hzw4Xzcm4"
-        },
-        {
-          "title": "Renault Laguna Headlight Washer Nozzle Assembly Parts",
-          "publish_at": "2026-08-03T19:00:00Z",
-          "link": "https://youtu.be/ONm3SVE8008"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "errors": []
-    },
-    {
-      "date": "2026-08-04",
-      "day_number": 4,
-      "uploaded": [],
-      "skipped_nsfw": 14,
-      "skipped_no_video": 22,
-      "errors": []
-    },
     {
       "date": "2026-08-04",
       "day_number": 5,
@@ -255,9 +161,121 @@
       "skipped_no_video": 0,
       "skipped_blocked": 36,
       "errors": []
+    },
+    {
+      "date": "2026-08-08",
+      "day_number": 11,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 36,
+      "errors": []
+    },
+    {
+      "date": "2026-08-08",
+      "day_number": 12,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "Renault Twingo Door Handle - Grab Part (Griffteil): name '_PAGE_SESSION' is not defined"
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "day_number": 13,
+      "uploaded": [
+        {
+          "title": "Renault Twingo Door Handle - Grab Part (Griffteil)",
+          "publish_at": "2026-08-12T09:00:00Z",
+          "link": "https://youtu.be/j4qorIssDdU"
+        },
+        {
+          "title": "Renault Scenic Door Pull Handle (Interior / Exterior)",
+          "publish_at": "2026-08-12T11:00:00Z",
+          "link": "https://youtu.be/xryzsybDvwA"
+        },
+        {
+          "title": "Renault Scenic Interior Door Handle Retaining Bracket",
+          "publish_at": "2026-08-12T13:00:00Z",
+          "link": "https://youtu.be/YI6mKPnTH2U"
+        },
+        {
+          "title": "Renault Scenic Trim Panel Fastener / Retaining Clip Bracket",
+          "publish_at": "2026-08-12T15:00:00Z",
+          "link": "https://youtu.be/AgL15kWydwc"
+        },
+        {
+          "title": "Renault Scenic Emergency Key Blade Holder / Key Card Component",
+          "publish_at": "2026-08-12T17:00:00Z",
+          "link": "https://youtu.be/nFuVzGWBwe0"
+        },
+        {
+          "title": "Renault Kadjar 1.5 dCi Oil Filter Wrench Tool",
+          "publish_at": "2026-08-12T19:00:00Z",
+          "link": "https://youtu.be/-1X1KCnCOsc"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
+    },
+    {
+      "date": "2026-08-09",
+      "day_number": 14,
+      "uploaded": [
+        {
+          "title": "Renault Kadjar / Nissan Qashqai Sun Visor Vanity Mirror Cover",
+          "publish_at": "2026-08-10T09:00:00Z",
+          "link": "https://youtu.be/H2RGj25wjOk"
+        },
+        {
+          "title": "Renault Kadjar Door Panel Trim Rivet / Fastener Clip",
+          "publish_at": "2026-08-10T11:00:00Z",
+          "link": "https://youtu.be/04k6rKpKlgQ"
+        },
+        {
+          "title": "Renault Kadjar Parcel Shelf / Luggage Cover Retainer Bracket",
+          "publish_at": "2026-08-10T13:00:00Z",
+          "link": "https://youtu.be/tjvpmKpzCts"
+        },
+        {
+          "title": "Renault Kadjar Mounting Bracket / Support Holder",
+          "publish_at": "2026-08-10T15:00:00Z",
+          "link": "https://youtu.be/9nTgxIwzI6c"
+        },
+        {
+          "title": "Renault Kadjar Wireless Charger Console Pad",
+          "publish_at": "2026-08-10T17:00:00Z",
+          "link": "https://youtu.be/28rdfn13OO4"
+        },
+        {
+          "title": "Renault Megane Seat Belt Pillar Trim Cap",
+          "publish_at": "2026-08-10T19:00:00Z",
+          "link": "https://youtu.be/jsk2GP46pDs"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4658797",
+    "https://cults3d.com/:4659557",
+    "https://cults3d.com/:4659584",
+    "https://cults3d.com/:4659604",
+    "https://cults3d.com/:4659616",
+    "https://cults3d.com/:4659628",
+    "https://cults3d.com/:4659634",
+    "https://cults3d.com/:4659737",
+    "https://cults3d.com/:4659760",
+    "https://cults3d.com/:4659773",
+    "https://cults3d.com/:4659783",
+    "https://cults3d.com/:4668086",
     "https://cults3d.com/:4668116",
     "https://cults3d.com/:4668124",
     "https://cults3d.com/:4668134",
@@ -325,5 +343,31 @@
     "https://cults3d.com/:4719876",
     "https://cults3d.com/:4719887"
   ],
-  "migrated_to_url_tracking": true
+  "migrated_to_url_tracking": true,
+  "pending_comments": [
+    {
+      "video_id": "H2RGj25wjOk",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-nissan-qashqai-sun-visor-vanity-mirror-cover"
+    },
+    {
+      "video_id": "04k6rKpKlgQ",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-door-panel-trim-rivet-fastener-clip"
+    },
+    {
+      "video_id": "tjvpmKpzCts",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-parcel-shelf-luggage-cover-retainer-bracket"
+    },
+    {
+      "video_id": "9nTgxIwzI6c",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-mounting-bracket-support-holder"
+    },
+    {
+      "video_id": "28rdfn13OO4",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-wireless-charger-console-pad"
+    },
+    {
+      "video_id": "jsk2GP46pDs",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-megane-seat-belt-pillar-trim-cap"
+    }
+  ]
 }
