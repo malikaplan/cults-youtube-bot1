@@ -1,91 +1,20 @@
 {
-  "next_index": 78,
+  "next_index": 114,
   "next_publish_date": "2026-08-11T00:00:00",
-  "run_count": 14,
+  "run_count": 15,
   "total_uploaded": 42,
   "total_models": 1269,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-08-09",
-    "day_number": 14,
-    "uploaded": [
-      {
-        "title": "Renault Kadjar / Nissan Qashqai Sun Visor Vanity Mirror Cover",
-        "publish_at": "2026-08-10T09:00:00Z",
-        "link": "https://youtu.be/H2RGj25wjOk"
-      },
-      {
-        "title": "Renault Kadjar Door Panel Trim Rivet / Fastener Clip",
-        "publish_at": "2026-08-10T11:00:00Z",
-        "link": "https://youtu.be/04k6rKpKlgQ"
-      },
-      {
-        "title": "Renault Kadjar Parcel Shelf / Luggage Cover Retainer Bracket",
-        "publish_at": "2026-08-10T13:00:00Z",
-        "link": "https://youtu.be/tjvpmKpzCts"
-      },
-      {
-        "title": "Renault Kadjar Mounting Bracket / Support Holder",
-        "publish_at": "2026-08-10T15:00:00Z",
-        "link": "https://youtu.be/9nTgxIwzI6c"
-      },
-      {
-        "title": "Renault Kadjar Wireless Charger Console Pad",
-        "publish_at": "2026-08-10T17:00:00Z",
-        "link": "https://youtu.be/28rdfn13OO4"
-      },
-      {
-        "title": "Renault Megane Seat Belt Pillar Trim Cap",
-        "publish_at": "2026-08-10T19:00:00Z",
-        "link": "https://youtu.be/jsk2GP46pDs"
-      }
-    ],
+    "day_number": 15,
+    "uploaded": [],
     "skipped_nsfw": 0,
-    "skipped_no_video": 0,
+    "skipped_no_video": 36,
     "skipped_blocked": 0,
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-04",
-      "day_number": 5,
-      "uploaded": [
-        {
-          "title": "Renault Twingo Rear View -Side Mirror Cover and Mount",
-          "publish_at": "2026-08-05T09:00:00Z",
-          "link": "https://youtu.be/UI02hMh3Fm8"
-        },
-        {
-          "title": "Renault Twingo Heater Control Knob -Bouton Chauffage",
-          "publish_at": "2026-08-05T11:00:00Z",
-          "link": "https://youtu.be/jUkk-a1gJy0"
-        },
-        {
-          "title": "Renault Twingo Speaker Mount - Bracket -Halterung",
-          "publish_at": "2026-08-05T13:00:00Z",
-          "link": "https://youtu.be/IrEcHDkub-E"
-        },
-        {
-          "title": "Renault Twingo Fastener Clip",
-          "publish_at": "2026-08-05T15:00:00Z",
-          "link": "https://youtu.be/pnyCZYSi8bo"
-        },
-        {
-          "title": "Renault Twingo Fog Light Trim - Cover",
-          "publish_at": "2026-08-05T17:00:00Z",
-          "link": "https://youtu.be/a3w6uyB4MHA"
-        },
-        {
-          "title": "Renault Twingo Interior Trim and Panel Clip",
-          "publish_at": "2026-08-05T19:00:00Z",
-          "link": "https://youtu.be/m6vyb874ldI"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-05",
       "day_number": 6,
@@ -261,9 +190,54 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-09",
+      "day_number": 15,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 36,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4657663",
+    "https://cults3d.com/:4657762",
+    "https://cults3d.com/:4657773",
+    "https://cults3d.com/:4657807",
+    "https://cults3d.com/:4657819",
+    "https://cults3d.com/:4657835",
+    "https://cults3d.com/:4657855",
+    "https://cults3d.com/:4657877",
+    "https://cults3d.com/:4658156",
+    "https://cults3d.com/:4658189",
+    "https://cults3d.com/:4658284",
+    "https://cults3d.com/:4658296",
+    "https://cults3d.com/:4658307",
+    "https://cults3d.com/:4658327",
+    "https://cults3d.com/:4658337",
+    "https://cults3d.com/:4658344",
+    "https://cults3d.com/:4658356",
+    "https://cults3d.com/:4658383",
+    "https://cults3d.com/:4658475",
+    "https://cults3d.com/:4658492",
+    "https://cults3d.com/:4658512",
+    "https://cults3d.com/:4658526",
+    "https://cults3d.com/:4658534",
+    "https://cults3d.com/:4658547",
+    "https://cults3d.com/:4658563",
+    "https://cults3d.com/:4658639",
+    "https://cults3d.com/:4658663",
+    "https://cults3d.com/:4658675",
+    "https://cults3d.com/:4658703",
+    "https://cults3d.com/:4658708",
+    "https://cults3d.com/:4658718",
+    "https://cults3d.com/:4658732",
+    "https://cults3d.com/:4658737",
+    "https://cults3d.com/:4658754",
+    "https://cults3d.com/:4658763",
+    "https://cults3d.com/:4658788",
     "https://cults3d.com/:4658797",
     "https://cults3d.com/:4659557",
     "https://cults3d.com/:4659584",
