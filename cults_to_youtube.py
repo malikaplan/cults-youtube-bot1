@@ -222,6 +222,9 @@ def get_all_creations(force_refresh=False):
                     description(locale: EN)
                     tags(locale: EN)
                     illustrationImageUrl
+                    illustrations {{
+                      imageUrl
+                    }}
                   }}
                 }}
               }}
@@ -304,54 +307,32 @@ def _check_and_use_budget():
 
 def get_video_url(creation, debug=False):
     """
-    Modelin herkese açık sayfasını indirip, video dosyasının orijinal
-    linkini (fbi.cults3d.com/.../....mp4) bulur. Bulamazsa herhangi bir
-    .mp4/.webm/.mov linkine geri döner. debug=True ise nedenini yazdırır.
+    Video linkini modelin sayfasini ACMADAN, GraphQL'den zaten cekilmis
+    olan 'illustrations' listesinin icinden bulur.
 
-    Cults3D'nin GUNLUK ISTEK KOTASI var (~500/gun). Once bu script
-    tekrar tekrar (4 kez) deniyordu - bu kotayi hizla tuketip sorunu
-    BUYUTUYORDU. Artik: 403 gelince TEK seferde vazgecilip bir sonraki
-    modele gecilir (kota bosa harcanmaz), ve paylasimli gunluk sayac
-    dolduysa sayfa cekme hic denenmez.
+    ESKIDEN: modelin herkese acik sayfasi (once dogrudan requests ile,
+    sonra seleniumbase/FlareSolverr ile) indirilip HTML icinde 'mp4'
+    aranirdi. Ikisi de artik sonuc vermiyor - Cults3D sayfasinin guncel
+    surumu video linkini HTML'e gomulu olarak vermiyor (JS ile sonradan
+    yukleniyor olabilir), GitHub Actions'tan HER model 'videosuz' cikip
+    script'in saatlerce bosuna donmesine sebep oluyordu.
+
+    Video linki aslinda GraphQL API'sinde illustrations[].imageUrl
+    icinde ZATEN mevcut (fbi.cults3d.com/...mp4 adresini iceren bir
+    cults3d proxy linki olarak) - bu yuzden artik HICBIR HTTP istegi
+    ATILMIYOR, ne bot blogu ne de bu HTML-degisikligi sorunu kaliyor.
     """
-    import time
-    page_url = creation.get("url")
-    if not page_url:
-        if debug:
-            print("   [DEBUG] creation'da 'url' alanı yok")
-        return None
-
-    if not _check_and_use_budget():
-        if debug:
-            print("   [DEBUG] gunluk istek kotasi doldu - bu calistirmada "
-                  "sayfa cekmeye devam edilmiyor, yarin tekrar denenecek.")
-        return "RETRY_LATER"
-
-    try:
-        # Cok hizli art arda istek atmamak icin bekleme.
-        time.sleep(random.uniform(1.0, 2.0))
-        status, html = _fetch_page_via_seleniumbase(page_url)
-        if html is None:
-            # FlareSolverr'a hic ulasilamadi (kapali/kurulu degil) -
-            # bu modeli "videosuz" saymadan bir sonraki calistirmaya birak.
-            return "RETRY_LATER"
-        if status == 403:
-            if debug:
-                print("   [DEBUG] status=403 (FlareSolverr da asamadi) - bu model "
-                      "'videosuz' SAYILMAYACAK, bir sonraki calistirmada tekrar denenecek.")
-            return "RETRY_LATER"
-        if debug:
-            print(f"   [DEBUG] status={status} html_uzunluk={len(html)} "
-                  f"'mp4' geciyor mu={'mp4' in html} 'fbi.cults3d.com' geciyor mu={'fbi.cults3d.com' in html}")
-        match = re.search(r'https?://fbi\.cults3d\.com/[^\s"\'<>]+\.mp4', html, re.IGNORECASE)
+    for illu in (creation.get("illustrations") or []):
+        u = illu.get("imageUrl") or ""
+        match = re.search(r'https?://fbi\.cults3d\.com/[^\s"\'<>]+\.mp4', u, re.IGNORECASE)
         if match:
+            if debug:
+                print(f"   [DEBUG] video bulundu: {match.group(0)}")
             return match.group(0)
-        match = re.search(r'https?://[^\s"\'<>]+\.(?:mp4|webm|mov)', html, re.IGNORECASE)
-        return match.group(0) if match else None
-    except Exception as e:
-        if debug:
-            print(f"   [DEBUG] hata: {e}")
-        return None
+
+    if debug:
+        print("   [DEBUG] illustrations icinde video (mp4) bulunamadi - bu model gercekten videosuz")
+    return None
 
 
 def build_music_credit(music_track):
@@ -1235,3 +1216,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
