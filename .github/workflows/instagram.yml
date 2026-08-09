@@ -67,7 +67,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add state_instagram.json creations_cache.json
+          git add state_instagram.json creations_cache.json seen_urls_instagram.json request_budget.json
           git diff --cached --quiet || git commit -m "state ve onbellek guncellendi [skip ci]"
           for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push && break
