@@ -50,11 +50,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-twingo-interior-trim-and-panel-clip",
     "https://cults3d.com/en/3d-model/tool/renault-twingo-ventilation-grill",
     "https://cults3d.com/en/3d-model/tool/renault-twingo-seat-adjustment-lever",
-    "https://cults3d.com/en/3d-model/tool/renault-twingo-cup-holder-makdesign"
+    "https://cults3d.com/en/3d-model/tool/renault-twingo-cup-holder-makdesign",
+    "https://cults3d.com/en/3d-model/tool/renault-twingo-tailgate-trunk-button"
   ],
   "today_date": "2026-08-10",
-  "today_count": 2,
-  "total_posted": 18,
+  "today_count": 3,
+  "total_posted": 19,
   "history": [
     {
       "date": "2026-08-08",
@@ -162,6 +163,12 @@
       "date": "2026-08-10",
       "title": "Renault Twingo Cup Holder",
       "media_id": "18109820675043520",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Renault Twingo Tailgate Trunk Button",
+      "media_id": "18097902296017549",
       "fb_media_id": null
     }
   ],
