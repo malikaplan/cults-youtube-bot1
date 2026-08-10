@@ -49,11 +49,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-twingo-fog-light-trim-cover",
     "https://cults3d.com/en/3d-model/tool/renault-twingo-interior-trim-and-panel-clip",
     "https://cults3d.com/en/3d-model/tool/renault-twingo-ventilation-grill",
-    "https://cults3d.com/en/3d-model/tool/renault-twingo-seat-adjustment-lever"
+    "https://cults3d.com/en/3d-model/tool/renault-twingo-seat-adjustment-lever",
+    "https://cults3d.com/en/3d-model/tool/renault-twingo-cup-holder-makdesign"
   ],
   "today_date": "2026-08-10",
-  "today_count": 1,
-  "total_posted": 17,
+  "today_count": 2,
+  "total_posted": 18,
   "history": [
     {
       "date": "2026-08-08",
@@ -155,6 +156,12 @@
       "date": "2026-08-10",
       "title": "Renault Twingo Seat adjustment lever",
       "media_id": "18108832280013850",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Renault Twingo Cup Holder",
+      "media_id": "18109820675043520",
       "fb_media_id": null
     }
   ],
