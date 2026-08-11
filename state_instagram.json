@@ -93,11 +93,12 @@
     "https://cults3d.com/en/3d-model/tool/megane-tweeter-ring",
     "https://cults3d.com/en/3d-model/tool/mega-needle-driver-plate",
     "https://cults3d.com/en/3d-model/tool/megane-gt-automatic-knob",
-    "https://cults3d.com/en/3d-model/tool/megane-pdc-main"
+    "https://cults3d.com/en/3d-model/tool/megane-pdc-main",
+    "https://cults3d.com/en/3d-model/tool/megane-2-radio-cover"
   ],
   "today_date": "2026-08-11",
-  "today_count": 21,
-  "total_posted": 61,
+  "today_count": 22,
+  "total_posted": 62,
   "history": [
     {
       "date": "2026-08-08",
@@ -463,6 +464,12 @@
       "date": "2026-08-11",
       "title": "Megane PDC Main",
       "media_id": "17890880592670631",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Megane 2 Radio Cover",
+      "media_id": "18104683634175371",
       "fb_media_id": null
     }
   ],
