@@ -91,11 +91,12 @@
     "https://cults3d.com/en/3d-model/tool/megane-2-din",
     "https://cults3d.com/en/3d-model/tool/megane-poignee-interior-door-handle",
     "https://cults3d.com/en/3d-model/tool/megane-tweeter-ring",
-    "https://cults3d.com/en/3d-model/tool/mega-needle-driver-plate"
+    "https://cults3d.com/en/3d-model/tool/mega-needle-driver-plate",
+    "https://cults3d.com/en/3d-model/tool/megane-gt-automatic-knob"
   ],
   "today_date": "2026-08-11",
-  "today_count": 19,
-  "total_posted": 59,
+  "today_count": 20,
+  "total_posted": 60,
   "history": [
     {
       "date": "2026-08-08",
@@ -449,6 +450,12 @@
       "date": "2026-08-11",
       "title": "Mega Needle Driver Plate",
       "media_id": "17910886275265975",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Megane GT Automatic Knob",
+      "media_id": "18609168352030096",
       "fb_media_id": null
     }
   ],
