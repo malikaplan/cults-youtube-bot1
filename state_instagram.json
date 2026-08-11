@@ -74,11 +74,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-megane-roof-rack-rail-component-end-cap",
     "https://cults3d.com/en/3d-model/tool/renault-megane-windshield-wiper-linkage-window-regulator-roller",
     "https://cults3d.com/en/3d-model/tool/renault-megane-rearview-wing-mirror-plastic-bolt",
-    "https://cults3d.com/en/3d-model/tool/renault-megane-3-wheel-hub-center-cap"
+    "https://cults3d.com/en/3d-model/tool/renault-megane-3-wheel-hub-center-cap",
+    "https://cults3d.com/en/3d-model/tool/renault-megane-3-parcel-shelf-rear-boot-tray-clip"
   ],
   "today_date": "2026-08-11",
-  "today_count": 2,
-  "total_posted": 42,
+  "today_count": 3,
+  "total_posted": 43,
   "history": [
     {
       "date": "2026-08-08",
@@ -330,6 +331,12 @@
       "date": "2026-08-11",
       "title": "Renault Megane 3 Wheel Hub Center Cap",
       "media_id": "18122350667508890",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-11",
+      "title": "Renault Megane 3 Parcel Shelf / Rear Boot Tray Clip",
+      "media_id": "18150228958509677",
       "fb_media_id": null
     }
   ],
