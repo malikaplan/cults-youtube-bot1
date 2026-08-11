@@ -1,60 +1,51 @@
 {
-  "next_index": 114,
-  "next_publish_date": "2026-08-11T00:00:00",
-  "run_count": 15,
-  "total_uploaded": 42,
-  "total_models": 1269,
+  "next_index": 120,
+  "next_publish_date": "2026-08-12T00:00:00",
+  "run_count": 16,
+  "total_uploaded": 48,
+  "total_models": 1271,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-09",
-    "day_number": 15,
-    "uploaded": [],
+    "date": "2026-08-11",
+    "day_number": 16,
+    "uploaded": [
+      {
+        "title": "Porsche Wall Art",
+        "publish_at": "2026-08-11T09:00:00Z",
+        "link": "https://youtu.be/br29Rfh9Jl0"
+      },
+      {
+        "title": "Porsche GT3 RS Silhouette Art",
+        "publish_at": "2026-08-11T11:00:00Z",
+        "link": "https://youtu.be/KRL1cRKTF4g"
+      },
+      {
+        "title": "Rhyno Beetle Warriors 3D PRINT",
+        "publish_at": "2026-08-11T13:00:00Z",
+        "link": "https://youtu.be/QamfiXMjUYA"
+      },
+      {
+        "title": "Spartan Helmet 3D PRINT",
+        "publish_at": "2026-08-11T15:00:00Z",
+        "link": "https://youtu.be/WP9AqXRvEtQ"
+      },
+      {
+        "title": "Kitsune Spirit Warrior 3D PRINT",
+        "publish_at": "2026-08-11T17:00:00Z",
+        "link": "https://youtu.be/FOZ1ewPUjYg"
+      },
+      {
+        "title": "Skeleton Warrior 3D PRINT",
+        "publish_at": "2026-08-11T19:00:00Z",
+        "link": "https://youtu.be/jYGnDJJXMf8"
+      }
+    ],
     "skipped_nsfw": 0,
-    "skipped_no_video": 36,
+    "skipped_no_video": 0,
     "skipped_blocked": 0,
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-05",
-      "day_number": 6,
-      "uploaded": [
-        {
-          "title": "Renault Twingo Ventilation Grill",
-          "publish_at": "2026-08-06T09:00:00Z",
-          "link": "https://youtu.be/LO-t7GDz-08"
-        },
-        {
-          "title": "Renault Twingo Seat adjustment lever",
-          "publish_at": "2026-08-06T11:00:00Z",
-          "link": "https://youtu.be/Ng4pIgg9pGw"
-        },
-        {
-          "title": "Renault Twingo Cup Holder",
-          "publish_at": "2026-08-06T13:00:00Z",
-          "link": "https://youtu.be/IaaMgHvzU_8"
-        },
-        {
-          "title": "Renault Twingo Tailgate Trunk Button",
-          "publish_at": "2026-08-06T15:00:00Z",
-          "link": "https://youtu.be/wDUufarhM34"
-        },
-        {
-          "title": "Renault Twingo Cup and Phone Holder",
-          "publish_at": "2026-08-06T17:00:00Z",
-          "link": "https://youtu.be/BM3fE-glj8E"
-        },
-        {
-          "title": "Renault Twingo Seat Adjustment Handle Redesign",
-          "publish_at": "2026-08-06T19:00:00Z",
-          "link": "https://youtu.be/qS81Ahr1Cds"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-06",
       "day_number": 7,
@@ -199,9 +190,53 @@
       "skipped_no_video": 36,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-11",
+      "day_number": 16,
+      "uploaded": [
+        {
+          "title": "Porsche Wall Art",
+          "publish_at": "2026-08-11T09:00:00Z",
+          "link": "https://youtu.be/br29Rfh9Jl0"
+        },
+        {
+          "title": "Porsche GT3 RS Silhouette Art",
+          "publish_at": "2026-08-11T11:00:00Z",
+          "link": "https://youtu.be/KRL1cRKTF4g"
+        },
+        {
+          "title": "Rhyno Beetle Warriors 3D PRINT",
+          "publish_at": "2026-08-11T13:00:00Z",
+          "link": "https://youtu.be/QamfiXMjUYA"
+        },
+        {
+          "title": "Spartan Helmet 3D PRINT",
+          "publish_at": "2026-08-11T15:00:00Z",
+          "link": "https://youtu.be/WP9AqXRvEtQ"
+        },
+        {
+          "title": "Kitsune Spirit Warrior 3D PRINT",
+          "publish_at": "2026-08-11T17:00:00Z",
+          "link": "https://youtu.be/FOZ1ewPUjYg"
+        },
+        {
+          "title": "Skeleton Warrior 3D PRINT",
+          "publish_at": "2026-08-11T19:00:00Z",
+          "link": "https://youtu.be/jYGnDJJXMf8"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4656336",
+    "https://cults3d.com/:4656362",
+    "https://cults3d.com/:4656436",
+    "https://cults3d.com/:4656441",
     "https://cults3d.com/:4657663",
     "https://cults3d.com/:4657762",
     "https://cults3d.com/:4657773",
@@ -315,7 +350,9 @@
     "https://cults3d.com/:4719835",
     "https://cults3d.com/:4719856",
     "https://cults3d.com/:4719876",
-    "https://cults3d.com/:4719887"
+    "https://cults3d.com/:4719887",
+    "https://cults3d.com/:4755744",
+    "https://cults3d.com/:4755766"
   ],
   "migrated_to_url_tracking": true,
   "pending_comments": [
@@ -342,6 +379,30 @@
     {
       "video_id": "jsk2GP46pDs",
       "text": "https://cults3d.com/en/3d-model/tool/renault-megane-seat-belt-pillar-trim-cap"
+    },
+    {
+      "video_id": "br29Rfh9Jl0",
+      "text": "https://cults3d.com/en/3d-model/game/porsche-wall-art-makdesign"
+    },
+    {
+      "video_id": "KRL1cRKTF4g",
+      "text": "https://cults3d.com/en/3d-model/game/porsche-gt3-rs-silhouette-art"
+    },
+    {
+      "video_id": "QamfiXMjUYA",
+      "text": "https://cults3d.com/en/3d-model/art/rhyno-beetle-warriors-3d-print"
+    },
+    {
+      "video_id": "WP9AqXRvEtQ",
+      "text": "https://cults3d.com/en/3d-model/art/spartan-helmet-3d-print"
+    },
+    {
+      "video_id": "FOZ1ewPUjYg",
+      "text": "https://cults3d.com/en/3d-model/art/kitsune-spirit-warrior-3d-print"
+    },
+    {
+      "video_id": "jYGnDJJXMf8",
+      "text": "https://cults3d.com/en/3d-model/art/skeleton-warrior-3d-print"
     }
   ]
 }
