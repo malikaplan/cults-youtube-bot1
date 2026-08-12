@@ -1,43 +1,43 @@
 {
-  "next_index": 120,
-  "next_publish_date": "2026-08-12T00:00:00",
-  "run_count": 16,
-  "total_uploaded": 48,
+  "next_index": 126,
+  "next_publish_date": "2026-08-13T00:00:00",
+  "run_count": 17,
+  "total_uploaded": 54,
   "total_models": 1271,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-11",
-    "day_number": 16,
+    "date": "2026-08-12",
+    "day_number": 17,
     "uploaded": [
       {
-        "title": "Porsche Wall Art",
-        "publish_at": "2026-08-11T09:00:00Z",
-        "link": "https://youtu.be/br29Rfh9Jl0"
+        "title": "Dnd Warrior Axe 3D PRINT",
+        "publish_at": "2026-08-12T09:00:00Z",
+        "link": "https://youtu.be/rxcOuIhjkfw"
       },
       {
-        "title": "Porsche GT3 RS Silhouette Art",
-        "publish_at": "2026-08-11T11:00:00Z",
-        "link": "https://youtu.be/KRL1cRKTF4g"
+        "title": "Clara Bust 3D PRINT",
+        "publish_at": "2026-08-12T11:00:00Z",
+        "link": "https://youtu.be/CetJjQTi4vA"
       },
       {
-        "title": "Rhyno Beetle Warriors 3D PRINT",
-        "publish_at": "2026-08-11T13:00:00Z",
-        "link": "https://youtu.be/QamfiXMjUYA"
+        "title": "Vespera Bust 3d PRINT",
+        "publish_at": "2026-08-12T13:00:00Z",
+        "link": "https://youtu.be/4AwxRXthTs8"
       },
       {
-        "title": "Spartan Helmet 3D PRINT",
-        "publish_at": "2026-08-11T15:00:00Z",
-        "link": "https://youtu.be/WP9AqXRvEtQ"
+        "title": "Iron Warrior 3D PRINT",
+        "publish_at": "2026-08-12T15:00:00Z",
+        "link": "https://youtu.be/hDnsxr4gFmE"
       },
       {
-        "title": "Kitsune Spirit Warrior 3D PRINT",
-        "publish_at": "2026-08-11T17:00:00Z",
-        "link": "https://youtu.be/FOZ1ewPUjYg"
+        "title": "Orc Female Warrior 3D Print",
+        "publish_at": "2026-08-12T17:00:00Z",
+        "link": "https://youtu.be/40IZiTAZ5gQ"
       },
       {
-        "title": "Skeleton Warrior 3D PRINT",
-        "publish_at": "2026-08-11T19:00:00Z",
-        "link": "https://youtu.be/jYGnDJJXMf8"
+        "title": "Kobold Warrior 3D Print",
+        "publish_at": "2026-08-12T19:00:00Z",
+        "link": "https://youtu.be/DhjNRtLDVNc"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,15 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-06",
-      "day_number": 7,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 36,
-      "errors": []
-    },
     {
       "date": "2026-08-07",
       "day_number": 8,
@@ -230,9 +221,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-12",
+      "day_number": 17,
+      "uploaded": [
+        {
+          "title": "Dnd Warrior Axe 3D PRINT",
+          "publish_at": "2026-08-12T09:00:00Z",
+          "link": "https://youtu.be/rxcOuIhjkfw"
+        },
+        {
+          "title": "Clara Bust 3D PRINT",
+          "publish_at": "2026-08-12T11:00:00Z",
+          "link": "https://youtu.be/CetJjQTi4vA"
+        },
+        {
+          "title": "Vespera Bust 3d PRINT",
+          "publish_at": "2026-08-12T13:00:00Z",
+          "link": "https://youtu.be/4AwxRXthTs8"
+        },
+        {
+          "title": "Iron Warrior 3D PRINT",
+          "publish_at": "2026-08-12T15:00:00Z",
+          "link": "https://youtu.be/hDnsxr4gFmE"
+        },
+        {
+          "title": "Orc Female Warrior 3D Print",
+          "publish_at": "2026-08-12T17:00:00Z",
+          "link": "https://youtu.be/40IZiTAZ5gQ"
+        },
+        {
+          "title": "Kobold Warrior 3D Print",
+          "publish_at": "2026-08-12T19:00:00Z",
+          "link": "https://youtu.be/DhjNRtLDVNc"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4654749",
+    "https://cults3d.com/:4654801",
+    "https://cults3d.com/:4655839",
+    "https://cults3d.com/:4655880",
+    "https://cults3d.com/:4656102",
+    "https://cults3d.com/:4656139",
     "https://cults3d.com/:4656336",
     "https://cults3d.com/:4656362",
     "https://cults3d.com/:4656436",
@@ -403,6 +440,30 @@
     {
       "video_id": "jYGnDJJXMf8",
       "text": "https://cults3d.com/en/3d-model/art/skeleton-warrior-3d-print"
+    },
+    {
+      "video_id": "rxcOuIhjkfw",
+      "text": "https://cults3d.com/en/3d-model/art/dnd-warrior-axe-3d-print"
+    },
+    {
+      "video_id": "CetJjQTi4vA",
+      "text": "https://cults3d.com/en/3d-model/art/clara-bust-3d-print"
+    },
+    {
+      "video_id": "4AwxRXthTs8",
+      "text": "https://cults3d.com/en/3d-model/art/vespera-bust-3d-print"
+    },
+    {
+      "video_id": "hDnsxr4gFmE",
+      "text": "https://cults3d.com/en/3d-model/art/iron-warrior-3d-print"
+    },
+    {
+      "video_id": "40IZiTAZ5gQ",
+      "text": "https://cults3d.com/en/3d-model/art/orc-female-warrior-3d-print"
+    },
+    {
+      "video_id": "DhjNRtLDVNc",
+      "text": "https://cults3d.com/en/3d-model/art/kobold-warrior-3d-print"
     }
   ]
 }
