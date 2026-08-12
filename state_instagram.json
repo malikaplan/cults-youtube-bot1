@@ -111,11 +111,12 @@
     "https://cults3d.com/en/3d-model/art/iron-warrior-3d-print",
     "https://cults3d.com/en/3d-model/art/orc-female-warrior-3d-print",
     "https://cults3d.com/en/3d-model/art/kobold-warrior-3d-print",
-    "https://cults3d.com/en/3d-model/art/dwarf-warrior-3d-print"
+    "https://cults3d.com/en/3d-model/art/dwarf-warrior-3d-print",
+    "https://cults3d.com/en/3d-model/art/chibi-series-samurai-3d-printable-miniature"
   ],
   "today_date": "2026-08-12",
-  "today_count": 15,
-  "total_posted": 79,
+  "today_count": 16,
+  "total_posted": 80,
   "history": [
     {
       "date": "2026-08-08",
@@ -589,6 +590,12 @@
       "date": "2026-08-12",
       "title": "Dwarf Warrior 3D Print",
       "media_id": "17905699065530613",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Chibi Series: Samurai - 3D Printable Miniature",
+      "media_id": "18115166288485728",
       "fb_media_id": null
     }
   ],
