@@ -114,11 +114,12 @@
     "https://cults3d.com/en/3d-model/art/dwarf-warrior-3d-print",
     "https://cults3d.com/en/3d-model/art/chibi-series-samurai-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-gladiator-3d-printable-miniature",
-    "https://cults3d.com/en/3d-model/art/chibi-series-pirate-3d-printable-miniature"
+    "https://cults3d.com/en/3d-model/art/chibi-series-pirate-3d-printable-miniature",
+    "https://cults3d.com/en/3d-model/art/chibi-series-viking-3d-printable-miniature"
   ],
   "today_date": "2026-08-12",
-  "today_count": 18,
-  "total_posted": 82,
+  "today_count": 19,
+  "total_posted": 83,
   "history": [
     {
       "date": "2026-08-08",
@@ -610,6 +611,12 @@
       "date": "2026-08-12",
       "title": "Chibi Series: Pirate - 3D Printable Miniature",
       "media_id": "18125475199685354",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Chibi Series: Viking - 3D Printable Miniature",
+      "media_id": "18103956845229547",
       "fb_media_id": null
     }
   ],
