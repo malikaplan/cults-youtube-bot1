@@ -105,11 +105,12 @@
     "https://cults3d.com/en/3d-model/art/spartan-helmet-3d-print",
     "https://cults3d.com/en/3d-model/art/kitsune-spirit-warrior-3d-print",
     "https://cults3d.com/en/3d-model/art/skeleton-warrior-3d-print",
-    "https://cults3d.com/en/3d-model/art/dnd-warrior-axe-3d-print"
+    "https://cults3d.com/en/3d-model/art/dnd-warrior-axe-3d-print",
+    "https://cults3d.com/en/3d-model/art/clara-bust-3d-print"
   ],
   "today_date": "2026-08-12",
-  "today_count": 9,
-  "total_posted": 73,
+  "today_count": 10,
+  "total_posted": 74,
   "history": [
     {
       "date": "2026-08-08",
@@ -547,6 +548,12 @@
       "date": "2026-08-12",
       "title": "Dnd Warrior Axe 3D PRINT",
       "media_id": "17960978580178929",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Clara Bust 3D PRINT",
+      "media_id": "18110844533046620",
       "fb_media_id": null
     }
   ],
