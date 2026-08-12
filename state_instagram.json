@@ -116,11 +116,12 @@
     "https://cults3d.com/en/3d-model/art/chibi-series-gladiator-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-pirate-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-viking-3d-printable-miniature",
-    "https://cults3d.com/en/3d-model/art/chibi-series-ninja-3d-printable-miniature"
+    "https://cults3d.com/en/3d-model/art/chibi-series-ninja-3d-printable-miniature",
+    "https://cults3d.com/en/3d-model/art/chibi-series-cowboy-3d-printable-miniature"
   ],
   "today_date": "2026-08-12",
-  "today_count": 20,
-  "total_posted": 84,
+  "today_count": 21,
+  "total_posted": 85,
   "history": [
     {
       "date": "2026-08-08",
@@ -624,6 +625,12 @@
       "date": "2026-08-12",
       "title": "Chibi Series: Ninja - 3D Printable Miniature",
       "media_id": "18106443862874631",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Chibi Series: Cowboy - 3D Printable Miniature",
+      "media_id": "17945017812053528",
       "fb_media_id": null
     }
   ],
