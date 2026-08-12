@@ -98,11 +98,12 @@
     "https://cults3d.com/en/3d-model/tool/megane-air-scoop",
     "https://cults3d.com/en/3d-model/tool/megane-radio-pocket-frame",
     "https://cults3d.com/en/3d-model/tool/megane-cup-holder",
-    "https://cults3d.com/en/3d-model/tool/megane-cup-holder-larger-cups"
+    "https://cults3d.com/en/3d-model/tool/megane-cup-holder-larger-cups",
+    "https://cults3d.com/en/3d-model/tool/megane-3-6-5inch-speaker-adapter-door-speaker-adapter"
   ],
   "today_date": "2026-08-12",
-  "today_count": 2,
-  "total_posted": 66,
+  "today_count": 3,
+  "total_posted": 67,
   "history": [
     {
       "date": "2026-08-08",
@@ -498,6 +499,12 @@
       "date": "2026-08-12",
       "title": "Megane Cup Holder Larger Cups",
       "media_id": "18337278676249207",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Megane 3 6.5inch Speaker Adapter - Door Speaker Adapter",
+      "media_id": "18359235727245655",
       "fb_media_id": null
     }
   ],
