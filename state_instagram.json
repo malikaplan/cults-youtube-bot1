@@ -97,11 +97,12 @@
     "https://cults3d.com/en/3d-model/tool/megane-2-radio-cover",
     "https://cults3d.com/en/3d-model/tool/megane-air-scoop",
     "https://cults3d.com/en/3d-model/tool/megane-radio-pocket-frame",
-    "https://cults3d.com/en/3d-model/tool/megane-cup-holder"
+    "https://cults3d.com/en/3d-model/tool/megane-cup-holder",
+    "https://cults3d.com/en/3d-model/tool/megane-cup-holder-larger-cups"
   ],
   "today_date": "2026-08-12",
-  "today_count": 1,
-  "total_posted": 65,
+  "today_count": 2,
+  "total_posted": 66,
   "history": [
     {
       "date": "2026-08-08",
@@ -491,6 +492,12 @@
       "date": "2026-08-12",
       "title": "Megane Cup Holder",
       "media_id": "17961479049170284",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Megane Cup Holder Larger Cups",
+      "media_id": "18337278676249207",
       "fb_media_id": null
     }
   ],
