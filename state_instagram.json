@@ -103,11 +103,12 @@
     "https://cults3d.com/en/3d-model/tool/megane-rs-brake-duct-motorsport-front-brake-cooling-air-guide",
     "https://cults3d.com/en/3d-model/art/rhyno-beetle-warriors-3d-print",
     "https://cults3d.com/en/3d-model/art/spartan-helmet-3d-print",
-    "https://cults3d.com/en/3d-model/art/kitsune-spirit-warrior-3d-print"
+    "https://cults3d.com/en/3d-model/art/kitsune-spirit-warrior-3d-print",
+    "https://cults3d.com/en/3d-model/art/skeleton-warrior-3d-print"
   ],
   "today_date": "2026-08-12",
-  "today_count": 7,
-  "total_posted": 71,
+  "today_count": 8,
+  "total_posted": 72,
   "history": [
     {
       "date": "2026-08-08",
@@ -533,6 +534,12 @@
       "date": "2026-08-12",
       "title": "Kitsune Spirit Warrior 3D PRINT",
       "media_id": "18112820683993239",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Skeleton Warrior 3D PRINT",
+      "media_id": "18024388478686563",
       "fb_media_id": null
     }
   ],
