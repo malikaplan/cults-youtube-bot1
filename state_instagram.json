@@ -107,11 +107,12 @@
     "https://cults3d.com/en/3d-model/art/skeleton-warrior-3d-print",
     "https://cults3d.com/en/3d-model/art/dnd-warrior-axe-3d-print",
     "https://cults3d.com/en/3d-model/art/clara-bust-3d-print",
-    "https://cults3d.com/en/3d-model/art/vespera-bust-3d-print"
+    "https://cults3d.com/en/3d-model/art/vespera-bust-3d-print",
+    "https://cults3d.com/en/3d-model/art/iron-warrior-3d-print"
   ],
   "today_date": "2026-08-12",
-  "today_count": 11,
-  "total_posted": 75,
+  "today_count": 12,
+  "total_posted": 76,
   "history": [
     {
       "date": "2026-08-08",
@@ -561,6 +562,12 @@
       "date": "2026-08-12",
       "title": "Vespera Bust 3d PRINT",
       "media_id": "17973218897916749",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Iron Warrior 3D PRINT",
+      "media_id": "18099955439611289",
       "fb_media_id": null
     }
   ],
