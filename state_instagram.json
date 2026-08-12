@@ -119,11 +119,12 @@
     "https://cults3d.com/en/3d-model/art/chibi-series-ninja-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-cowboy-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-knight-3d-printable-miniature",
-    "https://cults3d.com/en/3d-model/art/chibi-series-roman-legionary-3d-printable-miniature"
+    "https://cults3d.com/en/3d-model/art/chibi-series-roman-legionary-3d-printable-miniature",
+    "https://cults3d.com/en/3d-model/art/chibi-series-sheriff-3d-printable-miniature"
   ],
   "today_date": "2026-08-12",
-  "today_count": 23,
-  "total_posted": 87,
+  "today_count": 24,
+  "total_posted": 88,
   "history": [
     {
       "date": "2026-08-08",
@@ -645,6 +646,12 @@
       "date": "2026-08-12",
       "title": "Chibi Series: Roman Legionary - 3D Printable Miniature",
       "media_id": "17944393035057145",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-12",
+      "title": "Chibi Series: Sheriff - 3D Printable Miniature",
+      "media_id": "18025053545683221",
       "fb_media_id": null
     }
   ],
