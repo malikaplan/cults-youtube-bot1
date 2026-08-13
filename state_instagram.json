@@ -124,11 +124,12 @@
     "https://cults3d.com/en/3d-model/art/chibi-series-viking-berserker-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-bounty-hunter-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-shaolin-monk-3d-printable-miniature",
-    "https://cults3d.com/en/3d-model/art/chibi-series-medieval-archer-3d-printable-miniature"
+    "https://cults3d.com/en/3d-model/art/chibi-series-medieval-archer-3d-printable-miniature",
+    "https://cults3d.com/en/3d-model/art/chibi-series-royal-king-3d-printable-miniature"
   ],
   "today_date": "2026-08-13",
-  "today_count": 4,
-  "total_posted": 92,
+  "today_count": 5,
+  "total_posted": 93,
   "history": [
     {
       "date": "2026-08-08",
@@ -680,6 +681,12 @@
       "date": "2026-08-13",
       "title": "Chibi Series: Medieval Archer - 3D Printable Miniature",
       "media_id": "18095970290127086",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Chibi Series: Royal King - 3D Printable Miniature",
+      "media_id": "18019130333860373",
       "fb_media_id": null
     }
   ],
