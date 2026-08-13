@@ -1,43 +1,43 @@
 {
-  "next_index": 126,
-  "next_publish_date": "2026-08-13T00:00:00",
-  "run_count": 17,
-  "total_uploaded": 54,
+  "next_index": 132,
+  "next_publish_date": "2026-08-14T00:00:00",
+  "run_count": 18,
+  "total_uploaded": 60,
   "total_models": 1271,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-12",
-    "day_number": 17,
+    "date": "2026-08-13",
+    "day_number": 18,
     "uploaded": [
       {
-        "title": "Dnd Warrior Axe 3D PRINT",
-        "publish_at": "2026-08-12T09:00:00Z",
-        "link": "https://youtu.be/rxcOuIhjkfw"
+        "title": "Dwarf Warrior 3D Print",
+        "publish_at": "2026-08-13T09:00:00Z",
+        "link": "https://youtu.be/I-v7dKGq0pc"
       },
       {
-        "title": "Clara Bust 3D PRINT",
-        "publish_at": "2026-08-12T11:00:00Z",
-        "link": "https://youtu.be/CetJjQTi4vA"
+        "title": "Chibi Series: Samurai - 3D Printable Miniature",
+        "publish_at": "2026-08-13T11:00:00Z",
+        "link": "https://youtu.be/B4yhMId_eEU"
       },
       {
-        "title": "Vespera Bust 3d PRINT",
-        "publish_at": "2026-08-12T13:00:00Z",
-        "link": "https://youtu.be/4AwxRXthTs8"
+        "title": "Chibi Series: Gladiator - 3D Printable Miniature",
+        "publish_at": "2026-08-13T13:00:00Z",
+        "link": "https://youtu.be/pv3CvWRWctc"
       },
       {
-        "title": "Iron Warrior 3D PRINT",
-        "publish_at": "2026-08-12T15:00:00Z",
-        "link": "https://youtu.be/hDnsxr4gFmE"
+        "title": "Chibi Series: Pirate - 3D Printable Miniature",
+        "publish_at": "2026-08-13T15:00:00Z",
+        "link": "https://youtu.be/sTb9fGz3jyI"
       },
       {
-        "title": "Orc Female Warrior 3D Print",
-        "publish_at": "2026-08-12T17:00:00Z",
-        "link": "https://youtu.be/40IZiTAZ5gQ"
+        "title": "Chibi Series: Viking - 3D Printable Miniature",
+        "publish_at": "2026-08-13T17:00:00Z",
+        "link": "https://youtu.be/1RIwfim4VrM"
       },
       {
-        "title": "Kobold Warrior 3D Print",
-        "publish_at": "2026-08-12T19:00:00Z",
-        "link": "https://youtu.be/DhjNRtLDVNc"
+        "title": "Chibi Series: Ninja - 3D Printable Miniature",
+        "publish_at": "2026-08-13T19:00:00Z",
+        "link": "https://youtu.be/rCAs1W4MzQU"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,15 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-07",
-      "day_number": 8,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 36,
-      "errors": []
-    },
     {
       "date": "2026-08-07",
       "day_number": 9,
@@ -261,9 +252,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-13",
+      "day_number": 18,
+      "uploaded": [
+        {
+          "title": "Dwarf Warrior 3D Print",
+          "publish_at": "2026-08-13T09:00:00Z",
+          "link": "https://youtu.be/I-v7dKGq0pc"
+        },
+        {
+          "title": "Chibi Series: Samurai - 3D Printable Miniature",
+          "publish_at": "2026-08-13T11:00:00Z",
+          "link": "https://youtu.be/B4yhMId_eEU"
+        },
+        {
+          "title": "Chibi Series: Gladiator - 3D Printable Miniature",
+          "publish_at": "2026-08-13T13:00:00Z",
+          "link": "https://youtu.be/pv3CvWRWctc"
+        },
+        {
+          "title": "Chibi Series: Pirate - 3D Printable Miniature",
+          "publish_at": "2026-08-13T15:00:00Z",
+          "link": "https://youtu.be/sTb9fGz3jyI"
+        },
+        {
+          "title": "Chibi Series: Viking - 3D Printable Miniature",
+          "publish_at": "2026-08-13T17:00:00Z",
+          "link": "https://youtu.be/1RIwfim4VrM"
+        },
+        {
+          "title": "Chibi Series: Ninja - 3D Printable Miniature",
+          "publish_at": "2026-08-13T19:00:00Z",
+          "link": "https://youtu.be/rCAs1W4MzQU"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4647551",
+    "https://cults3d.com/:4647556",
+    "https://cults3d.com/:4647562",
+    "https://cults3d.com/:4647569",
+    "https://cults3d.com/:4647574",
+    "https://cults3d.com/:4654630",
     "https://cults3d.com/:4654749",
     "https://cults3d.com/:4654801",
     "https://cults3d.com/:4655839",
@@ -464,6 +501,30 @@
     {
       "video_id": "DhjNRtLDVNc",
       "text": "https://cults3d.com/en/3d-model/art/kobold-warrior-3d-print"
+    },
+    {
+      "video_id": "I-v7dKGq0pc",
+      "text": "https://cults3d.com/en/3d-model/art/dwarf-warrior-3d-print"
+    },
+    {
+      "video_id": "B4yhMId_eEU",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-samurai-3d-printable-miniature"
+    },
+    {
+      "video_id": "pv3CvWRWctc",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-gladiator-3d-printable-miniature"
+    },
+    {
+      "video_id": "sTb9fGz3jyI",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-pirate-3d-printable-miniature"
+    },
+    {
+      "video_id": "1RIwfim4VrM",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-viking-3d-printable-miniature"
+    },
+    {
+      "video_id": "rCAs1W4MzQU",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-ninja-3d-printable-miniature"
     }
   ]
 }
