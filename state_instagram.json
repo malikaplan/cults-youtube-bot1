@@ -135,11 +135,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-door-handle-lever-manette-clio-2",
     "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-lever",
     "https://cults3d.com/en/3d-model/tool/renault-clio-197-fog-light-duct-front-bumper-air-inlet",
-    "https://cults3d.com/en/3d-model/tool/renault-clio-expansion-washer-fluid-reservoir-replacement-cap"
+    "https://cults3d.com/en/3d-model/tool/renault-clio-expansion-washer-fluid-reservoir-replacement-cap",
+    "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-trim-bezel-handle-frame"
   ],
   "today_date": "2026-08-13",
-  "today_count": 15,
-  "total_posted": 103,
+  "today_count": 16,
+  "total_posted": 104,
   "history": [
     {
       "date": "2026-08-08",
@@ -757,6 +758,12 @@
       "date": "2026-08-13",
       "title": "Renault Clio Expansion / Washer Fluid Reservoir Replacement Cap",
       "media_id": "17979708252115220",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Renault Clio 2 Interior Trim Bezel / Handle Frame",
+      "media_id": "18058430828777744",
       "fb_media_id": null
     }
   ],
