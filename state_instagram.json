@@ -128,11 +128,12 @@
     "https://cults3d.com/en/3d-model/art/chibi-series-royal-king-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-royal-queen-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/tool/renault-megane-brake-scoop-front-bumper-air-cooling-duct",
-    "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-slider"
+    "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-slider",
+    "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-front"
   ],
   "today_date": "2026-08-13",
-  "today_count": 8,
-  "total_posted": 96,
+  "today_count": 9,
+  "total_posted": 97,
   "history": [
     {
       "date": "2026-08-08",
@@ -708,6 +709,12 @@
       "date": "2026-08-13",
       "title": "Renault Clio 197 Door Pull Strap Slider",
       "media_id": "18105767762168404",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Renault Clio 197 Door Pull Strap Front",
+      "media_id": "18107770580028496",
       "fb_media_id": null
     }
   ],
