@@ -132,11 +132,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-front",
     "https://cults3d.com/en/3d-model/tool/renault-clio-idler-plates-idler-side-2-dayco-belt-tensioner-bracket-plate",
     "https://cults3d.com/en/3d-model/tool/renault-clio-2-1-2-16v-spark-plug-insulator-extension-isolant-bougie",
-    "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-door-handle-lever-manette-clio-2"
+    "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-door-handle-lever-manette-clio-2",
+    "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-lever"
   ],
   "today_date": "2026-08-13",
-  "today_count": 12,
-  "total_posted": 100,
+  "today_count": 13,
+  "total_posted": 101,
   "history": [
     {
       "date": "2026-08-08",
@@ -736,6 +737,12 @@
       "date": "2026-08-13",
       "title": "Renault Clio 2 Interior Door Handle / Lever (Manette Clio 2)",
       "media_id": "18111377102002159",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Renault Clio 197 Door Pull Strap Lever",
+      "media_id": "18120286405884243",
       "fb_media_id": null
     }
   ],
