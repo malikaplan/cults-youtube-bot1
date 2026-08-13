@@ -121,11 +121,12 @@
     "https://cults3d.com/en/3d-model/art/chibi-series-knight-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-roman-legionary-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-sheriff-3d-printable-miniature",
-    "https://cults3d.com/en/3d-model/art/chibi-series-viking-berserker-3d-printable-miniature"
+    "https://cults3d.com/en/3d-model/art/chibi-series-viking-berserker-3d-printable-miniature",
+    "https://cults3d.com/en/3d-model/art/chibi-series-bounty-hunter-3d-printable-miniature"
   ],
   "today_date": "2026-08-13",
-  "today_count": 1,
-  "total_posted": 89,
+  "today_count": 2,
+  "total_posted": 90,
   "history": [
     {
       "date": "2026-08-08",
@@ -659,6 +660,12 @@
       "date": "2026-08-13",
       "title": "Chibi Series: Viking Berserker - 3D Printable Miniature",
       "media_id": "18192063304385621",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Chibi Series: Bounty Hunter - 3D Printable Miniature",
+      "media_id": "18386470801164501",
       "fb_media_id": null
     }
   ],
