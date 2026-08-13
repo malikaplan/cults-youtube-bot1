@@ -126,11 +126,12 @@
     "https://cults3d.com/en/3d-model/art/chibi-series-shaolin-monk-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-medieval-archer-3d-printable-miniature",
     "https://cults3d.com/en/3d-model/art/chibi-series-royal-king-3d-printable-miniature",
-    "https://cults3d.com/en/3d-model/art/chibi-series-royal-queen-3d-printable-miniature"
+    "https://cults3d.com/en/3d-model/art/chibi-series-royal-queen-3d-printable-miniature",
+    "https://cults3d.com/en/3d-model/tool/renault-megane-brake-scoop-front-bumper-air-cooling-duct"
   ],
   "today_date": "2026-08-13",
-  "today_count": 6,
-  "total_posted": 94,
+  "today_count": 7,
+  "total_posted": 95,
   "history": [
     {
       "date": "2026-08-08",
@@ -694,6 +695,12 @@
       "date": "2026-08-13",
       "title": "Chibi Series: Royal Queen - 3D Printable Miniature",
       "media_id": "18059740394769734",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-13",
+      "title": "Renault Megane Brake Scoop - Front Bumper Air Cooling Duct",
+      "media_id": "18068839136713437",
       "fb_media_id": null
     }
   ],
