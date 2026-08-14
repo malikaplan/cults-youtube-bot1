@@ -157,11 +157,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-clio-cup-holder-console-bottle-mount",
     "https://cults3d.com/en/3d-model/tool/renault-clio-172-alternator-mount-bracket-component",
     "https://cults3d.com/en/3d-model/tool/renault-clio-1-din-radio-blende-stereo-facia-frame",
-    "https://cults3d.com/en/3d-model/tool/renault-clio-2-air-vent-with-instrument-hole-gauge-pod"
+    "https://cults3d.com/en/3d-model/tool/renault-clio-2-air-vent-with-instrument-hole-gauge-pod",
+    "https://cults3d.com/en/3d-model/tool/renault-clio-air-inlet-intake-tube"
   ],
   "today_date": "2026-08-14",
-  "today_count": 13,
-  "total_posted": 125,
+  "today_count": 14,
+  "total_posted": 126,
   "history": [
     {
       "date": "2026-08-08",
@@ -911,6 +912,12 @@
       "date": "2026-08-14",
       "title": "Renault Clio 2 Air Vent with Instrument Hole - Gauge Pod",
       "media_id": "18419313490146753",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Renault Clio Air Inlet - Intake Tube",
+      "media_id": "18096706061575356",
       "fb_media_id": null
     }
   ],
