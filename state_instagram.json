@@ -166,11 +166,12 @@
     "https://cults3d.com/en/3d-model/tool/clio-switch-7-seg-button",
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-26-switch-blank",
     "https://cults3d.com/en/3d-model/tool/nissan-key-fob-replacement-buttons",
-    "https://cults3d.com/en/3d-model/tool/nikko-nissan-cube-air-intake"
+    "https://cults3d.com/en/3d-model/tool/nikko-nissan-cube-air-intake",
+    "https://cults3d.com/en/3d-model/tool/nissan-370z-strut-tower-brace-bolt-cover"
   ],
   "today_date": "2026-08-14",
-  "today_count": 22,
-  "total_posted": 134,
+  "today_count": 23,
+  "total_posted": 135,
   "history": [
     {
       "date": "2026-08-08",
@@ -974,6 +975,12 @@
       "date": "2026-08-14",
       "title": "Nikko Nissan Cube Air Intake",
       "media_id": "18083410832673274",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Nissan 370Z Strut Tower Brace Bolt Cover",
+      "media_id": "18021505211883841",
       "fb_media_id": null
     }
   ],
