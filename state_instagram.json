@@ -161,11 +161,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-clio-air-inlet-intake-tube",
     "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-door-handle",
     "https://cults3d.com/en/3d-model/tool/bremse-adapter-clio-s2000",
-    "https://cults3d.com/en/3d-model/tool/renault-clio-air-vent-grille"
+    "https://cults3d.com/en/3d-model/tool/renault-clio-air-vent-grille",
+    "https://cults3d.com/en/3d-model/tool/clio-rocker-garage-door-opener"
   ],
   "today_date": "2026-08-14",
-  "today_count": 17,
-  "total_posted": 129,
+  "today_count": 18,
+  "total_posted": 130,
   "history": [
     {
       "date": "2026-08-08",
@@ -939,6 +940,12 @@
       "date": "2026-08-14",
       "title": "Renault Clio Air Vent Grille",
       "media_id": "17900853771546759",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Clio Rocker - Garage Door Opener",
+      "media_id": "18389985721167109",
       "fb_media_id": null
     }
   ],
