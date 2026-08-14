@@ -162,11 +162,12 @@
     "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-door-handle",
     "https://cults3d.com/en/3d-model/tool/bremse-adapter-clio-s2000",
     "https://cults3d.com/en/3d-model/tool/renault-clio-air-vent-grille",
-    "https://cults3d.com/en/3d-model/tool/clio-rocker-garage-door-opener"
+    "https://cults3d.com/en/3d-model/tool/clio-rocker-garage-door-opener",
+    "https://cults3d.com/en/3d-model/tool/clio-switch-7-seg-button"
   ],
   "today_date": "2026-08-14",
-  "today_count": 18,
-  "total_posted": 130,
+  "today_count": 19,
+  "total_posted": 131,
   "history": [
     {
       "date": "2026-08-08",
@@ -946,6 +947,12 @@
       "date": "2026-08-14",
       "title": "Clio Rocker - Garage Door Opener",
       "media_id": "18389985721167109",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Clio Switch - 7 Seg Button",
+      "media_id": "18107402765158916",
       "fb_media_id": null
     }
   ],
