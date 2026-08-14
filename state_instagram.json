@@ -165,11 +165,12 @@
     "https://cults3d.com/en/3d-model/tool/clio-rocker-garage-door-opener",
     "https://cults3d.com/en/3d-model/tool/clio-switch-7-seg-button",
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-26-switch-blank",
-    "https://cults3d.com/en/3d-model/tool/nissan-key-fob-replacement-buttons"
+    "https://cults3d.com/en/3d-model/tool/nissan-key-fob-replacement-buttons",
+    "https://cults3d.com/en/3d-model/tool/nikko-nissan-cube-air-intake"
   ],
   "today_date": "2026-08-14",
-  "today_count": 21,
-  "total_posted": 133,
+  "today_count": 22,
+  "total_posted": 134,
   "history": [
     {
       "date": "2026-08-08",
@@ -967,6 +968,12 @@
       "date": "2026-08-14",
       "title": "Nissan Key Fob Replacement Buttons",
       "media_id": "18095561762632701",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Nikko Nissan Cube Air Intake",
+      "media_id": "18083410832673274",
       "fb_media_id": null
     }
   ],
