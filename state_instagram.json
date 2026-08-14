@@ -163,11 +163,12 @@
     "https://cults3d.com/en/3d-model/tool/bremse-adapter-clio-s2000",
     "https://cults3d.com/en/3d-model/tool/renault-clio-air-vent-grille",
     "https://cults3d.com/en/3d-model/tool/clio-rocker-garage-door-opener",
-    "https://cults3d.com/en/3d-model/tool/clio-switch-7-seg-button"
+    "https://cults3d.com/en/3d-model/tool/clio-switch-7-seg-button",
+    "https://cults3d.com/en/3d-model/tool/nissan-frontier-26-switch-blank"
   ],
   "today_date": "2026-08-14",
-  "today_count": 19,
-  "total_posted": 131,
+  "today_count": 20,
+  "total_posted": 132,
   "history": [
     {
       "date": "2026-08-08",
@@ -953,6 +954,12 @@
       "date": "2026-08-14",
       "title": "Clio Switch - 7 Seg Button",
       "media_id": "18107402765158916",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-14",
+      "title": "Nissan Frontier 26 Switch Blank",
+      "media_id": "17982158667063471",
       "fb_media_id": null
     }
   ],
