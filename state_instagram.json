@@ -175,11 +175,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip",
     "https://cults3d.com/en/3d-model/tool/nissan-720-ac-fan",
     "https://cults3d.com/en/3d-model/tool/nissan-sentra-gauge-pods-legacy-bm-br-vent-gauge-pod-double-dual-gauge-holder",
-    "https://cults3d.com/en/3d-model/tool/nissan-h7-led-bracket-headlight-led-mount-lighting-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-h7-led-bracket-headlight-led-mount-lighting-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-patrol-wiper-support"
   ],
   "today_date": "2026-08-15",
-  "today_count": 7,
-  "total_posted": 143,
+  "today_count": 8,
+  "total_posted": 144,
   "history": [
     {
       "date": "2026-08-08",
@@ -1037,6 +1038,12 @@
       "date": "2026-08-15",
       "title": "Nissan H7 LED Bracket (Headlight LED Mount / Lighting Component)",
       "media_id": "18069697820468634",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Nissan Patrol Wiper Support",
+      "media_id": "18101655292971258",
       "fb_media_id": null
     }
   ],
