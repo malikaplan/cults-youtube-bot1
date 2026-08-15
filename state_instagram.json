@@ -172,11 +172,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-air-circulation-knob",
     "https://cults3d.com/en/3d-model/tool/nissan-radio-delete-functional-interior-trim-part",
     "https://cults3d.com/en/3d-model/tool/nissan-vape-mount-adjustment",
-    "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip"
+    "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip",
+    "https://cults3d.com/en/3d-model/tool/nissan-720-ac-fan"
   ],
   "today_date": "2026-08-15",
-  "today_count": 4,
-  "total_posted": 140,
+  "today_count": 5,
+  "total_posted": 141,
   "history": [
     {
       "date": "2026-08-08",
@@ -1016,6 +1017,12 @@
       "date": "2026-08-15",
       "title": "Nissan Bonnet Clip",
       "media_id": "18122743069858107",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Nissan 720 AC Fan",
+      "media_id": "18111118508091863",
       "fb_media_id": null
     }
   ],
