@@ -186,11 +186,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-720-shifter-knob",
     "https://cults3d.com/en/3d-model/tool/nissan-speaker-grill-smooth",
     "https://cults3d.com/en/3d-model/tool/nissan-relay-cc-mount",
-    "https://cults3d.com/en/3d-model/tool/tomica-nissan-gt-r-direction-trim"
+    "https://cults3d.com/en/3d-model/tool/tomica-nissan-gt-r-direction-trim",
+    "https://cults3d.com/en/3d-model/tool/nissan-rear-cups-holder"
   ],
   "today_date": "2026-08-15",
-  "today_count": 18,
-  "total_posted": 154,
+  "today_count": 19,
+  "total_posted": 155,
   "history": [
     {
       "date": "2026-08-08",
@@ -1114,6 +1115,12 @@
       "date": "2026-08-15",
       "title": "Tomica Nissan GT‑R Direction Trim",
       "media_id": "18111260494809396",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Nissan Rear Cups Holder",
+      "media_id": "17899532559554867",
       "fb_media_id": null
     }
   ],
