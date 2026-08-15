@@ -188,11 +188,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-relay-cc-mount",
     "https://cults3d.com/en/3d-model/tool/tomica-nissan-gt-r-direction-trim",
     "https://cults3d.com/en/3d-model/tool/nissan-rear-cups-holder",
-    "https://cults3d.com/en/3d-model/tool/nissan-halter-cover-holder-protective-mount-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-halter-cover-holder-protective-mount-component",
+    "https://cults3d.com/en/3d-model/tool/vw-golf-cluster-right-side-dashboard-component-instrument-panel-part"
   ],
   "today_date": "2026-08-15",
-  "today_count": 20,
-  "total_posted": 156,
+  "today_count": 21,
+  "total_posted": 157,
   "history": [
     {
       "date": "2026-08-08",
@@ -1128,6 +1129,12 @@
       "date": "2026-08-15",
       "title": "Nissan Halter Cover Holder / Protective Mount Component",
       "media_id": "18192481855389113",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-15",
+      "title": "VW Golf Cluster Right Side (Dashboard Component / Instrument Panel Part)",
+      "media_id": "17942442135288975",
       "fb_media_id": null
     }
   ],
