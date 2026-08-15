@@ -171,11 +171,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-brake-bleeder",
     "https://cults3d.com/en/3d-model/tool/nissan-air-circulation-knob",
     "https://cults3d.com/en/3d-model/tool/nissan-radio-delete-functional-interior-trim-part",
-    "https://cults3d.com/en/3d-model/tool/nissan-vape-mount-adjustment"
+    "https://cults3d.com/en/3d-model/tool/nissan-vape-mount-adjustment",
+    "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip"
   ],
   "today_date": "2026-08-15",
-  "today_count": 3,
-  "total_posted": 139,
+  "today_count": 4,
+  "total_posted": 140,
   "history": [
     {
       "date": "2026-08-08",
@@ -1009,6 +1010,12 @@
       "date": "2026-08-15",
       "title": "Nissan Vape Mount Adjustment",
       "media_id": "17942565903084828",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-15",
+      "title": "Nissan Bonnet Clip",
+      "media_id": "18122743069858107",
       "fb_media_id": null
     }
   ],
