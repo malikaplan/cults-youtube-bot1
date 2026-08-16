@@ -212,11 +212,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-8318g-door-handle-interior-exterior-door-component",
     "https://cults3d.com/en/3d-model/tool/nissan-patrol-funnel-oil-fuel-filling-adapter-component",
     "https://cults3d.com/en/3d-model/tool/predator-212-oil-cap-engine-oil-cover-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-230v-plug-vehicle-power-outlet-electrical-adapter-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-230v-plug-vehicle-power-outlet-electrical-adapter-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-navara-tappo"
   ],
   "today_date": "2026-08-16",
-  "today_count": 20,
-  "total_posted": 180,
+  "today_count": 21,
+  "total_posted": 181,
   "history": [
     {
       "date": "2026-08-08",
@@ -1296,6 +1297,12 @@
       "date": "2026-08-16",
       "title": "Nissan 230V Plug (Vehicle Power Outlet / Electrical Adapter Component)",
       "media_id": "18130312159648228",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Navara Tappo",
+      "media_id": "18125993272665775",
       "fb_media_id": null
     }
   ],
