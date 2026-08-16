@@ -204,11 +204,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-truck-vent-ventilation-trim-component",
     "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip-front-trim-hood-fastener-component-2-version",
     "https://cults3d.com/en/3d-model/tool/nissan-button-cover-control-panel-interior-console-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-blende-hinten-rear-cover-trim-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-blende-hinten-rear-cover-trim-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-hood-vent-engine-cooling-aerodynamic-component"
   ],
   "today_date": "2026-08-16",
-  "today_count": 12,
-  "total_posted": 172,
+  "today_count": 13,
+  "total_posted": 173,
   "history": [
     {
       "date": "2026-08-08",
@@ -1240,6 +1241,12 @@
       "date": "2026-08-16",
       "title": "Nissan Blende hinten (Rear Cover / Trim Component)",
       "media_id": "18127878463709277",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Hood Vent (Engine Cooling / Aerodynamic Component)",
+      "media_id": "18325035904263187",
       "fb_media_id": null
     }
   ],
