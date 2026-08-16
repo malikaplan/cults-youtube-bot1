@@ -201,11 +201,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-latch-locking-mechanism-component",
     "https://cults3d.com/en/3d-model/tool/nissan-cluster-instrument-panel-dashboard-component",
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-engine-splash-shield-cover-lower-2013-2024",
-    "https://cults3d.com/en/3d-model/tool/nissan-truck-vent-ventilation-trim-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-truck-vent-ventilation-trim-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip-front-trim-hood-fastener-component-2-version"
   ],
   "today_date": "2026-08-16",
-  "today_count": 9,
-  "total_posted": 169,
+  "today_count": 10,
+  "total_posted": 170,
   "history": [
     {
       "date": "2026-08-08",
@@ -1219,6 +1220,12 @@
       "date": "2026-08-16",
       "title": "Nissan Truck Vent (Ventilation / Trim Component)",
       "media_id": "18123116608840484",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Bonnet Clip (Front Trim / Hood Fastener Component) 2 version",
+      "media_id": "17988808475846868",
       "fb_media_id": null
     }
   ],
