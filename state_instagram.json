@@ -197,11 +197,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-spotlight-covers-fog-light-auxiliary-lamp-protection",
     "https://cults3d.com/en/3d-model/tool/nissan-part-ac-air-conditioning-component",
     "https://cults3d.com/en/3d-model/tool/nissan-maxima-grommet-rubber-seal-mounting-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-spiegelhalter-mirror-holder-side-mirror-mount-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-spiegelhalter-mirror-holder-side-mirror-mount-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-latch-locking-mechanism-component"
   ],
   "today_date": "2026-08-16",
-  "today_count": 5,
-  "total_posted": 165,
+  "today_count": 6,
+  "total_posted": 166,
   "history": [
     {
       "date": "2026-08-08",
@@ -1191,6 +1192,12 @@
       "date": "2026-08-16",
       "title": "Nissan Spiegelhalter (Mirror Holder / Side Mirror Mount Component)",
       "media_id": "17877809595528230",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Latch (Locking Mechanism Component)",
+      "media_id": "18118913714483404",
       "fb_media_id": null
     }
   ],
