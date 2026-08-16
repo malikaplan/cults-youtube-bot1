@@ -211,11 +211,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-ze1-lock-pin-gear-door-lock-gear-component",
     "https://cults3d.com/en/3d-model/tool/nissan-8318g-door-handle-interior-exterior-door-component",
     "https://cults3d.com/en/3d-model/tool/nissan-patrol-funnel-oil-fuel-filling-adapter-component",
-    "https://cults3d.com/en/3d-model/tool/predator-212-oil-cap-engine-oil-cover-component"
+    "https://cults3d.com/en/3d-model/tool/predator-212-oil-cap-engine-oil-cover-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-230v-plug-vehicle-power-outlet-electrical-adapter-component"
   ],
   "today_date": "2026-08-16",
-  "today_count": 19,
-  "total_posted": 179,
+  "today_count": 20,
+  "total_posted": 180,
   "history": [
     {
       "date": "2026-08-08",
@@ -1289,6 +1290,12 @@
       "date": "2026-08-16",
       "title": "Predator 212 Oil Cap (Engine Oil Cover Component)",
       "media_id": "18126294760740742",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan 230V Plug (Vehicle Power Outlet / Electrical Adapter Component)",
+      "media_id": "18130312159648228",
       "fb_media_id": null
     }
   ],
