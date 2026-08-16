@@ -1,43 +1,43 @@
 {
-  "next_index": 150,
-  "next_publish_date": "2026-08-17T00:00:00",
-  "run_count": 21,
-  "total_uploaded": 78,
+  "next_index": 156,
+  "next_publish_date": "2026-08-18T00:00:00",
+  "run_count": 22,
+  "total_uploaded": 84,
   "total_models": 1271,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-08-16",
-    "day_number": 21,
+    "day_number": 22,
     "uploaded": [
       {
-        "title": "Renault Clio 197 Door Pull Strap Front",
-        "publish_at": "2026-08-16T09:00:00Z",
-        "link": "https://youtu.be/z-vzgRxtMuw"
+        "title": "Renault Clio Expansion / Washer Fluid Reservoir Replacement Cap",
+        "publish_at": "2026-08-17T09:00:00Z",
+        "link": "https://youtu.be/ekyvcZ_YZf0"
       },
       {
-        "title": "Renault Clio Idler Plates / Idler Side 2 Dayco - Belt Tensioner Bracket Plate",
-        "publish_at": "2026-08-16T11:00:00Z",
-        "link": "https://youtu.be/0-1RhOvwxUw"
+        "title": "Renault Clio 2 Interior Trim Bezel / Handle Frame",
+        "publish_at": "2026-08-17T11:00:00Z",
+        "link": "https://youtu.be/7shQPLl73iU"
       },
       {
-        "title": "Renault Clio 2 1.2 16V Spark Plug Insulator / Extension (Isolant Bougie)",
-        "publish_at": "2026-08-16T13:00:00Z",
-        "link": "https://youtu.be/4pmo_5f4c3I"
+        "title": "Renault Clio 2 RS Vertical Headlight Support Bracket - Support Vertical Optique",
+        "publish_at": "2026-08-17T13:00:00Z",
+        "link": "https://youtu.be/xMFwVyKK7MY"
       },
       {
-        "title": "Renault Clio 2 Interior Door Handle / Lever (Manette Clio 2)",
-        "publish_at": "2026-08-16T15:00:00Z",
-        "link": "https://youtu.be/VFIf9d1KYuA"
+        "title": "Renault Clio Headlight / Seatbelt Height Adjustment Retainer - Hoogte Clip",
+        "publish_at": "2026-08-17T15:00:00Z",
+        "link": "https://youtu.be/WxIektS5FH4"
       },
       {
-        "title": "Renault Clio 197 Door Pull Strap Lever",
-        "publish_at": "2026-08-16T17:00:00Z",
-        "link": "https://youtu.be/dFdJa4BMzHQ"
+        "title": "Renault Clio EDC Gear Shifter Light Guide / Position Indicator Trim",
+        "publish_at": "2026-08-17T17:00:00Z",
+        "link": "https://youtu.be/mbNXbj7b4_c"
       },
       {
-        "title": "Renault Clio 197 Fog Light Duct - Front Bumper Air Inlet",
-        "publish_at": "2026-08-16T19:00:00Z",
-        "link": "https://youtu.be/NmjJBaPD6CU"
+        "title": "Renault Trunk Hook Main Body - Boot Cargo Clip",
+        "publish_at": "2026-08-17T19:00:00Z",
+        "link": "https://youtu.be/SwlsZK19Rc4"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,17 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-08",
-      "day_number": 12,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "Renault Twingo Door Handle - Grab Part (Griffteil): name '_PAGE_SESSION' is not defined"
-      ]
-    },
     {
       "date": "2026-08-08",
       "day_number": 13,
@@ -385,9 +374,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-16",
+      "day_number": 22,
+      "uploaded": [
+        {
+          "title": "Renault Clio Expansion / Washer Fluid Reservoir Replacement Cap",
+          "publish_at": "2026-08-17T09:00:00Z",
+          "link": "https://youtu.be/ekyvcZ_YZf0"
+        },
+        {
+          "title": "Renault Clio 2 Interior Trim Bezel / Handle Frame",
+          "publish_at": "2026-08-17T11:00:00Z",
+          "link": "https://youtu.be/7shQPLl73iU"
+        },
+        {
+          "title": "Renault Clio 2 RS Vertical Headlight Support Bracket - Support Vertical Optique",
+          "publish_at": "2026-08-17T13:00:00Z",
+          "link": "https://youtu.be/xMFwVyKK7MY"
+        },
+        {
+          "title": "Renault Clio Headlight / Seatbelt Height Adjustment Retainer - Hoogte Clip",
+          "publish_at": "2026-08-17T15:00:00Z",
+          "link": "https://youtu.be/WxIektS5FH4"
+        },
+        {
+          "title": "Renault Clio EDC Gear Shifter Light Guide / Position Indicator Trim",
+          "publish_at": "2026-08-17T17:00:00Z",
+          "link": "https://youtu.be/mbNXbj7b4_c"
+        },
+        {
+          "title": "Renault Trunk Hook Main Body - Boot Cargo Clip",
+          "publish_at": "2026-08-17T19:00:00Z",
+          "link": "https://youtu.be/SwlsZK19Rc4"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4640645",
+    "https://cults3d.com/:4640656",
+    "https://cults3d.com/:4640673",
+    "https://cults3d.com/:4640712",
+    "https://cults3d.com/:4640733",
+    "https://cults3d.com/:4640830",
     "https://cults3d.com/:4640908",
     "https://cults3d.com/:4640927",
     "https://cults3d.com/:4641009",
@@ -546,14 +581,6 @@
       "text": "https://cults3d.com/en/3d-model/art/spartan-helmet-3d-print"
     },
     {
-      "video_id": "z-vzgRxtMuw",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-front"
-    },
-    {
-      "video_id": "0-1RhOvwxUw",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-idler-plates-idler-side-2-dayco-belt-tensioner-bracket-plate"
-    },
-    {
       "video_id": "4pmo_5f4c3I",
       "text": "https://cults3d.com/en/3d-model/tool/renault-clio-2-1-2-16v-spark-plug-insulator-extension-isolant-bougie"
     },
@@ -568,6 +595,30 @@
     {
       "video_id": "NmjJBaPD6CU",
       "text": "https://cults3d.com/en/3d-model/tool/renault-clio-197-fog-light-duct-front-bumper-air-inlet"
+    },
+    {
+      "video_id": "ekyvcZ_YZf0",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-expansion-washer-fluid-reservoir-replacement-cap"
+    },
+    {
+      "video_id": "7shQPLl73iU",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-trim-bezel-handle-frame"
+    },
+    {
+      "video_id": "xMFwVyKK7MY",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-2-rs-vertical-headlight-support-bracket-support-vertical-optique"
+    },
+    {
+      "video_id": "WxIektS5FH4",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-headlight-seatbelt-height-adjustment-retainer-hoogte-clip"
+    },
+    {
+      "video_id": "mbNXbj7b4_c",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-edc-gear-shifter-light-guide-position-indicator-trim"
+    },
+    {
+      "video_id": "SwlsZK19Rc4",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     }
   ]
 }
