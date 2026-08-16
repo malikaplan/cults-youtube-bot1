@@ -193,11 +193,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-altima-tweeter-mount",
     "https://cults3d.com/en/3d-model/tool/nissan-patrol-clock-support-interior-console-component-clock-holder",
     "https://cults3d.com/en/3d-model/tool/nissan-vg30-distributor-cover-engine-component-protective-cap",
-    "https://cults3d.com/en/3d-model/tool/nissan-leaf-hatch-handle-rear-trunk-grip-cover-mechanism"
+    "https://cults3d.com/en/3d-model/tool/nissan-leaf-hatch-handle-rear-trunk-grip-cover-mechanism",
+    "https://cults3d.com/en/3d-model/tool/nissan-spotlight-covers-fog-light-auxiliary-lamp-protection"
   ],
   "today_date": "2026-08-16",
-  "today_count": 1,
-  "total_posted": 161,
+  "today_count": 2,
+  "total_posted": 162,
   "history": [
     {
       "date": "2026-08-08",
@@ -1163,6 +1164,12 @@
       "date": "2026-08-16",
       "title": "Nissan Leaf Hatch Handle (Rear Trunk Grip / Cover Mechanism)",
       "media_id": "18162923641415871",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Spotlight Covers (Fog Light / Auxiliary Lamp Protection)",
+      "media_id": "17869542840635194",
       "fb_media_id": null
     }
   ],
