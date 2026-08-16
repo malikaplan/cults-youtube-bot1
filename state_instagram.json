@@ -196,11 +196,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-hatch-handle-rear-trunk-grip-cover-mechanism",
     "https://cults3d.com/en/3d-model/tool/nissan-spotlight-covers-fog-light-auxiliary-lamp-protection",
     "https://cults3d.com/en/3d-model/tool/nissan-part-ac-air-conditioning-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-maxima-grommet-rubber-seal-mounting-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-maxima-grommet-rubber-seal-mounting-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-spiegelhalter-mirror-holder-side-mirror-mount-component"
   ],
   "today_date": "2026-08-16",
-  "today_count": 4,
-  "total_posted": 164,
+  "today_count": 5,
+  "total_posted": 165,
   "history": [
     {
       "date": "2026-08-08",
@@ -1184,6 +1185,12 @@
       "date": "2026-08-16",
       "title": "Nissan Maxima Grommet (Rubber Seal / Mounting Component)",
       "media_id": "18066852173742710",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Spiegelhalter (Mirror Holder / Side Mirror Mount Component)",
+      "media_id": "17877809595528230",
       "fb_media_id": null
     }
   ],
