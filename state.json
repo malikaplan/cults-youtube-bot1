@@ -1,13 +1,13 @@
 {
   "next_index": 156,
   "next_publish_date": "2026-08-18T00:00:00",
-  "run_count": 23,
+  "run_count": 24,
   "total_uploaded": 84,
   "total_models": 1271,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-08-16",
-    "day_number": 23,
+    "day_number": 24,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,46 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-08-09",
-      "day_number": 14,
-      "uploaded": [
-        {
-          "title": "Renault Kadjar / Nissan Qashqai Sun Visor Vanity Mirror Cover",
-          "publish_at": "2026-08-10T09:00:00Z",
-          "link": "https://youtu.be/H2RGj25wjOk"
-        },
-        {
-          "title": "Renault Kadjar Door Panel Trim Rivet / Fastener Clip",
-          "publish_at": "2026-08-10T11:00:00Z",
-          "link": "https://youtu.be/04k6rKpKlgQ"
-        },
-        {
-          "title": "Renault Kadjar Parcel Shelf / Luggage Cover Retainer Bracket",
-          "publish_at": "2026-08-10T13:00:00Z",
-          "link": "https://youtu.be/tjvpmKpzCts"
-        },
-        {
-          "title": "Renault Kadjar Mounting Bracket / Support Holder",
-          "publish_at": "2026-08-10T15:00:00Z",
-          "link": "https://youtu.be/9nTgxIwzI6c"
-        },
-        {
-          "title": "Renault Kadjar Wireless Charger Console Pad",
-          "publish_at": "2026-08-10T17:00:00Z",
-          "link": "https://youtu.be/28rdfn13OO4"
-        },
-        {
-          "title": "Renault Megane Seat Belt Pillar Trim Cap",
-          "publish_at": "2026-08-10T19:00:00Z",
-          "link": "https://youtu.be/jsk2GP46pDs"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-09",
       "day_number": 15,
@@ -349,6 +309,17 @@
     {
       "date": "2026-08-16",
       "day_number": 23,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "Renault Clio Multimedia Volume Knob - Ruleta Volumen Replacement: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">"
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "day_number": 24,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
