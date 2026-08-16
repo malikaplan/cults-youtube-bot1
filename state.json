@@ -1,43 +1,43 @@
 {
-  "next_index": 138,
-  "next_publish_date": "2026-08-15T00:00:00",
-  "run_count": 19,
-  "total_uploaded": 66,
+  "next_index": 144,
+  "next_publish_date": "2026-08-16T00:00:00",
+  "run_count": 20,
+  "total_uploaded": 72,
   "total_models": 1271,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-14",
-    "day_number": 19,
+    "date": "2026-08-16",
+    "day_number": 20,
     "uploaded": [
       {
-        "title": "Chibi Series: Cowboy - 3D Printable Miniature",
-        "publish_at": "2026-08-14T09:00:00Z",
-        "link": "https://youtu.be/hK8NtcWG_4o"
+        "title": "Chibi Series: Shaolin Monk - 3D Printable Miniature",
+        "publish_at": "2026-08-15T09:00:00Z",
+        "link": "https://youtu.be/jy1CGvekoHo"
       },
       {
-        "title": "Chibi Series: Knight - 3D Printable Miniature",
-        "publish_at": "2026-08-14T11:00:00Z",
-        "link": "https://youtu.be/ddudjWXzc8Q"
+        "title": "Chibi Series: Medieval Archer - 3D Printable Miniature",
+        "publish_at": "2026-08-15T11:00:00Z",
+        "link": "https://youtu.be/deT6VJAuNv0"
       },
       {
-        "title": "Chibi Series: Roman Legionary - 3D Printable Miniature",
-        "publish_at": "2026-08-14T13:00:00Z",
-        "link": "https://youtu.be/drQGsfzL848"
+        "title": "Chibi Series: Royal King - 3D Printable Miniature",
+        "publish_at": "2026-08-15T13:00:00Z",
+        "link": "https://youtu.be/VErDPwhnhEY"
       },
       {
-        "title": "Chibi Series: Sheriff - 3D Printable Miniature",
-        "publish_at": "2026-08-14T15:00:00Z",
-        "link": "https://youtu.be/TTSb9OUzCGI"
+        "title": "Chibi Series: Royal Queen - 3D Printable Miniature",
+        "publish_at": "2026-08-15T15:00:00Z",
+        "link": "https://youtu.be/MbmIwR6NeNc"
       },
       {
-        "title": "Chibi Series: Viking Berserker - 3D Printable Miniature",
-        "publish_at": "2026-08-14T17:00:00Z",
-        "link": "https://youtu.be/aYtEzTVKLiY"
+        "title": "Renault Megane Brake Scoop - Front Bumper Air Cooling Duct",
+        "publish_at": "2026-08-15T17:00:00Z",
+        "link": "https://youtu.be/O7o4lfakLs4"
       },
       {
-        "title": "Chibi Series: Bounty Hunter - 3D Printable Miniature",
-        "publish_at": "2026-08-14T19:00:00Z",
-        "link": "https://youtu.be/RFE1mh7no2M"
+        "title": "Renault Clio 197 Door Pull Strap Slider",
+        "publish_at": "2026-08-15T19:00:00Z",
+        "link": "https://youtu.be/w1h1kZ6knhk"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,15 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-08",
-      "day_number": 10,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 36,
-      "errors": []
-    },
     {
       "date": "2026-08-08",
       "day_number": 11,
@@ -323,9 +314,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-16",
+      "day_number": 20,
+      "uploaded": [
+        {
+          "title": "Chibi Series: Shaolin Monk - 3D Printable Miniature",
+          "publish_at": "2026-08-15T09:00:00Z",
+          "link": "https://youtu.be/jy1CGvekoHo"
+        },
+        {
+          "title": "Chibi Series: Medieval Archer - 3D Printable Miniature",
+          "publish_at": "2026-08-15T11:00:00Z",
+          "link": "https://youtu.be/deT6VJAuNv0"
+        },
+        {
+          "title": "Chibi Series: Royal King - 3D Printable Miniature",
+          "publish_at": "2026-08-15T13:00:00Z",
+          "link": "https://youtu.be/VErDPwhnhEY"
+        },
+        {
+          "title": "Chibi Series: Royal Queen - 3D Printable Miniature",
+          "publish_at": "2026-08-15T15:00:00Z",
+          "link": "https://youtu.be/MbmIwR6NeNc"
+        },
+        {
+          "title": "Renault Megane Brake Scoop - Front Bumper Air Cooling Duct",
+          "publish_at": "2026-08-15T17:00:00Z",
+          "link": "https://youtu.be/O7o4lfakLs4"
+        },
+        {
+          "title": "Renault Clio 197 Door Pull Strap Slider",
+          "publish_at": "2026-08-15T19:00:00Z",
+          "link": "https://youtu.be/w1h1kZ6knhk"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4641069",
+    "https://cults3d.com/:4641190",
+    "https://cults3d.com/:4647397",
+    "https://cults3d.com/:4647431",
+    "https://cults3d.com/:4647442",
+    "https://cults3d.com/:4647454",
     "https://cults3d.com/:4647464",
     "https://cults3d.com/:4647478",
     "https://cults3d.com/:4647494",
@@ -586,6 +623,30 @@
     {
       "video_id": "RFE1mh7no2M",
       "text": "https://cults3d.com/en/3d-model/art/chibi-series-bounty-hunter-3d-printable-miniature"
+    },
+    {
+      "video_id": "jy1CGvekoHo",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-shaolin-monk-3d-printable-miniature"
+    },
+    {
+      "video_id": "deT6VJAuNv0",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-medieval-archer-3d-printable-miniature"
+    },
+    {
+      "video_id": "VErDPwhnhEY",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-royal-king-3d-printable-miniature"
+    },
+    {
+      "video_id": "MbmIwR6NeNc",
+      "text": "https://cults3d.com/en/3d-model/art/chibi-series-royal-queen-3d-printable-miniature"
+    },
+    {
+      "video_id": "O7o4lfakLs4",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-megane-brake-scoop-front-bumper-air-cooling-duct"
+    },
+    {
+      "video_id": "w1h1kZ6knhk",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-slider"
     }
   ]
 }
