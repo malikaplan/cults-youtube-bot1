@@ -198,11 +198,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-part-ac-air-conditioning-component",
     "https://cults3d.com/en/3d-model/tool/nissan-maxima-grommet-rubber-seal-mounting-component",
     "https://cults3d.com/en/3d-model/tool/nissan-spiegelhalter-mirror-holder-side-mirror-mount-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-latch-locking-mechanism-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-latch-locking-mechanism-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-cluster-instrument-panel-dashboard-component"
   ],
   "today_date": "2026-08-16",
-  "today_count": 6,
-  "total_posted": 166,
+  "today_count": 7,
+  "total_posted": 167,
   "history": [
     {
       "date": "2026-08-08",
@@ -1198,6 +1199,12 @@
       "date": "2026-08-16",
       "title": "Nissan Latch (Locking Mechanism Component)",
       "media_id": "18118913714483404",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Cluster (Instrument Panel / Dashboard Component)",
+      "media_id": "18012012056940764",
       "fb_media_id": null
     }
   ],
