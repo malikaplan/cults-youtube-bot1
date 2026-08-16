@@ -1,43 +1,43 @@
 {
-  "next_index": 144,
-  "next_publish_date": "2026-08-16T00:00:00",
-  "run_count": 20,
-  "total_uploaded": 72,
+  "next_index": 150,
+  "next_publish_date": "2026-08-17T00:00:00",
+  "run_count": 21,
+  "total_uploaded": 78,
   "total_models": 1271,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-08-16",
-    "day_number": 20,
+    "day_number": 21,
     "uploaded": [
       {
-        "title": "Chibi Series: Shaolin Monk - 3D Printable Miniature",
-        "publish_at": "2026-08-15T09:00:00Z",
-        "link": "https://youtu.be/jy1CGvekoHo"
+        "title": "Renault Clio 197 Door Pull Strap Front",
+        "publish_at": "2026-08-16T09:00:00Z",
+        "link": "https://youtu.be/z-vzgRxtMuw"
       },
       {
-        "title": "Chibi Series: Medieval Archer - 3D Printable Miniature",
-        "publish_at": "2026-08-15T11:00:00Z",
-        "link": "https://youtu.be/deT6VJAuNv0"
+        "title": "Renault Clio Idler Plates / Idler Side 2 Dayco - Belt Tensioner Bracket Plate",
+        "publish_at": "2026-08-16T11:00:00Z",
+        "link": "https://youtu.be/0-1RhOvwxUw"
       },
       {
-        "title": "Chibi Series: Royal King - 3D Printable Miniature",
-        "publish_at": "2026-08-15T13:00:00Z",
-        "link": "https://youtu.be/VErDPwhnhEY"
+        "title": "Renault Clio 2 1.2 16V Spark Plug Insulator / Extension (Isolant Bougie)",
+        "publish_at": "2026-08-16T13:00:00Z",
+        "link": "https://youtu.be/4pmo_5f4c3I"
       },
       {
-        "title": "Chibi Series: Royal Queen - 3D Printable Miniature",
-        "publish_at": "2026-08-15T15:00:00Z",
-        "link": "https://youtu.be/MbmIwR6NeNc"
+        "title": "Renault Clio 2 Interior Door Handle / Lever (Manette Clio 2)",
+        "publish_at": "2026-08-16T15:00:00Z",
+        "link": "https://youtu.be/VFIf9d1KYuA"
       },
       {
-        "title": "Renault Megane Brake Scoop - Front Bumper Air Cooling Duct",
-        "publish_at": "2026-08-15T17:00:00Z",
-        "link": "https://youtu.be/O7o4lfakLs4"
+        "title": "Renault Clio 197 Door Pull Strap Lever",
+        "publish_at": "2026-08-16T17:00:00Z",
+        "link": "https://youtu.be/dFdJa4BMzHQ"
       },
       {
-        "title": "Renault Clio 197 Door Pull Strap Slider",
-        "publish_at": "2026-08-15T19:00:00Z",
-        "link": "https://youtu.be/w1h1kZ6knhk"
+        "title": "Renault Clio 197 Fog Light Duct - Front Bumper Air Inlet",
+        "publish_at": "2026-08-16T19:00:00Z",
+        "link": "https://youtu.be/NmjJBaPD6CU"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,15 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-08",
-      "day_number": 11,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 36,
-      "errors": []
-    },
     {
       "date": "2026-08-08",
       "day_number": 12,
@@ -354,9 +345,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-16",
+      "day_number": 21,
+      "uploaded": [
+        {
+          "title": "Renault Clio 197 Door Pull Strap Front",
+          "publish_at": "2026-08-16T09:00:00Z",
+          "link": "https://youtu.be/z-vzgRxtMuw"
+        },
+        {
+          "title": "Renault Clio Idler Plates / Idler Side 2 Dayco - Belt Tensioner Bracket Plate",
+          "publish_at": "2026-08-16T11:00:00Z",
+          "link": "https://youtu.be/0-1RhOvwxUw"
+        },
+        {
+          "title": "Renault Clio 2 1.2 16V Spark Plug Insulator / Extension (Isolant Bougie)",
+          "publish_at": "2026-08-16T13:00:00Z",
+          "link": "https://youtu.be/4pmo_5f4c3I"
+        },
+        {
+          "title": "Renault Clio 2 Interior Door Handle / Lever (Manette Clio 2)",
+          "publish_at": "2026-08-16T15:00:00Z",
+          "link": "https://youtu.be/VFIf9d1KYuA"
+        },
+        {
+          "title": "Renault Clio 197 Door Pull Strap Lever",
+          "publish_at": "2026-08-16T17:00:00Z",
+          "link": "https://youtu.be/dFdJa4BMzHQ"
+        },
+        {
+          "title": "Renault Clio 197 Fog Light Duct - Front Bumper Air Inlet",
+          "publish_at": "2026-08-16T19:00:00Z",
+          "link": "https://youtu.be/NmjJBaPD6CU"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4640908",
+    "https://cults3d.com/:4640927",
+    "https://cults3d.com/:4641009",
+    "https://cults3d.com/:4641025",
+    "https://cults3d.com/:4641038",
+    "https://cults3d.com/:4641051",
     "https://cults3d.com/:4641069",
     "https://cults3d.com/:4641190",
     "https://cults3d.com/:4647397",
@@ -505,148 +542,32 @@
   "migrated_to_url_tracking": true,
   "pending_comments": [
     {
-      "video_id": "H2RGj25wjOk",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-nissan-qashqai-sun-visor-vanity-mirror-cover"
-    },
-    {
-      "video_id": "04k6rKpKlgQ",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-door-panel-trim-rivet-fastener-clip"
-    },
-    {
-      "video_id": "tjvpmKpzCts",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-parcel-shelf-luggage-cover-retainer-bracket"
-    },
-    {
-      "video_id": "9nTgxIwzI6c",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-mounting-bracket-support-holder"
-    },
-    {
-      "video_id": "28rdfn13OO4",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-kadjar-wireless-charger-console-pad"
-    },
-    {
-      "video_id": "jsk2GP46pDs",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-megane-seat-belt-pillar-trim-cap"
-    },
-    {
-      "video_id": "br29Rfh9Jl0",
-      "text": "https://cults3d.com/en/3d-model/game/porsche-wall-art-makdesign"
-    },
-    {
-      "video_id": "KRL1cRKTF4g",
-      "text": "https://cults3d.com/en/3d-model/game/porsche-gt3-rs-silhouette-art"
-    },
-    {
-      "video_id": "QamfiXMjUYA",
-      "text": "https://cults3d.com/en/3d-model/art/rhyno-beetle-warriors-3d-print"
-    },
-    {
       "video_id": "WP9AqXRvEtQ",
       "text": "https://cults3d.com/en/3d-model/art/spartan-helmet-3d-print"
     },
     {
-      "video_id": "FOZ1ewPUjYg",
-      "text": "https://cults3d.com/en/3d-model/art/kitsune-spirit-warrior-3d-print"
+      "video_id": "z-vzgRxtMuw",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-front"
     },
     {
-      "video_id": "jYGnDJJXMf8",
-      "text": "https://cults3d.com/en/3d-model/art/skeleton-warrior-3d-print"
+      "video_id": "0-1RhOvwxUw",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-idler-plates-idler-side-2-dayco-belt-tensioner-bracket-plate"
     },
     {
-      "video_id": "rxcOuIhjkfw",
-      "text": "https://cults3d.com/en/3d-model/art/dnd-warrior-axe-3d-print"
+      "video_id": "4pmo_5f4c3I",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-2-1-2-16v-spark-plug-insulator-extension-isolant-bougie"
     },
     {
-      "video_id": "CetJjQTi4vA",
-      "text": "https://cults3d.com/en/3d-model/art/clara-bust-3d-print"
+      "video_id": "VFIf9d1KYuA",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-door-handle-lever-manette-clio-2"
     },
     {
-      "video_id": "4AwxRXthTs8",
-      "text": "https://cults3d.com/en/3d-model/art/vespera-bust-3d-print"
+      "video_id": "dFdJa4BMzHQ",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-lever"
     },
     {
-      "video_id": "hDnsxr4gFmE",
-      "text": "https://cults3d.com/en/3d-model/art/iron-warrior-3d-print"
-    },
-    {
-      "video_id": "40IZiTAZ5gQ",
-      "text": "https://cults3d.com/en/3d-model/art/orc-female-warrior-3d-print"
-    },
-    {
-      "video_id": "DhjNRtLDVNc",
-      "text": "https://cults3d.com/en/3d-model/art/kobold-warrior-3d-print"
-    },
-    {
-      "video_id": "I-v7dKGq0pc",
-      "text": "https://cults3d.com/en/3d-model/art/dwarf-warrior-3d-print"
-    },
-    {
-      "video_id": "B4yhMId_eEU",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-samurai-3d-printable-miniature"
-    },
-    {
-      "video_id": "pv3CvWRWctc",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-gladiator-3d-printable-miniature"
-    },
-    {
-      "video_id": "sTb9fGz3jyI",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-pirate-3d-printable-miniature"
-    },
-    {
-      "video_id": "1RIwfim4VrM",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-viking-3d-printable-miniature"
-    },
-    {
-      "video_id": "rCAs1W4MzQU",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-ninja-3d-printable-miniature"
-    },
-    {
-      "video_id": "hK8NtcWG_4o",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-cowboy-3d-printable-miniature"
-    },
-    {
-      "video_id": "ddudjWXzc8Q",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-knight-3d-printable-miniature"
-    },
-    {
-      "video_id": "drQGsfzL848",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-roman-legionary-3d-printable-miniature"
-    },
-    {
-      "video_id": "TTSb9OUzCGI",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-sheriff-3d-printable-miniature"
-    },
-    {
-      "video_id": "aYtEzTVKLiY",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-viking-berserker-3d-printable-miniature"
-    },
-    {
-      "video_id": "RFE1mh7no2M",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-bounty-hunter-3d-printable-miniature"
-    },
-    {
-      "video_id": "jy1CGvekoHo",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-shaolin-monk-3d-printable-miniature"
-    },
-    {
-      "video_id": "deT6VJAuNv0",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-medieval-archer-3d-printable-miniature"
-    },
-    {
-      "video_id": "VErDPwhnhEY",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-royal-king-3d-printable-miniature"
-    },
-    {
-      "video_id": "MbmIwR6NeNc",
-      "text": "https://cults3d.com/en/3d-model/art/chibi-series-royal-queen-3d-printable-miniature"
-    },
-    {
-      "video_id": "O7o4lfakLs4",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-megane-brake-scoop-front-bumper-air-cooling-duct"
-    },
-    {
-      "video_id": "w1h1kZ6knhk",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-197-door-pull-strap-slider"
+      "video_id": "NmjJBaPD6CU",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-197-fog-light-duct-front-bumper-air-inlet"
     }
   ]
 }
