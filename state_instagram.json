@@ -195,11 +195,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-vg30-distributor-cover-engine-component-protective-cap",
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-hatch-handle-rear-trunk-grip-cover-mechanism",
     "https://cults3d.com/en/3d-model/tool/nissan-spotlight-covers-fog-light-auxiliary-lamp-protection",
-    "https://cults3d.com/en/3d-model/tool/nissan-part-ac-air-conditioning-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-part-ac-air-conditioning-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-maxima-grommet-rubber-seal-mounting-component"
   ],
   "today_date": "2026-08-16",
-  "today_count": 3,
-  "total_posted": 163,
+  "today_count": 4,
+  "total_posted": 164,
   "history": [
     {
       "date": "2026-08-08",
@@ -1177,6 +1178,12 @@
       "date": "2026-08-16",
       "title": "Nissan Part AC (Air Conditioning Component)",
       "media_id": "18052369451570091",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Maxima Grommet (Rubber Seal / Mounting Component)",
+      "media_id": "18066852173742710",
       "fb_media_id": null
     }
   ],
