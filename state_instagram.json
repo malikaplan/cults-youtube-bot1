@@ -194,11 +194,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-patrol-clock-support-interior-console-component-clock-holder",
     "https://cults3d.com/en/3d-model/tool/nissan-vg30-distributor-cover-engine-component-protective-cap",
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-hatch-handle-rear-trunk-grip-cover-mechanism",
-    "https://cults3d.com/en/3d-model/tool/nissan-spotlight-covers-fog-light-auxiliary-lamp-protection"
+    "https://cults3d.com/en/3d-model/tool/nissan-spotlight-covers-fog-light-auxiliary-lamp-protection",
+    "https://cults3d.com/en/3d-model/tool/nissan-part-ac-air-conditioning-component"
   ],
   "today_date": "2026-08-16",
-  "today_count": 2,
-  "total_posted": 162,
+  "today_count": 3,
+  "total_posted": 163,
   "history": [
     {
       "date": "2026-08-08",
@@ -1170,6 +1171,12 @@
       "date": "2026-08-16",
       "title": "Nissan Spotlight Covers (Fog Light / Auxiliary Lamp Protection)",
       "media_id": "17869542840635194",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Part AC (Air Conditioning Component)",
+      "media_id": "18052369451570091",
       "fb_media_id": null
     }
   ],
