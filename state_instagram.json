@@ -192,11 +192,12 @@
     "https://cults3d.com/en/3d-model/tool/vw-golf-cluster-right-side-dashboard-component-instrument-panel-part",
     "https://cults3d.com/en/3d-model/tool/nissan-altima-tweeter-mount",
     "https://cults3d.com/en/3d-model/tool/nissan-patrol-clock-support-interior-console-component-clock-holder",
-    "https://cults3d.com/en/3d-model/tool/nissan-vg30-distributor-cover-engine-component-protective-cap"
+    "https://cults3d.com/en/3d-model/tool/nissan-vg30-distributor-cover-engine-component-protective-cap",
+    "https://cults3d.com/en/3d-model/tool/nissan-leaf-hatch-handle-rear-trunk-grip-cover-mechanism"
   ],
-  "today_date": "2026-08-15",
-  "today_count": 24,
-  "total_posted": 160,
+  "today_date": "2026-08-16",
+  "today_count": 1,
+  "total_posted": 161,
   "history": [
     {
       "date": "2026-08-08",
@@ -1156,6 +1157,12 @@
       "date": "2026-08-15",
       "title": "Nissan VG30 Distributor Cover (Engine Component / Protective Cap)",
       "media_id": "18151395931511828",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Leaf Hatch Handle (Rear Trunk Grip / Cover Mechanism)",
+      "media_id": "18162923641415871",
       "fb_media_id": null
     }
   ],
