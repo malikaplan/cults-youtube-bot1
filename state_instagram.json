@@ -209,11 +209,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-true-cover-protective-cover-exterior-trim-component",
     "https://cults3d.com/en/3d-model/tool/nissan-350z-intake-air-intake-system-component",
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-ze1-lock-pin-gear-door-lock-gear-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-8318g-door-handle-interior-exterior-door-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-8318g-door-handle-interior-exterior-door-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-patrol-funnel-oil-fuel-filling-adapter-component"
   ],
   "today_date": "2026-08-16",
-  "today_count": 17,
-  "total_posted": 177,
+  "today_count": 18,
+  "total_posted": 178,
   "history": [
     {
       "date": "2026-08-08",
@@ -1275,6 +1276,12 @@
       "date": "2026-08-16",
       "title": "Nissan 8318G Door Handle (Interior/Exterior Door Component)",
       "media_id": "18094044776418447",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Patrol Funnel (Oil / Fuel Filling Adapter Component)",
+      "media_id": "17918613777424168",
       "fb_media_id": null
     }
   ],
