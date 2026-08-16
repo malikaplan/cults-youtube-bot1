@@ -199,11 +199,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-maxima-grommet-rubber-seal-mounting-component",
     "https://cults3d.com/en/3d-model/tool/nissan-spiegelhalter-mirror-holder-side-mirror-mount-component",
     "https://cults3d.com/en/3d-model/tool/nissan-latch-locking-mechanism-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-cluster-instrument-panel-dashboard-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-cluster-instrument-panel-dashboard-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-leaf-engine-splash-shield-cover-lower-2013-2024"
   ],
   "today_date": "2026-08-16",
-  "today_count": 7,
-  "total_posted": 167,
+  "today_count": 8,
+  "total_posted": 168,
   "history": [
     {
       "date": "2026-08-08",
@@ -1205,6 +1206,12 @@
       "date": "2026-08-16",
       "title": "Nissan Cluster (Instrument Panel / Dashboard Component)",
       "media_id": "18012012056940764",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-16",
+      "title": "Nissan Leaf Engine Splash Shield Cover Lower (2013‑2024)",
+      "media_id": "18162691219462530",
       "fb_media_id": null
     }
   ],
