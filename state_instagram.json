@@ -227,11 +227,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-x-trail-telefoonsteun-phone-holder-console-mount-component",
     "https://cults3d.com/en/3d-model/tool/nissan-qashqai-cupholder-center-console-interior-component",
     "https://cults3d.com/en/3d-model/tool/nissan-fuse-box-cover-protective-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-tyre-cap-wheel-valve-cover-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-tyre-cap-wheel-valve-cover-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-rug-interior-carpet-mat-component"
   ],
   "today_date": "2026-08-17",
-  "today_count": 11,
-  "total_posted": 195,
+  "today_count": 12,
+  "total_posted": 196,
   "history": [
     {
       "date": "2026-08-08",
@@ -1401,6 +1402,12 @@
       "date": "2026-08-17",
       "title": "Nissan Tyre Cap (Wheel Valve Cover Component)",
       "media_id": "18216247147341057",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Nissan Rug (Interior Carpet / Mat Component)",
+      "media_id": "18422373865199796",
       "fb_media_id": null
     }
   ],
