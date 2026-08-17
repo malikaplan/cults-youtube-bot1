@@ -237,11 +237,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-rim-wheel-component",
     "https://cults3d.com/en/3d-model/tool/nissan-350z-spoiler-rear-wing-aerodynamic-component",
     "https://cults3d.com/en/3d-model/tool/nissan-d21-hardbody-pickup-ashtray-console-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-protective-spacer-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-protective-spacer-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-tonneau-cover-cargo-bed-trunk-cover-component"
   ],
   "today_date": "2026-08-17",
-  "today_count": 21,
-  "total_posted": 205,
+  "today_count": 22,
+  "total_posted": 206,
   "history": [
     {
       "date": "2026-08-08",
@@ -1471,6 +1472,12 @@
       "date": "2026-08-17",
       "title": "Nissan Protective / Spacer Component",
       "media_id": "18006739223766870",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Nissan Tonneau Cover (Cargo Bed / Trunk Cover Component)",
+      "media_id": "18115815571942487",
       "fb_media_id": null
     }
   ],
