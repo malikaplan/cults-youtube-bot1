@@ -235,11 +235,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-b15-button",
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-vent-clip-smart-phone-dash-vent-mount-phone-holder-component",
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-rim-wheel-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-350z-spoiler-rear-wing-aerodynamic-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-350z-spoiler-rear-wing-aerodynamic-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-d21-hardbody-pickup-ashtray-console-component"
   ],
   "today_date": "2026-08-17",
-  "today_count": 19,
-  "total_posted": 203,
+  "today_count": 20,
+  "total_posted": 204,
   "history": [
     {
       "date": "2026-08-08",
@@ -1457,6 +1458,12 @@
       "date": "2026-08-17",
       "title": "Nissan 350Z Spoiler (Rear Wing / Aerodynamic Component)",
       "media_id": "17902780551492484",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Nissan D21 Hardbody Pickup Ashtray (Console Component)",
+      "media_id": "18133396348527581",
       "fb_media_id": null
     }
   ],
