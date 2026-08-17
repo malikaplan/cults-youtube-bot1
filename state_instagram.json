@@ -226,11 +226,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-micra-handle-door-console-component",
     "https://cults3d.com/en/3d-model/tool/nissan-x-trail-telefoonsteun-phone-holder-console-mount-component",
     "https://cults3d.com/en/3d-model/tool/nissan-qashqai-cupholder-center-console-interior-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-fuse-box-cover-protective-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-fuse-box-cover-protective-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-tyre-cap-wheel-valve-cover-component"
   ],
   "today_date": "2026-08-17",
-  "today_count": 10,
-  "total_posted": 194,
+  "today_count": 11,
+  "total_posted": 195,
   "history": [
     {
       "date": "2026-08-08",
@@ -1394,6 +1395,12 @@
       "date": "2026-08-17",
       "title": "Nissan Fuse Box Cover / Protective Component",
       "media_id": "17909439192453929",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-17",
+      "title": "Nissan Tyre Cap (Wheel Valve Cover Component)",
+      "media_id": "18216247147341057",
       "fb_media_id": null
     }
   ],
