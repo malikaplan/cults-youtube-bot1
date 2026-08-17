@@ -129,16 +129,26 @@ def today_str():
 def push_to_host_repo(local_path, remote_name):
     """Videoyu gecici barindirma reposuna yukler, herkese acik raw linkini
     ve dosyanin 'sha' degerini (sonradan silmek icin) dondurur."""
+    import time
     with open(local_path, "rb") as f:
         content_b64 = base64.b64encode(f.read()).decode()
 
     url = f"https://api.github.com/repos/{HOST_REPO}/contents/{remote_name}"
     headers = {"Authorization": f"token {GH_PAT}", "Accept": "application/vnd.github+json"}
-    resp = requests.put(url, headers=headers, json={
-        "message": f"add {remote_name}",
-        "content": content_b64,
-    })
-    resp.raise_for_status()
+    
+    max_retries = 3
+    for attempt in range(max_retries):
+        resp = requests.put(url, headers=headers, json={
+            "message": f"add {remote_name}",
+            "content": content_b64,
+        })
+        if resp.status_code == 503:
+            print(f"   [UYARI] GitHub API 503 hatasi verdi (Deneme {attempt+1}/{max_retries}). 10 saniye bekleniyor...")
+            time.sleep(10)
+            continue
+        resp.raise_for_status()
+        break
+        
     sha = resp.json()["content"]["sha"]
     raw_url = f"https://raw.githubusercontent.com/{HOST_REPO}/main/{remote_name}"
     return raw_url, sha
