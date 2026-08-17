@@ -1,43 +1,43 @@
 {
-  "next_index": 162,
+  "next_index": 168,
   "next_publish_date": "2026-08-19T00:00:00",
-  "run_count": 25,
-  "total_uploaded": 90,
+  "run_count": 26,
+  "total_uploaded": 96,
   "total_models": 1275,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-08-17",
-    "day_number": 25,
+    "day_number": 26,
     "uploaded": [
       {
-        "title": "Dacia Key Fob Holder / Remote Key Case Bracket",
+        "title": "Renault Clio 4 USB Port Door / Flap - Center Console Slot Cover",
         "publish_at": "2026-08-18T09:00:00Z",
-        "link": "https://youtu.be/dke5mAudQ2Q"
+        "link": "https://youtu.be/9X2bkxsaP1Y"
       },
       {
-        "title": "Dacia Sandero Cup Holder / Beverage Insert Adapter",
+        "title": "Renault Clio II Headlight Washer Nozzle - Bumper Jet Replacement",
         "publish_at": "2026-08-18T11:00:00Z",
-        "link": "https://youtu.be/hA_rno2_6Kg"
+        "link": "https://youtu.be/lTpjfw6cnMs"
       },
       {
-        "title": "Dacia Spring Cup Holder / Beverage Insert Clip",
+        "title": "Renault Clio 5 & Megane 4 Compatible Brake and Clutch Pedal Pad",
         "publish_at": "2026-08-18T13:00:00Z",
-        "link": "https://youtu.be/qIeDCqEY52Q"
+        "link": "https://youtu.be/7VWnm0pvjyI"
       },
       {
-        "title": "Dacia Tow Bar Cover with Lock / Anti-Theft Hitch Cap",
+        "title": "Renault Clio RS Decorative Desktop Model - Sleek Display Figure",
         "publish_at": "2026-08-18T15:00:00Z",
-        "link": "https://youtu.be/7hFVp9Ja1HA"
+        "link": "https://youtu.be/i4tWO5DmMOk"
       },
       {
-        "title": "Renault Clio Multimedia Volume Knob - Ruleta Volumen Replacement",
+        "title": "Renault Clio Wheel Center Cap - Wheelcap Replacement",
         "publish_at": "2026-08-18T17:00:00Z",
-        "link": "https://youtu.be/nEZdElI8Vds"
+        "link": "https://youtu.be/uyLW08WSqas"
       },
       {
-        "title": "Renault Clio Taurus Clip / Exterior Molding Retainer",
+        "title": "Renault Sport Steering Wheel Trim / Insert Part",
         "publish_at": "2026-08-18T19:00:00Z",
-        "link": "https://youtu.be/9nHj7dHApiM"
+        "link": "https://youtu.be/yoPI-Dh-DjA"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-11",
-      "day_number": 16,
-      "uploaded": [
-        {
-          "title": "Porsche Wall Art",
-          "publish_at": "2026-08-11T09:00:00Z",
-          "link": "https://youtu.be/br29Rfh9Jl0"
-        },
-        {
-          "title": "Porsche GT3 RS Silhouette Art",
-          "publish_at": "2026-08-11T11:00:00Z",
-          "link": "https://youtu.be/KRL1cRKTF4g"
-        },
-        {
-          "title": "Rhyno Beetle Warriors 3D PRINT",
-          "publish_at": "2026-08-11T13:00:00Z",
-          "link": "https://youtu.be/QamfiXMjUYA"
-        },
-        {
-          "title": "Spartan Helmet 3D PRINT",
-          "publish_at": "2026-08-11T15:00:00Z",
-          "link": "https://youtu.be/WP9AqXRvEtQ"
-        },
-        {
-          "title": "Kitsune Spirit Warrior 3D PRINT",
-          "publish_at": "2026-08-11T17:00:00Z",
-          "link": "https://youtu.be/FOZ1ewPUjYg"
-        },
-        {
-          "title": "Skeleton Warrior 3D PRINT",
-          "publish_at": "2026-08-11T19:00:00Z",
-          "link": "https://youtu.be/jYGnDJJXMf8"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-12",
       "day_number": 17,
@@ -387,9 +347,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-17",
+      "day_number": 26,
+      "uploaded": [
+        {
+          "title": "Renault Clio 4 USB Port Door / Flap - Center Console Slot Cover",
+          "publish_at": "2026-08-18T09:00:00Z",
+          "link": "https://youtu.be/9X2bkxsaP1Y"
+        },
+        {
+          "title": "Renault Clio II Headlight Washer Nozzle - Bumper Jet Replacement",
+          "publish_at": "2026-08-18T11:00:00Z",
+          "link": "https://youtu.be/lTpjfw6cnMs"
+        },
+        {
+          "title": "Renault Clio 5 & Megane 4 Compatible Brake and Clutch Pedal Pad",
+          "publish_at": "2026-08-18T13:00:00Z",
+          "link": "https://youtu.be/7VWnm0pvjyI"
+        },
+        {
+          "title": "Renault Clio RS Decorative Desktop Model - Sleek Display Figure",
+          "publish_at": "2026-08-18T15:00:00Z",
+          "link": "https://youtu.be/i4tWO5DmMOk"
+        },
+        {
+          "title": "Renault Clio Wheel Center Cap - Wheelcap Replacement",
+          "publish_at": "2026-08-18T17:00:00Z",
+          "link": "https://youtu.be/uyLW08WSqas"
+        },
+        {
+          "title": "Renault Sport Steering Wheel Trim / Insert Part",
+          "publish_at": "2026-08-18T19:00:00Z",
+          "link": "https://youtu.be/yoPI-Dh-DjA"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4640414",
+    "https://cults3d.com/:4640430",
+    "https://cults3d.com/:4640450",
+    "https://cults3d.com/:4640468",
+    "https://cults3d.com/:4640564",
+    "https://cults3d.com/:4640578",
     "https://cults3d.com/:4640608",
     "https://cults3d.com/:4640628",
     "https://cults3d.com/:4640645",
@@ -618,6 +624,30 @@
     {
       "video_id": "9nHj7dHApiM",
       "text": "https://cults3d.com/en/3d-model/tool/renault-clio-taurus-clip-exterior-molding-retainer"
+    },
+    {
+      "video_id": "9X2bkxsaP1Y",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-4-usb-port-door-flap-center-console-slot-cover"
+    },
+    {
+      "video_id": "lTpjfw6cnMs",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-ii-headlight-washer-nozzle-bumper-jet-replacement"
+    },
+    {
+      "video_id": "7VWnm0pvjyI",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-5-megane-4-compatible-brake-and-clutch-pedal-pad"
+    },
+    {
+      "video_id": "i4tWO5DmMOk",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-rs-decorative-desktop-model-sleek-display-figure"
+    },
+    {
+      "video_id": "uyLW08WSqas",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-wheel-center-cap-wheelcap-replacement"
+    },
+    {
+      "video_id": "yoPI-Dh-DjA",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-sport-steering-wheel-trim-insert-part"
     }
   ]
 }
