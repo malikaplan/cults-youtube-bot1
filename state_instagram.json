@@ -250,11 +250,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-2019-gas-cap-holder-fuel-cap-component",
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-2019-center-tray-model-console-tray-component",
     "https://cults3d.com/en/3d-model/tool/nissan-micra-vent-air-components",
-    "https://cults3d.com/en/3d-model/tool/nissan-1986-hose-engine-hose-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-1986-hose-engine-hose-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-gtr-heckdiffusor-rear-diffuser-component"
   ],
   "today_date": "2026-08-18",
-  "today_count": 11,
-  "total_posted": 218,
+  "today_count": 12,
+  "total_posted": 219,
   "history": [
     {
       "date": "2026-08-08",
@@ -1562,6 +1563,12 @@
       "date": "2026-08-18",
       "title": "Nissan 1986 Hose (Engine Hose Component)",
       "media_id": "18098801249573998",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Nissan GTR Heckdiffusor (Rear Diffuser Component)",
+      "media_id": "17878114422527728",
       "fb_media_id": null
     }
   ],
