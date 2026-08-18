@@ -252,11 +252,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-micra-vent-air-components",
     "https://cults3d.com/en/3d-model/tool/nissan-1986-hose-engine-hose-component",
     "https://cults3d.com/en/3d-model/tool/nissan-gtr-heckdiffusor-rear-diffuser-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-door-lock-lock-mechanism-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-door-lock-lock-mechanism-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-cable-holder-connector-part"
   ],
   "today_date": "2026-08-18",
-  "today_count": 13,
-  "total_posted": 220,
+  "today_count": 14,
+  "total_posted": 221,
   "history": [
     {
       "date": "2026-08-08",
@@ -1576,6 +1577,12 @@
       "date": "2026-08-18",
       "title": "Nissan Door Lock (Lock Mechanism Component)",
       "media_id": "18088414709648062",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Nissan Cable Holder / Connector Part",
+      "media_id": "18166483771415072",
       "fb_media_id": null
     }
   ],
