@@ -251,11 +251,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-2019-center-tray-model-console-tray-component",
     "https://cults3d.com/en/3d-model/tool/nissan-micra-vent-air-components",
     "https://cults3d.com/en/3d-model/tool/nissan-1986-hose-engine-hose-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-gtr-heckdiffusor-rear-diffuser-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-gtr-heckdiffusor-rear-diffuser-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-door-lock-lock-mechanism-component"
   ],
   "today_date": "2026-08-18",
-  "today_count": 12,
-  "total_posted": 219,
+  "today_count": 13,
+  "total_posted": 220,
   "history": [
     {
       "date": "2026-08-08",
@@ -1569,6 +1570,12 @@
       "date": "2026-08-18",
       "title": "Nissan GTR Heckdiffusor (Rear Diffuser Component)",
       "media_id": "17878114422527728",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Nissan Door Lock (Lock Mechanism Component)",
+      "media_id": "18088414709648062",
       "fb_media_id": null
     }
   ],
