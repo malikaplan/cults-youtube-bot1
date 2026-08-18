@@ -245,11 +245,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-kh5t-coil-trays-ignition-coil-mount-component",
     "https://cults3d.com/en/3d-model/tool/nissan-stopel-plug-cap-component",
     "https://cults3d.com/en/3d-model/tool/nissan-patrol-y62-tweeter-mount-speaker-mount-component",
-    "https://cults3d.com/en/3d-model/home/game-zone-sign-customizable-room-door-area-plate"
+    "https://cults3d.com/en/3d-model/home/game-zone-sign-customizable-room-door-area-plate",
+    "https://cults3d.com/en/3d-model/tool/nissan-frontier-2019-roof-rail-end-cap-smooth-roof-rail-component"
   ],
   "today_date": "2026-08-18",
-  "today_count": 6,
-  "total_posted": 213,
+  "today_count": 7,
+  "total_posted": 214,
   "history": [
     {
       "date": "2026-08-08",
@@ -1527,6 +1528,12 @@
       "date": "2026-08-18",
       "title": "Game Zone Sign (Customizable Room / Door / Area Plate)",
       "media_id": "18086212661205016",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Nissan Frontier 2019 Roof Rail End Cap Smooth (Roof Rail Component)",
+      "media_id": "18029987600666387",
       "fb_media_id": null
     }
   ],
