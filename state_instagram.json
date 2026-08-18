@@ -249,11 +249,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-2019-roof-rail-end-cap-smooth-roof-rail-component",
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-2019-gas-cap-holder-fuel-cap-component",
     "https://cults3d.com/en/3d-model/tool/nissan-frontier-2019-center-tray-model-console-tray-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-micra-vent-air-components"
+    "https://cults3d.com/en/3d-model/tool/nissan-micra-vent-air-components",
+    "https://cults3d.com/en/3d-model/tool/nissan-1986-hose-engine-hose-component"
   ],
   "today_date": "2026-08-18",
-  "today_count": 10,
-  "total_posted": 217,
+  "today_count": 11,
+  "total_posted": 218,
   "history": [
     {
       "date": "2026-08-08",
@@ -1555,6 +1556,12 @@
       "date": "2026-08-18",
       "title": "Nissan Micra Vent Air Components",
       "media_id": "17984597882870367",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Nissan 1986 Hose (Engine Hose Component)",
+      "media_id": "18098801249573998",
       "fb_media_id": null
     }
   ],
