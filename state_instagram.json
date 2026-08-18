@@ -256,11 +256,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-cable-holder-connector-part",
     "https://cults3d.com/en/3d-model/tool/nissan-radioknop-radio-control-knob",
     "https://cults3d.com/en/3d-model/tool/nissan-lock-gear-kilit-mechanism-gear",
-    "https://cults3d.com/en/3d-model/tool/nissan-gauge-dashboard-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-gauge-dashboard-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-300-vent-air-vent-component"
   ],
   "today_date": "2026-08-18",
-  "today_count": 17,
-  "total_posted": 224,
+  "today_count": 18,
+  "total_posted": 225,
   "history": [
     {
       "date": "2026-08-08",
@@ -1604,6 +1605,12 @@
       "date": "2026-08-18",
       "title": "Nissan Gauge (Dashboard Component)",
       "media_id": "18244797766308533",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Nissan 300 Vent (Air Vent Component)",
+      "media_id": "18109722752121506",
       "fb_media_id": null
     }
   ],
