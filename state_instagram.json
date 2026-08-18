@@ -241,11 +241,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-tonneau-cover-cargo-bed-trunk-cover-component",
     "https://cults3d.com/en/3d-model/tool/nissantrofast-schienen-component",
     "https://cults3d.com/en/3d-model/tool/nissan-door-spacer",
-    "https://cults3d.com/en/3d-model/tool/nissan-zv9-coil-trays-ignition-coil-mount-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-zv9-coil-trays-ignition-coil-mount-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-kh5t-coil-trays-ignition-coil-mount-component"
   ],
   "today_date": "2026-08-18",
-  "today_count": 2,
-  "total_posted": 209,
+  "today_count": 3,
+  "total_posted": 210,
   "history": [
     {
       "date": "2026-08-08",
@@ -1499,6 +1500,12 @@
       "date": "2026-08-18",
       "title": "Nissan ZV9 Coil Trays (Ignition Coil Mount Component)",
       "media_id": "18111575005963638",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-18",
+      "title": "Nissan KH5T Coil Trays (Ignition Coil Mount Component)",
+      "media_id": "18610940062032395",
       "fb_media_id": null
     }
   ],
