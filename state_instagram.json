@@ -259,11 +259,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-gauge-dashboard-component",
     "https://cults3d.com/en/3d-model/tool/nissan-300-vent-air-vent-component",
     "https://cults3d.com/en/3d-model/tool/nissan-vh45-cover-engine-cover-component",
-    "https://cults3d.com/en/3d-model/tool/nissan-micra-boot-hook-a-trunk-hook-component"
+    "https://cults3d.com/en/3d-model/tool/nissan-micra-boot-hook-a-trunk-hook-component",
+    "https://cults3d.com/en/3d-model/tool/nissan-pathfinder-suv-part-accessory"
   ],
   "today_date": "2026-08-19",
-  "today_count": 2,
-  "total_posted": 227,
+  "today_count": 3,
+  "total_posted": 228,
   "history": [
     {
       "date": "2026-08-08",
@@ -1625,6 +1626,12 @@
       "date": "2026-08-19",
       "title": "Nissan Micra Boot Hook A (Trunk Hook Component)",
       "media_id": "18044978114807275",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-19",
+      "title": "Nissan Pathfinder (SUV Part / Accessory)",
+      "media_id": "18107161016035770",
       "fb_media_id": null
     }
   ],
