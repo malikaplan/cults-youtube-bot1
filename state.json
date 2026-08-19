@@ -1,43 +1,43 @@
 {
-  "next_index": 174,
-  "next_publish_date": "2026-08-20T00:00:00",
-  "run_count": 27,
-  "total_uploaded": 102,
+  "next_index": 180,
+  "next_publish_date": "2026-08-21T00:00:00",
+  "run_count": 28,
+  "total_uploaded": 108,
   "total_models": 1275,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-18",
-    "day_number": 27,
+    "date": "2026-08-19",
+    "day_number": 28,
     "uploaded": [
       {
-        "title": "Renault Clio Durites Clip / Hose Connector",
-        "publish_at": "2026-08-19T09:00:00Z",
-        "link": "https://youtu.be/_8l1AqY_NYo"
+        "title": "Renault Clio 172 Alternator Mount - Bracket Component",
+        "publish_at": "2026-08-20T09:00:00Z",
+        "link": "https://youtu.be/2byhzf_aQm8"
       },
       {
-        "title": "Renault Clio Ventil Cap / Valve Cover",
-        "publish_at": "2026-08-19T11:00:00Z",
-        "link": "https://youtu.be/LyPBfHb3KsU"
+        "title": "Renault Clio 1 DIN Radio Blende - Stereo Facia Frame",
+        "publish_at": "2026-08-20T11:00:00Z",
+        "link": "https://youtu.be/9nrA8GieZUs"
       },
       {
-        "title": "Renault Clio III Seat Adjustment Knob",
-        "publish_at": "2026-08-19T13:00:00Z",
-        "link": "https://youtu.be/Go_Y-1HsXo0"
+        "title": "Renault Clio 2 Air Vent with Instrument Hole - Gauge Pod",
+        "publish_at": "2026-08-20T13:00:00Z",
+        "link": "https://youtu.be/lMzjycsSwXo"
       },
       {
-        "title": "Renault Clio 182 Air Duct / Intake Set (Prise d'air 80mm Gauche & 102mm Droit)",
-        "publish_at": "2026-08-19T15:00:00Z",
-        "link": "https://youtu.be/1RRjmmaTxLc"
+        "title": "Renault Clio Air Inlet - Intake Tube",
+        "publish_at": "2026-08-20T15:00:00Z",
+        "link": "https://youtu.be/JV9SQiy0Bos"
       },
       {
-        "title": "Renault Clio 197 Bumper Grill - Front Mesh Replacement",
-        "publish_at": "2026-08-19T17:00:00Z",
-        "link": "https://youtu.be/MuWPO-RMzIk"
+        "title": "Renault Clio 2 Interior Door Handle",
+        "publish_at": "2026-08-20T17:00:00Z",
+        "link": "https://youtu.be/9B8Ypl2a1R0"
       },
       {
-        "title": "Renault Clio Cup Holder - Console Bottle Mount",
-        "publish_at": "2026-08-19T19:00:00Z",
-        "link": "https://youtu.be/wRWSw7BfZWE"
+        "title": "Bremse adapter Clio s2000",
+        "publish_at": "2026-08-20T19:00:00Z",
+        "link": "https://youtu.be/LVJ8P21RMD8"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-13",
-      "day_number": 18,
-      "uploaded": [
-        {
-          "title": "Dwarf Warrior 3D Print",
-          "publish_at": "2026-08-13T09:00:00Z",
-          "link": "https://youtu.be/I-v7dKGq0pc"
-        },
-        {
-          "title": "Chibi Series: Samurai - 3D Printable Miniature",
-          "publish_at": "2026-08-13T11:00:00Z",
-          "link": "https://youtu.be/B4yhMId_eEU"
-        },
-        {
-          "title": "Chibi Series: Gladiator - 3D Printable Miniature",
-          "publish_at": "2026-08-13T13:00:00Z",
-          "link": "https://youtu.be/pv3CvWRWctc"
-        },
-        {
-          "title": "Chibi Series: Pirate - 3D Printable Miniature",
-          "publish_at": "2026-08-13T15:00:00Z",
-          "link": "https://youtu.be/sTb9fGz3jyI"
-        },
-        {
-          "title": "Chibi Series: Viking - 3D Printable Miniature",
-          "publish_at": "2026-08-13T17:00:00Z",
-          "link": "https://youtu.be/1RIwfim4VrM"
-        },
-        {
-          "title": "Chibi Series: Ninja - 3D Printable Miniature",
-          "publish_at": "2026-08-13T19:00:00Z",
-          "link": "https://youtu.be/rCAs1W4MzQU"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-14",
       "day_number": 19,
@@ -387,9 +347,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-19",
+      "day_number": 28,
+      "uploaded": [
+        {
+          "title": "Renault Clio 172 Alternator Mount - Bracket Component",
+          "publish_at": "2026-08-20T09:00:00Z",
+          "link": "https://youtu.be/2byhzf_aQm8"
+        },
+        {
+          "title": "Renault Clio 1 DIN Radio Blende - Stereo Facia Frame",
+          "publish_at": "2026-08-20T11:00:00Z",
+          "link": "https://youtu.be/9nrA8GieZUs"
+        },
+        {
+          "title": "Renault Clio 2 Air Vent with Instrument Hole - Gauge Pod",
+          "publish_at": "2026-08-20T13:00:00Z",
+          "link": "https://youtu.be/lMzjycsSwXo"
+        },
+        {
+          "title": "Renault Clio Air Inlet - Intake Tube",
+          "publish_at": "2026-08-20T15:00:00Z",
+          "link": "https://youtu.be/JV9SQiy0Bos"
+        },
+        {
+          "title": "Renault Clio 2 Interior Door Handle",
+          "publish_at": "2026-08-20T17:00:00Z",
+          "link": "https://youtu.be/9B8Ypl2a1R0"
+        },
+        {
+          "title": "Bremse adapter Clio s2000",
+          "publish_at": "2026-08-20T19:00:00Z",
+          "link": "https://youtu.be/LVJ8P21RMD8"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4640234",
+    "https://cults3d.com/:4640242",
+    "https://cults3d.com/:4640248",
+    "https://cults3d.com/:4640266",
+    "https://cults3d.com/:4640275",
+    "https://cults3d.com/:4640286",
     "https://cults3d.com/:4640299",
     "https://cults3d.com/:4640311",
     "https://cults3d.com/:4640365",
@@ -608,54 +614,6 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "dke5mAudQ2Q",
-      "text": "https://cults3d.com/en/3d-model/tool/dacia-key-fob-holder-remote-key-case-bracket"
-    },
-    {
-      "video_id": "hA_rno2_6Kg",
-      "text": "https://cults3d.com/en/3d-model/tool/dacia-sandero-cup-holder-beverage-insert-adapter"
-    },
-    {
-      "video_id": "qIeDCqEY52Q",
-      "text": "https://cults3d.com/en/3d-model/tool/dacia-spring-cup-holder-beverage-insert-clip"
-    },
-    {
-      "video_id": "7hFVp9Ja1HA",
-      "text": "https://cults3d.com/en/3d-model/tool/dacia-tow-bar-cover-with-lock-anti-theft-hitch-cap"
-    },
-    {
-      "video_id": "nEZdElI8Vds",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-multimedia-volume-knob-ruleta-volumen-replacement"
-    },
-    {
-      "video_id": "9nHj7dHApiM",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-taurus-clip-exterior-molding-retainer"
-    },
-    {
-      "video_id": "9X2bkxsaP1Y",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-4-usb-port-door-flap-center-console-slot-cover"
-    },
-    {
-      "video_id": "lTpjfw6cnMs",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-ii-headlight-washer-nozzle-bumper-jet-replacement"
-    },
-    {
-      "video_id": "7VWnm0pvjyI",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-5-megane-4-compatible-brake-and-clutch-pedal-pad"
-    },
-    {
-      "video_id": "i4tWO5DmMOk",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-rs-decorative-desktop-model-sleek-display-figure"
-    },
-    {
-      "video_id": "uyLW08WSqas",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-wheel-center-cap-wheelcap-replacement"
-    },
-    {
-      "video_id": "yoPI-Dh-DjA",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-sport-steering-wheel-trim-insert-part"
-    },
-    {
       "video_id": "_8l1AqY_NYo",
       "text": "https://cults3d.com/en/3d-model/tool/renault-clio-durites-clip-hose-connector"
     },
@@ -678,6 +636,30 @@
     {
       "video_id": "wRWSw7BfZWE",
       "text": "https://cults3d.com/en/3d-model/tool/renault-clio-cup-holder-console-bottle-mount"
+    },
+    {
+      "video_id": "2byhzf_aQm8",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-172-alternator-mount-bracket-component"
+    },
+    {
+      "video_id": "9nrA8GieZUs",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-1-din-radio-blende-stereo-facia-frame"
+    },
+    {
+      "video_id": "lMzjycsSwXo",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-2-air-vent-with-instrument-hole-gauge-pod"
+    },
+    {
+      "video_id": "JV9SQiy0Bos",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-air-inlet-intake-tube"
+    },
+    {
+      "video_id": "9B8Ypl2a1R0",
+      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-2-interior-door-handle"
+    },
+    {
+      "video_id": "LVJ8P21RMD8",
+      "text": "https://cults3d.com/en/3d-model/tool/bremse-adapter-clio-s2000"
     }
   ]
 }
