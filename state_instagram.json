@@ -285,11 +285,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-door-tweeter-case-driver-and-passenger",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-center-console-tray-organizer-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-golf-gti-dual-pop-can-top",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-trim-end-piece"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-trim-end-piece",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-cupholder"
   ],
   "today_date": "2026-08-20",
-  "today_count": 21,
-  "total_posted": 253,
+  "today_count": 22,
+  "total_posted": 254,
   "history": [
     {
       "date": "2026-08-08",
@@ -1807,6 +1808,12 @@
       "date": "2026-08-20",
       "title": "Volkswagen Jetta Trim End Piece",
       "media_id": "18135953800618428",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Volkswagen Jetta Cupholder",
+      "media_id": "18133158220559290",
       "fb_media_id": null
     }
   ],
