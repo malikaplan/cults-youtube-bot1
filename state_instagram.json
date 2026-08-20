@@ -271,11 +271,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-l02d-housing-sae-rg-versa-l02d-housing-base-lh-headlight-body-sensor-makdesign",
     "https://cults3d.com/en/3d-model/tool/nissan-l02d-housing-sae-rg-versa-l02d-housing-base-lh-headlight-body-sensor",
     "https://cults3d.com/en/3d-model/tool/nissan-shift-knob-outside",
-    "https://cults3d.com/en/3d-model/tool/nissan-vent-main-part"
+    "https://cults3d.com/en/3d-model/tool/nissan-vent-main-part",
+    "https://cults3d.com/en/3d-model/tool/nissan-hole-clip-cap"
   ],
   "today_date": "2026-08-20",
-  "today_count": 7,
-  "total_posted": 239,
+  "today_count": 8,
+  "total_posted": 240,
   "history": [
     {
       "date": "2026-08-08",
@@ -1709,6 +1710,12 @@
       "date": "2026-08-20",
       "title": "Nissan Vent Main Part",
       "media_id": "18124843480831926",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Nissan Hole Clip Cap",
+      "media_id": "18463914940138856",
       "fb_media_id": null
     }
   ],
