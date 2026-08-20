@@ -278,11 +278,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-vent-dashboard-air-vent-part",
     "https://cults3d.com/en/3d-model/tool/nissan-vent-holder-dashboard-vent-part",
     "https://cults3d.com/en/3d-model/tool/2014-volkswagen-jetta-sportwagen-door-woofer-6-5in-adapter-speaker-mount-part",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-light-plate"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-light-plate",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk2-door-lock-collar"
   ],
   "today_date": "2026-08-20",
-  "today_count": 14,
-  "total_posted": 246,
+  "today_count": 15,
+  "total_posted": 247,
   "history": [
     {
       "date": "2026-08-08",
@@ -1758,6 +1759,12 @@
       "date": "2026-08-20",
       "title": "Volkswagen Jetta Light Plate",
       "media_id": "18125230198693864",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Volkswagen Jetta Mk2 Door Lock Collar",
+      "media_id": "18022304114700056",
       "fb_media_id": null
     }
   ],
