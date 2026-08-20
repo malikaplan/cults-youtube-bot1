@@ -270,11 +270,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-cabin-air-filter-cover-interior-filter-housing-cap",
     "https://cults3d.com/en/3d-model/tool/nissan-l02d-housing-sae-rg-versa-l02d-housing-base-lh-headlight-body-sensor-makdesign",
     "https://cults3d.com/en/3d-model/tool/nissan-l02d-housing-sae-rg-versa-l02d-housing-base-lh-headlight-body-sensor",
-    "https://cults3d.com/en/3d-model/tool/nissan-shift-knob-outside"
+    "https://cults3d.com/en/3d-model/tool/nissan-shift-knob-outside",
+    "https://cults3d.com/en/3d-model/tool/nissan-vent-main-part"
   ],
   "today_date": "2026-08-20",
-  "today_count": 6,
-  "total_posted": 238,
+  "today_count": 7,
+  "total_posted": 239,
   "history": [
     {
       "date": "2026-08-08",
@@ -1702,6 +1703,12 @@
       "date": "2026-08-20",
       "title": "Nissan Shift Knob Outside",
       "media_id": "18141180856499713",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Nissan Vent Main Part",
+      "media_id": "18124843480831926",
       "fb_media_id": null
     }
   ],
