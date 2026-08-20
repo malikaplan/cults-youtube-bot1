@@ -274,11 +274,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-vent-main-part",
     "https://cults3d.com/en/3d-model/tool/nissan-hole-clip-cap",
     "https://cults3d.com/en/3d-model/tool/nissan-sentra-display-void",
-    "https://cults3d.com/en/3d-model/tool/nissan-1-6-juke-oil-pan-gasket-engine-seal-part"
+    "https://cults3d.com/en/3d-model/tool/nissan-1-6-juke-oil-pan-gasket-engine-seal-part",
+    "https://cults3d.com/en/3d-model/tool/nissan-vent-dashboard-air-vent-part"
   ],
   "today_date": "2026-08-20",
-  "today_count": 10,
-  "total_posted": 242,
+  "today_count": 11,
+  "total_posted": 243,
   "history": [
     {
       "date": "2026-08-08",
@@ -1730,6 +1731,12 @@
       "date": "2026-08-20",
       "title": "Nissan 1.6 Juke Oil Pan Gasket (Engine Seal Part)",
       "media_id": "17966361204140081",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Nissan Vent (Dashboard Air Vent Part)",
+      "media_id": "18116813960313791",
       "fb_media_id": null
     }
   ],
