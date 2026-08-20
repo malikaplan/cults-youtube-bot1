@@ -267,11 +267,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-head-unit-housing",
     "https://cults3d.com/en/3d-model/tool/nissan-door-button-interior-switch-part",
     "https://cults3d.com/en/3d-model/tool/nissan-air-conditioner-wing-ac-vent-part",
-    "https://cults3d.com/en/3d-model/tool/nissan-leaf-cabin-air-filter-cover-interior-filter-housing-cap"
+    "https://cults3d.com/en/3d-model/tool/nissan-leaf-cabin-air-filter-cover-interior-filter-housing-cap",
+    "https://cults3d.com/en/3d-model/tool/nissan-l02d-housing-sae-rg-versa-l02d-housing-base-lh-headlight-body-sensor-makdesign"
   ],
   "today_date": "2026-08-20",
-  "today_count": 3,
-  "total_posted": 235,
+  "today_count": 4,
+  "total_posted": 236,
   "history": [
     {
       "date": "2026-08-08",
@@ -1681,6 +1682,12 @@
       "date": "2026-08-20",
       "title": "Nissan Leaf Cabin Air Filter Cover (Interior Filter Housing Cap)",
       "media_id": "18106966880154969",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Nissan L02D Housing SAE RG (Versa L02D Housing Base LH – Headlight Body, Sensor Cover, CameraElectronics Box Mount, Mechanical Carrier Housing)",
+      "media_id": "18327329434302276",
       "fb_media_id": null
     }
   ],
