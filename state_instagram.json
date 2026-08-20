@@ -287,11 +287,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-golf-gti-dual-pop-can-top",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-trim-end-piece",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-cupholder",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk3-fog-light-cover-hella"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk3-fog-light-cover-hella",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-heater-control-bezel-dashboard-frame-part"
   ],
   "today_date": "2026-08-20",
-  "today_count": 23,
-  "total_posted": 255,
+  "today_count": 24,
+  "total_posted": 256,
   "history": [
     {
       "date": "2026-08-08",
@@ -1821,6 +1822,12 @@
       "date": "2026-08-20",
       "title": "Volkswagen Jetta Mk3 Fog Light Cover - Hella",
       "media_id": "18055401341543760",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-20",
+      "title": "Volkswagen Jetta Heater Control Bezel (Dashboard Frame Part)",
+      "media_id": "18130656037635341",
       "fb_media_id": null
     }
   ],
