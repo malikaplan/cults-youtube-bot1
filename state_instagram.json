@@ -305,11 +305,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-window-button-bottom-switch-base-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-breather-engine-ventilation-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-golf-jetta-timing-cover-engine-timing-protector",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk4-wing-grommet-trunk-lid-rear-wing-sleeve"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk4-wing-grommet-trunk-lid-rear-wing-sleeve",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-wiper-receiver-wiper-mount-connector"
   ],
   "today_date": "2026-08-21",
-  "today_count": 17,
-  "total_posted": 273,
+  "today_count": 18,
+  "total_posted": 274,
   "history": [
     {
       "date": "2026-08-08",
@@ -1947,6 +1948,12 @@
       "date": "2026-08-21",
       "title": "Volkswagen Jetta Mk4 Wing Grommet (Trunk Lid / Rear Wing Sleeve)",
       "media_id": "17942857308295731",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Volkswagen Jetta Wiper Receiver (Wiper Mount / Connector)",
+      "media_id": "18112731442981121",
       "fb_media_id": null
     }
   ],
