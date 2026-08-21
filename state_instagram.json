@@ -299,11 +299,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-schalthebel-1-4-gear-lever-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-glove-box-latch-dashboard-compartment-lock",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mudflap-clip",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-air-intake-adapter-filter-connector-part"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-air-intake-adapter-filter-connector-part",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk6-subwoofer-mount-housing"
   ],
   "today_date": "2026-08-21",
-  "today_count": 11,
-  "total_posted": 267,
+  "today_count": 12,
+  "total_posted": 268,
   "history": [
     {
       "date": "2026-08-08",
@@ -1905,6 +1906,12 @@
       "date": "2026-08-21",
       "title": "Volkswagen Jetta Air Intake Adapter (Filter Connector Part)",
       "media_id": "18404379985085178",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Volkswagen Jetta Mk6 Subwoofer Mount / Housing",
+      "media_id": "18089472437235219",
       "fb_media_id": null
     }
   ],
