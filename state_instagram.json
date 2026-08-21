@@ -295,11 +295,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-golf-jetta-mk1-mirror-seal-sealing-gasket-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-steering-column-fix-repair-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-cup-holder-bottom-holder-base-part",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-bezel-dashboard-console-frame"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-bezel-dashboard-console-frame",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-schalthebel-1-4-gear-lever-part"
   ],
   "today_date": "2026-08-21",
-  "today_count": 7,
-  "total_posted": 263,
+  "today_count": 8,
+  "total_posted": 264,
   "history": [
     {
       "date": "2026-08-08",
@@ -1877,6 +1878,12 @@
       "date": "2026-08-21",
       "title": "Volkswagen Jetta Bezel (Dashboard / Console Frame)",
       "media_id": "18622572112010006",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Volkswagen Jetta Schalthebel 1.4 (Gear Lever Part)",
+      "media_id": "18077126768695518",
       "fb_media_id": null
     }
   ],
