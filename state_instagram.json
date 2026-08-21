@@ -310,11 +310,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk4-vent-gauge-pod-air-vent-mount",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-base-shifter-frame",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-seat-rail-trim-cover",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-dash-dashboard-console-part"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-dash-dashboard-console-part",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk6-cup-holder-insert-interior-mount"
   ],
   "today_date": "2026-08-21",
-  "today_count": 22,
-  "total_posted": 278,
+  "today_count": 23,
+  "total_posted": 279,
   "history": [
     {
       "date": "2026-08-08",
@@ -1982,6 +1983,12 @@
       "date": "2026-08-21",
       "title": "Volkswagen Jetta Dash (Dashboard / Console Part)",
       "media_id": "18633739273009544",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Volkswagen Jetta Mk6 Cup Holder Insert (Interior Mount)",
+      "media_id": "18116952187934326",
       "fb_media_id": null
     }
   ],
