@@ -309,11 +309,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-wiper-receiver-wiper-mount-connector",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk4-vent-gauge-pod-air-vent-mount",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-base-shifter-frame",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-seat-rail-trim-cover"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-seat-rail-trim-cover",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-dash-dashboard-console-part"
   ],
   "today_date": "2026-08-21",
-  "today_count": 21,
-  "total_posted": 277,
+  "today_count": 22,
+  "total_posted": 278,
   "history": [
     {
       "date": "2026-08-08",
@@ -1975,6 +1976,12 @@
       "date": "2026-08-21",
       "title": "Volkswagen Jetta Seat Rail Trim Cover",
       "media_id": "17928910131142375",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Volkswagen Jetta Dash (Dashboard / Console Part)",
+      "media_id": "18633739273009544",
       "fb_media_id": null
     }
   ],
