@@ -306,11 +306,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-breather-engine-ventilation-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-golf-jetta-timing-cover-engine-timing-protector",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk4-wing-grommet-trunk-lid-rear-wing-sleeve",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-wiper-receiver-wiper-mount-connector"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-wiper-receiver-wiper-mount-connector",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk4-vent-gauge-pod-air-vent-mount"
   ],
   "today_date": "2026-08-21",
-  "today_count": 18,
-  "total_posted": 274,
+  "today_count": 19,
+  "total_posted": 275,
   "history": [
     {
       "date": "2026-08-08",
@@ -1954,6 +1955,12 @@
       "date": "2026-08-21",
       "title": "Volkswagen Jetta Wiper Receiver (Wiper Mount / Connector)",
       "media_id": "18112731442981121",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Volkswagen Jetta Mk4 Vent Gauge Pod (Air Vent Mount)",
+      "media_id": "18087592124441404",
       "fb_media_id": null
     }
   ],
