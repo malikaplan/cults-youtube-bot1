@@ -294,11 +294,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-knob-control-button-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-golf-jetta-mk1-mirror-seal-sealing-gasket-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-steering-column-fix-repair-part",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-cup-holder-bottom-holder-base-part"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-cup-holder-bottom-holder-base-part",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-bezel-dashboard-console-frame"
   ],
   "today_date": "2026-08-21",
-  "today_count": 6,
-  "total_posted": 262,
+  "today_count": 7,
+  "total_posted": 263,
   "history": [
     {
       "date": "2026-08-08",
@@ -1870,6 +1871,12 @@
       "date": "2026-08-21",
       "title": "Volkswagen Jetta Cup Holder Bottom (Holder Base Part)",
       "media_id": "18073819985395528",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-21",
+      "title": "Volkswagen Jetta Bezel (Dashboard / Console Frame)",
+      "media_id": "18622572112010006",
       "fb_media_id": null
     }
   ],
