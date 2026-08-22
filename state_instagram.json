@@ -330,11 +330,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-9-3-front-grill-emblem",
     "https://cults3d.com/en/3d-model/tool/saab-roof-rack-front-front-mount-connector",
     "https://cults3d.com/en/3d-model/tool/saab-window-switch-power-window-button",
-    "https://cults3d.com/en/3d-model/tool/saab-9-5-window-bushing-glass-mechanism-mount"
+    "https://cults3d.com/en/3d-model/tool/saab-9-5-window-bushing-glass-mechanism-mount",
+    "https://cults3d.com/en/3d-model/tool/saab-front-grille-sak-grille-mount-connector"
   ],
   "today_date": "2026-08-22",
-  "today_count": 18,
-  "total_posted": 298,
+  "today_count": 19,
+  "total_posted": 299,
   "history": [
     {
       "date": "2026-08-08",
@@ -2122,6 +2123,12 @@
       "date": "2026-08-22",
       "title": "Saab 9-5 Window Bushing (Glass Mechanism Mount)",
       "media_id": "18172306162440918",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab Front Grille Sak (Grille Mount / Connector)",
+      "media_id": "18329173012285474",
       "fb_media_id": null
     }
   ],
