@@ -335,11 +335,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-900-blindstopfen-sitz-seat-blind-plug-cover",
     "https://cults3d.com/en/3d-model/tool/saab-95-stereoram-radio-stereo-mounting-part",
     "https://cults3d.com/en/3d-model/tool/saab-9-3-4d-cv-bootlid-handle-rubber",
-    "https://cults3d.com/en/3d-model/tool/saab-radkappe"
+    "https://cults3d.com/en/3d-model/tool/saab-radkappe",
+    "https://cults3d.com/en/3d-model/tool/saab-99-upper-antenna-holder"
   ],
   "today_date": "2026-08-22",
-  "today_count": 23,
-  "total_posted": 303,
+  "today_count": 24,
+  "total_posted": 304,
   "history": [
     {
       "date": "2026-08-08",
@@ -2157,6 +2158,12 @@
       "date": "2026-08-22",
       "title": "Saab Radkappe",
       "media_id": "17918874372424682",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab 99 Upper Antenna Holder",
+      "media_id": "18070856510472216",
       "fb_media_id": null
     }
   ],
