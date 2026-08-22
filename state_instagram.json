@@ -324,11 +324,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-vent-5-body-ventilation-housing-part",
     "https://cults3d.com/en/3d-model/tool/saab-phone-holder-interior-mount",
     "https://cults3d.com/en/3d-model/tool/saab-shifter-bushing-gear-shift-mount",
-    "https://cults3d.com/en/3d-model/tool/saab-clock-dashboard-timepiece-unit"
+    "https://cults3d.com/en/3d-model/tool/saab-clock-dashboard-timepiece-unit",
+    "https://cults3d.com/en/3d-model/tool/saab-sunroof-mount-and-arm-mechanism-connector"
   ],
   "today_date": "2026-08-22",
-  "today_count": 12,
-  "total_posted": 292,
+  "today_count": 13,
+  "total_posted": 293,
   "history": [
     {
       "date": "2026-08-08",
@@ -2080,6 +2081,12 @@
       "date": "2026-08-22",
       "title": "Saab Clock (Dashboard Timepiece Unit)",
       "media_id": "18060913994792342",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab Sunroof Mount and Arm (Mechanism Connector)",
+      "media_id": "18155930575452687",
       "fb_media_id": null
     }
   ],
