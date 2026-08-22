@@ -314,11 +314,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk6-cup-holder-insert-interior-mount",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-g-halter-cup-holder-mount",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-parking-brake-switch-button",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-ecu-cover-engine-control-unit-protector"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-ecu-cover-engine-control-unit-protector",
+    "https://cults3d.com/en/3d-model/tool/saab-2-cup-holder-double-drink-mount"
   ],
   "today_date": "2026-08-22",
-  "today_count": 2,
-  "total_posted": 282,
+  "today_count": 3,
+  "total_posted": 283,
   "history": [
     {
       "date": "2026-08-08",
@@ -2010,6 +2011,12 @@
       "date": "2026-08-22",
       "title": "Volkswagen Jetta ECU Cover (Engine Control Unit Protector)",
       "media_id": "18097888430039301",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab 2-Cup Holder (Double Drink Mount)",
+      "media_id": "17956781459999512",
       "fb_media_id": null
     }
   ],
