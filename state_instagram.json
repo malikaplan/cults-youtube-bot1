@@ -332,11 +332,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-window-switch-power-window-button",
     "https://cults3d.com/en/3d-model/tool/saab-9-5-window-bushing-glass-mechanism-mount",
     "https://cults3d.com/en/3d-model/tool/saab-front-grille-sak-grille-mount-connector",
-    "https://cults3d.com/en/3d-model/tool/saab-900-blindstopfen-sitz-seat-blind-plug-cover"
+    "https://cults3d.com/en/3d-model/tool/saab-900-blindstopfen-sitz-seat-blind-plug-cover",
+    "https://cults3d.com/en/3d-model/tool/saab-95-stereoram-radio-stereo-mounting-part"
   ],
   "today_date": "2026-08-22",
-  "today_count": 20,
-  "total_posted": 300,
+  "today_count": 21,
+  "total_posted": 301,
   "history": [
     {
       "date": "2026-08-08",
@@ -2136,6 +2137,12 @@
       "date": "2026-08-22",
       "title": "Saab 900 Blindstopfen Sitz (Seat Blind Plug / Cover)",
       "media_id": "18131934262650951",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab 95 Stereoram (Radio / Stereo Mounting Part)",
+      "media_id": "18218639950353593",
       "fb_media_id": null
     }
   ],
