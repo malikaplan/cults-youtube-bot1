@@ -318,11 +318,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-2-cup-holder-double-drink-mount",
     "https://cults3d.com/en/3d-model/tool/saab-car-flip-text-logo-ambigram-typographic-illusion-design",
     "https://cults3d.com/en/3d-model/tool/saab-grapas-trim-clip-connector",
-    "https://cults3d.com/en/3d-model/tool/saab-9-3-cold-air-intake-2005"
+    "https://cults3d.com/en/3d-model/tool/saab-9-3-cold-air-intake-2005",
+    "https://cults3d.com/en/3d-model/tool/saab-sunroof-mirror-shade"
   ],
   "today_date": "2026-08-22",
-  "today_count": 6,
-  "total_posted": 286,
+  "today_count": 7,
+  "total_posted": 287,
   "history": [
     {
       "date": "2026-08-08",
@@ -2038,6 +2039,12 @@
       "date": "2026-08-22",
       "title": "Saab 9-3 Cold Air Intake (2005)",
       "media_id": "18031439516832613",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab Sunroof Mirror Shade",
+      "media_id": "17942603907337990",
       "fb_media_id": null
     }
   ],
