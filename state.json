@@ -1,43 +1,43 @@
 {
-  "next_index": 186,
-  "next_publish_date": "2026-08-22T00:00:00",
-  "run_count": 29,
-  "total_uploaded": 114,
+  "next_index": 192,
+  "next_publish_date": "2026-08-23T00:00:00",
+  "run_count": 30,
+  "total_uploaded": 120,
   "total_models": 1275,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-08-22",
-    "day_number": 29,
+    "day_number": 30,
     "uploaded": [
       {
-        "title": "Renault Clio Air Vent Grille",
-        "publish_at": "2026-08-21T09:00:00Z",
-        "link": "https://youtu.be/IE8lCwuhDXs"
+        "title": "Nissan 370Z Strut Tower Brace Bolt Cover",
+        "publish_at": "2026-08-22T09:00:00Z",
+        "link": "https://youtu.be/CSsKbavLyKk"
       },
       {
-        "title": "Clio Rocker - Garage Door Opener",
-        "publish_at": "2026-08-21T11:00:00Z",
-        "link": "https://youtu.be/4Q4LD3-aZcw"
+        "title": "Nissan Leaf Brake Bleeder",
+        "publish_at": "2026-08-22T11:00:00Z",
+        "link": "https://youtu.be/-VjIoD9GKOw"
       },
       {
-        "title": "Clio Switch - 7 Seg Button",
-        "publish_at": "2026-08-21T13:00:00Z",
-        "link": "https://youtu.be/Jsro647WS20"
+        "title": "Nissan Air Circulation Knob",
+        "publish_at": "2026-08-22T13:00:00Z",
+        "link": "https://youtu.be/OiqHoOknjv4"
       },
       {
-        "title": "Nissan Frontier 26 Switch Blank",
-        "publish_at": "2026-08-21T15:00:00Z",
-        "link": "https://youtu.be/roOeOs-0ufU"
+        "title": "Nissan Radio Delete – Functional Interior Trim Part",
+        "publish_at": "2026-08-22T15:00:00Z",
+        "link": "https://youtu.be/SdaLPQHH_Yo"
       },
       {
-        "title": "Nissan Key Fob Replacement Buttons",
-        "publish_at": "2026-08-21T17:00:00Z",
-        "link": "https://youtu.be/FsuV3-uc3a0"
+        "title": "Nissan Vape Mount Adjustment",
+        "publish_at": "2026-08-22T17:00:00Z",
+        "link": "https://youtu.be/MOVzRhp0zxE"
       },
       {
-        "title": "Nikko Nissan Cube Air Intake",
-        "publish_at": "2026-08-21T19:00:00Z",
-        "link": "https://youtu.be/ZYq4SRx-PhQ"
+        "title": "Nissan Bonnet Clip",
+        "publish_at": "2026-08-22T19:00:00Z",
+        "link": "https://youtu.be/qWYyze47haY"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-16",
-      "day_number": 20,
-      "uploaded": [
-        {
-          "title": "Chibi Series: Shaolin Monk - 3D Printable Miniature",
-          "publish_at": "2026-08-15T09:00:00Z",
-          "link": "https://youtu.be/jy1CGvekoHo"
-        },
-        {
-          "title": "Chibi Series: Medieval Archer - 3D Printable Miniature",
-          "publish_at": "2026-08-15T11:00:00Z",
-          "link": "https://youtu.be/deT6VJAuNv0"
-        },
-        {
-          "title": "Chibi Series: Royal King - 3D Printable Miniature",
-          "publish_at": "2026-08-15T13:00:00Z",
-          "link": "https://youtu.be/VErDPwhnhEY"
-        },
-        {
-          "title": "Chibi Series: Royal Queen - 3D Printable Miniature",
-          "publish_at": "2026-08-15T15:00:00Z",
-          "link": "https://youtu.be/MbmIwR6NeNc"
-        },
-        {
-          "title": "Renault Megane Brake Scoop - Front Bumper Air Cooling Duct",
-          "publish_at": "2026-08-15T17:00:00Z",
-          "link": "https://youtu.be/O7o4lfakLs4"
-        },
-        {
-          "title": "Renault Clio 197 Door Pull Strap Slider",
-          "publish_at": "2026-08-15T19:00:00Z",
-          "link": "https://youtu.be/w1h1kZ6knhk"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-16",
       "day_number": 21,
@@ -387,9 +347,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-22",
+      "day_number": 30,
+      "uploaded": [
+        {
+          "title": "Nissan 370Z Strut Tower Brace Bolt Cover",
+          "publish_at": "2026-08-22T09:00:00Z",
+          "link": "https://youtu.be/CSsKbavLyKk"
+        },
+        {
+          "title": "Nissan Leaf Brake Bleeder",
+          "publish_at": "2026-08-22T11:00:00Z",
+          "link": "https://youtu.be/-VjIoD9GKOw"
+        },
+        {
+          "title": "Nissan Air Circulation Knob",
+          "publish_at": "2026-08-22T13:00:00Z",
+          "link": "https://youtu.be/OiqHoOknjv4"
+        },
+        {
+          "title": "Nissan Radio Delete – Functional Interior Trim Part",
+          "publish_at": "2026-08-22T15:00:00Z",
+          "link": "https://youtu.be/SdaLPQHH_Yo"
+        },
+        {
+          "title": "Nissan Vape Mount Adjustment",
+          "publish_at": "2026-08-22T17:00:00Z",
+          "link": "https://youtu.be/MOVzRhp0zxE"
+        },
+        {
+          "title": "Nissan Bonnet Clip",
+          "publish_at": "2026-08-22T19:00:00Z",
+          "link": "https://youtu.be/qWYyze47haY"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4624667",
+    "https://cults3d.com/:4624956",
+    "https://cults3d.com/:4624990",
+    "https://cults3d.com/:4625173",
+    "https://cults3d.com/:4625186",
+    "https://cults3d.com/:4625207",
     "https://cults3d.com/:4625253",
     "https://cults3d.com/:4625323",
     "https://cults3d.com/:4625332",
@@ -620,28 +626,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "IE8lCwuhDXs",
-      "text": "https://cults3d.com/en/3d-model/tool/renault-clio-air-vent-grille"
+      "video_id": "CSsKbavLyKk",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-370z-strut-tower-brace-bolt-cover"
     },
     {
-      "video_id": "4Q4LD3-aZcw",
-      "text": "https://cults3d.com/en/3d-model/tool/clio-rocker-garage-door-opener"
+      "video_id": "-VjIoD9GKOw",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-leaf-brake-bleeder"
     },
     {
-      "video_id": "Jsro647WS20",
-      "text": "https://cults3d.com/en/3d-model/tool/clio-switch-7-seg-button"
+      "video_id": "OiqHoOknjv4",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-air-circulation-knob"
     },
     {
-      "video_id": "roOeOs-0ufU",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-frontier-26-switch-blank"
+      "video_id": "SdaLPQHH_Yo",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-radio-delete-functional-interior-trim-part"
     },
     {
-      "video_id": "FsuV3-uc3a0",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-key-fob-replacement-buttons"
+      "video_id": "MOVzRhp0zxE",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-vape-mount-adjustment"
     },
     {
-      "video_id": "ZYq4SRx-PhQ",
-      "text": "https://cults3d.com/en/3d-model/tool/nikko-nissan-cube-air-intake"
+      "video_id": "qWYyze47haY",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip"
     }
   ]
 }
