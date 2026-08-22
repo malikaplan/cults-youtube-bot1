@@ -313,11 +313,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-dash-dashboard-console-part",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-mk6-cup-holder-insert-interior-mount",
     "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-g-halter-cup-holder-mount",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-parking-brake-switch-button"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-parking-brake-switch-button",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-jetta-ecu-cover-engine-control-unit-protector"
   ],
   "today_date": "2026-08-22",
-  "today_count": 1,
-  "total_posted": 281,
+  "today_count": 2,
+  "total_posted": 282,
   "history": [
     {
       "date": "2026-08-08",
@@ -2003,6 +2004,12 @@
       "date": "2026-08-22",
       "title": "Volkswagen Jetta  Parking Brake Switch/Button",
       "media_id": "18113420795023097",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Volkswagen Jetta ECU Cover (Engine Control Unit Protector)",
+      "media_id": "18097888430039301",
       "fb_media_id": null
     }
   ],
