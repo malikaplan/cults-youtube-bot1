@@ -333,11 +333,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-9-5-window-bushing-glass-mechanism-mount",
     "https://cults3d.com/en/3d-model/tool/saab-front-grille-sak-grille-mount-connector",
     "https://cults3d.com/en/3d-model/tool/saab-900-blindstopfen-sitz-seat-blind-plug-cover",
-    "https://cults3d.com/en/3d-model/tool/saab-95-stereoram-radio-stereo-mounting-part"
+    "https://cults3d.com/en/3d-model/tool/saab-95-stereoram-radio-stereo-mounting-part",
+    "https://cults3d.com/en/3d-model/tool/saab-9-3-4d-cv-bootlid-handle-rubber"
   ],
   "today_date": "2026-08-22",
-  "today_count": 21,
-  "total_posted": 301,
+  "today_count": 22,
+  "total_posted": 302,
   "history": [
     {
       "date": "2026-08-08",
@@ -2143,6 +2144,12 @@
       "date": "2026-08-22",
       "title": "Saab 95 Stereoram (Radio / Stereo Mounting Part)",
       "media_id": "18218639950353593",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab 9-3 4D/CV Bootlid Handle Rubber",
+      "media_id": "18427716136194560",
       "fb_media_id": null
     }
   ],
