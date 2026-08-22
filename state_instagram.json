@@ -331,11 +331,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-roof-rack-front-front-mount-connector",
     "https://cults3d.com/en/3d-model/tool/saab-window-switch-power-window-button",
     "https://cults3d.com/en/3d-model/tool/saab-9-5-window-bushing-glass-mechanism-mount",
-    "https://cults3d.com/en/3d-model/tool/saab-front-grille-sak-grille-mount-connector"
+    "https://cults3d.com/en/3d-model/tool/saab-front-grille-sak-grille-mount-connector",
+    "https://cults3d.com/en/3d-model/tool/saab-900-blindstopfen-sitz-seat-blind-plug-cover"
   ],
   "today_date": "2026-08-22",
-  "today_count": 19,
-  "total_posted": 299,
+  "today_count": 20,
+  "total_posted": 300,
   "history": [
     {
       "date": "2026-08-08",
@@ -2129,6 +2130,12 @@
       "date": "2026-08-22",
       "title": "Saab Front Grille Sak (Grille Mount / Connector)",
       "media_id": "18329173012285474",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab 900 Blindstopfen Sitz (Seat Blind Plug / Cover)",
+      "media_id": "18131934262650951",
       "fb_media_id": null
     }
   ],
