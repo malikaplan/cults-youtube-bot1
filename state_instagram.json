@@ -325,11 +325,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-phone-holder-interior-mount",
     "https://cults3d.com/en/3d-model/tool/saab-shifter-bushing-gear-shift-mount",
     "https://cults3d.com/en/3d-model/tool/saab-clock-dashboard-timepiece-unit",
-    "https://cults3d.com/en/3d-model/tool/saab-sunroof-mount-and-arm-mechanism-connector"
+    "https://cults3d.com/en/3d-model/tool/saab-sunroof-mount-and-arm-mechanism-connector",
+    "https://cults3d.com/en/3d-model/tool/saab-900-audio-interface-stereo-adapter-part"
   ],
   "today_date": "2026-08-22",
-  "today_count": 13,
-  "total_posted": 293,
+  "today_count": 14,
+  "total_posted": 294,
   "history": [
     {
       "date": "2026-08-08",
@@ -2087,6 +2088,12 @@
       "date": "2026-08-22",
       "title": "Saab Sunroof Mount and Arm (Mechanism Connector)",
       "media_id": "18155930575452687",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab 900 Audio Interface (Stereo Adapter Part)",
+      "media_id": "18120239548932833",
       "fb_media_id": null
     }
   ],
