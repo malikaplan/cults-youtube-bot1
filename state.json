@@ -1,43 +1,43 @@
 {
-  "next_index": 192,
-  "next_publish_date": "2026-08-23T00:00:00",
-  "run_count": 30,
-  "total_uploaded": 120,
+  "next_index": 198,
+  "next_publish_date": "2026-08-24T00:00:00",
+  "run_count": 31,
+  "total_uploaded": 126,
   "total_models": 1275,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-08-22",
-    "day_number": 30,
+    "day_number": 31,
     "uploaded": [
       {
-        "title": "Nissan 370Z Strut Tower Brace Bolt Cover",
-        "publish_at": "2026-08-22T09:00:00Z",
-        "link": "https://youtu.be/CSsKbavLyKk"
+        "title": "Nissan 720 AC Fan",
+        "publish_at": "2026-08-23T09:00:00Z",
+        "link": "https://youtu.be/lE2PLAvCAF4"
       },
       {
-        "title": "Nissan Leaf Brake Bleeder",
-        "publish_at": "2026-08-22T11:00:00Z",
-        "link": "https://youtu.be/-VjIoD9GKOw"
+        "title": "Nissan Sentra Gauge Pods Legacy BM‑BR Vent Gauge Pod – Double (Dual Gauge Holder / Vent Mount Component)",
+        "publish_at": "2026-08-23T11:00:00Z",
+        "link": "https://youtu.be/3GRAw151s-Y"
       },
       {
-        "title": "Nissan Air Circulation Knob",
-        "publish_at": "2026-08-22T13:00:00Z",
-        "link": "https://youtu.be/OiqHoOknjv4"
+        "title": "Nissan H7 LED Bracket (Headlight LED Mount / Lighting Component)",
+        "publish_at": "2026-08-23T13:00:00Z",
+        "link": "https://youtu.be/Z6A2eUQ_p_c"
       },
       {
-        "title": "Nissan Radio Delete – Functional Interior Trim Part",
-        "publish_at": "2026-08-22T15:00:00Z",
-        "link": "https://youtu.be/SdaLPQHH_Yo"
+        "title": "Nissan Patrol Wiper Support",
+        "publish_at": "2026-08-23T15:00:00Z",
+        "link": "https://youtu.be/yia6fFrjXJg"
       },
       {
-        "title": "Nissan Vape Mount Adjustment",
-        "publish_at": "2026-08-22T17:00:00Z",
-        "link": "https://youtu.be/MOVzRhp0zxE"
+        "title": "Nissan Sentra Door Button (Door Switch / Interior Component)",
+        "publish_at": "2026-08-23T17:00:00Z",
+        "link": "https://youtu.be/qjWIHTDRVmU"
       },
       {
-        "title": "Nissan Bonnet Clip",
-        "publish_at": "2026-08-22T19:00:00Z",
-        "link": "https://youtu.be/qWYyze47haY"
+        "title": "2018 Nissan Armada AVS JL Audio 10W1 (Subwoofer Mount / Audio System Accessory)",
+        "publish_at": "2026-08-23T19:00:00Z",
+        "link": "https://youtu.be/s8Mf7jgVat8"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-16",
-      "day_number": 21,
-      "uploaded": [
-        {
-          "title": "Renault Clio 197 Door Pull Strap Front",
-          "publish_at": "2026-08-16T09:00:00Z",
-          "link": "https://youtu.be/z-vzgRxtMuw"
-        },
-        {
-          "title": "Renault Clio Idler Plates / Idler Side 2 Dayco - Belt Tensioner Bracket Plate",
-          "publish_at": "2026-08-16T11:00:00Z",
-          "link": "https://youtu.be/0-1RhOvwxUw"
-        },
-        {
-          "title": "Renault Clio 2 1.2 16V Spark Plug Insulator / Extension (Isolant Bougie)",
-          "publish_at": "2026-08-16T13:00:00Z",
-          "link": "https://youtu.be/4pmo_5f4c3I"
-        },
-        {
-          "title": "Renault Clio 2 Interior Door Handle / Lever (Manette Clio 2)",
-          "publish_at": "2026-08-16T15:00:00Z",
-          "link": "https://youtu.be/VFIf9d1KYuA"
-        },
-        {
-          "title": "Renault Clio 197 Door Pull Strap Lever",
-          "publish_at": "2026-08-16T17:00:00Z",
-          "link": "https://youtu.be/dFdJa4BMzHQ"
-        },
-        {
-          "title": "Renault Clio 197 Fog Light Duct - Front Bumper Air Inlet",
-          "publish_at": "2026-08-16T19:00:00Z",
-          "link": "https://youtu.be/NmjJBaPD6CU"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-16",
       "day_number": 22,
@@ -387,9 +347,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-22",
+      "day_number": 31,
+      "uploaded": [
+        {
+          "title": "Nissan 720 AC Fan",
+          "publish_at": "2026-08-23T09:00:00Z",
+          "link": "https://youtu.be/lE2PLAvCAF4"
+        },
+        {
+          "title": "Nissan Sentra Gauge Pods Legacy BM‑BR Vent Gauge Pod – Double (Dual Gauge Holder / Vent Mount Component)",
+          "publish_at": "2026-08-23T11:00:00Z",
+          "link": "https://youtu.be/3GRAw151s-Y"
+        },
+        {
+          "title": "Nissan H7 LED Bracket (Headlight LED Mount / Lighting Component)",
+          "publish_at": "2026-08-23T13:00:00Z",
+          "link": "https://youtu.be/Z6A2eUQ_p_c"
+        },
+        {
+          "title": "Nissan Patrol Wiper Support",
+          "publish_at": "2026-08-23T15:00:00Z",
+          "link": "https://youtu.be/yia6fFrjXJg"
+        },
+        {
+          "title": "Nissan Sentra Door Button (Door Switch / Interior Component)",
+          "publish_at": "2026-08-23T17:00:00Z",
+          "link": "https://youtu.be/qjWIHTDRVmU"
+        },
+        {
+          "title": "2018 Nissan Armada AVS JL Audio 10W1 (Subwoofer Mount / Audio System Accessory)",
+          "publish_at": "2026-08-23T19:00:00Z",
+          "link": "https://youtu.be/s8Mf7jgVat8"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4621273",
+    "https://cults3d.com/:4621291",
+    "https://cults3d.com/:4621317",
+    "https://cults3d.com/:4621333",
+    "https://cults3d.com/:4621352",
+    "https://cults3d.com/:4624646",
     "https://cults3d.com/:4624667",
     "https://cults3d.com/:4624956",
     "https://cults3d.com/:4624990",
@@ -626,18 +632,6 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "CSsKbavLyKk",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-370z-strut-tower-brace-bolt-cover"
-    },
-    {
-      "video_id": "-VjIoD9GKOw",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-leaf-brake-bleeder"
-    },
-    {
-      "video_id": "OiqHoOknjv4",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-air-circulation-knob"
-    },
-    {
       "video_id": "SdaLPQHH_Yo",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-radio-delete-functional-interior-trim-part"
     },
@@ -648,6 +642,30 @@
     {
       "video_id": "qWYyze47haY",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip"
+    },
+    {
+      "video_id": "lE2PLAvCAF4",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-720-ac-fan"
+    },
+    {
+      "video_id": "3GRAw151s-Y",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-sentra-gauge-pods-legacy-bm-br-vent-gauge-pod-double-dual-gauge-holder"
+    },
+    {
+      "video_id": "Z6A2eUQ_p_c",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-h7-led-bracket-headlight-led-mount-lighting-component"
+    },
+    {
+      "video_id": "yia6fFrjXJg",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-patrol-wiper-support"
+    },
+    {
+      "video_id": "qjWIHTDRVmU",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-sentra-door-button-door-switch-interior-component"
+    },
+    {
+      "video_id": "s8Mf7jgVat8",
+      "text": "https://cults3d.com/en/3d-model/tool/2018-nissan-armada-avs-jl-audio-10w1-subwoofer-mount-audio-system-accessory"
     }
   ]
 }
