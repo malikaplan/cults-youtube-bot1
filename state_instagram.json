@@ -334,11 +334,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-front-grille-sak-grille-mount-connector",
     "https://cults3d.com/en/3d-model/tool/saab-900-blindstopfen-sitz-seat-blind-plug-cover",
     "https://cults3d.com/en/3d-model/tool/saab-95-stereoram-radio-stereo-mounting-part",
-    "https://cults3d.com/en/3d-model/tool/saab-9-3-4d-cv-bootlid-handle-rubber"
+    "https://cults3d.com/en/3d-model/tool/saab-9-3-4d-cv-bootlid-handle-rubber",
+    "https://cults3d.com/en/3d-model/tool/saab-radkappe"
   ],
   "today_date": "2026-08-22",
-  "today_count": 22,
-  "total_posted": 302,
+  "today_count": 23,
+  "total_posted": 303,
   "history": [
     {
       "date": "2026-08-08",
@@ -2150,6 +2151,12 @@
       "date": "2026-08-22",
       "title": "Saab 9-3 4D/CV Bootlid Handle Rubber",
       "media_id": "18427716136194560",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab Radkappe",
+      "media_id": "17918874372424682",
       "fb_media_id": null
     }
   ],
