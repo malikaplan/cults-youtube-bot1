@@ -328,11 +328,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-sunroof-mount-and-arm-mechanism-connector",
     "https://cults3d.com/en/3d-model/tool/saab-900-audio-interface-stereo-adapter-part",
     "https://cults3d.com/en/3d-model/tool/saab-9-3-front-grill-emblem",
-    "https://cults3d.com/en/3d-model/tool/saab-roof-rack-front-front-mount-connector"
+    "https://cults3d.com/en/3d-model/tool/saab-roof-rack-front-front-mount-connector",
+    "https://cults3d.com/en/3d-model/tool/saab-window-switch-power-window-button"
   ],
   "today_date": "2026-08-22",
-  "today_count": 16,
-  "total_posted": 296,
+  "today_count": 17,
+  "total_posted": 297,
   "history": [
     {
       "date": "2026-08-08",
@@ -2108,6 +2109,12 @@
       "date": "2026-08-22",
       "title": "Saab Roof Rack Front (Front Mount Connector)",
       "media_id": "18091892957546510",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab Window Switch (Power Window Button)",
+      "media_id": "18156797347501466",
       "fb_media_id": null
     }
   ],
