@@ -329,11 +329,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-900-audio-interface-stereo-adapter-part",
     "https://cults3d.com/en/3d-model/tool/saab-9-3-front-grill-emblem",
     "https://cults3d.com/en/3d-model/tool/saab-roof-rack-front-front-mount-connector",
-    "https://cults3d.com/en/3d-model/tool/saab-window-switch-power-window-button"
+    "https://cults3d.com/en/3d-model/tool/saab-window-switch-power-window-button",
+    "https://cults3d.com/en/3d-model/tool/saab-9-5-window-bushing-glass-mechanism-mount"
   ],
   "today_date": "2026-08-22",
-  "today_count": 17,
-  "total_posted": 297,
+  "today_count": 18,
+  "total_posted": 298,
   "history": [
     {
       "date": "2026-08-08",
@@ -2115,6 +2116,12 @@
       "date": "2026-08-22",
       "title": "Saab Window Switch (Power Window Button)",
       "media_id": "18156797347501466",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab 9-5 Window Bushing (Glass Mechanism Mount)",
+      "media_id": "18172306162440918",
       "fb_media_id": null
     }
   ],
