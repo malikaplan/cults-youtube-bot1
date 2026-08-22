@@ -320,11 +320,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-grapas-trim-clip-connector",
     "https://cults3d.com/en/3d-model/tool/saab-9-3-cold-air-intake-2005",
     "https://cults3d.com/en/3d-model/tool/saab-sunroof-mirror-shade",
-    "https://cults3d.com/en/3d-model/tool/saab-light-holder-headlight-interior-mount"
+    "https://cults3d.com/en/3d-model/tool/saab-light-holder-headlight-interior-mount",
+    "https://cults3d.com/en/3d-model/tool/saab-vent-5-body-ventilation-housing-part"
   ],
   "today_date": "2026-08-22",
-  "today_count": 8,
-  "total_posted": 288,
+  "today_count": 9,
+  "total_posted": 289,
   "history": [
     {
       "date": "2026-08-08",
@@ -2052,6 +2053,12 @@
       "date": "2026-08-22",
       "title": "Saab Light Holder (Headlight / Interior Mount)",
       "media_id": "17953121382230550",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab Vent 5-Body (Ventilation Housing Part)",
+      "media_id": "17968386627136658",
       "fb_media_id": null
     }
   ],
