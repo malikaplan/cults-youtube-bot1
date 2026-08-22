@@ -319,11 +319,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-car-flip-text-logo-ambigram-typographic-illusion-design",
     "https://cults3d.com/en/3d-model/tool/saab-grapas-trim-clip-connector",
     "https://cults3d.com/en/3d-model/tool/saab-9-3-cold-air-intake-2005",
-    "https://cults3d.com/en/3d-model/tool/saab-sunroof-mirror-shade"
+    "https://cults3d.com/en/3d-model/tool/saab-sunroof-mirror-shade",
+    "https://cults3d.com/en/3d-model/tool/saab-light-holder-headlight-interior-mount"
   ],
   "today_date": "2026-08-22",
-  "today_count": 7,
-  "total_posted": 287,
+  "today_count": 8,
+  "total_posted": 288,
   "history": [
     {
       "date": "2026-08-08",
@@ -2045,6 +2046,12 @@
       "date": "2026-08-22",
       "title": "Saab Sunroof Mirror Shade",
       "media_id": "17942603907337990",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-22",
+      "title": "Saab Light Holder (Headlight / Interior Mount)",
+      "media_id": "17953121382230550",
       "fb_media_id": null
     }
   ],
