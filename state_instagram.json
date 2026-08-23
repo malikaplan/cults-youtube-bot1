@@ -340,11 +340,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-9-5-headlight-washer-t",
     "https://cults3d.com/en/3d-model/tool/saab-speaker-adaptor",
     "https://cults3d.com/en/3d-model/tool/saab-b2x4-b2x5-disp-plug-engine-blind-cap",
-    "https://cults3d.com/en/3d-model/tool/saab-button-blank-dashboard-cover-blind-cap"
+    "https://cults3d.com/en/3d-model/tool/saab-button-blank-dashboard-cover-blind-cap",
+    "https://cults3d.com/en/3d-model/tool/saab-sun-visor-clip-makdesign"
   ],
   "today_date": "2026-08-23",
-  "today_count": 4,
-  "total_posted": 308,
+  "today_count": 5,
+  "total_posted": 309,
   "history": [
     {
       "date": "2026-08-08",
@@ -2192,6 +2193,12 @@
       "date": "2026-08-23",
       "title": "Saab Button Blank (Dashboard Cover / Blind Cap)",
       "media_id": "18330991045276420",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab Sun Visor Clip",
+      "media_id": "18212901235348165",
       "fb_media_id": null
     }
   ],
