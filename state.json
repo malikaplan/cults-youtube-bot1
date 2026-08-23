@@ -1,43 +1,43 @@
 {
-  "next_index": 198,
-  "next_publish_date": "2026-08-24T00:00:00",
-  "run_count": 31,
-  "total_uploaded": 126,
+  "next_index": 204,
+  "next_publish_date": "2026-08-25T00:00:00",
+  "run_count": 32,
+  "total_uploaded": 132,
   "total_models": 1275,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-22",
-    "day_number": 31,
+    "date": "2026-08-23",
+    "day_number": 32,
     "uploaded": [
       {
-        "title": "Nissan 720 AC Fan",
-        "publish_at": "2026-08-23T09:00:00Z",
-        "link": "https://youtu.be/lE2PLAvCAF4"
+        "title": "Nissan NP300 Battery Clamp",
+        "publish_at": "2026-08-24T09:00:00Z",
+        "link": "https://youtu.be/YQaXmMsFRUw"
       },
       {
-        "title": "Nissan Sentra Gauge Pods Legacy BM‑BR Vent Gauge Pod – Double (Dual Gauge Holder / Vent Mount Component)",
-        "publish_at": "2026-08-23T11:00:00Z",
-        "link": "https://youtu.be/3GRAw151s-Y"
+        "title": "Nissan Hood Prop Foot",
+        "publish_at": "2026-08-24T11:00:00Z",
+        "link": "https://youtu.be/00Ko0s-THIY"
       },
       {
-        "title": "Nissan H7 LED Bracket (Headlight LED Mount / Lighting Component)",
-        "publish_at": "2026-08-23T13:00:00Z",
-        "link": "https://youtu.be/Z6A2eUQ_p_c"
+        "title": "Nissan Pathfinder Console Cover",
+        "publish_at": "2026-08-24T13:00:00Z",
+        "link": "https://youtu.be/M7lUyvspK8E"
       },
       {
-        "title": "Nissan Patrol Wiper Support",
-        "publish_at": "2026-08-23T15:00:00Z",
-        "link": "https://youtu.be/yia6fFrjXJg"
+        "title": "Nissan Micra Tilt Lever",
+        "publish_at": "2026-08-24T15:00:00Z",
+        "link": "https://youtu.be/ZlFLradETcI"
       },
       {
-        "title": "Nissan Sentra Door Button (Door Switch / Interior Component)",
-        "publish_at": "2026-08-23T17:00:00Z",
-        "link": "https://youtu.be/qjWIHTDRVmU"
+        "title": "Nissan 720 Shifter Knob",
+        "publish_at": "2026-08-24T17:00:00Z",
+        "link": "https://youtu.be/nwcIGZ1YBiA"
       },
       {
-        "title": "2018 Nissan Armada AVS JL Audio 10W1 (Subwoofer Mount / Audio System Accessory)",
-        "publish_at": "2026-08-23T19:00:00Z",
-        "link": "https://youtu.be/s8Mf7jgVat8"
+        "title": "Nissan Speaker Grill – Smooth",
+        "publish_at": "2026-08-24T19:00:00Z",
+        "link": "https://youtu.be/xGuR1nkcp8o"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-16",
-      "day_number": 22,
-      "uploaded": [
-        {
-          "title": "Renault Clio Expansion / Washer Fluid Reservoir Replacement Cap",
-          "publish_at": "2026-08-17T09:00:00Z",
-          "link": "https://youtu.be/ekyvcZ_YZf0"
-        },
-        {
-          "title": "Renault Clio 2 Interior Trim Bezel / Handle Frame",
-          "publish_at": "2026-08-17T11:00:00Z",
-          "link": "https://youtu.be/7shQPLl73iU"
-        },
-        {
-          "title": "Renault Clio 2 RS Vertical Headlight Support Bracket - Support Vertical Optique",
-          "publish_at": "2026-08-17T13:00:00Z",
-          "link": "https://youtu.be/xMFwVyKK7MY"
-        },
-        {
-          "title": "Renault Clio Headlight / Seatbelt Height Adjustment Retainer - Hoogte Clip",
-          "publish_at": "2026-08-17T15:00:00Z",
-          "link": "https://youtu.be/WxIektS5FH4"
-        },
-        {
-          "title": "Renault Clio EDC Gear Shifter Light Guide / Position Indicator Trim",
-          "publish_at": "2026-08-17T17:00:00Z",
-          "link": "https://youtu.be/mbNXbj7b4_c"
-        },
-        {
-          "title": "Renault Trunk Hook Main Body - Boot Cargo Clip",
-          "publish_at": "2026-08-17T19:00:00Z",
-          "link": "https://youtu.be/SwlsZK19Rc4"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-16",
       "day_number": 23,
@@ -387,9 +347,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-23",
+      "day_number": 32,
+      "uploaded": [
+        {
+          "title": "Nissan NP300 Battery Clamp",
+          "publish_at": "2026-08-24T09:00:00Z",
+          "link": "https://youtu.be/YQaXmMsFRUw"
+        },
+        {
+          "title": "Nissan Hood Prop Foot",
+          "publish_at": "2026-08-24T11:00:00Z",
+          "link": "https://youtu.be/00Ko0s-THIY"
+        },
+        {
+          "title": "Nissan Pathfinder Console Cover",
+          "publish_at": "2026-08-24T13:00:00Z",
+          "link": "https://youtu.be/M7lUyvspK8E"
+        },
+        {
+          "title": "Nissan Micra Tilt Lever",
+          "publish_at": "2026-08-24T15:00:00Z",
+          "link": "https://youtu.be/ZlFLradETcI"
+        },
+        {
+          "title": "Nissan 720 Shifter Knob",
+          "publish_at": "2026-08-24T17:00:00Z",
+          "link": "https://youtu.be/nwcIGZ1YBiA"
+        },
+        {
+          "title": "Nissan Speaker Grill – Smooth",
+          "publish_at": "2026-08-24T19:00:00Z",
+          "link": "https://youtu.be/xGuR1nkcp8o"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4621134",
+    "https://cults3d.com/:4621145",
+    "https://cults3d.com/:4621154",
+    "https://cults3d.com/:4621224",
+    "https://cults3d.com/:4621244",
+    "https://cults3d.com/:4621261",
     "https://cults3d.com/:4621273",
     "https://cults3d.com/:4621291",
     "https://cults3d.com/:4621317",
@@ -632,18 +638,6 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "SdaLPQHH_Yo",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-radio-delete-functional-interior-trim-part"
-    },
-    {
-      "video_id": "MOVzRhp0zxE",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-vape-mount-adjustment"
-    },
-    {
-      "video_id": "qWYyze47haY",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip"
-    },
-    {
       "video_id": "lE2PLAvCAF4",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-720-ac-fan"
     },
@@ -666,6 +660,30 @@
     {
       "video_id": "s8Mf7jgVat8",
       "text": "https://cults3d.com/en/3d-model/tool/2018-nissan-armada-avs-jl-audio-10w1-subwoofer-mount-audio-system-accessory"
+    },
+    {
+      "video_id": "YQaXmMsFRUw",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-np300-battery-clamp"
+    },
+    {
+      "video_id": "00Ko0s-THIY",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-hood-prop-foot"
+    },
+    {
+      "video_id": "M7lUyvspK8E",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-pathfinder-console-cover"
+    },
+    {
+      "video_id": "ZlFLradETcI",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-micra-tilt-lever"
+    },
+    {
+      "video_id": "nwcIGZ1YBiA",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-720-shifter-knob"
+    },
+    {
+      "video_id": "xGuR1nkcp8o",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-speaker-grill-smooth"
     }
   ]
 }
