@@ -358,11 +358,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-frame-bushing-rear-top",
     "https://cults3d.com/en/3d-model/tool/saab-dash-blank-dashboard-cover-empty-slot-cap",
     "https://cults3d.com/en/3d-model/tool/saab-washer-cap-windshield-washer-reservoir-cover",
-    "https://cults3d.com/en/3d-model/tool/saab-9000-headlight-rod-support"
+    "https://cults3d.com/en/3d-model/tool/saab-9000-headlight-rod-support",
+    "https://cults3d.com/en/3d-model/tool/saab-antenna"
   ],
   "today_date": "2026-08-23",
-  "today_count": 22,
-  "total_posted": 326,
+  "today_count": 23,
+  "total_posted": 327,
   "history": [
     {
       "date": "2026-08-08",
@@ -2318,6 +2319,12 @@
       "date": "2026-08-23",
       "title": "Saab 9000 Headlight Rod Support",
       "media_id": "17961740544176939",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab Antenna",
+      "media_id": "18144229411515120",
       "fb_media_id": null
     }
   ],
