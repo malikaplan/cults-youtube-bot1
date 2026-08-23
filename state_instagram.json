@@ -338,11 +338,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-radkappe",
     "https://cults3d.com/en/3d-model/tool/saab-99-upper-antenna-holder",
     "https://cults3d.com/en/3d-model/tool/saab-9-5-headlight-washer-t",
-    "https://cults3d.com/en/3d-model/tool/saab-speaker-adaptor"
+    "https://cults3d.com/en/3d-model/tool/saab-speaker-adaptor",
+    "https://cults3d.com/en/3d-model/tool/saab-b2x4-b2x5-disp-plug-engine-blind-cap"
   ],
   "today_date": "2026-08-23",
-  "today_count": 2,
-  "total_posted": 306,
+  "today_count": 3,
+  "total_posted": 307,
   "history": [
     {
       "date": "2026-08-08",
@@ -2178,6 +2179,12 @@
       "date": "2026-08-23",
       "title": "Saab Speaker Adaptor",
       "media_id": "18091881686406308",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab B2x4/B2x5 Disp Plug (Engine Blind Cap)",
+      "media_id": "18162508828476247",
       "fb_media_id": null
     }
   ],
