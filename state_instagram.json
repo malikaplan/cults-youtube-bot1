@@ -355,11 +355,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-antenna-plug-v2-antenna-cover-socket-cap-version-2",
     "https://cults3d.com/en/3d-model/tool/saab-cone-filter-adapter",
     "https://cults3d.com/en/3d-model/tool/saab-long-blank-switch-dashboard-cover-long-slot-cap",
-    "https://cults3d.com/en/3d-model/tool/saab-frame-bushing-rear-top"
+    "https://cults3d.com/en/3d-model/tool/saab-frame-bushing-rear-top",
+    "https://cults3d.com/en/3d-model/tool/saab-dash-blank-dashboard-cover-empty-slot-cap"
   ],
   "today_date": "2026-08-23",
-  "today_count": 19,
-  "total_posted": 323,
+  "today_count": 20,
+  "total_posted": 324,
   "history": [
     {
       "date": "2026-08-08",
@@ -2297,6 +2298,12 @@
       "date": "2026-08-23",
       "title": "Saab Frame Bushing – Rear/Top",
       "media_id": "18114352976075005",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab Dash Blank (Dashboard Cover / Empty Slot Cap)",
+      "media_id": "18082051172705075",
       "fb_media_id": null
     }
   ],
