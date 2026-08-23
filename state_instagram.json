@@ -346,11 +346,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-interior-handle-door-inner-opening-lever",
     "https://cults3d.com/en/3d-model/tool/saab-caliper-plug-brake-caliper-cover-blind-cap",
     "https://cults3d.com/en/3d-model/tool/saab-knob-easy-bridging-control-button-adjustment-dial-bridging-optimized",
-    "https://cults3d.com/en/3d-model/tool/saab-9-5-bass-habit-remote-bracket"
+    "https://cults3d.com/en/3d-model/tool/saab-9-5-bass-habit-remote-bracket",
+    "https://cults3d.com/en/3d-model/tool/saab-9000-headlight-clip-support"
   ],
   "today_date": "2026-08-23",
-  "today_count": 10,
-  "total_posted": 314,
+  "today_count": 11,
+  "total_posted": 315,
   "history": [
     {
       "date": "2026-08-08",
@@ -2234,6 +2235,12 @@
       "date": "2026-08-23",
       "title": "Saab 9-5 Bass Habit Remote Bracket",
       "media_id": "18122645728847155",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab 9000 Headlight Clip Support",
+      "media_id": "17942371413329169",
       "fb_media_id": null
     }
   ],
