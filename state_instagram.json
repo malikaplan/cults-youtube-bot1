@@ -342,11 +342,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-b2x4-b2x5-disp-plug-engine-blind-cap",
     "https://cults3d.com/en/3d-model/tool/saab-button-blank-dashboard-cover-blind-cap",
     "https://cults3d.com/en/3d-model/tool/saab-sun-visor-clip-makdesign",
-    "https://cults3d.com/en/3d-model/tool/1989-saab-se-front-right-door-hole-plug"
+    "https://cults3d.com/en/3d-model/tool/1989-saab-se-front-right-door-hole-plug",
+    "https://cults3d.com/en/3d-model/tool/saab-interior-handle-door-inner-opening-lever"
   ],
   "today_date": "2026-08-23",
-  "today_count": 6,
-  "total_posted": 310,
+  "today_count": 7,
+  "total_posted": 311,
   "history": [
     {
       "date": "2026-08-08",
@@ -2206,6 +2207,12 @@
       "date": "2026-08-23",
       "title": "1989 Saab SE Front Right Door Hole Plug",
       "media_id": "18134434774546129",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab  Interior Handle Door Inner Opening Lever",
+      "media_id": "18481920943097228",
       "fb_media_id": null
     }
   ],
