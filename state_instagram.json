@@ -350,11 +350,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-9000-headlight-clip-support",
     "https://cults3d.com/en/3d-model/tool/saab-cargo-cover-tonneau-cap-fastening-pin",
     "https://cults3d.com/en/3d-model/tool/saab-front-right-door-hole-plug",
-    "https://cults3d.com/en/3d-model/tool/saab-knob-control-button-adjustment-dial"
+    "https://cults3d.com/en/3d-model/tool/saab-knob-control-button-adjustment-dial",
+    "https://cults3d.com/en/3d-model/tool/saab-viggen-jack-point-protector"
   ],
   "today_date": "2026-08-23",
-  "today_count": 14,
-  "total_posted": 318,
+  "today_count": 15,
+  "total_posted": 319,
   "history": [
     {
       "date": "2026-08-08",
@@ -2262,6 +2263,12 @@
       "date": "2026-08-23",
       "title": "Saab Knob (Control Button / Adjustment Dial)",
       "media_id": "18175347514443007",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab Viggen Jack Point Protector",
+      "media_id": "18204649405367458",
       "fb_media_id": null
     }
   ],
