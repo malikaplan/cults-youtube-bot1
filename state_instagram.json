@@ -344,11 +344,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-sun-visor-clip-makdesign",
     "https://cults3d.com/en/3d-model/tool/1989-saab-se-front-right-door-hole-plug",
     "https://cults3d.com/en/3d-model/tool/saab-interior-handle-door-inner-opening-lever",
-    "https://cults3d.com/en/3d-model/tool/saab-caliper-plug-brake-caliper-cover-blind-cap"
+    "https://cults3d.com/en/3d-model/tool/saab-caliper-plug-brake-caliper-cover-blind-cap",
+    "https://cults3d.com/en/3d-model/tool/saab-knob-easy-bridging-control-button-adjustment-dial-bridging-optimized"
   ],
   "today_date": "2026-08-23",
-  "today_count": 8,
-  "total_posted": 312,
+  "today_count": 9,
+  "total_posted": 313,
   "history": [
     {
       "date": "2026-08-08",
@@ -2220,6 +2221,12 @@
       "date": "2026-08-23",
       "title": "Saab Caliper Plug (Brake Caliper Cover / Blind Cap)",
       "media_id": "18117040324903655",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab Knob Easy Bridging (Control Button / Adjustment Dial – Bridging Optimized)",
+      "media_id": "17970460346938714",
       "fb_media_id": null
     }
   ],
