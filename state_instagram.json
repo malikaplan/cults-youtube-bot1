@@ -357,11 +357,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-long-blank-switch-dashboard-cover-long-slot-cap",
     "https://cults3d.com/en/3d-model/tool/saab-frame-bushing-rear-top",
     "https://cults3d.com/en/3d-model/tool/saab-dash-blank-dashboard-cover-empty-slot-cap",
-    "https://cults3d.com/en/3d-model/tool/saab-washer-cap-windshield-washer-reservoir-cover"
+    "https://cults3d.com/en/3d-model/tool/saab-washer-cap-windshield-washer-reservoir-cover",
+    "https://cults3d.com/en/3d-model/tool/saab-9000-headlight-rod-support"
   ],
   "today_date": "2026-08-23",
-  "today_count": 21,
-  "total_posted": 325,
+  "today_count": 22,
+  "total_posted": 326,
   "history": [
     {
       "date": "2026-08-08",
@@ -2311,6 +2312,12 @@
       "date": "2026-08-23",
       "title": "Saab Washer Cap (Windshield Washer Reservoir Cover)",
       "media_id": "18150295792468052",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab 9000 Headlight Rod Support",
+      "media_id": "17961740544176939",
       "fb_media_id": null
     }
   ],
