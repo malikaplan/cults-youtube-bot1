@@ -337,11 +337,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-9-3-4d-cv-bootlid-handle-rubber",
     "https://cults3d.com/en/3d-model/tool/saab-radkappe",
     "https://cults3d.com/en/3d-model/tool/saab-99-upper-antenna-holder",
-    "https://cults3d.com/en/3d-model/tool/saab-9-5-headlight-washer-t"
+    "https://cults3d.com/en/3d-model/tool/saab-9-5-headlight-washer-t",
+    "https://cults3d.com/en/3d-model/tool/saab-speaker-adaptor"
   ],
   "today_date": "2026-08-23",
-  "today_count": 1,
-  "total_posted": 305,
+  "today_count": 2,
+  "total_posted": 306,
   "history": [
     {
       "date": "2026-08-08",
@@ -2171,6 +2172,12 @@
       "date": "2026-08-23",
       "title": "Saab 9-5 Headlight Washer T",
       "media_id": "18610330777020165",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab Speaker Adaptor",
+      "media_id": "18091881686406308",
       "fb_media_id": null
     }
   ],
