@@ -353,11 +353,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-knob-control-button-adjustment-dial",
     "https://cults3d.com/en/3d-model/tool/saab-viggen-jack-point-protector",
     "https://cults3d.com/en/3d-model/tool/saab-antenna-plug-v2-antenna-cover-socket-cap-version-2",
-    "https://cults3d.com/en/3d-model/tool/saab-cone-filter-adapter"
+    "https://cults3d.com/en/3d-model/tool/saab-cone-filter-adapter",
+    "https://cults3d.com/en/3d-model/tool/saab-long-blank-switch-dashboard-cover-long-slot-cap"
   ],
   "today_date": "2026-08-23",
-  "today_count": 17,
-  "total_posted": 321,
+  "today_count": 18,
+  "total_posted": 322,
   "history": [
     {
       "date": "2026-08-08",
@@ -2283,6 +2284,12 @@
       "date": "2026-08-23",
       "title": "Saab Cone Filter Adapter",
       "media_id": "18033618527835070",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab Long Blank Switch (Dashboard Cover / Long Slot Cap)",
+      "media_id": "18109475450279741",
       "fb_media_id": null
     }
   ],
