@@ -356,11 +356,12 @@
     "https://cults3d.com/en/3d-model/tool/saab-cone-filter-adapter",
     "https://cults3d.com/en/3d-model/tool/saab-long-blank-switch-dashboard-cover-long-slot-cap",
     "https://cults3d.com/en/3d-model/tool/saab-frame-bushing-rear-top",
-    "https://cults3d.com/en/3d-model/tool/saab-dash-blank-dashboard-cover-empty-slot-cap"
+    "https://cults3d.com/en/3d-model/tool/saab-dash-blank-dashboard-cover-empty-slot-cap",
+    "https://cults3d.com/en/3d-model/tool/saab-washer-cap-windshield-washer-reservoir-cover"
   ],
   "today_date": "2026-08-23",
-  "today_count": 20,
-  "total_posted": 324,
+  "today_count": 21,
+  "total_posted": 325,
   "history": [
     {
       "date": "2026-08-08",
@@ -2304,6 +2305,12 @@
       "date": "2026-08-23",
       "title": "Saab Dash Blank (Dashboard Cover / Empty Slot Cap)",
       "media_id": "18082051172705075",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-23",
+      "title": "Saab Washer Cap (Windshield Washer Reservoir Cover)",
+      "media_id": "18150295792468052",
       "fb_media_id": null
     }
   ],
