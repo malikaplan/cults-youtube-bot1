@@ -370,11 +370,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-griff-door-handle-interior-grip",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-intake-part-air-intake-component",
     "https://cults3d.com/en/3d-model/home/the-pumpkin-king-skull-stylized-halloween-pumpkin-face-relief",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-speaker-protect-grille-speaker-protection-cover"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-speaker-protect-grille-speaker-protection-cover",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-cruise-and-brake-switch-connectors"
   ],
   "today_date": "2026-08-24",
-  "today_count": 10,
-  "total_posted": 338,
+  "today_count": 11,
+  "total_posted": 339,
   "history": [
     {
       "date": "2026-08-08",
@@ -2402,6 +2403,12 @@
       "date": "2026-08-24",
       "title": "BMW E30 Speaker Protect / Grille (Speaker Protection Cover)",
       "media_id": "18146387326550247",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-24",
+      "title": "BMW E30 Cruise and Brake Switch Connectors",
+      "media_id": "18626539840021734",
       "fb_media_id": null
     }
   ],
