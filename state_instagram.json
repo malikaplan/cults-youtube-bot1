@@ -369,11 +369,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-single-and-dual-cupholders-two-model",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-griff-door-handle-interior-grip",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-intake-part-air-intake-component",
-    "https://cults3d.com/en/3d-model/home/the-pumpkin-king-skull-stylized-halloween-pumpkin-face-relief"
+    "https://cults3d.com/en/3d-model/home/the-pumpkin-king-skull-stylized-halloween-pumpkin-face-relief",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-speaker-protect-grille-speaker-protection-cover"
   ],
   "today_date": "2026-08-24",
-  "today_count": 9,
-  "total_posted": 337,
+  "today_count": 10,
+  "total_posted": 338,
   "history": [
     {
       "date": "2026-08-08",
@@ -2395,6 +2396,12 @@
       "date": "2026-08-24",
       "title": "The Pumpkin King Skull – Stylized Halloween Pumpkin Face Relief",
       "media_id": "18090175115242286",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-24",
+      "title": "BMW E30 Speaker Protect / Grille (Speaker Protection Cover)",
+      "media_id": "18146387326550247",
       "fb_media_id": null
     }
   ],
