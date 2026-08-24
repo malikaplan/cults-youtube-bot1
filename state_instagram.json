@@ -381,11 +381,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-front-headliner-retainer-roof-interior-bracket-holder",
     "https://cults3d.com/en/3d-model/game/bmw-e30-mini-model-print-in-place",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-dash-insert-console-gauge-panel-insert",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-race-cluster-racing-instrument-panel"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-race-cluster-racing-instrument-panel",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-headlight-socket-lamp-connector"
   ],
   "today_date": "2026-08-24",
-  "today_count": 21,
-  "total_posted": 349,
+  "today_count": 22,
+  "total_posted": 350,
   "history": [
     {
       "date": "2026-08-08",
@@ -2479,6 +2480,12 @@
       "date": "2026-08-24",
       "title": "BMW E30 Race Cluster (Racing Instrument Panel)",
       "media_id": "18270469165306415",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-24",
+      "title": "BMW E30 Headlight Socket (Lamp Connector)",
+      "media_id": "18007281641972301",
       "fb_media_id": null
     }
   ],
