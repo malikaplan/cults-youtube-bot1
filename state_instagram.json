@@ -378,11 +378,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-rack-interior-organizer-holder",
     "https://cults3d.com/en/3d-model/tool/bmw-e21-e30-hazard-switch-hole-long-and-short-version-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-sunroof-crank-blockoff-cap",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-front-headliner-retainer-roof-interior-bracket-holder"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-front-headliner-retainer-roof-interior-bracket-holder",
+    "https://cults3d.com/en/3d-model/game/bmw-e30-mini-model-print-in-place"
   ],
   "today_date": "2026-08-24",
-  "today_count": 18,
-  "total_posted": 346,
+  "today_count": 19,
+  "total_posted": 347,
   "history": [
     {
       "date": "2026-08-08",
@@ -2458,6 +2459,12 @@
       "date": "2026-08-24",
       "title": "BMW E30 Front Headliner Retainer (Roof Interior Bracket/Holder)",
       "media_id": "18111598639817449",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-24",
+      "title": "BMW E30 Mini Model (Print-in-Place)",
+      "media_id": "18336503509248947",
       "fb_media_id": null
     }
   ],
