@@ -1,43 +1,43 @@
 {
-  "next_index": 204,
-  "next_publish_date": "2026-08-25T00:00:00",
-  "run_count": 32,
-  "total_uploaded": 132,
-  "total_models": 1275,
+  "next_index": 210,
+  "next_publish_date": "2026-08-26T00:00:00",
+  "run_count": 33,
+  "total_uploaded": 138,
+  "total_models": 1280,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-23",
-    "day_number": 32,
+    "date": "2026-08-24",
+    "day_number": 33,
     "uploaded": [
       {
-        "title": "Nissan NP300 Battery Clamp",
-        "publish_at": "2026-08-24T09:00:00Z",
-        "link": "https://youtu.be/YQaXmMsFRUw"
+        "title": "BMW E90 Headlight Cap",
+        "publish_at": "2026-08-25T09:00:00Z",
+        "link": "https://youtu.be/IULQZtei8-s"
       },
       {
-        "title": "Nissan Hood Prop Foot",
-        "publish_at": "2026-08-24T11:00:00Z",
-        "link": "https://youtu.be/00Ko0s-THIY"
+        "title": "BMW EKIY MTC16 Navigation Screen Mount Adapter",
+        "publish_at": "2026-08-25T11:00:00Z",
+        "link": "https://youtu.be/7S9tpghqEyQ"
       },
       {
-        "title": "Nissan Pathfinder Console Cover",
-        "publish_at": "2026-08-24T13:00:00Z",
-        "link": "https://youtu.be/M7lUyvspK8E"
+        "title": "BMW E90 E87 Glove Box Fuse Cover with Locking Latch",
+        "publish_at": "2026-08-25T13:00:00Z",
+        "link": "https://youtu.be/xjmCu9qk6wg"
       },
       {
-        "title": "Nissan Micra Tilt Lever",
-        "publish_at": "2026-08-24T15:00:00Z",
-        "link": "https://youtu.be/ZlFLradETcI"
+        "title": "BMW F20 F30 E90 E60 Tweeter Speaker Mount Adapter",
+        "publish_at": "2026-08-25T15:00:00Z",
+        "link": "https://youtu.be/8aXtVSO-w0k"
       },
       {
-        "title": "Nissan 720 Shifter Knob",
-        "publish_at": "2026-08-24T17:00:00Z",
-        "link": "https://youtu.be/nwcIGZ1YBiA"
+        "title": "BMW E30 E36 E46 Cold Air Intake Filter Box",
+        "publish_at": "2026-08-25T17:00:00Z",
+        "link": "https://youtu.be/K0wBRUj_DVs"
       },
       {
-        "title": "Nissan Speaker Grill – Smooth",
-        "publish_at": "2026-08-24T19:00:00Z",
-        "link": "https://youtu.be/xGuR1nkcp8o"
+        "title": "Nissan Relay‑CC Mount",
+        "publish_at": "2026-08-25T19:00:00Z",
+        "link": "https://youtu.be/_nbqfOyePLg"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,17 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-16",
-      "day_number": 23,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "Renault Clio Multimedia Volume Knob - Ruleta Volumen Replacement: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">"
-      ]
-    },
     {
       "date": "2026-08-16",
       "day_number": 24,
@@ -387,9 +376,50 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-24",
+      "day_number": 33,
+      "uploaded": [
+        {
+          "title": "BMW E90 Headlight Cap",
+          "publish_at": "2026-08-25T09:00:00Z",
+          "link": "https://youtu.be/IULQZtei8-s"
+        },
+        {
+          "title": "BMW EKIY MTC16 Navigation Screen Mount Adapter",
+          "publish_at": "2026-08-25T11:00:00Z",
+          "link": "https://youtu.be/7S9tpghqEyQ"
+        },
+        {
+          "title": "BMW E90 E87 Glove Box Fuse Cover with Locking Latch",
+          "publish_at": "2026-08-25T13:00:00Z",
+          "link": "https://youtu.be/xjmCu9qk6wg"
+        },
+        {
+          "title": "BMW F20 F30 E90 E60 Tweeter Speaker Mount Adapter",
+          "publish_at": "2026-08-25T15:00:00Z",
+          "link": "https://youtu.be/8aXtVSO-w0k"
+        },
+        {
+          "title": "BMW E30 E36 E46 Cold Air Intake Filter Box",
+          "publish_at": "2026-08-25T17:00:00Z",
+          "link": "https://youtu.be/K0wBRUj_DVs"
+        },
+        {
+          "title": "Nissan Relay‑CC Mount",
+          "publish_at": "2026-08-25T19:00:00Z",
+          "link": "https://youtu.be/_nbqfOyePLg"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4621126",
     "https://cults3d.com/:4621134",
     "https://cults3d.com/:4621145",
     "https://cults3d.com/:4621154",
@@ -593,7 +623,12 @@
     "https://cults3d.com/:4780050",
     "https://cults3d.com/:4780063",
     "https://cults3d.com/:4780095",
-    "https://cults3d.com/:4780344"
+    "https://cults3d.com/:4780344",
+    "https://cults3d.com/:4801294",
+    "https://cults3d.com/:4801612",
+    "https://cults3d.com/:4805517",
+    "https://cults3d.com/:4805575",
+    "https://cults3d.com/:4805877"
   ],
   "migrated_to_url_tracking": true,
   "pending_comments": [
@@ -638,30 +673,6 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "lE2PLAvCAF4",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-720-ac-fan"
-    },
-    {
-      "video_id": "3GRAw151s-Y",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-sentra-gauge-pods-legacy-bm-br-vent-gauge-pod-double-dual-gauge-holder"
-    },
-    {
-      "video_id": "Z6A2eUQ_p_c",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-h7-led-bracket-headlight-led-mount-lighting-component"
-    },
-    {
-      "video_id": "yia6fFrjXJg",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-patrol-wiper-support"
-    },
-    {
-      "video_id": "qjWIHTDRVmU",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-sentra-door-button-door-switch-interior-component"
-    },
-    {
-      "video_id": "s8Mf7jgVat8",
-      "text": "https://cults3d.com/en/3d-model/tool/2018-nissan-armada-avs-jl-audio-10w1-subwoofer-mount-audio-system-accessory"
-    },
-    {
       "video_id": "YQaXmMsFRUw",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-np300-battery-clamp"
     },
@@ -684,6 +695,30 @@
     {
       "video_id": "xGuR1nkcp8o",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-speaker-grill-smooth"
+    },
+    {
+      "video_id": "IULQZtei8-s",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e90-headlight-cap"
+    },
+    {
+      "video_id": "7S9tpghqEyQ",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-ekiy-mtc16-navigation-screen-mount-adapter"
+    },
+    {
+      "video_id": "xjmCu9qk6wg",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e90-e87-glove-box-fuse-cover-with-locking-latch"
+    },
+    {
+      "video_id": "8aXtVSO-w0k",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-f20-f30-e90-e60-tweeter-speaker-mount-adapter"
+    },
+    {
+      "video_id": "K0wBRUj_DVs",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e30-e36-e46-cold-air-intake-filter-box"
+    },
+    {
+      "video_id": "_nbqfOyePLg",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-relay-cc-mount"
     }
   ]
 }
