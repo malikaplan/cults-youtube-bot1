@@ -367,11 +367,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-f20-f30-e90-e60-tweeter-speaker-mount-adapter",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-e36-e46-cold-air-intake-filter-box",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-single-and-dual-cupholders-two-model",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-griff-door-handle-interior-grip"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-griff-door-handle-interior-grip",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-intake-part-air-intake-component"
   ],
   "today_date": "2026-08-24",
-  "today_count": 7,
-  "total_posted": 335,
+  "today_count": 8,
+  "total_posted": 336,
   "history": [
     {
       "date": "2026-08-08",
@@ -2381,6 +2382,12 @@
       "date": "2026-08-24",
       "title": "BMW E30 Griff (Door Handle/Interior Grip)",
       "media_id": "17929764696389990",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-24",
+      "title": "BMW E30 Intake Part (Air Intake Component)",
+      "media_id": "18086601143469441",
       "fb_media_id": null
     }
   ],
