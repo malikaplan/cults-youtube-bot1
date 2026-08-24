@@ -374,11 +374,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-cruise-and-brake-switch-connectors",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-dash-vent-console-air-vent-grille",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-window-winder-manual-window-crank-handle",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-under-dash-cover-lower-console-panel-cover"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-under-dash-cover-lower-console-panel-cover",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-door-rack-interior-organizer-holder"
   ],
   "today_date": "2026-08-24",
-  "today_count": 14,
-  "total_posted": 342,
+  "today_count": 15,
+  "total_posted": 343,
   "history": [
     {
       "date": "2026-08-08",
@@ -2430,6 +2431,12 @@
       "date": "2026-08-24",
       "title": "BMW E30 Under Dash Cover (Lower Console/Panel Cover)",
       "media_id": "18152737336504173",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-24",
+      "title": "BMW E30 Door Rack (Interior Organizer/Holder)",
+      "media_id": "18427036222197911",
       "fb_media_id": null
     }
   ],
