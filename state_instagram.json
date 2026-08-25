@@ -401,11 +401,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-check-panel-bop-control-panel-frame-button-part",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-cowcatcher-bracket-fog-light-frame",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-fuse-box-cover",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-pop-out-window-cover"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-pop-out-window-cover",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-window-crank-handle"
   ],
   "today_date": "2026-08-25",
-  "today_count": 17,
-  "total_posted": 369,
+  "today_count": 18,
+  "total_posted": 370,
   "history": [
     {
       "date": "2026-08-08",
@@ -2619,6 +2620,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Pop Out Window Cover",
       "media_id": "18188440507399711",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Window Crank Handle",
+      "media_id": "18178411657425999",
       "fb_media_id": null
     }
   ],
