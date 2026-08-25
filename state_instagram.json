@@ -397,11 +397,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-headlight-switch",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-c101-connector-bracket-holder",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-strut-cap-shock-mount-cover",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-cluster-repair-instrument-panel-repair-part"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-cluster-repair-instrument-panel-repair-part",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-check-panel-bop-control-panel-frame-button-part"
   ],
   "today_date": "2026-08-25",
-  "today_count": 13,
-  "total_posted": 365,
+  "today_count": 14,
+  "total_posted": 366,
   "history": [
     {
       "date": "2026-08-08",
@@ -2591,6 +2592,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Cluster Repair (Instrument Panel Repair Part)",
       "media_id": "18154819153503440",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Check Panel BOP (Control Panel Frame/Button Part)",
+      "media_id": "18122840887868114",
       "fb_media_id": null
     }
   ],
