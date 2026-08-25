@@ -399,11 +399,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-strut-cap-shock-mount-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-cluster-repair-instrument-panel-repair-part",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-check-panel-bop-control-panel-frame-button-part",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-cowcatcher-bracket-fog-light-frame"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-cowcatcher-bracket-fog-light-frame",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-fuse-box-cover"
   ],
   "today_date": "2026-08-25",
-  "today_count": 15,
-  "total_posted": 367,
+  "today_count": 16,
+  "total_posted": 368,
   "history": [
     {
       "date": "2026-08-08",
@@ -2605,6 +2606,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Cowcatcher Bracket, Fog, Light Frame",
       "media_id": "18110201393328693",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Fuse Box Cover",
+      "media_id": "18102392257969676",
       "fb_media_id": null
     }
   ],
