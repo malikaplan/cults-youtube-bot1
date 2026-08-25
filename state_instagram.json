@@ -404,11 +404,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-pop-out-window-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-window-crank-handle",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-fl-front-bumper-tow-hook-cover",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-radiator-mount-spacer"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-radiator-mount-spacer",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-cigarette-lighter-adapter"
   ],
   "today_date": "2026-08-25",
-  "today_count": 20,
-  "total_posted": 372,
+  "today_count": 21,
+  "total_posted": 373,
   "history": [
     {
       "date": "2026-08-08",
@@ -2640,6 +2641,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Radiator Mount Spacer",
       "media_id": "18109060757033199",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Cigarette Lighter Adapter",
+      "media_id": "17943128550335728",
       "fb_media_id": null
     }
   ],
