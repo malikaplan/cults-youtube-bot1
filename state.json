@@ -1,43 +1,43 @@
 {
-  "next_index": 210,
-  "next_publish_date": "2026-08-26T00:00:00",
-  "run_count": 33,
-  "total_uploaded": 138,
+  "next_index": 216,
+  "next_publish_date": "2026-08-27T00:00:00",
+  "run_count": 34,
+  "total_uploaded": 144,
   "total_models": 1280,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-24",
-    "day_number": 33,
+    "date": "2026-08-25",
+    "day_number": 34,
     "uploaded": [
       {
-        "title": "BMW E90 Headlight Cap",
-        "publish_at": "2026-08-25T09:00:00Z",
-        "link": "https://youtu.be/IULQZtei8-s"
+        "title": "Tomica Nissan GT‑R Direction Trim",
+        "publish_at": "2026-08-26T09:00:00Z",
+        "link": "https://youtu.be/ycfLxtXcAIw"
       },
       {
-        "title": "BMW EKIY MTC16 Navigation Screen Mount Adapter",
-        "publish_at": "2026-08-25T11:00:00Z",
-        "link": "https://youtu.be/7S9tpghqEyQ"
+        "title": "Nissan Rear Cups Holder",
+        "publish_at": "2026-08-26T11:00:00Z",
+        "link": "https://youtu.be/CFbgpvt6DGA"
       },
       {
-        "title": "BMW E90 E87 Glove Box Fuse Cover with Locking Latch",
-        "publish_at": "2026-08-25T13:00:00Z",
-        "link": "https://youtu.be/xjmCu9qk6wg"
+        "title": "Nissan Halter Cover Holder / Protective Mount Component",
+        "publish_at": "2026-08-26T13:00:00Z",
+        "link": "https://youtu.be/MU0MVIl7IiM"
       },
       {
-        "title": "BMW F20 F30 E90 E60 Tweeter Speaker Mount Adapter",
-        "publish_at": "2026-08-25T15:00:00Z",
-        "link": "https://youtu.be/8aXtVSO-w0k"
+        "title": "VW Golf Cluster Right Side (Dashboard Component / Instrument Panel Part)",
+        "publish_at": "2026-08-26T15:00:00Z",
+        "link": "https://youtu.be/pQNilW8FhhM"
       },
       {
-        "title": "BMW E30 E36 E46 Cold Air Intake Filter Box",
-        "publish_at": "2026-08-25T17:00:00Z",
-        "link": "https://youtu.be/K0wBRUj_DVs"
+        "title": "Nissan Altima Tweeter Mount",
+        "publish_at": "2026-08-26T17:00:00Z",
+        "link": "https://youtu.be/zBRdPRaROUA"
       },
       {
-        "title": "Nissan Relay‑CC Mount",
-        "publish_at": "2026-08-25T19:00:00Z",
-        "link": "https://youtu.be/_nbqfOyePLg"
+        "title": "Nissan Patrol Clock Support (Interior Console Component / Clock Holder)",
+        "publish_at": "2026-08-26T19:00:00Z",
+        "link": "https://youtu.be/kS7PvnO8W3I"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,17 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-16",
-      "day_number": 24,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "Renault Clio Multimedia Volume Knob - Ruleta Volumen Replacement: <HttpError 400 when requesting None returned \"The user has exceeded the number of videos they may upload.\". Details: \"[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]\">"
-      ]
-    },
     {
       "date": "2026-08-17",
       "day_number": 25,
@@ -416,9 +405,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-25",
+      "day_number": 34,
+      "uploaded": [
+        {
+          "title": "Tomica Nissan GT‑R Direction Trim",
+          "publish_at": "2026-08-26T09:00:00Z",
+          "link": "https://youtu.be/ycfLxtXcAIw"
+        },
+        {
+          "title": "Nissan Rear Cups Holder",
+          "publish_at": "2026-08-26T11:00:00Z",
+          "link": "https://youtu.be/CFbgpvt6DGA"
+        },
+        {
+          "title": "Nissan Halter Cover Holder / Protective Mount Component",
+          "publish_at": "2026-08-26T13:00:00Z",
+          "link": "https://youtu.be/MU0MVIl7IiM"
+        },
+        {
+          "title": "VW Golf Cluster Right Side (Dashboard Component / Instrument Panel Part)",
+          "publish_at": "2026-08-26T15:00:00Z",
+          "link": "https://youtu.be/pQNilW8FhhM"
+        },
+        {
+          "title": "Nissan Altima Tweeter Mount",
+          "publish_at": "2026-08-26T17:00:00Z",
+          "link": "https://youtu.be/zBRdPRaROUA"
+        },
+        {
+          "title": "Nissan Patrol Clock Support (Interior Console Component / Clock Holder)",
+          "publish_at": "2026-08-26T19:00:00Z",
+          "link": "https://youtu.be/kS7PvnO8W3I"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4621075",
+    "https://cults3d.com/:4621082",
+    "https://cults3d.com/:4621095",
+    "https://cults3d.com/:4621102",
+    "https://cults3d.com/:4621112",
+    "https://cults3d.com/:4621117",
     "https://cults3d.com/:4621126",
     "https://cults3d.com/:4621134",
     "https://cults3d.com/:4621145",
@@ -673,30 +708,6 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "YQaXmMsFRUw",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-np300-battery-clamp"
-    },
-    {
-      "video_id": "00Ko0s-THIY",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-hood-prop-foot"
-    },
-    {
-      "video_id": "M7lUyvspK8E",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-pathfinder-console-cover"
-    },
-    {
-      "video_id": "ZlFLradETcI",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-micra-tilt-lever"
-    },
-    {
-      "video_id": "nwcIGZ1YBiA",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-720-shifter-knob"
-    },
-    {
-      "video_id": "xGuR1nkcp8o",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-speaker-grill-smooth"
-    },
-    {
       "video_id": "IULQZtei8-s",
       "text": "https://cults3d.com/en/3d-model/tool/bmw-e90-headlight-cap"
     },
@@ -719,6 +730,30 @@
     {
       "video_id": "_nbqfOyePLg",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-relay-cc-mount"
+    },
+    {
+      "video_id": "ycfLxtXcAIw",
+      "text": "https://cults3d.com/en/3d-model/tool/tomica-nissan-gt-r-direction-trim"
+    },
+    {
+      "video_id": "CFbgpvt6DGA",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-rear-cups-holder"
+    },
+    {
+      "video_id": "MU0MVIl7IiM",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-halter-cover-holder-protective-mount-component"
+    },
+    {
+      "video_id": "pQNilW8FhhM",
+      "text": "https://cults3d.com/en/3d-model/tool/vw-golf-cluster-right-side-dashboard-component-instrument-panel-part"
+    },
+    {
+      "video_id": "zBRdPRaROUA",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-altima-tweeter-mount"
+    },
+    {
+      "video_id": "kS7PvnO8W3I",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-patrol-clock-support-interior-console-component-clock-holder"
     }
   ]
 }
