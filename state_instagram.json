@@ -387,11 +387,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-lock-spacer",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-lense",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-side-cow-side-cover-bracket-part",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-console-gauge-additional-gauge-bracket-panel"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-console-gauge-additional-gauge-bracket-panel",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-e24-e28-e36-950-e36-987-switch-blank-switch-cover-set"
   ],
   "today_date": "2026-08-25",
-  "today_count": 3,
-  "total_posted": 355,
+  "today_count": 4,
+  "total_posted": 356,
   "history": [
     {
       "date": "2026-08-08",
@@ -2521,6 +2522,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Console Gauge (Additional Gauge Bracket/Panel)",
       "media_id": "18157855273433871",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30/E24/E28 – E36 950 – E36 987 Switch Blank (Switch Cover Set)",
+      "media_id": "18083843621275793",
       "fb_media_id": null
     }
   ],
