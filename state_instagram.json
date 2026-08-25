@@ -407,11 +407,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-radiator-mount-spacer",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-cigarette-lighter-adapter",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-brake-cooling-duct",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-door-handle-frame"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-door-handle-frame",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-ventilation-grille"
   ],
   "today_date": "2026-08-25",
-  "today_count": 23,
-  "total_posted": 375,
+  "today_count": 24,
+  "total_posted": 376,
   "history": [
     {
       "date": "2026-08-08",
@@ -2661,6 +2662,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Door Handle Frame",
       "media_id": "17941671888321104",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Ventilation Grille",
+      "media_id": "17973825098920565",
       "fb_media_id": null
     }
   ],
