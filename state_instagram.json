@@ -385,11 +385,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-headlight-socket-lamp-connector",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-front-roof-interior-bracket-panel",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-lock-spacer",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-lense"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-lense",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-side-cow-side-cover-bracket-part"
   ],
   "today_date": "2026-08-25",
-  "today_count": 1,
-  "total_posted": 353,
+  "today_count": 2,
+  "total_posted": 354,
   "history": [
     {
       "date": "2026-08-08",
@@ -2507,6 +2508,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Lense",
       "media_id": "18160583935472397",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Side Cow (Side Cover/Bracket Part)",
+      "media_id": "17956854033218389",
       "fb_media_id": null
     }
   ],
