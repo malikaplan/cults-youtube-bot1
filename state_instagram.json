@@ -395,11 +395,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-front-splitter-clip-lip-mounting-fastener",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-headlight-adjuster-headlamp-adjustment-mechanism",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-headlight-switch",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-c101-connector-bracket-holder"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-c101-connector-bracket-holder",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-strut-cap-shock-mount-cover"
   ],
   "today_date": "2026-08-25",
-  "today_count": 11,
-  "total_posted": 363,
+  "today_count": 12,
+  "total_posted": 364,
   "history": [
     {
       "date": "2026-08-08",
@@ -2577,6 +2578,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 C101 Connector Bracket-Holder",
       "media_id": "18011462459751355",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Strut Cap (Shock Mount Cover)",
+      "media_id": "17904041775510317",
       "fb_media_id": null
     }
   ],
