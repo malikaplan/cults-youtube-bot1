@@ -406,11 +406,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-fl-front-bumper-tow-hook-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-radiator-mount-spacer",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-cigarette-lighter-adapter",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-brake-cooling-duct"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-brake-cooling-duct",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-door-handle-frame"
   ],
   "today_date": "2026-08-25",
-  "today_count": 22,
-  "total_posted": 374,
+  "today_count": 23,
+  "total_posted": 375,
   "history": [
     {
       "date": "2026-08-08",
@@ -2654,6 +2655,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Brake Cooling Duct",
       "media_id": "18097163417319846",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Door Handle Frame",
+      "media_id": "17941671888321104",
       "fb_media_id": null
     }
   ],
