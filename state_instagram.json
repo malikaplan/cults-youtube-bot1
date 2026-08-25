@@ -392,11 +392,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-hood-bracket-holder",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-fuse-box-cover-v2",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-handle-inner-part",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-front-splitter-clip-lip-mounting-fastener"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-front-splitter-clip-lip-mounting-fastener",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-headlight-adjuster-headlamp-adjustment-mechanism"
   ],
   "today_date": "2026-08-25",
-  "today_count": 8,
-  "total_posted": 360,
+  "today_count": 9,
+  "total_posted": 361,
   "history": [
     {
       "date": "2026-08-08",
@@ -2556,6 +2557,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Front Splitter Clip Lip Mounting Fastener",
       "media_id": "18106215635183203",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Headlight Adjuster /Headlamp Adjustment Mechanism",
+      "media_id": "18093953963433393",
       "fb_media_id": null
     }
   ],
