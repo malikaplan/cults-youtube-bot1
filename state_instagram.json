@@ -405,11 +405,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-window-crank-handle",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-fl-front-bumper-tow-hook-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-radiator-mount-spacer",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-cigarette-lighter-adapter"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-cigarette-lighter-adapter",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-brake-cooling-duct"
   ],
   "today_date": "2026-08-25",
-  "today_count": 21,
-  "total_posted": 373,
+  "today_count": 22,
+  "total_posted": 374,
   "history": [
     {
       "date": "2026-08-08",
@@ -2647,6 +2648,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Cigarette Lighter Adapter",
       "media_id": "17943128550335728",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Brake Cooling Duct",
+      "media_id": "18097163417319846",
       "fb_media_id": null
     }
   ],
