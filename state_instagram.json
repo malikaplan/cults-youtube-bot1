@@ -389,11 +389,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-side-cow-side-cover-bracket-part",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-console-gauge-additional-gauge-bracket-panel",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-e24-e28-e36-950-e36-987-switch-blank-switch-cover-set",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-hood-bracket-holder"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-hood-bracket-holder",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-fuse-box-cover-v2"
   ],
   "today_date": "2026-08-25",
-  "today_count": 5,
-  "total_posted": 357,
+  "today_count": 6,
+  "total_posted": 358,
   "history": [
     {
       "date": "2026-08-08",
@@ -2535,6 +2536,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Hood Bracket/Holder",
       "media_id": "18113919277986299",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-25",
+      "title": "BMW E30 Fuse Box Cover v2",
+      "media_id": "18105835433604534",
       "fb_media_id": null
     }
   ],
