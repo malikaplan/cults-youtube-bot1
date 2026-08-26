@@ -411,11 +411,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-ventilation-grille",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-headlights-high-beam-cover-low-beam-cover-and-gasket",
     "https://cults3d.com/en/3d-model/tool/bmw-hood-release-latch",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-door-cupholder"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-door-cupholder",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-rear-speaker-housing"
   ],
   "today_date": "2026-08-26",
-  "today_count": 3,
-  "total_posted": 379,
+  "today_count": 4,
+  "total_posted": 380,
   "history": [
     {
       "date": "2026-08-08",
@@ -2689,6 +2690,12 @@
       "date": "2026-08-26",
       "title": "BMW E30 Door Cupholder",
       "media_id": "18013994492936242",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E30 Rear Speaker Housing",
+      "media_id": "18092310791532199",
       "fb_media_id": null
     }
   ],
