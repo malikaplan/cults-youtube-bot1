@@ -424,11 +424,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e60-intercooler-mount-part",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-335i-relocated-intake",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-automatic-door-closer-gear-small-makdesign",
-    "https://cults3d.com/en/3d-model/tool/bmw-e60-e61-cupholder-adapter-halterung-cup"
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-e61-cupholder-adapter-halterung-cup",
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-halterung-cup-cupholder-mount"
   ],
   "today_date": "2026-08-26",
-  "today_count": 16,
-  "total_posted": 392,
+  "today_count": 17,
+  "total_posted": 393,
   "history": [
     {
       "date": "2026-08-08",
@@ -2780,6 +2781,12 @@
       "date": "2026-08-26",
       "title": "BMW E60/E61 Cupholder Adapter (Halterung Cup)",
       "media_id": "17905169340512148",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E60 Halterung Cup (Cupholder Mount)",
+      "media_id": "18095162291543808",
       "fb_media_id": null
     }
   ],
