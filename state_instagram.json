@@ -415,11 +415,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-rear-speaker-housing",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-console",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-mic-bracket-10mm",
-    "https://cults3d.com/en/3d-model/tool/bmw-e60-shifter-cover"
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-shifter-cover",
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-speaker-mount-speaker-axis-cap-makdesign"
   ],
   "today_date": "2026-08-26",
-  "today_count": 7,
-  "total_posted": 383,
+  "today_count": 8,
+  "total_posted": 384,
   "history": [
     {
       "date": "2026-08-08",
@@ -2717,6 +2718,12 @@
       "date": "2026-08-26",
       "title": "BMW E60 Shifter Cover",
       "media_id": "17896428738604323",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E60 Speaker Mount / Speaker Axis Cap",
+      "media_id": "18018762884871016",
       "fb_media_id": null
     }
   ],
