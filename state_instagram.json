@@ -413,11 +413,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-hood-release-latch",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-cupholder",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-rear-speaker-housing",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-console"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-console",
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-mic-bracket-10mm"
   ],
   "today_date": "2026-08-26",
-  "today_count": 5,
-  "total_posted": 381,
+  "today_count": 6,
+  "total_posted": 382,
   "history": [
     {
       "date": "2026-08-08",
@@ -2703,6 +2704,12 @@
       "date": "2026-08-26",
       "title": "BMW E30 Console",
       "media_id": "17926654356167663",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E60 Mic Bracket 10mm",
+      "media_id": "17921730423417320",
       "fb_media_id": null
     }
   ],
