@@ -410,11 +410,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-handle-frame",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-ventilation-grille",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-headlights-high-beam-cover-low-beam-cover-and-gasket",
-    "https://cults3d.com/en/3d-model/tool/bmw-hood-release-latch"
+    "https://cults3d.com/en/3d-model/tool/bmw-hood-release-latch",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-door-cupholder"
   ],
   "today_date": "2026-08-26",
-  "today_count": 2,
-  "total_posted": 378,
+  "today_count": 3,
+  "total_posted": 379,
   "history": [
     {
       "date": "2026-08-08",
@@ -2682,6 +2683,12 @@
       "date": "2026-08-26",
       "title": "BMW Hood Release Latch",
       "media_id": "17959311765192902",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E30 Door Cupholder",
+      "media_id": "18013994492936242",
       "fb_media_id": null
     }
   ],
