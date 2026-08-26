@@ -412,11 +412,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-headlights-high-beam-cover-low-beam-cover-and-gasket",
     "https://cults3d.com/en/3d-model/tool/bmw-hood-release-latch",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-cupholder",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-rear-speaker-housing"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-rear-speaker-housing",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-console"
   ],
   "today_date": "2026-08-26",
-  "today_count": 4,
-  "total_posted": 380,
+  "today_count": 5,
+  "total_posted": 381,
   "history": [
     {
       "date": "2026-08-08",
@@ -2696,6 +2697,12 @@
       "date": "2026-08-26",
       "title": "BMW E30 Rear Speaker Housing",
       "media_id": "18092310791532199",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E30 Console",
+      "media_id": "17926654356167663",
       "fb_media_id": null
     }
   ],
