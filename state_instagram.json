@@ -408,11 +408,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-cigarette-lighter-adapter",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-brake-cooling-duct",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-handle-frame",
-    "https://cults3d.com/en/3d-model/tool/bmw-e30-ventilation-grille"
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-ventilation-grille",
+    "https://cults3d.com/en/3d-model/tool/bmw-e30-headlights-high-beam-cover-low-beam-cover-and-gasket"
   ],
-  "today_date": "2026-08-25",
-  "today_count": 24,
-  "total_posted": 376,
+  "today_date": "2026-08-26",
+  "today_count": 1,
+  "total_posted": 377,
   "history": [
     {
       "date": "2026-08-08",
@@ -2668,6 +2669,12 @@
       "date": "2026-08-25",
       "title": "BMW E30 Ventilation Grille",
       "media_id": "17973825098920565",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E30 Headlights High Beam Cover, Low Beam Cover and Gasket",
+      "media_id": "18112380305105536",
       "fb_media_id": null
     }
   ],
