@@ -421,11 +421,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e60-getrankehalter-cupholder-all-parts",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-cupholder-v-2",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-front-wiper-gear-and-wiper-axis-cap",
-    "https://cults3d.com/en/3d-model/tool/bmw-e60-intercooler-mount-part"
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-intercooler-mount-part",
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-335i-relocated-intake"
   ],
   "today_date": "2026-08-26",
-  "today_count": 13,
-  "total_posted": 389,
+  "today_count": 14,
+  "total_posted": 390,
   "history": [
     {
       "date": "2026-08-08",
@@ -2759,6 +2760,12 @@
       "date": "2026-08-26",
       "title": "BMW E60 Intercooler Mount Part",
       "media_id": "18388918228162341",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E60 335i Relocated Intake",
+      "media_id": "18622823974062567",
       "fb_media_id": null
     }
   ],
