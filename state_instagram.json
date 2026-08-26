@@ -414,11 +414,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e30-door-cupholder",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-rear-speaker-housing",
     "https://cults3d.com/en/3d-model/tool/bmw-e30-console",
-    "https://cults3d.com/en/3d-model/tool/bmw-e60-mic-bracket-10mm"
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-mic-bracket-10mm",
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-shifter-cover"
   ],
   "today_date": "2026-08-26",
-  "today_count": 6,
-  "total_posted": 382,
+  "today_count": 7,
+  "total_posted": 383,
   "history": [
     {
       "date": "2026-08-08",
@@ -2710,6 +2711,12 @@
       "date": "2026-08-26",
       "title": "BMW E60 Mic Bracket 10mm",
       "media_id": "17921730423417320",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E60 Shifter Cover",
+      "media_id": "17896428738604323",
       "fb_media_id": null
     }
   ],
