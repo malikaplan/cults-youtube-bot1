@@ -426,11 +426,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e60-automatic-door-closer-gear-small-makdesign",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-e61-cupholder-adapter-halterung-cup",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-halterung-cup-cupholder-mount",
-    "https://cults3d.com/en/3d-model/tool/bmw-e60-cooling-fan-mount"
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-cooling-fan-mount",
+    "https://cults3d.com/en/3d-model/tool/bmw-f30-f31-front-door-speaker-adapter-6-5"
   ],
   "today_date": "2026-08-26",
-  "today_count": 18,
-  "total_posted": 394,
+  "today_count": 19,
+  "total_posted": 395,
   "history": [
     {
       "date": "2026-08-08",
@@ -2794,6 +2795,12 @@
       "date": "2026-08-26",
       "title": "BMW E60 Cooling Fan Mount",
       "media_id": "18056389253626099",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW F30/F31 Front Door Speaker Adapter (6.5\")",
+      "media_id": "18115333439286360",
       "fb_media_id": null
     }
   ],
