@@ -417,11 +417,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e60-mic-bracket-10mm",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-shifter-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-speaker-mount-speaker-axis-cap-makdesign",
-    "https://cults3d.com/en/3d-model/tool/bmw-e60-gear-shift-mount-bracket"
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-gear-shift-mount-bracket",
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-getrankehalter-cupholder-all-parts"
   ],
   "today_date": "2026-08-26",
-  "today_count": 9,
-  "total_posted": 385,
+  "today_count": 10,
+  "total_posted": 386,
   "history": [
     {
       "date": "2026-08-08",
@@ -2731,6 +2732,12 @@
       "date": "2026-08-26",
       "title": "BMW E60 Gear Shift Mount Bracket",
       "media_id": "18071900342447271",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E60 Getränkehalter -Cupholder All Parts",
+      "media_id": "18148553671532315",
       "fb_media_id": null
     }
   ],
