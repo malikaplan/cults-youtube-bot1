@@ -420,11 +420,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e60-gear-shift-mount-bracket",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-getrankehalter-cupholder-all-parts",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-cupholder-v-2",
-    "https://cults3d.com/en/3d-model/tool/bmw-e60-front-wiper-gear-and-wiper-axis-cap"
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-front-wiper-gear-and-wiper-axis-cap",
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-intercooler-mount-part"
   ],
   "today_date": "2026-08-26",
-  "today_count": 12,
-  "total_posted": 388,
+  "today_count": 13,
+  "total_posted": 389,
   "history": [
     {
       "date": "2026-08-08",
@@ -2752,6 +2753,12 @@
       "date": "2026-08-26",
       "title": "BMW E60 Front Wiper Gear and Wiper Axis Cap",
       "media_id": "18081633404312846",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E60 Intercooler Mount Part",
+      "media_id": "18388918228162341",
       "fb_media_id": null
     }
   ],
