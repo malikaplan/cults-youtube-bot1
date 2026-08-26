@@ -1,43 +1,43 @@
 {
-  "next_index": 216,
-  "next_publish_date": "2026-08-27T00:00:00",
-  "run_count": 34,
-  "total_uploaded": 144,
+  "next_index": 222,
+  "next_publish_date": "2026-08-28T00:00:00",
+  "run_count": 35,
+  "total_uploaded": 150,
   "total_models": 1280,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-25",
-    "day_number": 34,
+    "date": "2026-08-26",
+    "day_number": 35,
     "uploaded": [
       {
-        "title": "Tomica Nissan GT‑R Direction Trim",
-        "publish_at": "2026-08-26T09:00:00Z",
-        "link": "https://youtu.be/ycfLxtXcAIw"
+        "title": "Nissan VG30 Distributor Cover (Engine Component / Protective Cap)",
+        "publish_at": "2026-08-27T09:00:00Z",
+        "link": "https://youtu.be/Jz3_EavhnKA"
       },
       {
-        "title": "Nissan Rear Cups Holder",
-        "publish_at": "2026-08-26T11:00:00Z",
-        "link": "https://youtu.be/CFbgpvt6DGA"
+        "title": "Nissan Leaf Hatch Handle (Rear Trunk Grip / Cover Mechanism)",
+        "publish_at": "2026-08-27T11:00:00Z",
+        "link": "https://youtu.be/GZhTQtNGzXo"
       },
       {
-        "title": "Nissan Halter Cover Holder / Protective Mount Component",
-        "publish_at": "2026-08-26T13:00:00Z",
-        "link": "https://youtu.be/MU0MVIl7IiM"
+        "title": "Nissan Spotlight Covers (Fog Light / Auxiliary Lamp Protection)",
+        "publish_at": "2026-08-27T13:00:00Z",
+        "link": "https://youtu.be/pAGl0MWWGnE"
       },
       {
-        "title": "VW Golf Cluster Right Side (Dashboard Component / Instrument Panel Part)",
-        "publish_at": "2026-08-26T15:00:00Z",
-        "link": "https://youtu.be/pQNilW8FhhM"
+        "title": "Nissan Part AC (Air Conditioning Component)",
+        "publish_at": "2026-08-27T15:00:00Z",
+        "link": "https://youtu.be/wZQdhSh19jM"
       },
       {
-        "title": "Nissan Altima Tweeter Mount",
-        "publish_at": "2026-08-26T17:00:00Z",
-        "link": "https://youtu.be/zBRdPRaROUA"
+        "title": "Nissan Maxima Grommet (Rubber Seal / Mounting Component)",
+        "publish_at": "2026-08-27T17:00:00Z",
+        "link": "https://youtu.be/jLkMxg4kj78"
       },
       {
-        "title": "Nissan Patrol Clock Support (Interior Console Component / Clock Holder)",
-        "publish_at": "2026-08-26T19:00:00Z",
-        "link": "https://youtu.be/kS7PvnO8W3I"
+        "title": "Nissan Spiegelhalter (Mirror Holder / Side Mirror Mount Component)",
+        "publish_at": "2026-08-27T19:00:00Z",
+        "link": "https://youtu.be/FJop49CZ9Xo"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-17",
-      "day_number": 25,
-      "uploaded": [
-        {
-          "title": "Dacia Key Fob Holder / Remote Key Case Bracket",
-          "publish_at": "2026-08-18T09:00:00Z",
-          "link": "https://youtu.be/dke5mAudQ2Q"
-        },
-        {
-          "title": "Dacia Sandero Cup Holder / Beverage Insert Adapter",
-          "publish_at": "2026-08-18T11:00:00Z",
-          "link": "https://youtu.be/hA_rno2_6Kg"
-        },
-        {
-          "title": "Dacia Spring Cup Holder / Beverage Insert Clip",
-          "publish_at": "2026-08-18T13:00:00Z",
-          "link": "https://youtu.be/qIeDCqEY52Q"
-        },
-        {
-          "title": "Dacia Tow Bar Cover with Lock / Anti-Theft Hitch Cap",
-          "publish_at": "2026-08-18T15:00:00Z",
-          "link": "https://youtu.be/7hFVp9Ja1HA"
-        },
-        {
-          "title": "Renault Clio Multimedia Volume Knob - Ruleta Volumen Replacement",
-          "publish_at": "2026-08-18T17:00:00Z",
-          "link": "https://youtu.be/nEZdElI8Vds"
-        },
-        {
-          "title": "Renault Clio Taurus Clip / Exterior Molding Retainer",
-          "publish_at": "2026-08-18T19:00:00Z",
-          "link": "https://youtu.be/9nHj7dHApiM"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-17",
       "day_number": 26,
@@ -445,9 +405,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-26",
+      "day_number": 35,
+      "uploaded": [
+        {
+          "title": "Nissan VG30 Distributor Cover (Engine Component / Protective Cap)",
+          "publish_at": "2026-08-27T09:00:00Z",
+          "link": "https://youtu.be/Jz3_EavhnKA"
+        },
+        {
+          "title": "Nissan Leaf Hatch Handle (Rear Trunk Grip / Cover Mechanism)",
+          "publish_at": "2026-08-27T11:00:00Z",
+          "link": "https://youtu.be/GZhTQtNGzXo"
+        },
+        {
+          "title": "Nissan Spotlight Covers (Fog Light / Auxiliary Lamp Protection)",
+          "publish_at": "2026-08-27T13:00:00Z",
+          "link": "https://youtu.be/pAGl0MWWGnE"
+        },
+        {
+          "title": "Nissan Part AC (Air Conditioning Component)",
+          "publish_at": "2026-08-27T15:00:00Z",
+          "link": "https://youtu.be/wZQdhSh19jM"
+        },
+        {
+          "title": "Nissan Maxima Grommet (Rubber Seal / Mounting Component)",
+          "publish_at": "2026-08-27T17:00:00Z",
+          "link": "https://youtu.be/jLkMxg4kj78"
+        },
+        {
+          "title": "Nissan Spiegelhalter (Mirror Holder / Side Mirror Mount Component)",
+          "publish_at": "2026-08-27T19:00:00Z",
+          "link": "https://youtu.be/FJop49CZ9Xo"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4620860",
+    "https://cults3d.com/:4620900",
+    "https://cults3d.com/:4620916",
+    "https://cults3d.com/:4620944",
+    "https://cults3d.com/:4621038",
+    "https://cults3d.com/:4621065",
     "https://cults3d.com/:4621075",
     "https://cults3d.com/:4621082",
     "https://cults3d.com/:4621095",
@@ -708,30 +714,6 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "IULQZtei8-s",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e90-headlight-cap"
-    },
-    {
-      "video_id": "7S9tpghqEyQ",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-ekiy-mtc16-navigation-screen-mount-adapter"
-    },
-    {
-      "video_id": "xjmCu9qk6wg",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e90-e87-glove-box-fuse-cover-with-locking-latch"
-    },
-    {
-      "video_id": "8aXtVSO-w0k",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-f20-f30-e90-e60-tweeter-speaker-mount-adapter"
-    },
-    {
-      "video_id": "K0wBRUj_DVs",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e30-e36-e46-cold-air-intake-filter-box"
-    },
-    {
-      "video_id": "_nbqfOyePLg",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-relay-cc-mount"
-    },
-    {
       "video_id": "ycfLxtXcAIw",
       "text": "https://cults3d.com/en/3d-model/tool/tomica-nissan-gt-r-direction-trim"
     },
@@ -754,6 +736,30 @@
     {
       "video_id": "kS7PvnO8W3I",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-patrol-clock-support-interior-console-component-clock-holder"
+    },
+    {
+      "video_id": "Jz3_EavhnKA",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-vg30-distributor-cover-engine-component-protective-cap"
+    },
+    {
+      "video_id": "GZhTQtNGzXo",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-leaf-hatch-handle-rear-trunk-grip-cover-mechanism"
+    },
+    {
+      "video_id": "pAGl0MWWGnE",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-spotlight-covers-fog-light-auxiliary-lamp-protection"
+    },
+    {
+      "video_id": "wZQdhSh19jM",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-part-ac-air-conditioning-component"
+    },
+    {
+      "video_id": "jLkMxg4kj78",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-maxima-grommet-rubber-seal-mounting-component"
+    },
+    {
+      "video_id": "FJop49CZ9Xo",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-spiegelhalter-mirror-holder-side-mirror-mount-component"
     }
   ]
 }
