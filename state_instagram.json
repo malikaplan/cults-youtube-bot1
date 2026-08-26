@@ -425,11 +425,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e60-335i-relocated-intake",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-automatic-door-closer-gear-small-makdesign",
     "https://cults3d.com/en/3d-model/tool/bmw-e60-e61-cupholder-adapter-halterung-cup",
-    "https://cults3d.com/en/3d-model/tool/bmw-e60-halterung-cup-cupholder-mount"
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-halterung-cup-cupholder-mount",
+    "https://cults3d.com/en/3d-model/tool/bmw-e60-cooling-fan-mount"
   ],
   "today_date": "2026-08-26",
-  "today_count": 17,
-  "total_posted": 393,
+  "today_count": 18,
+  "total_posted": 394,
   "history": [
     {
       "date": "2026-08-08",
@@ -2787,6 +2788,12 @@
       "date": "2026-08-26",
       "title": "BMW E60 Halterung Cup (Cupholder Mount)",
       "media_id": "18095162291543808",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-26",
+      "title": "BMW E60 Cooling Fan Mount",
+      "media_id": "18056389253626099",
       "fb_media_id": null
     }
   ],
