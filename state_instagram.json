@@ -436,11 +436,12 @@
     "https://cults3d.com/en/3d-model/tool/vw-passat-cc-rear-speaker-adapter-for-6-5",
     "https://cults3d.com/en/3d-model/tool/mini-cooper-front-speaker-adapter-165-mm",
     "https://cults3d.com/en/3d-model/tool/2015-mazda-3-sedan-6-5-front-door-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/1980-86-ford-f-series-dash-speaker-adapter-5"
+    "https://cults3d.com/en/3d-model/tool/1980-86-ford-f-series-dash-speaker-adapter-5",
+    "https://cults3d.com/en/3d-model/tool/2008-gmc-sierra-ext-cab-6-75-front-door-speaker-adapter"
   ],
   "today_date": "2026-08-27",
-  "today_count": 5,
-  "total_posted": 404,
+  "today_count": 6,
+  "total_posted": 405,
   "history": [
     {
       "date": "2026-08-08",
@@ -2864,6 +2865,12 @@
       "date": "2026-08-27",
       "title": "1980–86 Ford F-Series Dash Speaker Adapter (5\")",
       "media_id": "18426993208179300",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-27",
+      "title": "2008 GMC Sierra Ext. Cab 6.75\" Front Door Speaker Adapter",
+      "media_id": "17979661095097791",
       "fb_media_id": null
     }
   ],
