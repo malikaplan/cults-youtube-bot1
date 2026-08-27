@@ -1,43 +1,43 @@
 {
-  "next_index": 222,
-  "next_publish_date": "2026-08-28T00:00:00",
-  "run_count": 35,
-  "total_uploaded": 150,
+  "next_index": 228,
+  "next_publish_date": "2026-08-29T00:00:00",
+  "run_count": 36,
+  "total_uploaded": 156,
   "total_models": 1280,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-26",
-    "day_number": 35,
+    "date": "2026-08-27",
+    "day_number": 36,
     "uploaded": [
       {
-        "title": "Nissan VG30 Distributor Cover (Engine Component / Protective Cap)",
-        "publish_at": "2026-08-27T09:00:00Z",
-        "link": "https://youtu.be/Jz3_EavhnKA"
+        "title": "Nissan Latch (Locking Mechanism Component)",
+        "publish_at": "2026-08-28T09:00:00Z",
+        "link": "https://youtu.be/zD1etMla4w0"
       },
       {
-        "title": "Nissan Leaf Hatch Handle (Rear Trunk Grip / Cover Mechanism)",
-        "publish_at": "2026-08-27T11:00:00Z",
-        "link": "https://youtu.be/GZhTQtNGzXo"
+        "title": "Nissan Cluster (Instrument Panel / Dashboard Component)",
+        "publish_at": "2026-08-28T11:00:00Z",
+        "link": "https://youtu.be/2GZf0HcexSk"
       },
       {
-        "title": "Nissan Spotlight Covers (Fog Light / Auxiliary Lamp Protection)",
-        "publish_at": "2026-08-27T13:00:00Z",
-        "link": "https://youtu.be/pAGl0MWWGnE"
+        "title": "Nissan Leaf Engine Splash Shield Cover Lower (2013‑2024)",
+        "publish_at": "2026-08-28T13:00:00Z",
+        "link": "https://youtu.be/tPSJHmDT56c"
       },
       {
-        "title": "Nissan Part AC (Air Conditioning Component)",
-        "publish_at": "2026-08-27T15:00:00Z",
-        "link": "https://youtu.be/wZQdhSh19jM"
+        "title": "Nissan Truck Vent (Ventilation / Trim Component)",
+        "publish_at": "2026-08-28T15:00:00Z",
+        "link": "https://youtu.be/CcKaHcx75YQ"
       },
       {
-        "title": "Nissan Maxima Grommet (Rubber Seal / Mounting Component)",
-        "publish_at": "2026-08-27T17:00:00Z",
-        "link": "https://youtu.be/jLkMxg4kj78"
+        "title": "Nissan Bonnet Clip (Front Trim / Hood Fastener Component) 2 version",
+        "publish_at": "2026-08-28T17:00:00Z",
+        "link": "https://youtu.be/MN7B0dmhkf8"
       },
       {
-        "title": "Nissan Spiegelhalter (Mirror Holder / Side Mirror Mount Component)",
-        "publish_at": "2026-08-27T19:00:00Z",
-        "link": "https://youtu.be/FJop49CZ9Xo"
+        "title": "Nissan Button Cover (Control Panel / Interior Console Component)",
+        "publish_at": "2026-08-28T19:00:00Z",
+        "link": "https://youtu.be/A-VkCQYcf08"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-17",
-      "day_number": 26,
-      "uploaded": [
-        {
-          "title": "Renault Clio 4 USB Port Door / Flap - Center Console Slot Cover",
-          "publish_at": "2026-08-18T09:00:00Z",
-          "link": "https://youtu.be/9X2bkxsaP1Y"
-        },
-        {
-          "title": "Renault Clio II Headlight Washer Nozzle - Bumper Jet Replacement",
-          "publish_at": "2026-08-18T11:00:00Z",
-          "link": "https://youtu.be/lTpjfw6cnMs"
-        },
-        {
-          "title": "Renault Clio 5 & Megane 4 Compatible Brake and Clutch Pedal Pad",
-          "publish_at": "2026-08-18T13:00:00Z",
-          "link": "https://youtu.be/7VWnm0pvjyI"
-        },
-        {
-          "title": "Renault Clio RS Decorative Desktop Model - Sleek Display Figure",
-          "publish_at": "2026-08-18T15:00:00Z",
-          "link": "https://youtu.be/i4tWO5DmMOk"
-        },
-        {
-          "title": "Renault Clio Wheel Center Cap - Wheelcap Replacement",
-          "publish_at": "2026-08-18T17:00:00Z",
-          "link": "https://youtu.be/uyLW08WSqas"
-        },
-        {
-          "title": "Renault Sport Steering Wheel Trim / Insert Part",
-          "publish_at": "2026-08-18T19:00:00Z",
-          "link": "https://youtu.be/yoPI-Dh-DjA"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-18",
       "day_number": 27,
@@ -445,9 +405,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-27",
+      "day_number": 36,
+      "uploaded": [
+        {
+          "title": "Nissan Latch (Locking Mechanism Component)",
+          "publish_at": "2026-08-28T09:00:00Z",
+          "link": "https://youtu.be/zD1etMla4w0"
+        },
+        {
+          "title": "Nissan Cluster (Instrument Panel / Dashboard Component)",
+          "publish_at": "2026-08-28T11:00:00Z",
+          "link": "https://youtu.be/2GZf0HcexSk"
+        },
+        {
+          "title": "Nissan Leaf Engine Splash Shield Cover Lower (2013‑2024)",
+          "publish_at": "2026-08-28T13:00:00Z",
+          "link": "https://youtu.be/tPSJHmDT56c"
+        },
+        {
+          "title": "Nissan Truck Vent (Ventilation / Trim Component)",
+          "publish_at": "2026-08-28T15:00:00Z",
+          "link": "https://youtu.be/CcKaHcx75YQ"
+        },
+        {
+          "title": "Nissan Bonnet Clip (Front Trim / Hood Fastener Component) 2 version",
+          "publish_at": "2026-08-28T17:00:00Z",
+          "link": "https://youtu.be/MN7B0dmhkf8"
+        },
+        {
+          "title": "Nissan Button Cover (Control Panel / Interior Console Component)",
+          "publish_at": "2026-08-28T19:00:00Z",
+          "link": "https://youtu.be/A-VkCQYcf08"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4617148",
+    "https://cults3d.com/:4617157",
+    "https://cults3d.com/:4617166",
+    "https://cults3d.com/:4620741",
+    "https://cults3d.com/:4620787",
+    "https://cults3d.com/:4620836",
     "https://cults3d.com/:4620860",
     "https://cults3d.com/:4620900",
     "https://cults3d.com/:4620916",
@@ -714,52 +720,32 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "ycfLxtXcAIw",
-      "text": "https://cults3d.com/en/3d-model/tool/tomica-nissan-gt-r-direction-trim"
-    },
-    {
-      "video_id": "CFbgpvt6DGA",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-rear-cups-holder"
-    },
-    {
-      "video_id": "MU0MVIl7IiM",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-halter-cover-holder-protective-mount-component"
-    },
-    {
-      "video_id": "pQNilW8FhhM",
-      "text": "https://cults3d.com/en/3d-model/tool/vw-golf-cluster-right-side-dashboard-component-instrument-panel-part"
-    },
-    {
-      "video_id": "zBRdPRaROUA",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-altima-tweeter-mount"
-    },
-    {
-      "video_id": "kS7PvnO8W3I",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-patrol-clock-support-interior-console-component-clock-holder"
-    },
-    {
-      "video_id": "Jz3_EavhnKA",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-vg30-distributor-cover-engine-component-protective-cap"
-    },
-    {
-      "video_id": "GZhTQtNGzXo",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-leaf-hatch-handle-rear-trunk-grip-cover-mechanism"
-    },
-    {
-      "video_id": "pAGl0MWWGnE",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-spotlight-covers-fog-light-auxiliary-lamp-protection"
-    },
-    {
-      "video_id": "wZQdhSh19jM",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-part-ac-air-conditioning-component"
-    },
-    {
-      "video_id": "jLkMxg4kj78",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-maxima-grommet-rubber-seal-mounting-component"
-    },
-    {
       "video_id": "FJop49CZ9Xo",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-spiegelhalter-mirror-holder-side-mirror-mount-component"
+    },
+    {
+      "video_id": "zD1etMla4w0",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-latch-locking-mechanism-component"
+    },
+    {
+      "video_id": "2GZf0HcexSk",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-cluster-instrument-panel-dashboard-component"
+    },
+    {
+      "video_id": "tPSJHmDT56c",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-leaf-engine-splash-shield-cover-lower-2013-2024"
+    },
+    {
+      "video_id": "CcKaHcx75YQ",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-truck-vent-ventilation-trim-component"
+    },
+    {
+      "video_id": "MN7B0dmhkf8",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-bonnet-clip-front-trim-hood-fastener-component-2-version"
+    },
+    {
+      "video_id": "A-VkCQYcf08",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-button-cover-control-panel-interior-console-component"
     }
   ]
 }
