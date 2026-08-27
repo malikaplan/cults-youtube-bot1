@@ -443,11 +443,12 @@
     "https://cults3d.com/en/3d-model/tool/2007-toyota-sequoia-front-door-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/1965-rambler-front-speaker-adapter-for-5",
     "https://cults3d.com/en/3d-model/tool/audi-a3-8p-front-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/ford-transit-2022-front-door-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/ford-transit-2022-front-door-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/lucy-5x7-to-6-5-speaker-adapter"
   ],
   "today_date": "2026-08-27",
-  "today_count": 12,
-  "total_posted": 411,
+  "today_count": 13,
+  "total_posted": 412,
   "history": [
     {
       "date": "2026-08-08",
@@ -2913,6 +2914,12 @@
       "date": "2026-08-27",
       "title": "Ford Transit 2022 Front Door Speaker Adapter",
       "media_id": "18021098732874314",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-27",
+      "title": "Lucy 5x7 to 6.5\" Speaker Adapter",
+      "media_id": "18110323289279650",
       "fb_media_id": null
     }
   ],
