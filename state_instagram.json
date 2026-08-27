@@ -438,11 +438,12 @@
     "https://cults3d.com/en/3d-model/tool/2015-mazda-3-sedan-6-5-front-door-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/1980-86-ford-f-series-dash-speaker-adapter-5",
     "https://cults3d.com/en/3d-model/tool/2008-gmc-sierra-ext-cab-6-75-front-door-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/audi-a5-b8-3-center-dash-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/audi-a5-b8-3-center-dash-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/2010-mazda-3-sedan-5-1-4-front-speaker-adapter"
   ],
   "today_date": "2026-08-27",
-  "today_count": 7,
-  "total_posted": 406,
+  "today_count": 8,
+  "total_posted": 407,
   "history": [
     {
       "date": "2026-08-08",
@@ -2878,6 +2879,12 @@
       "date": "2026-08-27",
       "title": "Audi A5 B8 3\" Center Dash Speaker Adapter",
       "media_id": "17989545294045416",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-27",
+      "title": "2010 Mazda 3 Sedan 5-1/4\" Front Speaker Adapter",
+      "media_id": "18365764777208584",
       "fb_media_id": null
     }
   ],
