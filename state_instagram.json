@@ -467,11 +467,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-passat-door-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/1990-prelude-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/civic-tweeter-adapter-top-mount",
-    "https://cults3d.com/en/3d-model/tool/opel-corsa-f-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/opel-corsa-f-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/ford-speaker-adapter"
   ],
   "today_date": "2026-08-28",
-  "today_count": 20,
-  "total_posted": 435,
+  "today_count": 21,
+  "total_posted": 436,
   "history": [
     {
       "date": "2026-08-08",
@@ -3081,6 +3082,12 @@
       "date": "2026-08-28",
       "title": "Opel Corsa F Speaker Adapter",
       "media_id": "17950501674258522",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Ford Speaker Adapter",
+      "media_id": "18115128199966742",
       "fb_media_id": null
     }
   ],
