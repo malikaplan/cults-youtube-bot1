@@ -461,11 +461,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-leaf-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/scion-6-5-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/subaru-outback-dash-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/audi-b8-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/audi-b8-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/nissan-qashqai-j11-speaker-adapter"
   ],
   "today_date": "2026-08-28",
-  "today_count": 14,
-  "total_posted": 429,
+  "today_count": 15,
+  "total_posted": 430,
   "history": [
     {
       "date": "2026-08-08",
@@ -3039,6 +3040,12 @@
       "date": "2026-08-28",
       "title": "Audi B8 Speaker Adapter",
       "media_id": "18142072123497794",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Nissan Qashqai J11 Speaker Adapter",
+      "media_id": "18123094900851573",
       "fb_media_id": null
     }
   ],
