@@ -450,11 +450,12 @@
     "https://cults3d.com/en/3d-model/tool/audi-a4-b9-front-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/kia-spectra-door-speaker-adapter-6-5",
     "https://cults3d.com/en/3d-model/tool/suzuki-jimny-rear-speaker-adapter-makdesign",
-    "https://cults3d.com/en/3d-model/tool/toyota-6x9-to-6-5-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/toyota-6x9-to-6-5-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/mitsubishi-galant-custom-front-speaker-adapter"
   ],
   "today_date": "2026-08-28",
-  "today_count": 3,
-  "total_posted": 418,
+  "today_count": 4,
+  "total_posted": 419,
   "history": [
     {
       "date": "2026-08-08",
@@ -2962,6 +2963,12 @@
       "date": "2026-08-28",
       "title": "Toyota 6x9 to 6.5\" Speaker Adapter",
       "media_id": "17986563924025103",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Mitsubishi Galant Custom Front Speaker Adapter",
+      "media_id": "17958857649078424",
       "fb_media_id": null
     }
   ],
