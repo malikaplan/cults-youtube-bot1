@@ -447,11 +447,12 @@
     "https://cults3d.com/en/3d-model/tool/lucy-5x7-to-6-5-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/chevrolet-colorado-1st-gen-chevrolet-colorado-rear-door-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/audi-a6-c7-front-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/audi-a4-b9-front-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/audi-a4-b9-front-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/kia-spectra-door-speaker-adapter-6-5"
   ],
-  "today_date": "2026-08-27",
-  "today_count": 16,
-  "total_posted": 415,
+  "today_date": "2026-08-28",
+  "today_count": 1,
+  "total_posted": 416,
   "history": [
     {
       "date": "2026-08-08",
@@ -2941,6 +2942,12 @@
       "date": "2026-08-27",
       "title": "Audi A4 B9 Front Speaker Adapter",
       "media_id": "18102974708601458",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Kia Spectra Door Speaker Adapter 6.5\"",
+      "media_id": "17981144573891814",
       "fb_media_id": null
     }
   ],
