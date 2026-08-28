@@ -448,11 +448,12 @@
     "https://cults3d.com/en/3d-model/tool/chevrolet-colorado-1st-gen-chevrolet-colorado-rear-door-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/audi-a6-c7-front-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/audi-a4-b9-front-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/kia-spectra-door-speaker-adapter-6-5"
+    "https://cults3d.com/en/3d-model/tool/kia-spectra-door-speaker-adapter-6-5",
+    "https://cults3d.com/en/3d-model/tool/suzuki-jimny-rear-speaker-adapter-makdesign"
   ],
   "today_date": "2026-08-28",
-  "today_count": 1,
-  "total_posted": 416,
+  "today_count": 2,
+  "total_posted": 417,
   "history": [
     {
       "date": "2026-08-08",
@@ -2948,6 +2949,12 @@
       "date": "2026-08-28",
       "title": "Kia Spectra Door Speaker Adapter 6.5\"",
       "media_id": "17981144573891814",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Suzuki Jimny Rear Speaker Adapter",
+      "media_id": "18364572130241470",
       "fb_media_id": null
     }
   ],
