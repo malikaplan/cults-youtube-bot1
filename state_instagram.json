@@ -468,11 +468,12 @@
     "https://cults3d.com/en/3d-model/tool/1990-prelude-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/civic-tweeter-adapter-top-mount",
     "https://cults3d.com/en/3d-model/tool/opel-corsa-f-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/ford-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/ford-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/peugeot-boxer-speaker-adapter"
   ],
   "today_date": "2026-08-28",
-  "today_count": 21,
-  "total_posted": 436,
+  "today_count": 22,
+  "total_posted": 437,
   "history": [
     {
       "date": "2026-08-08",
@@ -3088,6 +3089,12 @@
       "date": "2026-08-28",
       "title": "Ford Speaker Adapter",
       "media_id": "18115128199966742",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Peugeot Boxer Speaker Adapter",
+      "media_id": "17957289137999632",
       "fb_media_id": null
     }
   ],
