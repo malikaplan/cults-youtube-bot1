@@ -458,11 +458,12 @@
     "https://cults3d.com/en/3d-model/tool/lotus-speaker-adapter-rear",
     "https://cults3d.com/en/3d-model/tool/tesla-model-s-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/volvo-940-speaker-adapter-makdesign",
-    "https://cults3d.com/en/3d-model/tool/nissan-leaf-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/nissan-leaf-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/scion-6-5-speaker-adapter"
   ],
   "today_date": "2026-08-28",
-  "today_count": 11,
-  "total_posted": 426,
+  "today_count": 12,
+  "total_posted": 427,
   "history": [
     {
       "date": "2026-08-08",
@@ -3018,6 +3019,12 @@
       "date": "2026-08-28",
       "title": "Nissan Leaf Speaker Adapter",
       "media_id": "18088481048664446",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Scion 6.5\" Speaker Adapter",
+      "media_id": "18114969271770817",
       "fb_media_id": null
     }
   ],
