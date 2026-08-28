@@ -456,11 +456,12 @@
     "https://cults3d.com/en/3d-model/tool/opel-corsa-d-front-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/2002-cr-v-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/lotus-speaker-adapter-rear",
-    "https://cults3d.com/en/3d-model/tool/tesla-model-s-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/tesla-model-s-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/volvo-940-speaker-adapter-makdesign"
   ],
   "today_date": "2026-08-28",
-  "today_count": 9,
-  "total_posted": 424,
+  "today_count": 10,
+  "total_posted": 425,
   "history": [
     {
       "date": "2026-08-08",
@@ -3004,6 +3005,12 @@
       "date": "2026-08-28",
       "title": "Tesla Model S Speaker Adapter",
       "media_id": "18134964622623593",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Volvo 940 Speaker Adapter",
+      "media_id": "18113704309790994",
       "fb_media_id": null
     }
   ],
