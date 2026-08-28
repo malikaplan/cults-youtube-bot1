@@ -454,11 +454,12 @@
     "https://cults3d.com/en/3d-model/tool/mitsubishi-galant-custom-front-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/volkswagen-caddy-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/opel-corsa-d-front-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/2002-cr-v-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/2002-cr-v-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/lotus-speaker-adapter-rear"
   ],
   "today_date": "2026-08-28",
-  "today_count": 7,
-  "total_posted": 422,
+  "today_count": 8,
+  "total_posted": 423,
   "history": [
     {
       "date": "2026-08-08",
@@ -2990,6 +2991,12 @@
       "date": "2026-08-28",
       "title": "2002 CR-V Speaker Adapter",
       "media_id": "17880245175685997",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Lotus Speaker Adapter rear",
+      "media_id": "18198360238329612",
       "fb_media_id": null
     }
   ],
