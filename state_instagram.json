@@ -463,11 +463,12 @@
     "https://cults3d.com/en/3d-model/tool/subaru-outback-dash-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/audi-b8-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/nissan-qashqai-j11-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/mazda-2-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/mazda-2-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-passat-door-speaker-adapter"
   ],
   "today_date": "2026-08-28",
-  "today_count": 16,
-  "total_posted": 431,
+  "today_count": 17,
+  "total_posted": 432,
   "history": [
     {
       "date": "2026-08-08",
@@ -3053,6 +3054,12 @@
       "date": "2026-08-28",
       "title": "Mazda 2 Speaker Adapter",
       "media_id": "17901405321355201",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Volkswagen Passat Door Speaker Adapter",
+      "media_id": "18112756054814750",
       "fb_media_id": null
     }
   ],
