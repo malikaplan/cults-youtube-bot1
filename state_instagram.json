@@ -449,11 +449,12 @@
     "https://cults3d.com/en/3d-model/tool/audi-a6-c7-front-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/audi-a4-b9-front-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/kia-spectra-door-speaker-adapter-6-5",
-    "https://cults3d.com/en/3d-model/tool/suzuki-jimny-rear-speaker-adapter-makdesign"
+    "https://cults3d.com/en/3d-model/tool/suzuki-jimny-rear-speaker-adapter-makdesign",
+    "https://cults3d.com/en/3d-model/tool/toyota-6x9-to-6-5-speaker-adapter"
   ],
   "today_date": "2026-08-28",
-  "today_count": 2,
-  "total_posted": 417,
+  "today_count": 3,
+  "total_posted": 418,
   "history": [
     {
       "date": "2026-08-08",
@@ -2955,6 +2956,12 @@
       "date": "2026-08-28",
       "title": "Suzuki Jimny Rear Speaker Adapter",
       "media_id": "18364572130241470",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-28",
+      "title": "Toyota 6x9 to 6.5\" Speaker Adapter",
+      "media_id": "17986563924025103",
       "fb_media_id": null
     }
   ],
