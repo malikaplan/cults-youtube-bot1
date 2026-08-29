@@ -483,11 +483,12 @@
     "https://cults3d.com/en/3d-model/tool/chevrolet-camaro-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/volkswagen-touran-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/civic-r165x3-r165-s-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/mercedes-benz-r230-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-r230-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/mazda-3-front-speaker-mount-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 13,
-  "total_posted": 451,
+  "today_count": 14,
+  "total_posted": 452,
   "history": [
     {
       "date": "2026-08-08",
@@ -3193,6 +3194,12 @@
       "date": "2026-08-29",
       "title": "Mercedes-Benz R230 Speaker Adapter",
       "media_id": "18129043363673754",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Mazda 3 Front Speaker Mount Adapter",
+      "media_id": "18469424692117411",
       "fb_media_id": null
     }
   ],
