@@ -472,11 +472,12 @@
     "https://cults3d.com/en/3d-model/tool/peugeot-boxer-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/chevrolet-traverse-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/chevrolet-silverado-rear-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/2002-gmc-sierra-6-x4-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/2002-gmc-sierra-6-x4-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/gwm-cannon-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 2,
-  "total_posted": 440,
+  "today_count": 3,
+  "total_posted": 441,
   "history": [
     {
       "date": "2026-08-08",
@@ -3116,6 +3117,12 @@
       "date": "2026-08-29",
       "title": "2002 GMC Sierra 6\"x4\" Speaker Adapter",
       "media_id": "18099382508036189",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "GWM Cannon Speaker Adapter",
+      "media_id": "18068613482750372",
       "fb_media_id": null
     }
   ],
