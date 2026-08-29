@@ -1,43 +1,43 @@
 {
-  "next_index": 234,
-  "next_publish_date": "2026-08-30T00:00:00",
-  "run_count": 37,
-  "total_uploaded": 162,
+  "next_index": 240,
+  "next_publish_date": "2026-08-31T00:00:00",
+  "run_count": 38,
+  "total_uploaded": 168,
   "total_models": 1280,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-28",
-    "day_number": 37,
+    "date": "2026-08-29",
+    "day_number": 38,
     "uploaded": [
       {
-        "title": "Nissan Blende hinten (Rear Cover / Trim Component)",
-        "publish_at": "2026-08-29T09:00:00Z",
-        "link": "https://youtu.be/QLU4TKC2Oyo"
+        "title": "Nissan Patrol Funnel (Oil / Fuel Filling Adapter Component)",
+        "publish_at": "2026-08-30T09:00:00Z",
+        "link": "https://youtu.be/QehMnwlr-OA"
       },
       {
-        "title": "Nissan Hood Vent (Engine Cooling / Aerodynamic Component)",
-        "publish_at": "2026-08-29T11:00:00Z",
-        "link": "https://youtu.be/RsUFTEiwfDQ"
+        "title": "Predator 212 Oil Cap (Engine Oil Cover Component)",
+        "publish_at": "2026-08-30T11:00:00Z",
+        "link": "https://youtu.be/6FPvW1i4aVc"
       },
       {
-        "title": "Nissan True Cover (Protective Cover  Exterior Trim Component)",
-        "publish_at": "2026-08-29T13:00:00Z",
-        "link": "https://youtu.be/s5LU--GVjiE"
+        "title": "Nissan 230V Plug (Vehicle Power Outlet / Electrical Adapter Component)",
+        "publish_at": "2026-08-30T13:00:00Z",
+        "link": "https://youtu.be/cynYaJbodRk"
       },
       {
-        "title": "Nissan 350Z Intake (Air Intake System Component)",
-        "publish_at": "2026-08-29T15:00:00Z",
-        "link": "https://youtu.be/NoUD8j3MUQs"
+        "title": "Nissan Navara Tappo",
+        "publish_at": "2026-08-30T15:00:00Z",
+        "link": "https://youtu.be/1M0Ido9uiUA"
       },
       {
-        "title": "Nissan Leaf ZE1 Lock Pin Gear (Door Lock Gear Component)",
-        "publish_at": "2026-08-29T17:00:00Z",
-        "link": "https://youtu.be/RCZeEkLZFjI"
+        "title": "Nissan Clips Set (Trim / Mounting Fastener Kit)",
+        "publish_at": "2026-08-30T17:00:00Z",
+        "link": "https://youtu.be/nKGKnTfMvk4"
       },
       {
-        "title": "Nissan 8318G Door Handle (Interior/Exterior Door Component)",
-        "publish_at": "2026-08-29T19:00:00Z",
-        "link": "https://youtu.be/IxpugL_2xZE"
+        "title": "Nissan Micro Switch buton cover",
+        "publish_at": "2026-08-30T19:00:00Z",
+        "link": "https://youtu.be/SrNgMN0Uyiw"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-19",
-      "day_number": 28,
-      "uploaded": [
-        {
-          "title": "Renault Clio 172 Alternator Mount - Bracket Component",
-          "publish_at": "2026-08-20T09:00:00Z",
-          "link": "https://youtu.be/2byhzf_aQm8"
-        },
-        {
-          "title": "Renault Clio 1 DIN Radio Blende - Stereo Facia Frame",
-          "publish_at": "2026-08-20T11:00:00Z",
-          "link": "https://youtu.be/9nrA8GieZUs"
-        },
-        {
-          "title": "Renault Clio 2 Air Vent with Instrument Hole - Gauge Pod",
-          "publish_at": "2026-08-20T13:00:00Z",
-          "link": "https://youtu.be/lMzjycsSwXo"
-        },
-        {
-          "title": "Renault Clio Air Inlet - Intake Tube",
-          "publish_at": "2026-08-20T15:00:00Z",
-          "link": "https://youtu.be/JV9SQiy0Bos"
-        },
-        {
-          "title": "Renault Clio 2 Interior Door Handle",
-          "publish_at": "2026-08-20T17:00:00Z",
-          "link": "https://youtu.be/9B8Ypl2a1R0"
-        },
-        {
-          "title": "Bremse adapter Clio s2000",
-          "publish_at": "2026-08-20T19:00:00Z",
-          "link": "https://youtu.be/LVJ8P21RMD8"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-22",
       "day_number": 29,
@@ -445,9 +405,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-29",
+      "day_number": 38,
+      "uploaded": [
+        {
+          "title": "Nissan Patrol Funnel (Oil / Fuel Filling Adapter Component)",
+          "publish_at": "2026-08-30T09:00:00Z",
+          "link": "https://youtu.be/QehMnwlr-OA"
+        },
+        {
+          "title": "Predator 212 Oil Cap (Engine Oil Cover Component)",
+          "publish_at": "2026-08-30T11:00:00Z",
+          "link": "https://youtu.be/6FPvW1i4aVc"
+        },
+        {
+          "title": "Nissan 230V Plug (Vehicle Power Outlet / Electrical Adapter Component)",
+          "publish_at": "2026-08-30T13:00:00Z",
+          "link": "https://youtu.be/cynYaJbodRk"
+        },
+        {
+          "title": "Nissan Navara Tappo",
+          "publish_at": "2026-08-30T15:00:00Z",
+          "link": "https://youtu.be/1M0Ido9uiUA"
+        },
+        {
+          "title": "Nissan Clips Set (Trim / Mounting Fastener Kit)",
+          "publish_at": "2026-08-30T17:00:00Z",
+          "link": "https://youtu.be/nKGKnTfMvk4"
+        },
+        {
+          "title": "Nissan Micro Switch buton cover",
+          "publish_at": "2026-08-30T19:00:00Z",
+          "link": "https://youtu.be/SrNgMN0Uyiw"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4616814",
+    "https://cults3d.com/:4616897",
+    "https://cults3d.com/:4616936",
+    "https://cults3d.com/:4617008",
+    "https://cults3d.com/:4617038",
+    "https://cults3d.com/:4617057",
     "https://cults3d.com/:4617075",
     "https://cults3d.com/:4617090",
     "https://cults3d.com/:4617101",
@@ -726,18 +732,6 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "A-VkCQYcf08",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-button-cover-control-panel-interior-console-component"
-    },
-    {
-      "video_id": "QLU4TKC2Oyo",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-blende-hinten-rear-cover-trim-component"
-    },
-    {
-      "video_id": "RsUFTEiwfDQ",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-hood-vent-engine-cooling-aerodynamic-component"
-    },
-    {
       "video_id": "s5LU--GVjiE",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-true-cover-protective-cover-exterior-trim-component"
     },
@@ -752,6 +746,30 @@
     {
       "video_id": "IxpugL_2xZE",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-8318g-door-handle-interior-exterior-door-component"
+    },
+    {
+      "video_id": "QehMnwlr-OA",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-patrol-funnel-oil-fuel-filling-adapter-component"
+    },
+    {
+      "video_id": "6FPvW1i4aVc",
+      "text": "https://cults3d.com/en/3d-model/tool/predator-212-oil-cap-engine-oil-cover-component"
+    },
+    {
+      "video_id": "cynYaJbodRk",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-230v-plug-vehicle-power-outlet-electrical-adapter-component"
+    },
+    {
+      "video_id": "1M0Ido9uiUA",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-navara-tappo"
+    },
+    {
+      "video_id": "nKGKnTfMvk4",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-clips-set-trim-mounting-fastener-kit"
+    },
+    {
+      "video_id": "SrNgMN0Uyiw",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-micro-switch-buton-cover"
     }
   ]
 }
