@@ -490,11 +490,12 @@
     "https://cults3d.com/en/3d-model/tool/hyundai-i10-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/ford-f-150-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/universal-tweeter-speaker-adapter-compatible-with-many-models",
-    "https://cults3d.com/en/3d-model/tool/mazda-miata-bose-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/mazda-miata-bose-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/hyundai-elantra-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 20,
-  "total_posted": 458,
+  "today_count": 21,
+  "total_posted": 459,
   "history": [
     {
       "date": "2026-08-08",
@@ -3242,6 +3243,12 @@
       "date": "2026-08-29",
       "title": "Mazda Miata Bose Speaker Adapter",
       "media_id": "18363663568213047",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Hyundai Elantra Speaker Adapter",
+      "media_id": "18329254201275742",
       "fb_media_id": null
     }
   ],
