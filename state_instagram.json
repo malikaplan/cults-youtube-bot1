@@ -470,11 +470,12 @@
     "https://cults3d.com/en/3d-model/tool/opel-corsa-f-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/ford-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/peugeot-boxer-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/chevrolet-traverse-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/chevrolet-traverse-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/chevrolet-silverado-rear-speaker-adapter"
   ],
-  "today_date": "2026-08-28",
-  "today_count": 23,
-  "total_posted": 438,
+  "today_date": "2026-08-29",
+  "today_count": 1,
+  "total_posted": 439,
   "history": [
     {
       "date": "2026-08-08",
@@ -3102,6 +3103,12 @@
       "date": "2026-08-28",
       "title": "Chevrolet Traverse Speaker Adapter",
       "media_id": "18163670578465104",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Chevrolet Silverado Rear Speaker Adapter",
+      "media_id": "17886639987613678",
       "fb_media_id": null
     }
   ],
