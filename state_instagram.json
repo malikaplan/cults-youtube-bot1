@@ -481,11 +481,12 @@
     "https://cults3d.com/en/3d-model/tool/subaru-hertz-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/6-5-6-75-universal-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/chevrolet-camaro-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-touran-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-touran-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/civic-r165x3-r165-s-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 11,
-  "total_posted": 449,
+  "today_count": 12,
+  "total_posted": 450,
   "history": [
     {
       "date": "2026-08-08",
@@ -3179,6 +3180,12 @@
       "date": "2026-08-29",
       "title": "Volkswagen Touran Speaker Adapter",
       "media_id": "18128904280669443",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Civic R165X3-R165-S Speaker Adapter",
+      "media_id": "18127700065813636",
       "fb_media_id": null
     }
   ],
