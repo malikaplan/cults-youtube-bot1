@@ -475,11 +475,12 @@
     "https://cults3d.com/en/3d-model/tool/2002-gmc-sierra-6-x4-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/gwm-cannon-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/cr-v-door-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/chevrolet-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/chevrolet-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/ford-fiesta-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 5,
-  "total_posted": 443,
+  "today_count": 6,
+  "total_posted": 444,
   "history": [
     {
       "date": "2026-08-08",
@@ -3137,6 +3138,12 @@
       "date": "2026-08-29",
       "title": "Chevrolet Speaker Adapter",
       "media_id": "17968187058144442",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Ford Fiesta Speaker Adapter",
+      "media_id": "18090455171658150",
       "fb_media_id": null
     }
   ],
