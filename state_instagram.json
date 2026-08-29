@@ -478,11 +478,12 @@
     "https://cults3d.com/en/3d-model/tool/chevrolet-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/ford-fiesta-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/gm-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/subaru-hertz-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/subaru-hertz-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/6-5-6-75-universal-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 8,
-  "total_posted": 446,
+  "today_count": 9,
+  "total_posted": 447,
   "history": [
     {
       "date": "2026-08-08",
@@ -3158,6 +3159,12 @@
       "date": "2026-08-29",
       "title": "Subaru Hertz Speaker Adapter",
       "media_id": "18131170366662942",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "6.5\"–6.75\" Universal Speaker Adapter",
+      "media_id": "17880187875620886",
       "fb_media_id": null
     }
   ],
