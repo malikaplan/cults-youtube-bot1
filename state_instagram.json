@@ -487,11 +487,12 @@
     "https://cults3d.com/en/3d-model/tool/mazda-3-front-speaker-mount-adapter",
     "https://cults3d.com/en/3d-model/tool/tj-lj-jeep-wrangler-4-x6-to-5-25-speaker-adapters",
     "https://cults3d.com/en/3d-model/tool/fiat-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/hyundai-i10-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/hyundai-i10-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/ford-f-150-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 17,
-  "total_posted": 455,
+  "today_count": 18,
+  "total_posted": 456,
   "history": [
     {
       "date": "2026-08-08",
@@ -3221,6 +3222,12 @@
       "date": "2026-08-29",
       "title": "Hyundai i10 Speaker Adapter",
       "media_id": "18099609836620454",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Ford F-150 Speaker Adapter",
+      "media_id": "18017108192872209",
       "fb_media_id": null
     }
   ],
