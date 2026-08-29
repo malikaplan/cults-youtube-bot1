@@ -485,11 +485,12 @@
     "https://cults3d.com/en/3d-model/tool/civic-r165x3-r165-s-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-r230-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/mazda-3-front-speaker-mount-adapter",
-    "https://cults3d.com/en/3d-model/tool/tj-lj-jeep-wrangler-4-x6-to-5-25-speaker-adapters"
+    "https://cults3d.com/en/3d-model/tool/tj-lj-jeep-wrangler-4-x6-to-5-25-speaker-adapters",
+    "https://cults3d.com/en/3d-model/tool/fiat-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 15,
-  "total_posted": 453,
+  "today_count": 16,
+  "total_posted": 454,
   "history": [
     {
       "date": "2026-08-08",
@@ -3207,6 +3208,12 @@
       "date": "2026-08-29",
       "title": "TJ/LJ Jeep Wrangler 4\"x6\" to 5.25\" Speaker Adapters",
       "media_id": "18094761911090638",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Fiat Speaker Adapter",
+      "media_id": "18368777392242312",
       "fb_media_id": null
     }
   ],
