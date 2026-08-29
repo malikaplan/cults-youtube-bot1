@@ -476,11 +476,12 @@
     "https://cults3d.com/en/3d-model/tool/gwm-cannon-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/cr-v-door-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/chevrolet-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/ford-fiesta-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/ford-fiesta-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/gm-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 6,
-  "total_posted": 444,
+  "today_count": 7,
+  "total_posted": 445,
   "history": [
     {
       "date": "2026-08-08",
@@ -3144,6 +3145,12 @@
       "date": "2026-08-29",
       "title": "Ford Fiesta Speaker Adapter",
       "media_id": "18090455171658150",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "GM Speaker Adapter",
+      "media_id": "18621133639002513",
       "fb_media_id": null
     }
   ],
