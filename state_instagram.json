@@ -488,11 +488,12 @@
     "https://cults3d.com/en/3d-model/tool/tj-lj-jeep-wrangler-4-x6-to-5-25-speaker-adapters",
     "https://cults3d.com/en/3d-model/tool/fiat-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/hyundai-i10-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/ford-f-150-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/ford-f-150-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/universal-tweeter-speaker-adapter-compatible-with-many-models"
   ],
   "today_date": "2026-08-29",
-  "today_count": 18,
-  "total_posted": 456,
+  "today_count": 19,
+  "total_posted": 457,
   "history": [
     {
       "date": "2026-08-08",
@@ -3228,6 +3229,12 @@
       "date": "2026-08-29",
       "title": "Ford F-150 Speaker Adapter",
       "media_id": "18017108192872209",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Universal Tweeter Speaker Adapter (Compatible with Many Models)",
+      "media_id": "17972338092125205",
       "fb_media_id": null
     }
   ],
