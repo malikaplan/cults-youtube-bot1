@@ -477,11 +477,12 @@
     "https://cults3d.com/en/3d-model/tool/cr-v-door-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/chevrolet-speaker-adapter",
     "https://cults3d.com/en/3d-model/tool/ford-fiesta-speaker-adapter",
-    "https://cults3d.com/en/3d-model/tool/gm-speaker-adapter"
+    "https://cults3d.com/en/3d-model/tool/gm-speaker-adapter",
+    "https://cults3d.com/en/3d-model/tool/subaru-hertz-speaker-adapter"
   ],
   "today_date": "2026-08-29",
-  "today_count": 7,
-  "total_posted": 445,
+  "today_count": 8,
+  "total_posted": 446,
   "history": [
     {
       "date": "2026-08-08",
@@ -3151,6 +3152,12 @@
       "date": "2026-08-29",
       "title": "GM Speaker Adapter",
       "media_id": "18621133639002513",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-29",
+      "title": "Subaru Hertz Speaker Adapter",
+      "media_id": "18131170366662942",
       "fb_media_id": null
     }
   ],
