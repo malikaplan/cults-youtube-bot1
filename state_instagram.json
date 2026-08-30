@@ -503,11 +503,12 @@
     "https://cults3d.com/en/3d-model/tool/motec-dash-digital-dashboard-housing",
     "https://cults3d.com/en/3d-model/tool/enkei-irs-center-caps-64-68mm-5mm",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-mirror-cap-side-mirror-cover",
-    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-dashboard"
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-dashboard",
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-190e-shift-console-housing"
   ],
   "today_date": "2026-08-30",
-  "today_count": 9,
-  "total_posted": 471,
+  "today_count": 10,
+  "total_posted": 472,
   "history": [
     {
       "date": "2026-08-08",
@@ -3333,6 +3334,12 @@
       "date": "2026-08-30",
       "title": "Mercedes-Benz W124 Dashboard",
       "media_id": "17983735172878542",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Mercedes-Benz 190E Shift Console Housing",
+      "media_id": "18119576707905743",
       "fb_media_id": null
     }
   ],
