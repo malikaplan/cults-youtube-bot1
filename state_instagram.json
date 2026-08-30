@@ -505,11 +505,12 @@
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-mirror-cap-side-mirror-cover",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-dashboard",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-190e-shift-console-housing",
-    "https://cults3d.com/en/3d-model/tool/mercedes-benz-190e-fog-light-housing"
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-190e-fog-light-housing",
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-speedo-case-speedometer-housing"
   ],
   "today_date": "2026-08-30",
-  "today_count": 11,
-  "total_posted": 473,
+  "today_count": 12,
+  "total_posted": 474,
   "history": [
     {
       "date": "2026-08-08",
@@ -3347,6 +3348,12 @@
       "date": "2026-08-30",
       "title": "Mercedes-Benz 190E Fog Light (Housing)",
       "media_id": "18015769031930489",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Mercedes-Benz W124 Speedo Case (Speedometer Housing)",
+      "media_id": "18033340067835384",
       "fb_media_id": null
     }
   ],
