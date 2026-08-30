@@ -507,11 +507,12 @@
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-190e-shift-console-housing",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-190e-fog-light-housing",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-speedo-case-speedometer-housing",
-    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-rearlamp-cover-tail-light-cover"
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-rearlamp-cover-tail-light-cover",
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-climate-control-button"
   ],
   "today_date": "2026-08-30",
-  "today_count": 13,
-  "total_posted": 475,
+  "today_count": 14,
+  "total_posted": 476,
   "history": [
     {
       "date": "2026-08-08",
@@ -3361,6 +3362,12 @@
       "date": "2026-08-30",
       "title": "Mercedes-Benz W124 Rearlamp Cover (Tail Light Cover)",
       "media_id": "18103926533245001",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Mercedes-Benz W124 Climate Control Button",
+      "media_id": "18001660634789528",
       "fb_media_id": null
     }
   ],
