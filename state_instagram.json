@@ -497,11 +497,12 @@
     "https://cults3d.com/en/3d-model/tool/enkei-hutte-neve-center-caps-66mm",
     "https://cults3d.com/en/3d-model/tool/enkei-touring-center-caps-60-56mm",
     "https://cults3d.com/en/3d-model/tool/hario-mugen-mounting-plate",
-    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w201-intake-air-duct"
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w201-intake-air-duct",
+    "https://cults3d.com/en/3d-model/tool/cdl3-club-dash-logger-dash-bracket-and-hood"
   ],
   "today_date": "2026-08-30",
-  "today_count": 3,
-  "total_posted": 465,
+  "today_count": 4,
+  "total_posted": 466,
   "history": [
     {
       "date": "2026-08-08",
@@ -3291,6 +3292,12 @@
       "date": "2026-08-30",
       "title": "Mercedes-Benz W201 Intake (Air Duct)",
       "media_id": "18279222244295901",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "CDL3 – Club Dash Logger Dash Bracket and Hood",
+      "media_id": "17929148517389955",
       "fb_media_id": null
     }
   ],
