@@ -506,11 +506,12 @@
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-dashboard",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-190e-shift-console-housing",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-190e-fog-light-housing",
-    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-speedo-case-speedometer-housing"
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-speedo-case-speedometer-housing",
+    "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-rearlamp-cover-tail-light-cover"
   ],
   "today_date": "2026-08-30",
-  "today_count": 12,
-  "total_posted": 474,
+  "today_count": 13,
+  "total_posted": 475,
   "history": [
     {
       "date": "2026-08-08",
@@ -3354,6 +3355,12 @@
       "date": "2026-08-30",
       "title": "Mercedes-Benz W124 Speedo Case (Speedometer Housing)",
       "media_id": "18033340067835384",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Mercedes-Benz W124 Rearlamp Cover (Tail Light Cover)",
+      "media_id": "18103926533245001",
       "fb_media_id": null
     }
   ],
