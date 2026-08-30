@@ -512,11 +512,12 @@
     "https://cults3d.com/en/3d-model/tool/aero-cover-mugen-cf48-280mm-aero-disk-14-makdesign",
     "https://cults3d.com/en/3d-model/tool/mugen-mbx-spoiler-wing-one-piece-customizable-design",
     "https://cults3d.com/en/3d-model/tool/toyota-starlet-ep91-front-lip-spoiler-3d-printable",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39-passenger-seat-extinguisher-mount"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-passenger-seat-extinguisher-mount",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-spoiler-wing-adjustable-feet"
   ],
   "today_date": "2026-08-30",
-  "today_count": 18,
-  "total_posted": 480,
+  "today_count": 19,
+  "total_posted": 481,
   "history": [
     {
       "date": "2026-08-08",
@@ -3396,6 +3397,12 @@
       "date": "2026-08-30",
       "title": "BMW E39 Passenger Seat Extinguisher Mount",
       "media_id": "17964526908186744",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "BMW E39 Spoiler Wing Adjustable Feet",
+      "media_id": "18404971906089693",
       "fb_media_id": null
     }
   ],
