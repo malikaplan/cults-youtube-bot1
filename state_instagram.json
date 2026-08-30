@@ -500,11 +500,12 @@
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w201-intake-air-duct",
     "https://cults3d.com/en/3d-model/tool/cdl3-club-dash-logger-dash-bracket-and-hood",
     "https://cults3d.com/en/3d-model/tool/motec-dash-c1212-digital-dashboard-housing",
-    "https://cults3d.com/en/3d-model/tool/motec-dash-digital-dashboard-housing"
+    "https://cults3d.com/en/3d-model/tool/motec-dash-digital-dashboard-housing",
+    "https://cults3d.com/en/3d-model/tool/enkei-irs-center-caps-64-68mm-5mm"
   ],
   "today_date": "2026-08-30",
-  "today_count": 6,
-  "total_posted": 468,
+  "today_count": 7,
+  "total_posted": 469,
   "history": [
     {
       "date": "2026-08-08",
@@ -3312,6 +3313,12 @@
       "date": "2026-08-30",
       "title": "Motec Dash (Digital Dashboard Housing)",
       "media_id": "18127450456790500",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Enkei IRS Center Caps 64/68mm 5mm",
+      "media_id": "18335432455249341",
       "fb_media_id": null
     }
   ],
