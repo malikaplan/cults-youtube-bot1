@@ -1,43 +1,43 @@
 {
-  "next_index": 240,
-  "next_publish_date": "2026-08-31T00:00:00",
-  "run_count": 38,
-  "total_uploaded": 168,
+  "next_index": 246,
+  "next_publish_date": "2026-09-01T00:00:00",
+  "run_count": 39,
+  "total_uploaded": 174,
   "total_models": 1280,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-29",
-    "day_number": 38,
+    "date": "2026-08-30",
+    "day_number": 39,
     "uploaded": [
       {
-        "title": "Nissan Patrol Funnel (Oil / Fuel Filling Adapter Component)",
-        "publish_at": "2026-08-30T09:00:00Z",
-        "link": "https://youtu.be/QehMnwlr-OA"
+        "title": "Nissan Cig Holder (Interior Console Component)",
+        "publish_at": "2026-08-31T09:00:00Z",
+        "link": "https://youtu.be/0QH9auhtM-I"
       },
       {
-        "title": "Predator 212 Oil Cap (Engine Oil Cover Component)",
-        "publish_at": "2026-08-30T11:00:00Z",
-        "link": "https://youtu.be/6FPvW1i4aVc"
+        "title": "Nissan Ashtray",
+        "publish_at": "2026-08-31T11:00:00Z",
+        "link": "https://youtu.be/UhhoyXvHNik"
       },
       {
-        "title": "Nissan 230V Plug (Vehicle Power Outlet / Electrical Adapter Component)",
-        "publish_at": "2026-08-30T13:00:00Z",
-        "link": "https://youtu.be/cynYaJbodRk"
+        "title": "Nissan Oil Adapter (Engine Oil Connection Component)",
+        "publish_at": "2026-08-31T13:00:00Z",
+        "link": "https://youtu.be/8nhiE2PV0es"
       },
       {
-        "title": "Nissan Navara Tappo",
-        "publish_at": "2026-08-30T15:00:00Z",
-        "link": "https://youtu.be/1M0Ido9uiUA"
+        "title": "Nissan Micra Handle (Door / Console Component)",
+        "publish_at": "2026-08-31T15:00:00Z",
+        "link": "https://youtu.be/MbSeQPE2ZXs"
       },
       {
-        "title": "Nissan Clips Set (Trim / Mounting Fastener Kit)",
-        "publish_at": "2026-08-30T17:00:00Z",
-        "link": "https://youtu.be/nKGKnTfMvk4"
+        "title": "Nissan X‑Trail Telefoonsteun (Phone Holder / Console Mount Component)",
+        "publish_at": "2026-08-31T17:00:00Z",
+        "link": "https://youtu.be/zhF6YQpXykg"
       },
       {
-        "title": "Nissan Micro Switch buton cover",
-        "publish_at": "2026-08-30T19:00:00Z",
-        "link": "https://youtu.be/SrNgMN0Uyiw"
+        "title": "Nissan Qashqai Cupholder (Center Console / Interior Component)",
+        "publish_at": "2026-08-31T19:00:00Z",
+        "link": "https://youtu.be/DyZ5fVRSq48"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-22",
-      "day_number": 29,
-      "uploaded": [
-        {
-          "title": "Renault Clio Air Vent Grille",
-          "publish_at": "2026-08-21T09:00:00Z",
-          "link": "https://youtu.be/IE8lCwuhDXs"
-        },
-        {
-          "title": "Clio Rocker - Garage Door Opener",
-          "publish_at": "2026-08-21T11:00:00Z",
-          "link": "https://youtu.be/4Q4LD3-aZcw"
-        },
-        {
-          "title": "Clio Switch - 7 Seg Button",
-          "publish_at": "2026-08-21T13:00:00Z",
-          "link": "https://youtu.be/Jsro647WS20"
-        },
-        {
-          "title": "Nissan Frontier 26 Switch Blank",
-          "publish_at": "2026-08-21T15:00:00Z",
-          "link": "https://youtu.be/roOeOs-0ufU"
-        },
-        {
-          "title": "Nissan Key Fob Replacement Buttons",
-          "publish_at": "2026-08-21T17:00:00Z",
-          "link": "https://youtu.be/FsuV3-uc3a0"
-        },
-        {
-          "title": "Nikko Nissan Cube Air Intake",
-          "publish_at": "2026-08-21T19:00:00Z",
-          "link": "https://youtu.be/ZYq4SRx-PhQ"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-22",
       "day_number": 30,
@@ -445,9 +405,55 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-08-30",
+      "day_number": 39,
+      "uploaded": [
+        {
+          "title": "Nissan Cig Holder (Interior Console Component)",
+          "publish_at": "2026-08-31T09:00:00Z",
+          "link": "https://youtu.be/0QH9auhtM-I"
+        },
+        {
+          "title": "Nissan Ashtray",
+          "publish_at": "2026-08-31T11:00:00Z",
+          "link": "https://youtu.be/UhhoyXvHNik"
+        },
+        {
+          "title": "Nissan Oil Adapter (Engine Oil Connection Component)",
+          "publish_at": "2026-08-31T13:00:00Z",
+          "link": "https://youtu.be/8nhiE2PV0es"
+        },
+        {
+          "title": "Nissan Micra Handle (Door / Console Component)",
+          "publish_at": "2026-08-31T15:00:00Z",
+          "link": "https://youtu.be/MbSeQPE2ZXs"
+        },
+        {
+          "title": "Nissan X‑Trail Telefoonsteun (Phone Holder / Console Mount Component)",
+          "publish_at": "2026-08-31T17:00:00Z",
+          "link": "https://youtu.be/zhF6YQpXykg"
+        },
+        {
+          "title": "Nissan Qashqai Cupholder (Center Console / Interior Component)",
+          "publish_at": "2026-08-31T19:00:00Z",
+          "link": "https://youtu.be/DyZ5fVRSq48"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
+    "https://cults3d.com/:4616408",
+    "https://cults3d.com/:4616687",
+    "https://cults3d.com/:4616716",
+    "https://cults3d.com/:4616722",
+    "https://cults3d.com/:4616726",
+    "https://cults3d.com/:4616783",
     "https://cults3d.com/:4616814",
     "https://cults3d.com/:4616897",
     "https://cults3d.com/:4616936",
@@ -732,30 +738,6 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "s5LU--GVjiE",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-true-cover-protective-cover-exterior-trim-component"
-    },
-    {
-      "video_id": "NoUD8j3MUQs",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-350z-intake-air-intake-system-component"
-    },
-    {
-      "video_id": "RCZeEkLZFjI",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-leaf-ze1-lock-pin-gear-door-lock-gear-component"
-    },
-    {
-      "video_id": "IxpugL_2xZE",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-8318g-door-handle-interior-exterior-door-component"
-    },
-    {
-      "video_id": "QehMnwlr-OA",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-patrol-funnel-oil-fuel-filling-adapter-component"
-    },
-    {
-      "video_id": "6FPvW1i4aVc",
-      "text": "https://cults3d.com/en/3d-model/tool/predator-212-oil-cap-engine-oil-cover-component"
-    },
-    {
       "video_id": "cynYaJbodRk",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-230v-plug-vehicle-power-outlet-electrical-adapter-component"
     },
@@ -770,6 +752,30 @@
     {
       "video_id": "SrNgMN0Uyiw",
       "text": "https://cults3d.com/en/3d-model/tool/nissan-micro-switch-buton-cover"
+    },
+    {
+      "video_id": "0QH9auhtM-I",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-cig-holder-interior-console-component"
+    },
+    {
+      "video_id": "UhhoyXvHNik",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-ashtray"
+    },
+    {
+      "video_id": "8nhiE2PV0es",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-oil-adapter-engine-oil-connection-component"
+    },
+    {
+      "video_id": "MbSeQPE2ZXs",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-micra-handle-door-console-component"
+    },
+    {
+      "video_id": "zhF6YQpXykg",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-x-trail-telefoonsteun-phone-holder-console-mount-component"
+    },
+    {
+      "video_id": "DyZ5fVRSq48",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-qashqai-cupholder-center-console-interior-component"
     }
   ]
 }
