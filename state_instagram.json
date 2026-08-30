@@ -517,11 +517,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39-ac-button-climate-control-switch",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-head-unit-adapter-radio-multimedia-frame",
     "https://cults3d.com/en/3d-model/tool/bmw-e39s-roof-wings-roof-spoiler",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39s-wings-spoiler-elegant-and-minimal-wing-design"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39s-wings-spoiler-elegant-and-minimal-wing-design",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-fan-bracket-holder"
   ],
   "today_date": "2026-08-30",
-  "today_count": 23,
-  "total_posted": 485,
+  "today_count": 24,
+  "total_posted": 486,
   "history": [
     {
       "date": "2026-08-08",
@@ -3431,6 +3432,12 @@
       "date": "2026-08-30",
       "title": "BMW E39s Wings Spoiler (Elegant and Minimal Wing Design)",
       "media_id": "18027478181892987",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "BMW E39 Fan Bracket / Holder",
+      "media_id": "18090439307415358",
       "fb_media_id": null
     }
   ],
