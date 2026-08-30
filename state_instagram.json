@@ -509,11 +509,12 @@
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-speedo-case-speedometer-housing",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-rearlamp-cover-tail-light-cover",
     "https://cults3d.com/en/3d-model/tool/mercedes-benz-w124-climate-control-button",
-    "https://cults3d.com/en/3d-model/tool/aero-cover-mugen-cf48-280mm-aero-disk-14-makdesign"
+    "https://cults3d.com/en/3d-model/tool/aero-cover-mugen-cf48-280mm-aero-disk-14-makdesign",
+    "https://cults3d.com/en/3d-model/tool/mugen-mbx-spoiler-wing-one-piece-customizable-design"
   ],
   "today_date": "2026-08-30",
-  "today_count": 15,
-  "total_posted": 477,
+  "today_count": 16,
+  "total_posted": 478,
   "history": [
     {
       "date": "2026-08-08",
@@ -3375,6 +3376,12 @@
       "date": "2026-08-30",
       "title": "Aero Cover Mugen CF48 280mm Aero Disk 14\"",
       "media_id": "18092809961451385",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-30",
+      "title": "Mugen MBX Spoiler / Wing (One-Piece Customizable Design)",
+      "media_id": "17930043951146650",
       "fb_media_id": null
     }
   ],
