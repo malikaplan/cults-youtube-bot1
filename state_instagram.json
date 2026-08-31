@@ -522,11 +522,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-wheel-center-cap-deckel",
     "https://cults3d.com/en/3d-model/tool/s2000-alternator-bracket",
     "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters",
-    "https://cults3d.com/en/3d-model/tool/s2000-bezel"
+    "https://cults3d.com/en/3d-model/tool/s2000-bezel",
+    "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-v-2"
   ],
   "today_date": "2026-08-31",
-  "today_count": 4,
-  "total_posted": 490,
+  "today_count": 5,
+  "total_posted": 491,
   "history": [
     {
       "date": "2026-08-08",
@@ -3466,6 +3467,12 @@
       "date": "2026-08-31",
       "title": "S2000 Bezel",
       "media_id": "18337982422271384",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "S2000 Speaker Ring V.2",
+      "media_id": "17926600653408957",
       "fb_media_id": null
     }
   ],
