@@ -540,11 +540,12 @@
     "https://cults3d.com/en/3d-model/tool/aem-afr-pod-v2",
     "https://cults3d.com/en/3d-model/tool/aem-holder-universal-design",
     "https://cults3d.com/en/3d-model/tool/aem-afr-gauge-pod-makdesign",
-    "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-mount-and-slider-tab"
+    "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-mount-and-slider-tab",
+    "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-52mm"
   ],
   "today_date": "2026-08-31",
-  "today_count": 22,
-  "total_posted": 508,
+  "today_count": 23,
+  "total_posted": 509,
   "history": [
     {
       "date": "2026-08-08",
@@ -3592,6 +3593,12 @@
       "date": "2026-08-31",
       "title": "AEM Gauge Pod Mount and Slider Tab",
       "media_id": "18495229306103152",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "AEM Gauge Pod  52mm",
+      "media_id": "17883102456683545",
       "fb_media_id": null
     }
   ],
