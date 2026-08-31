@@ -524,11 +524,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters",
     "https://cults3d.com/en/3d-model/tool/s2000-bezel",
     "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-v-2",
-    "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-makdesign"
+    "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-makdesign",
+    "https://cults3d.com/en/3d-model/tool/s2000-wiper-lid-logo"
   ],
   "today_date": "2026-08-31",
-  "today_count": 6,
-  "total_posted": 492,
+  "today_count": 7,
+  "total_posted": 493,
   "history": [
     {
       "date": "2026-08-08",
@@ -3480,6 +3481,12 @@
       "date": "2026-08-31",
       "title": "S2000 Speaker Ring",
       "media_id": "18141867616560184",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "S2000 Wiper Lid Logo",
+      "media_id": "18135234010545467",
       "fb_media_id": null
     }
   ],
