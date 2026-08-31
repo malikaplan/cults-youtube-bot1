@@ -535,11 +535,12 @@
     "https://cults3d.com/en/3d-model/tool/fueltech-mini-8-mount",
     "https://cults3d.com/en/3d-model/tool/aem-dual-gauge-housing",
     "https://cults3d.com/en/3d-model/tool/aem-a-pillar-gauge-mount",
-    "https://cults3d.com/en/3d-model/tool/aem-holder-v3"
+    "https://cults3d.com/en/3d-model/tool/aem-holder-v3",
+    "https://cults3d.com/en/3d-model/tool/aem-fuel-pump-mount"
   ],
   "today_date": "2026-08-31",
-  "today_count": 17,
-  "total_posted": 503,
+  "today_count": 18,
+  "total_posted": 504,
   "history": [
     {
       "date": "2026-08-08",
@@ -3557,6 +3558,12 @@
       "date": "2026-08-31",
       "title": "AEM Holder V3",
       "media_id": "18351206452169703",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "AEM Fuel Pump Mount",
+      "media_id": "18148379866531974",
       "fb_media_id": null
     }
   ],
