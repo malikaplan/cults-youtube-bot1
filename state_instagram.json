@@ -531,11 +531,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-intake-base-long",
     "https://cults3d.com/en/3d-model/tool/aem-water-meth-controller-mount-makdesign",
     "https://cults3d.com/en/3d-model/tool/aem-intake-fixation",
-    "https://cults3d.com/en/3d-model/tool/aem-halter"
+    "https://cults3d.com/en/3d-model/tool/aem-halter",
+    "https://cults3d.com/en/3d-model/tool/fueltech-mini-8-mount"
   ],
   "today_date": "2026-08-31",
-  "today_count": 13,
-  "total_posted": 499,
+  "today_count": 14,
+  "total_posted": 500,
   "history": [
     {
       "date": "2026-08-08",
@@ -3529,6 +3530,12 @@
       "date": "2026-08-31",
       "title": "AEM Halter",
       "media_id": "17971863170936705",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "FuelTech Mini 8 Mount",
+      "media_id": "18125446063868837",
       "fb_media_id": null
     }
   ],
