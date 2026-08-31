@@ -537,11 +537,12 @@
     "https://cults3d.com/en/3d-model/tool/aem-a-pillar-gauge-mount",
     "https://cults3d.com/en/3d-model/tool/aem-holder-v3",
     "https://cults3d.com/en/3d-model/tool/aem-fuel-pump-mount",
-    "https://cults3d.com/en/3d-model/tool/aem-afr-pod-v2"
+    "https://cults3d.com/en/3d-model/tool/aem-afr-pod-v2",
+    "https://cults3d.com/en/3d-model/tool/aem-holder-universal-design"
   ],
   "today_date": "2026-08-31",
-  "today_count": 19,
-  "total_posted": 505,
+  "today_count": 20,
+  "total_posted": 506,
   "history": [
     {
       "date": "2026-08-08",
@@ -3571,6 +3572,12 @@
       "date": "2026-08-31",
       "title": "AEM AFR Pod v2",
       "media_id": "17961391526979652",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "AEM Holder / Universal Design",
+      "media_id": "18583920940067032",
       "fb_media_id": null
     }
   ],
