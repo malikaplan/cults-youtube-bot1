@@ -520,11 +520,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39s-wings-spoiler-elegant-and-minimal-wing-design",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-fan-bracket-holder",
     "https://cults3d.com/en/3d-model/tool/s2000-wheel-center-cap-deckel",
-    "https://cults3d.com/en/3d-model/tool/s2000-alternator-bracket"
+    "https://cults3d.com/en/3d-model/tool/s2000-alternator-bracket",
+    "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters"
   ],
   "today_date": "2026-08-31",
-  "today_count": 2,
-  "total_posted": 488,
+  "today_count": 3,
+  "total_posted": 489,
   "history": [
     {
       "date": "2026-08-08",
@@ -3452,6 +3453,12 @@
       "date": "2026-08-31",
       "title": "S2000 Alternator Bracket",
       "media_id": "18122391056509202",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "S2000 Rear Sides Skirt Splitters",
+      "media_id": "18116783806940114",
       "fb_media_id": null
     }
   ],
