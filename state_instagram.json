@@ -525,11 +525,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-bezel",
     "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-v-2",
     "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-makdesign",
-    "https://cults3d.com/en/3d-model/tool/s2000-wiper-lid-logo"
+    "https://cults3d.com/en/3d-model/tool/s2000-wiper-lid-logo",
+    "https://cults3d.com/en/3d-model/tool/s2000-splitter-diffuser-rh"
   ],
   "today_date": "2026-08-31",
-  "today_count": 7,
-  "total_posted": 493,
+  "today_count": 8,
+  "total_posted": 494,
   "history": [
     {
       "date": "2026-08-08",
@@ -3487,6 +3488,12 @@
       "date": "2026-08-31",
       "title": "S2000 Wiper Lid Logo",
       "media_id": "18135234010545467",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "S2000 Splitter Diffuser RH",
+      "media_id": "18367979212241294",
       "fb_media_id": null
     }
   ],
