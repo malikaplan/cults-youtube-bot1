@@ -521,11 +521,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39-fan-bracket-holder",
     "https://cults3d.com/en/3d-model/tool/s2000-wheel-center-cap-deckel",
     "https://cults3d.com/en/3d-model/tool/s2000-alternator-bracket",
-    "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters"
+    "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters",
+    "https://cults3d.com/en/3d-model/tool/s2000-bezel"
   ],
   "today_date": "2026-08-31",
-  "today_count": 3,
-  "total_posted": 489,
+  "today_count": 4,
+  "total_posted": 490,
   "history": [
     {
       "date": "2026-08-08",
@@ -3459,6 +3460,12 @@
       "date": "2026-08-31",
       "title": "S2000 Rear Sides Skirt Splitters",
       "media_id": "18116783806940114",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "S2000 Bezel",
+      "media_id": "18337982422271384",
       "fb_media_id": null
     }
   ],
