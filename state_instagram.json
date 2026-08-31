@@ -530,11 +530,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-dash-panel-part",
     "https://cults3d.com/en/3d-model/tool/s2000-intake-base-long",
     "https://cults3d.com/en/3d-model/tool/aem-water-meth-controller-mount-makdesign",
-    "https://cults3d.com/en/3d-model/tool/aem-intake-fixation"
+    "https://cults3d.com/en/3d-model/tool/aem-intake-fixation",
+    "https://cults3d.com/en/3d-model/tool/aem-halter"
   ],
   "today_date": "2026-08-31",
-  "today_count": 12,
-  "total_posted": 498,
+  "today_count": 13,
+  "total_posted": 499,
   "history": [
     {
       "date": "2026-08-08",
@@ -3522,6 +3523,12 @@
       "date": "2026-08-31",
       "title": "AEM Intake Fixation",
       "media_id": "18050172893587982",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-08-31",
+      "title": "AEM Halter",
+      "media_id": "17971863170936705",
       "fb_media_id": null
     }
   ],
