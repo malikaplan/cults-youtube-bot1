@@ -548,11 +548,12 @@
     "https://cults3d.com/en/3d-model/tool/fueltech550-porsche-944-digital-dashboard-and-blank-version",
     "https://cults3d.com/en/3d-model/tool/aem-pod-mount",
     "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-adapter",
-    "https://cults3d.com/en/3d-model/tool/abarth-boost-gauge-housing"
+    "https://cults3d.com/en/3d-model/tool/abarth-boost-gauge-housing",
+    "https://cults3d.com/en/3d-model/tool/aem-wideband-holder"
   ],
   "today_date": "2026-09-01",
-  "today_count": 7,
-  "total_posted": 516,
+  "today_count": 8,
+  "total_posted": 517,
   "history": [
     {
       "date": "2026-08-08",
@@ -3648,6 +3649,12 @@
       "date": "2026-09-01",
       "title": "Abarth Boost Gauge Housing",
       "media_id": "18030912170845443",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-01",
+      "title": "AEM Wideband Holder",
+      "media_id": "18135591919536282",
       "fb_media_id": null
     }
   ],
