@@ -541,11 +541,12 @@
     "https://cults3d.com/en/3d-model/tool/aem-holder-universal-design",
     "https://cults3d.com/en/3d-model/tool/aem-afr-gauge-pod-makdesign",
     "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-mount-and-slider-tab",
-    "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-52mm"
+    "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-52mm",
+    "https://cults3d.com/en/3d-model/tool/aem-dash-mount-for-db-cd-7-carbon"
   ],
-  "today_date": "2026-08-31",
-  "today_count": 23,
-  "total_posted": 509,
+  "today_date": "2026-09-01",
+  "today_count": 1,
+  "total_posted": 510,
   "history": [
     {
       "date": "2026-08-08",
@@ -3599,6 +3600,12 @@
       "date": "2026-08-31",
       "title": "AEM Gauge Pod  52mm",
       "media_id": "17883102456683545",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-01",
+      "title": "AEM Dash Mount (For DB) CD-7 Carbon",
+      "media_id": "17880988182511625",
       "fb_media_id": null
     }
   ],
