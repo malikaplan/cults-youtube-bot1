@@ -552,11 +552,12 @@
     "https://cults3d.com/en/3d-model/tool/aem-wideband-holder",
     "https://cults3d.com/en/3d-model/tool/toyota-supra-aem-mount",
     "https://cults3d.com/en/3d-model/tool/aem-infinity-mount",
-    "https://cults3d.com/en/3d-model/tool/aem-gauge-mount-two-version"
+    "https://cults3d.com/en/3d-model/tool/aem-gauge-mount-two-version",
+    "https://cults3d.com/en/3d-model/tool/aem-gauges-support-bracket-v1"
   ],
   "today_date": "2026-09-01",
-  "today_count": 11,
-  "total_posted": 520,
+  "today_count": 12,
+  "total_posted": 521,
   "history": [
     {
       "date": "2026-08-08",
@@ -3676,6 +3677,12 @@
       "date": "2026-09-01",
       "title": "AEM Gauge Mount two version",
       "media_id": "18117010610293378",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-01",
+      "title": "AEM Gauges Support Bracket v1",
+      "media_id": "18191917075382807",
       "fb_media_id": null
     }
   ],
