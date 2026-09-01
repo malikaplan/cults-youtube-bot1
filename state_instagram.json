@@ -543,11 +543,12 @@
     "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-mount-and-slider-tab",
     "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-52mm",
     "https://cults3d.com/en/3d-model/tool/aem-dash-mount-for-db-cd-7-carbon",
-    "https://cults3d.com/en/3d-model/tool/aem-support-manometre-autometer-two-model"
+    "https://cults3d.com/en/3d-model/tool/aem-support-manometre-autometer-two-model",
+    "https://cults3d.com/en/3d-model/tool/aem-wideband-ring"
   ],
   "today_date": "2026-09-01",
-  "today_count": 2,
-  "total_posted": 511,
+  "today_count": 3,
+  "total_posted": 512,
   "history": [
     {
       "date": "2026-08-08",
@@ -3613,6 +3614,12 @@
       "date": "2026-09-01",
       "title": "AEM Support Manometre Autometer Two Model",
       "media_id": "18429674200183052",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-01",
+      "title": "AEM Wideband Ring",
+      "media_id": "17916792927445488",
       "fb_media_id": null
     }
   ],
