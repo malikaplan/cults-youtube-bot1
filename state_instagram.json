@@ -563,11 +563,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39-roof-panel",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-child-seat-anchor-trim-piece-hold-down-sleeve",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-boot-drill-cap",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39-rear-sunshade-clip"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-rear-sunshade-clip",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-air-vent-gauge-pod-42mm-70mm-open-back"
   ],
   "today_date": "2026-09-01",
-  "today_count": 22,
-  "total_posted": 531,
+  "today_count": 23,
+  "total_posted": 532,
   "history": [
     {
       "date": "2026-08-08",
@@ -3753,6 +3754,12 @@
       "date": "2026-09-01",
       "title": "BMW E39 Rear Sunshade Clip",
       "media_id": "18075344144719590",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-01",
+      "title": "BMW E39 Air Vent Gauge Pod (42mm / 70mm / Open Back)",
+      "media_id": "18130965805728849",
       "fb_media_id": null
     }
   ],
