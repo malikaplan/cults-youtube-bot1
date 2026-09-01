@@ -564,11 +564,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39-child-seat-anchor-trim-piece-hold-down-sleeve",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-boot-drill-cap",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-rear-sunshade-clip",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39-air-vent-gauge-pod-42mm-70mm-open-back"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-air-vent-gauge-pod-42mm-70mm-open-back",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-boot-lock-cap"
   ],
   "today_date": "2026-09-01",
-  "today_count": 23,
-  "total_posted": 532,
+  "today_count": 24,
+  "total_posted": 533,
   "history": [
     {
       "date": "2026-08-08",
@@ -3760,6 +3761,12 @@
       "date": "2026-09-01",
       "title": "BMW E39 Air Vent Gauge Pod (42mm / 70mm / Open Back)",
       "media_id": "18130965805728849",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-01",
+      "title": "BMW E39 Boot Lock Cap",
+      "media_id": "17887238667455589",
       "fb_media_id": null
     }
   ],
