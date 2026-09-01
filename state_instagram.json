@@ -554,11 +554,12 @@
     "https://cults3d.com/en/3d-model/tool/aem-infinity-mount",
     "https://cults3d.com/en/3d-model/tool/aem-gauge-mount-two-version",
     "https://cults3d.com/en/3d-model/tool/aem-gauges-support-bracket-v1",
-    "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-gopro-action-camera-mount"
+    "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-gopro-action-camera-mount",
+    "https://cults3d.com/en/3d-model/tool/aem-gauge-faces"
   ],
   "today_date": "2026-09-01",
-  "today_count": 13,
-  "total_posted": 522,
+  "today_count": 14,
+  "total_posted": 523,
   "history": [
     {
       "date": "2026-08-08",
@@ -3690,6 +3691,12 @@
       "date": "2026-09-01",
       "title": "AEM Gauge Pod & GoPro Action Camera Mount",
       "media_id": "17972179172934575",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-01",
+      "title": "AEM Gauge Faces",
+      "media_id": "17914763856446637",
       "fb_media_id": null
     }
   ],
