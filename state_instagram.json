@@ -559,11 +559,12 @@
     "https://cults3d.com/en/3d-model/tool/aem-52mm-gauge-pod-mount-15-degree-angle",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-seal-gasket-garnitura-capak-cover-gasket",
     "https://cults3d.com/en/3d-model/jewelry/bmw-e39-m5-keychain",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39-rear-panel-usb-connector-holder"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-rear-panel-usb-connector-holder",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-roof-panel"
   ],
   "today_date": "2026-09-01",
-  "today_count": 18,
-  "total_posted": 527,
+  "today_count": 19,
+  "total_posted": 528,
   "history": [
     {
       "date": "2026-08-08",
@@ -3725,6 +3726,12 @@
       "date": "2026-09-01",
       "title": "BMW E39 Rear Panel USB Connector Holder",
       "media_id": "17871583548635197",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-01",
+      "title": "BMW E39 Roof Panel",
+      "media_id": "18632645764050786",
       "fb_media_id": null
     }
   ],
