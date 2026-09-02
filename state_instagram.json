@@ -585,11 +585,12 @@
     "https://cults3d.com/en/3d-model/tool/ford-xc-falcon-rear-quarter-c-pillar-vent-lh-rh",
     "https://cults3d.com/en/3d-model/tool/mitsubishi-lancer-a70-c-pillar-trim",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-suction-tube",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-subframe-reinforcement-plate"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-subframe-reinforcement-plate",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-gauge-bezel"
   ],
   "today_date": "2026-09-02",
-  "today_count": 20,
-  "total_posted": 553,
+  "today_count": 21,
+  "total_posted": 554,
   "history": [
     {
       "date": "2026-08-08",
@@ -3907,6 +3908,12 @@
       "date": "2026-09-02",
       "title": "BMW E46 Subframe Reinforcement Plate",
       "media_id": "17909167455466863",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-02",
+      "title": "BMW E46 Gauge Bezel",
+      "media_id": "17891542464608220",
       "fb_media_id": null
     }
   ],
