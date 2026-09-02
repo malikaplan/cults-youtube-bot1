@@ -566,11 +566,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39-rear-sunshade-clip",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-air-vent-gauge-pod-42mm-70mm-open-back",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-boot-lock-cap",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39-z4-domdeckel-strut-mount-cap"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-z4-domdeckel-strut-mount-cap",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-shark-fin-antenna-cover"
   ],
   "today_date": "2026-09-02",
-  "today_count": 1,
-  "total_posted": 534,
+  "today_count": 2,
+  "total_posted": 535,
   "history": [
     {
       "date": "2026-08-08",
@@ -3774,6 +3775,12 @@
       "date": "2026-09-02",
       "title": "BMW E39 / Z4 Domdeckel (Strut Mount Cap)",
       "media_id": "18611864851031402",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-02",
+      "title": "BMW E39 Shark Fin Antenna Cover",
+      "media_id": "18182393953370535",
       "fb_media_id": null
     }
   ],
