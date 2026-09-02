@@ -574,11 +574,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39-halo-bulb-9006-connector-adapter",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-ashtray",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-shift-boot-frame",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39-cupholder-v-2"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-cupholder-v-2",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-center-console"
   ],
   "today_date": "2026-09-02",
-  "today_count": 9,
-  "total_posted": 542,
+  "today_count": 10,
+  "total_posted": 543,
   "history": [
     {
       "date": "2026-08-08",
@@ -3830,6 +3831,12 @@
       "date": "2026-09-02",
       "title": "BMW E39 Cupholder v.2",
       "media_id": "18121216444681552",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-02",
+      "title": "BMW E39 Center Console",
+      "media_id": "18494988121096592",
       "fb_media_id": null
     }
   ],
