@@ -575,11 +575,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39-ashtray",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-shift-boot-frame",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-cupholder-v-2",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39-center-console"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-center-console",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-fake-washer-cover"
   ],
   "today_date": "2026-09-02",
-  "today_count": 10,
-  "total_posted": 543,
+  "today_count": 11,
+  "total_posted": 544,
   "history": [
     {
       "date": "2026-08-08",
@@ -3837,6 +3838,12 @@
       "date": "2026-09-02",
       "title": "BMW E39 Center Console",
       "media_id": "18494988121096592",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-02",
+      "title": "BMW E39 Fake Washer Cover",
+      "media_id": "18197245888380650",
       "fb_media_id": null
     }
   ],
