@@ -586,11 +586,12 @@
     "https://cults3d.com/en/3d-model/tool/mitsubishi-lancer-a70-c-pillar-trim",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-suction-tube",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-subframe-reinforcement-plate",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-gauge-bezel"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-gauge-bezel",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-trunk-spring-isolator"
   ],
   "today_date": "2026-09-02",
-  "today_count": 21,
-  "total_posted": 554,
+  "today_count": 22,
+  "total_posted": 555,
   "history": [
     {
       "date": "2026-08-08",
@@ -3914,6 +3915,12 @@
       "date": "2026-09-02",
       "title": "BMW E46 Gauge Bezel",
       "media_id": "17891542464608220",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-02",
+      "title": "BMW E46 Trunk Spring Isolator",
+      "media_id": "18102403631578577",
       "fb_media_id": null
     }
   ],
