@@ -1,43 +1,43 @@
 {
-  "next_index": 252,
-  "next_publish_date": "2026-09-02T00:00:00",
-  "run_count": 40,
-  "total_uploaded": 180,
+  "next_index": 258,
+  "next_publish_date": "2026-09-03T00:00:00",
+  "run_count": 41,
+  "total_uploaded": 186,
   "total_models": 1318,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-08-31",
-    "day_number": 40,
+    "date": "2026-09-02",
+    "day_number": 41,
     "uploaded": [
       {
-        "title": "S2000 Wheel Center Cap / Deckel",
-        "publish_at": "2026-09-01T09:00:00Z",
-        "link": "https://youtu.be/OX2-57Nr98s"
+        "title": "S2000 Wiper Lid Logo",
+        "publish_at": "2026-09-02T09:00:00Z",
+        "link": "https://youtu.be/3UcdxSlIX1Q"
       },
       {
-        "title": "S2000 Alternator Bracket",
-        "publish_at": "2026-09-01T11:00:00Z",
-        "link": "https://youtu.be/8CE_G70qoUs"
+        "title": "S2000 Splitter Diffuser RH",
+        "publish_at": "2026-09-02T11:00:00Z",
+        "link": "https://youtu.be/U8bvtEa9uGw"
       },
       {
-        "title": "S2000 Rear Sides Skirt Splitters",
-        "publish_at": "2026-09-01T13:00:00Z",
-        "link": "https://youtu.be/8j8CHH9SZBw"
+        "title": "S2000 Dash Panel Part",
+        "publish_at": "2026-09-02T13:00:00Z",
+        "link": "https://youtu.be/D9xyP0Q1hzA"
       },
       {
-        "title": "S2000 Bezel",
-        "publish_at": "2026-09-01T15:00:00Z",
-        "link": "https://youtu.be/iIY-Nv5h4yU"
+        "title": "S2000 Intake Base Long",
+        "publish_at": "2026-09-02T15:00:00Z",
+        "link": "https://youtu.be/NhSLhvkS8Hg"
       },
       {
-        "title": "S2000 Speaker Ring V.2",
-        "publish_at": "2026-09-01T17:00:00Z",
-        "link": "https://youtu.be/bqlhxj6L468"
+        "title": "AEM Water/Meth Controller Mount",
+        "publish_at": "2026-09-02T17:00:00Z",
+        "link": "https://youtu.be/uIOBN3LG64s"
       },
       {
-        "title": "S2000 Speaker Ring",
-        "publish_at": "2026-09-01T19:00:00Z",
-        "link": "https://youtu.be/mtKXk1EpnLU"
+        "title": "AEM Intake Fixation",
+        "publish_at": "2026-09-02T19:00:00Z",
+        "link": "https://youtu.be/dJtucCqniwQ"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-22",
-      "day_number": 31,
-      "uploaded": [
-        {
-          "title": "Nissan 720 AC Fan",
-          "publish_at": "2026-08-23T09:00:00Z",
-          "link": "https://youtu.be/lE2PLAvCAF4"
-        },
-        {
-          "title": "Nissan Sentra Gauge Pods Legacy BM‑BR Vent Gauge Pod – Double (Dual Gauge Holder / Vent Mount Component)",
-          "publish_at": "2026-08-23T11:00:00Z",
-          "link": "https://youtu.be/3GRAw151s-Y"
-        },
-        {
-          "title": "Nissan H7 LED Bracket (Headlight LED Mount / Lighting Component)",
-          "publish_at": "2026-08-23T13:00:00Z",
-          "link": "https://youtu.be/Z6A2eUQ_p_c"
-        },
-        {
-          "title": "Nissan Patrol Wiper Support",
-          "publish_at": "2026-08-23T15:00:00Z",
-          "link": "https://youtu.be/yia6fFrjXJg"
-        },
-        {
-          "title": "Nissan Sentra Door Button (Door Switch / Interior Component)",
-          "publish_at": "2026-08-23T17:00:00Z",
-          "link": "https://youtu.be/qjWIHTDRVmU"
-        },
-        {
-          "title": "2018 Nissan Armada AVS JL Audio 10W1 (Subwoofer Mount / Audio System Accessory)",
-          "publish_at": "2026-08-23T19:00:00Z",
-          "link": "https://youtu.be/s8Mf7jgVat8"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-23",
       "day_number": 32,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-02",
+      "day_number": 41,
+      "uploaded": [
+        {
+          "title": "S2000 Wiper Lid Logo",
+          "publish_at": "2026-09-02T09:00:00Z",
+          "link": "https://youtu.be/3UcdxSlIX1Q"
+        },
+        {
+          "title": "S2000 Splitter Diffuser RH",
+          "publish_at": "2026-09-02T11:00:00Z",
+          "link": "https://youtu.be/U8bvtEa9uGw"
+        },
+        {
+          "title": "S2000 Dash Panel Part",
+          "publish_at": "2026-09-02T13:00:00Z",
+          "link": "https://youtu.be/D9xyP0Q1hzA"
+        },
+        {
+          "title": "S2000 Intake Base Long",
+          "publish_at": "2026-09-02T15:00:00Z",
+          "link": "https://youtu.be/NhSLhvkS8Hg"
+        },
+        {
+          "title": "AEM Water/Meth Controller Mount",
+          "publish_at": "2026-09-02T17:00:00Z",
+          "link": "https://youtu.be/uIOBN3LG64s"
+        },
+        {
+          "title": "AEM Intake Fixation",
+          "publish_at": "2026-09-02T19:00:00Z",
+          "link": "https://youtu.be/dJtucCqniwQ"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -694,6 +694,12 @@
     "https://cults3d.com/:4805517",
     "https://cults3d.com/:4805575",
     "https://cults3d.com/:4805877",
+    "https://cults3d.com/:4849987",
+    "https://cults3d.com/:4850012",
+    "https://cults3d.com/:4850331",
+    "https://cults3d.com/:4850371",
+    "https://cults3d.com/:4850484",
+    "https://cults3d.com/:4850508",
     "https://cults3d.com/:4850548",
     "https://cults3d.com/:4850574",
     "https://cults3d.com/:4850601",
@@ -744,40 +750,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "MbSeQPE2ZXs",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-micra-handle-door-console-component"
+      "video_id": "3UcdxSlIX1Q",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-wiper-lid-logo"
     },
     {
-      "video_id": "zhF6YQpXykg",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-x-trail-telefoonsteun-phone-holder-console-mount-component"
+      "video_id": "U8bvtEa9uGw",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-splitter-diffuser-rh"
     },
     {
-      "video_id": "DyZ5fVRSq48",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-qashqai-cupholder-center-console-interior-component"
+      "video_id": "D9xyP0Q1hzA",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-dash-panel-part"
     },
     {
-      "video_id": "OX2-57Nr98s",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-wheel-center-cap-deckel"
+      "video_id": "NhSLhvkS8Hg",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-intake-base-long"
     },
     {
-      "video_id": "8CE_G70qoUs",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-alternator-bracket"
+      "video_id": "uIOBN3LG64s",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-water-meth-controller-mount-makdesign"
     },
     {
-      "video_id": "8j8CHH9SZBw",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters"
-    },
-    {
-      "video_id": "iIY-Nv5h4yU",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-bezel"
-    },
-    {
-      "video_id": "bqlhxj6L468",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-v-2"
-    },
-    {
-      "video_id": "mtKXk1EpnLU",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-makdesign"
+      "video_id": "dJtucCqniwQ",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-intake-fixation"
     }
   ]
 }
