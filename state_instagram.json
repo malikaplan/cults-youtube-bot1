@@ -572,11 +572,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e39-head-unit-bezel-radio-multimedia-frame",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-rear-cupholder-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e39-halo-bulb-9006-connector-adapter",
-    "https://cults3d.com/en/3d-model/tool/bmw-e39-ashtray"
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-ashtray",
+    "https://cults3d.com/en/3d-model/tool/bmw-e39-shift-boot-frame"
   ],
   "today_date": "2026-09-02",
-  "today_count": 7,
-  "total_posted": 540,
+  "today_count": 8,
+  "total_posted": 541,
   "history": [
     {
       "date": "2026-08-08",
@@ -3816,6 +3817,12 @@
       "date": "2026-09-02",
       "title": "BMW E39 Ashtray",
       "media_id": "18115108895067386",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-02",
+      "title": "BMW E39 Shift Boot Frame",
+      "media_id": "18093170417386704",
       "fb_media_id": null
     }
   ],
