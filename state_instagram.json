@@ -610,11 +610,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-air-vent-adapter",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-sunroof-handle",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-scoop",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-convertible-hardtop-lock-cover-caps-r-l-set"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-convertible-hardtop-lock-cover-caps-r-l-set",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-cable-clip-connector-part"
   ],
   "today_date": "2026-09-03",
-  "today_count": 21,
-  "total_posted": 578,
+  "today_count": 22,
+  "total_posted": 579,
   "history": [
     {
       "date": "2026-08-08",
@@ -4082,6 +4083,12 @@
       "date": "2026-09-03",
       "title": "BMW E46 Convertible Hardtop Lock Cover Caps (R + L Set)",
       "media_id": "18264234760307266",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "BMW E46 Cable Clip / Connector Part",
+      "media_id": "18084172748665790",
       "fb_media_id": null
     }
   ],
