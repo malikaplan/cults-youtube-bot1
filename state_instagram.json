@@ -589,11 +589,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-gauge-bezel",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-trunk-spring-isolator",
     "https://cults3d.com/en/3d-model/tool/e46-pico-express-0701-isolator-mount",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-woofer-mount-jl-c3-525"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-woofer-mount-jl-c3-525",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-license-plate-light-housing"
   ],
-  "today_date": "2026-09-02",
-  "today_count": 24,
-  "total_posted": 557,
+  "today_date": "2026-09-03",
+  "today_count": 1,
+  "total_posted": 558,
   "history": [
     {
       "date": "2026-08-08",
@@ -3935,6 +3936,12 @@
       "date": "2026-09-02",
       "title": "BMW E46 Woofer Mount (JL C3‑525)",
       "media_id": "17871533796586160",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "BMW E46 License Plate Light Housing",
+      "media_id": "18331638463272242",
       "fb_media_id": null
     }
   ],
