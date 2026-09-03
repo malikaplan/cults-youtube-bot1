@@ -1,43 +1,43 @@
 {
-  "next_index": 258,
-  "next_publish_date": "2026-09-03T00:00:00",
-  "run_count": 41,
-  "total_uploaded": 186,
+  "next_index": 264,
+  "next_publish_date": "2026-09-04T00:00:00",
+  "run_count": 42,
+  "total_uploaded": 192,
   "total_models": 1318,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-02",
-    "day_number": 41,
+    "date": "2026-09-03",
+    "day_number": 42,
     "uploaded": [
       {
-        "title": "S2000 Wiper Lid Logo",
-        "publish_at": "2026-09-02T09:00:00Z",
-        "link": "https://youtu.be/3UcdxSlIX1Q"
+        "title": "AEM Halter",
+        "publish_at": "2026-09-03T09:00:00Z",
+        "link": "https://youtu.be/tzQh9EqjNN0"
       },
       {
-        "title": "S2000 Splitter Diffuser RH",
-        "publish_at": "2026-09-02T11:00:00Z",
-        "link": "https://youtu.be/U8bvtEa9uGw"
+        "title": "FuelTech Mini 8 Mount",
+        "publish_at": "2026-09-03T11:00:00Z",
+        "link": "https://youtu.be/oNso6I5kL8U"
       },
       {
-        "title": "S2000 Dash Panel Part",
-        "publish_at": "2026-09-02T13:00:00Z",
-        "link": "https://youtu.be/D9xyP0Q1hzA"
+        "title": "AEM Dual Gauge Housing",
+        "publish_at": "2026-09-03T13:00:00Z",
+        "link": "https://youtu.be/Tbr95a-r_T4"
       },
       {
-        "title": "S2000 Intake Base Long",
-        "publish_at": "2026-09-02T15:00:00Z",
-        "link": "https://youtu.be/NhSLhvkS8Hg"
+        "title": "AEM A-Pillar Gauge Mount",
+        "publish_at": "2026-09-03T15:00:00Z",
+        "link": "https://youtu.be/ewo4Uzx7Ym4"
       },
       {
-        "title": "AEM Water/Meth Controller Mount",
-        "publish_at": "2026-09-02T17:00:00Z",
-        "link": "https://youtu.be/uIOBN3LG64s"
+        "title": "AEM Holder V3",
+        "publish_at": "2026-09-03T17:00:00Z",
+        "link": "https://youtu.be/j0rpEfjVhK4"
       },
       {
-        "title": "AEM Intake Fixation",
-        "publish_at": "2026-09-02T19:00:00Z",
-        "link": "https://youtu.be/dJtucCqniwQ"
+        "title": "AEM Fuel Pump Mount",
+        "publish_at": "2026-09-03T19:00:00Z",
+        "link": "https://youtu.be/p3U9kIPvRNM"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-23",
-      "day_number": 32,
-      "uploaded": [
-        {
-          "title": "Nissan NP300 Battery Clamp",
-          "publish_at": "2026-08-24T09:00:00Z",
-          "link": "https://youtu.be/YQaXmMsFRUw"
-        },
-        {
-          "title": "Nissan Hood Prop Foot",
-          "publish_at": "2026-08-24T11:00:00Z",
-          "link": "https://youtu.be/00Ko0s-THIY"
-        },
-        {
-          "title": "Nissan Pathfinder Console Cover",
-          "publish_at": "2026-08-24T13:00:00Z",
-          "link": "https://youtu.be/M7lUyvspK8E"
-        },
-        {
-          "title": "Nissan Micra Tilt Lever",
-          "publish_at": "2026-08-24T15:00:00Z",
-          "link": "https://youtu.be/ZlFLradETcI"
-        },
-        {
-          "title": "Nissan 720 Shifter Knob",
-          "publish_at": "2026-08-24T17:00:00Z",
-          "link": "https://youtu.be/nwcIGZ1YBiA"
-        },
-        {
-          "title": "Nissan Speaker Grill – Smooth",
-          "publish_at": "2026-08-24T19:00:00Z",
-          "link": "https://youtu.be/xGuR1nkcp8o"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-24",
       "day_number": 33,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-03",
+      "day_number": 42,
+      "uploaded": [
+        {
+          "title": "AEM Halter",
+          "publish_at": "2026-09-03T09:00:00Z",
+          "link": "https://youtu.be/tzQh9EqjNN0"
+        },
+        {
+          "title": "FuelTech Mini 8 Mount",
+          "publish_at": "2026-09-03T11:00:00Z",
+          "link": "https://youtu.be/oNso6I5kL8U"
+        },
+        {
+          "title": "AEM Dual Gauge Housing",
+          "publish_at": "2026-09-03T13:00:00Z",
+          "link": "https://youtu.be/Tbr95a-r_T4"
+        },
+        {
+          "title": "AEM A-Pillar Gauge Mount",
+          "publish_at": "2026-09-03T15:00:00Z",
+          "link": "https://youtu.be/ewo4Uzx7Ym4"
+        },
+        {
+          "title": "AEM Holder V3",
+          "publish_at": "2026-09-03T17:00:00Z",
+          "link": "https://youtu.be/j0rpEfjVhK4"
+        },
+        {
+          "title": "AEM Fuel Pump Mount",
+          "publish_at": "2026-09-03T19:00:00Z",
+          "link": "https://youtu.be/p3U9kIPvRNM"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -694,6 +694,12 @@
     "https://cults3d.com/:4805517",
     "https://cults3d.com/:4805575",
     "https://cults3d.com/:4805877",
+    "https://cults3d.com/:4847288",
+    "https://cults3d.com/:4847715",
+    "https://cults3d.com/:4847794",
+    "https://cults3d.com/:4848045",
+    "https://cults3d.com/:4848094",
+    "https://cults3d.com/:4849968",
     "https://cults3d.com/:4849987",
     "https://cults3d.com/:4850012",
     "https://cults3d.com/:4850331",
@@ -750,28 +756,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "3UcdxSlIX1Q",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-wiper-lid-logo"
+      "video_id": "tzQh9EqjNN0",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-halter"
     },
     {
-      "video_id": "U8bvtEa9uGw",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-splitter-diffuser-rh"
+      "video_id": "oNso6I5kL8U",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech-mini-8-mount"
     },
     {
-      "video_id": "D9xyP0Q1hzA",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-dash-panel-part"
+      "video_id": "Tbr95a-r_T4",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-dual-gauge-housing"
     },
     {
-      "video_id": "NhSLhvkS8Hg",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-intake-base-long"
+      "video_id": "ewo4Uzx7Ym4",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-a-pillar-gauge-mount"
     },
     {
-      "video_id": "uIOBN3LG64s",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-water-meth-controller-mount-makdesign"
+      "video_id": "j0rpEfjVhK4",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-holder-v3"
     },
     {
-      "video_id": "dJtucCqniwQ",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-intake-fixation"
+      "video_id": "p3U9kIPvRNM",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-fuel-pump-mount"
     }
   ]
 }
