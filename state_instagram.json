@@ -595,11 +595,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-caddy-mk1-hubcap",
     "https://cults3d.com/en/3d-model/tool/volkswagen-polo-2006-headlight-dust-cover",
     "https://cults3d.com/en/3d-model/tool/volkswagen-golf-4-dashboard-charger-makdesign",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-lug-cap-17mm"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-lug-cap-17mm",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-lt-grill-clip"
   ],
   "today_date": "2026-09-03",
-  "today_count": 6,
-  "total_posted": 563,
+  "today_count": 7,
+  "total_posted": 564,
   "history": [
     {
       "date": "2026-08-08",
@@ -3977,6 +3978,12 @@
       "date": "2026-09-03",
       "title": "Volkswagen Lug Cap 17mm",
       "media_id": "17888595150611364",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Volkswagen LT Grill Clip",
+      "media_id": "18121013411482148",
       "fb_media_id": null
     }
   ],
