@@ -604,11 +604,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-sedan-sharkfin-antenna-base-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-heatshield",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-passenger-simple-rear-mount-m-duct",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-with-retractable-charger"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-with-retractable-charger",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-hood-vent-engine-cooling-air-channel"
   ],
   "today_date": "2026-09-03",
-  "today_count": 15,
-  "total_posted": 572,
+  "today_count": 16,
+  "total_posted": 573,
   "history": [
     {
       "date": "2026-08-08",
@@ -4040,6 +4041,12 @@
       "date": "2026-09-03",
       "title": "BMW E46 Center Console with Retractable Charger",
       "media_id": "18125523943752455",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "BMW E46 Hood Vent (Engine Cooling Air Channel)",
+      "media_id": "18430267264178943",
       "fb_media_id": null
     }
   ],
