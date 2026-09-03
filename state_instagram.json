@@ -612,11 +612,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-scoop",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-convertible-hardtop-lock-cover-caps-r-l-set",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-cable-clip-connector-part",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-brake-duct"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-brake-duct",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-tunnel-plate-for-irp-shifter-and-handbrake"
   ],
   "today_date": "2026-09-03",
-  "today_count": 23,
-  "total_posted": 580,
+  "today_count": 24,
+  "total_posted": 581,
   "history": [
     {
       "date": "2026-08-08",
@@ -4096,6 +4097,12 @@
       "date": "2026-09-03",
       "title": "BMW E46 M3 Brake Duct",
       "media_id": "17956209534218741",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "BMW E46 Tunnel Plate for IRP Shifter and Handbrake",
+      "media_id": "18096180818170038",
       "fb_media_id": null
     }
   ],
