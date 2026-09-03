@@ -601,11 +601,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-beetle-odometer-gear",
     "https://cults3d.com/en/3d-model/tool/volkswagen-logo-2-types",
     "https://cults3d.com/en/3d-model/tool/volkswagen-t5-seat-bracket-frame",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-sedan-sharkfin-antenna-base-cover"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-sedan-sharkfin-antenna-base-cover",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-heatshield"
   ],
   "today_date": "2026-09-03",
-  "today_count": 12,
-  "total_posted": 569,
+  "today_count": 13,
+  "total_posted": 570,
   "history": [
     {
       "date": "2026-08-08",
@@ -4019,6 +4020,12 @@
       "date": "2026-09-03",
       "title": "BMW E46 Sedan Sharkfin Antenna Base Cover",
       "media_id": "17911814334463545",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "BMW E46 Intake Heatshield",
+      "media_id": "18489620287100371",
       "fb_media_id": null
     }
   ],
