@@ -599,11 +599,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-lt-grill-clip",
     "https://cults3d.com/en/3d-model/tool/volkswagen-tool-hanger",
     "https://cults3d.com/en/3d-model/tool/volkswagen-beetle-odometer-gear",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-logo-2-types"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-logo-2-types",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-t5-seat-bracket-frame"
   ],
   "today_date": "2026-09-03",
-  "today_count": 10,
-  "total_posted": 567,
+  "today_count": 11,
+  "total_posted": 568,
   "history": [
     {
       "date": "2026-08-08",
@@ -4005,6 +4006,12 @@
       "date": "2026-09-03",
       "title": "Volkswagen Logo (2 Types)",
       "media_id": "17927843418404488",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Volkswagen T5 Seat Bracket Frame",
+      "media_id": "18094715372555029",
       "fb_media_id": null
     }
   ],
