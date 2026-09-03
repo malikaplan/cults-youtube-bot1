@@ -602,11 +602,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-logo-2-types",
     "https://cults3d.com/en/3d-model/tool/volkswagen-t5-seat-bracket-frame",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-sedan-sharkfin-antenna-base-cover",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-heatshield"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-heatshield",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-passenger-simple-rear-mount-m-duct"
   ],
   "today_date": "2026-09-03",
-  "today_count": 13,
-  "total_posted": 570,
+  "today_count": 14,
+  "total_posted": 571,
   "history": [
     {
       "date": "2026-08-08",
@@ -4026,6 +4027,12 @@
       "date": "2026-09-03",
       "title": "BMW E46 Intake Heatshield",
       "media_id": "18489620287100371",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "BMW E46 Passenger Simple Rear Mount M Duct",
+      "media_id": "18090448328171022",
       "fb_media_id": null
     }
   ],
