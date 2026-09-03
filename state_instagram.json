@@ -598,11 +598,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-lug-cap-17mm",
     "https://cults3d.com/en/3d-model/tool/volkswagen-lt-grill-clip",
     "https://cults3d.com/en/3d-model/tool/volkswagen-tool-hanger",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-beetle-odometer-gear"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-beetle-odometer-gear",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-logo-2-types"
   ],
   "today_date": "2026-09-03",
-  "today_count": 9,
-  "total_posted": 566,
+  "today_count": 10,
+  "total_posted": 567,
   "history": [
     {
       "date": "2026-08-08",
@@ -3998,6 +3999,12 @@
       "date": "2026-09-03",
       "title": "Volkswagen Beetle Odometer Gear",
       "media_id": "18350190961216832",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "Volkswagen Logo (2 Types)",
+      "media_id": "17927843418404488",
       "fb_media_id": null
     }
   ],
