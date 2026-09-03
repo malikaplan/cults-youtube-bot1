@@ -600,11 +600,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-tool-hanger",
     "https://cults3d.com/en/3d-model/tool/volkswagen-beetle-odometer-gear",
     "https://cults3d.com/en/3d-model/tool/volkswagen-logo-2-types",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-t5-seat-bracket-frame"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-t5-seat-bracket-frame",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-sedan-sharkfin-antenna-base-cover"
   ],
   "today_date": "2026-09-03",
-  "today_count": 11,
-  "total_posted": 568,
+  "today_count": 12,
+  "total_posted": 569,
   "history": [
     {
       "date": "2026-08-08",
@@ -4012,6 +4013,12 @@
       "date": "2026-09-03",
       "title": "Volkswagen T5 Seat Bracket Frame",
       "media_id": "18094715372555029",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-03",
+      "title": "BMW E46 Sedan Sharkfin Antenna Base Cover",
+      "media_id": "17911814334463545",
       "fb_media_id": null
     }
   ],
