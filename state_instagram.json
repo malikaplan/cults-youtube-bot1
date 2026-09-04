@@ -619,11 +619,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-golf-1-cup-holder-getrankehalter",
     "https://cults3d.com/en/3d-model/tool/volkswagen-touran-airflaps",
     "https://cults3d.com/en/3d-model/tool/volkswagen-sebring-center-cap",
-    "https://cults3d.com/en/3d-model/tool/fuse-tweezers-mk1-and-mk2-fuse-removal-tool"
+    "https://cults3d.com/en/3d-model/tool/fuse-tweezers-mk1-and-mk2-fuse-removal-tool",
+    "https://cults3d.com/en/3d-model/tool/nissan-door-rivet"
   ],
   "today_date": "2026-09-04",
-  "today_count": 6,
-  "total_posted": 587,
+  "today_count": 7,
+  "total_posted": 588,
   "history": [
     {
       "date": "2026-08-08",
@@ -4145,6 +4146,12 @@
       "date": "2026-09-04",
       "title": "Fuse Tweezers MK1 and MK2 / Fuse Removal Tool",
       "media_id": "18390140638203412",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Nissan Door Rivet",
+      "media_id": "18103367047966152",
       "fb_media_id": null
     }
   ],
