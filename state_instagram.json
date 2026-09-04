@@ -621,11 +621,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-sebring-center-cap",
     "https://cults3d.com/en/3d-model/tool/fuse-tweezers-mk1-and-mk2-fuse-removal-tool",
     "https://cults3d.com/en/3d-model/tool/nissan-door-rivet",
-    "https://cults3d.com/en/3d-model/tool/karcher-head-clip"
+    "https://cults3d.com/en/3d-model/tool/karcher-head-clip",
+    "https://cults3d.com/en/3d-model/tool/karcher-water-inlet"
   ],
   "today_date": "2026-09-04",
-  "today_count": 8,
-  "total_posted": 589,
+  "today_count": 9,
+  "total_posted": 590,
   "history": [
     {
       "date": "2026-08-08",
@@ -4159,6 +4160,12 @@
       "date": "2026-09-04",
       "title": "Karcher Head Clip",
       "media_id": "18117520937480650",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Karcher Water Inlet",
+      "media_id": "18113170789993400",
       "fb_media_id": null
     }
   ],
