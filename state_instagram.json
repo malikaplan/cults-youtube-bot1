@@ -616,11 +616,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-tunnel-plate-for-irp-shifter-and-handbrake",
     "https://cults3d.com/en/3d-model/tool/volkswagen-ats-wheel-cap",
     "https://cults3d.com/en/3d-model/tool/volkswagen-battery-terminal-cover-golf-mk8-vag-compatible",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-golf-1-cup-holder-getrankehalter"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-golf-1-cup-holder-getrankehalter",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-touran-airflaps"
   ],
   "today_date": "2026-09-04",
-  "today_count": 3,
-  "total_posted": 584,
+  "today_count": 4,
+  "total_posted": 585,
   "history": [
     {
       "date": "2026-08-08",
@@ -4124,6 +4125,12 @@
       "date": "2026-09-04",
       "title": "Volkswagen Golf 1 Cup Holder (Getränkehalter)",
       "media_id": "18101438894201101",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Volkswagen Touran Airflaps",
+      "media_id": "18029126501891274",
       "fb_media_id": null
     }
   ],
