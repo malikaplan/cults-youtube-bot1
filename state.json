@@ -1,43 +1,43 @@
 {
-  "next_index": 264,
-  "next_publish_date": "2026-09-04T00:00:00",
-  "run_count": 42,
-  "total_uploaded": 192,
+  "next_index": 270,
+  "next_publish_date": "2026-09-05T00:00:00",
+  "run_count": 43,
+  "total_uploaded": 198,
   "total_models": 1318,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-03",
-    "day_number": 42,
+    "date": "2026-09-04",
+    "day_number": 43,
     "uploaded": [
       {
-        "title": "AEM Halter",
-        "publish_at": "2026-09-03T09:00:00Z",
-        "link": "https://youtu.be/tzQh9EqjNN0"
+        "title": "AEM AFR Pod v2",
+        "publish_at": "2026-09-04T09:00:00Z",
+        "link": "https://youtu.be/sSMy-HpodGw"
       },
       {
-        "title": "FuelTech Mini 8 Mount",
-        "publish_at": "2026-09-03T11:00:00Z",
-        "link": "https://youtu.be/oNso6I5kL8U"
+        "title": "AEM Holder / Universal Design",
+        "publish_at": "2026-09-04T11:00:00Z",
+        "link": "https://youtu.be/Q2KqYDm0VlY"
       },
       {
-        "title": "AEM Dual Gauge Housing",
-        "publish_at": "2026-09-03T13:00:00Z",
-        "link": "https://youtu.be/Tbr95a-r_T4"
+        "title": "AEM AFR Gauge Pod",
+        "publish_at": "2026-09-04T13:00:00Z",
+        "link": "https://youtu.be/vxl3IS1EMAM"
       },
       {
-        "title": "AEM A-Pillar Gauge Mount",
-        "publish_at": "2026-09-03T15:00:00Z",
-        "link": "https://youtu.be/ewo4Uzx7Ym4"
+        "title": "AEM Gauge Pod Mount and Slider Tab",
+        "publish_at": "2026-09-04T15:00:00Z",
+        "link": "https://youtu.be/BCQdobAmNPQ"
       },
       {
-        "title": "AEM Holder V3",
-        "publish_at": "2026-09-03T17:00:00Z",
-        "link": "https://youtu.be/j0rpEfjVhK4"
+        "title": "AEM Gauge Pod  52mm",
+        "publish_at": "2026-09-04T17:00:00Z",
+        "link": "https://youtu.be/fClBQLfLnYc"
       },
       {
-        "title": "AEM Fuel Pump Mount",
-        "publish_at": "2026-09-03T19:00:00Z",
-        "link": "https://youtu.be/p3U9kIPvRNM"
+        "title": "AEM Dash Mount (For DB) CD-7 Carbon",
+        "publish_at": "2026-09-04T19:00:00Z",
+        "link": "https://youtu.be/KFMaZzPAfZ0"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-24",
-      "day_number": 33,
-      "uploaded": [
-        {
-          "title": "BMW E90 Headlight Cap",
-          "publish_at": "2026-08-25T09:00:00Z",
-          "link": "https://youtu.be/IULQZtei8-s"
-        },
-        {
-          "title": "BMW EKIY MTC16 Navigation Screen Mount Adapter",
-          "publish_at": "2026-08-25T11:00:00Z",
-          "link": "https://youtu.be/7S9tpghqEyQ"
-        },
-        {
-          "title": "BMW E90 E87 Glove Box Fuse Cover with Locking Latch",
-          "publish_at": "2026-08-25T13:00:00Z",
-          "link": "https://youtu.be/xjmCu9qk6wg"
-        },
-        {
-          "title": "BMW F20 F30 E90 E60 Tweeter Speaker Mount Adapter",
-          "publish_at": "2026-08-25T15:00:00Z",
-          "link": "https://youtu.be/8aXtVSO-w0k"
-        },
-        {
-          "title": "BMW E30 E36 E46 Cold Air Intake Filter Box",
-          "publish_at": "2026-08-25T17:00:00Z",
-          "link": "https://youtu.be/K0wBRUj_DVs"
-        },
-        {
-          "title": "Nissan Relay‑CC Mount",
-          "publish_at": "2026-08-25T19:00:00Z",
-          "link": "https://youtu.be/_nbqfOyePLg"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-25",
       "day_number": 34,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-04",
+      "day_number": 43,
+      "uploaded": [
+        {
+          "title": "AEM AFR Pod v2",
+          "publish_at": "2026-09-04T09:00:00Z",
+          "link": "https://youtu.be/sSMy-HpodGw"
+        },
+        {
+          "title": "AEM Holder / Universal Design",
+          "publish_at": "2026-09-04T11:00:00Z",
+          "link": "https://youtu.be/Q2KqYDm0VlY"
+        },
+        {
+          "title": "AEM AFR Gauge Pod",
+          "publish_at": "2026-09-04T13:00:00Z",
+          "link": "https://youtu.be/vxl3IS1EMAM"
+        },
+        {
+          "title": "AEM Gauge Pod Mount and Slider Tab",
+          "publish_at": "2026-09-04T15:00:00Z",
+          "link": "https://youtu.be/BCQdobAmNPQ"
+        },
+        {
+          "title": "AEM Gauge Pod  52mm",
+          "publish_at": "2026-09-04T17:00:00Z",
+          "link": "https://youtu.be/fClBQLfLnYc"
+        },
+        {
+          "title": "AEM Dash Mount (For DB) CD-7 Carbon",
+          "publish_at": "2026-09-04T19:00:00Z",
+          "link": "https://youtu.be/KFMaZzPAfZ0"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -694,6 +694,12 @@
     "https://cults3d.com/:4805517",
     "https://cults3d.com/:4805575",
     "https://cults3d.com/:4805877",
+    "https://cults3d.com/:4846903",
+    "https://cults3d.com/:4846957",
+    "https://cults3d.com/:4847015",
+    "https://cults3d.com/:4847046",
+    "https://cults3d.com/:4847142",
+    "https://cults3d.com/:4847188",
     "https://cults3d.com/:4847288",
     "https://cults3d.com/:4847715",
     "https://cults3d.com/:4847794",
@@ -756,28 +762,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "tzQh9EqjNN0",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-halter"
+      "video_id": "sSMy-HpodGw",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-afr-pod-v2"
     },
     {
-      "video_id": "oNso6I5kL8U",
-      "text": "https://cults3d.com/en/3d-model/tool/fueltech-mini-8-mount"
+      "video_id": "Q2KqYDm0VlY",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-holder-universal-design"
     },
     {
-      "video_id": "Tbr95a-r_T4",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-dual-gauge-housing"
+      "video_id": "vxl3IS1EMAM",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-afr-gauge-pod-makdesign"
     },
     {
-      "video_id": "ewo4Uzx7Ym4",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-a-pillar-gauge-mount"
+      "video_id": "BCQdobAmNPQ",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-mount-and-slider-tab"
     },
     {
-      "video_id": "j0rpEfjVhK4",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-holder-v3"
+      "video_id": "fClBQLfLnYc",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-52mm"
     },
     {
-      "video_id": "p3U9kIPvRNM",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-fuel-pump-mount"
+      "video_id": "KFMaZzPAfZ0",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-dash-mount-for-db-cd-7-carbon"
     }
   ]
 }
