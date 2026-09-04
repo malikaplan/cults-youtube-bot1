@@ -624,11 +624,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-head-clip",
     "https://cults3d.com/en/3d-model/tool/karcher-water-inlet",
     "https://cults3d.com/en/3d-model/tool/karcher-ratcheting-gear-mechanism-part",
-    "https://cults3d.com/en/3d-model/tool/karcher-hose-fitting-connector-adapter"
+    "https://cults3d.com/en/3d-model/tool/karcher-hose-fitting-connector-adapter",
+    "https://cults3d.com/en/3d-model/tool/karcher-battery-adapter-connector-part"
   ],
   "today_date": "2026-09-04",
-  "today_count": 11,
-  "total_posted": 592,
+  "today_count": 12,
+  "total_posted": 593,
   "history": [
     {
       "date": "2026-08-08",
@@ -4180,6 +4181,12 @@
       "date": "2026-09-04",
       "title": "Karcher Hose Fitting (Connector / Adapter)",
       "media_id": "18625118452014787",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Karcher Battery Adapter (Connector Part)",
+      "media_id": "18019413683865928",
       "fb_media_id": null
     }
   ],
