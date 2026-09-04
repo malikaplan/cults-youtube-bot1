@@ -628,11 +628,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-battery-adapter-connector-part",
     "https://cults3d.com/en/3d-model/tool/karcher-hose-connector-spare-part",
     "https://cults3d.com/en/3d-model/tool/karcher-hose-stent-support-holder",
-    "https://cults3d.com/en/3d-model/tool/parkside-vacuum-karcher-compatible-adapter-connector-part"
+    "https://cults3d.com/en/3d-model/tool/parkside-vacuum-karcher-compatible-adapter-connector-part",
+    "https://cults3d.com/en/3d-model/tool/karcher-inlet-cap-spare-part"
   ],
   "today_date": "2026-09-04",
-  "today_count": 15,
-  "total_posted": 596,
+  "today_count": 16,
+  "total_posted": 597,
   "history": [
     {
       "date": "2026-08-08",
@@ -4208,6 +4209,12 @@
       "date": "2026-09-04",
       "title": "Parkside Vacuum – Karcher Compatible Adapter (Connector Part)",
       "media_id": "18114697433048977",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Karcher Inlet Cap (Spare Part)",
+      "media_id": "18086395688247389",
       "fb_media_id": null
     }
   ],
