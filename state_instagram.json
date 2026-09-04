@@ -632,11 +632,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-inlet-cap-spare-part",
     "https://cults3d.com/en/3d-model/tool/karcher-female-hose-receptacle-to-40mm-adapter-male-hose-receptacle-turning",
     "https://cults3d.com/en/3d-model/tool/karcher-ch2-dock-charging-station-connector-base",
-    "https://cults3d.com/en/3d-model/tool/karcher-wheel-spare-part"
+    "https://cults3d.com/en/3d-model/tool/karcher-wheel-spare-part",
+    "https://cults3d.com/en/3d-model/tool/karcher-wd3-cable-tidy-extension-left-right"
   ],
   "today_date": "2026-09-04",
-  "today_count": 19,
-  "total_posted": 600,
+  "today_count": 20,
+  "total_posted": 601,
   "history": [
     {
       "date": "2026-08-08",
@@ -4236,6 +4237,12 @@
       "date": "2026-09-04",
       "title": "Karcher Wheel (Spare Part)",
       "media_id": "18342673711250030",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Karcher WD3 Cable Tidy Extension (Left‑Right)",
+      "media_id": "17914609764449998",
       "fb_media_id": null
     }
   ],
