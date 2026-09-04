@@ -617,11 +617,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-ats-wheel-cap",
     "https://cults3d.com/en/3d-model/tool/volkswagen-battery-terminal-cover-golf-mk8-vag-compatible",
     "https://cults3d.com/en/3d-model/tool/volkswagen-golf-1-cup-holder-getrankehalter",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-touran-airflaps"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-touran-airflaps",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-sebring-center-cap"
   ],
   "today_date": "2026-09-04",
-  "today_count": 4,
-  "total_posted": 585,
+  "today_count": 5,
+  "total_posted": 586,
   "history": [
     {
       "date": "2026-08-08",
@@ -4131,6 +4132,12 @@
       "date": "2026-09-04",
       "title": "Volkswagen Touran Airflaps",
       "media_id": "18029126501891274",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Volkswagen Sebring Center Cap",
+      "media_id": "18090122465647769",
       "fb_media_id": null
     }
   ],
