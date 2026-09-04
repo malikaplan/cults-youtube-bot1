@@ -635,11 +635,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-wheel-spare-part",
     "https://cults3d.com/en/3d-model/tool/karcher-wd3-cable-tidy-extension-left-right",
     "https://cults3d.com/en/3d-model/tool/karcher-k2-accessories-bracket-mounting-part",
-    "https://cults3d.com/en/3d-model/tool/karcher-wd3-filter-adapter-moskvich-compatible"
+    "https://cults3d.com/en/3d-model/tool/karcher-wd3-filter-adapter-moskvich-compatible",
+    "https://cults3d.com/en/3d-model/tool/karcher-nozzle-holder-connector"
   ],
   "today_date": "2026-09-04",
-  "today_count": 22,
-  "total_posted": 603,
+  "today_count": 23,
+  "total_posted": 604,
   "history": [
     {
       "date": "2026-08-08",
@@ -4257,6 +4258,12 @@
       "date": "2026-09-04",
       "title": "Karcher WD3 Filter Adapter (Moskvich Compatible)",
       "media_id": "18278368672288106",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Karcher Nozzle Holder (Connector)",
+      "media_id": "17998009985809303",
       "fb_media_id": null
     }
   ],
