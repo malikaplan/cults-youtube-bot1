@@ -614,11 +614,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-cable-clip-connector-part",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-brake-duct",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-tunnel-plate-for-irp-shifter-and-handbrake",
-    "https://cults3d.com/en/3d-model/tool/volkswagen-ats-wheel-cap"
+    "https://cults3d.com/en/3d-model/tool/volkswagen-ats-wheel-cap",
+    "https://cults3d.com/en/3d-model/tool/volkswagen-battery-terminal-cover-golf-mk8-vag-compatible"
   ],
   "today_date": "2026-09-04",
-  "today_count": 1,
-  "total_posted": 582,
+  "today_count": 2,
+  "total_posted": 583,
   "history": [
     {
       "date": "2026-08-08",
@@ -4110,6 +4111,12 @@
       "date": "2026-09-04",
       "title": "Volkswagen ATS Wheel Cap",
       "media_id": "18101990654532599",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Volkswagen Battery Terminal Cover (Golf Mk8 / VAG Compatible)",
+      "media_id": "18334139149278125",
       "fb_media_id": null
     }
   ],
