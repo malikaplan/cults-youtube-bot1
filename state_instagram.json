@@ -620,11 +620,12 @@
     "https://cults3d.com/en/3d-model/tool/volkswagen-touran-airflaps",
     "https://cults3d.com/en/3d-model/tool/volkswagen-sebring-center-cap",
     "https://cults3d.com/en/3d-model/tool/fuse-tweezers-mk1-and-mk2-fuse-removal-tool",
-    "https://cults3d.com/en/3d-model/tool/nissan-door-rivet"
+    "https://cults3d.com/en/3d-model/tool/nissan-door-rivet",
+    "https://cults3d.com/en/3d-model/tool/karcher-head-clip"
   ],
   "today_date": "2026-09-04",
-  "today_count": 7,
-  "total_posted": 588,
+  "today_count": 8,
+  "total_posted": 589,
   "history": [
     {
       "date": "2026-08-08",
@@ -4152,6 +4153,12 @@
       "date": "2026-09-04",
       "title": "Nissan Door Rivet",
       "media_id": "18103367047966152",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Karcher Head Clip",
+      "media_id": "18117520937480650",
       "fb_media_id": null
     }
   ],
