@@ -626,11 +626,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-ratcheting-gear-mechanism-part",
     "https://cults3d.com/en/3d-model/tool/karcher-hose-fitting-connector-adapter",
     "https://cults3d.com/en/3d-model/tool/karcher-battery-adapter-connector-part",
-    "https://cults3d.com/en/3d-model/tool/karcher-hose-connector-spare-part"
+    "https://cults3d.com/en/3d-model/tool/karcher-hose-connector-spare-part",
+    "https://cults3d.com/en/3d-model/tool/karcher-hose-stent-support-holder"
   ],
   "today_date": "2026-09-04",
-  "today_count": 13,
-  "total_posted": 594,
+  "today_count": 14,
+  "total_posted": 595,
   "history": [
     {
       "date": "2026-08-08",
@@ -4194,6 +4195,12 @@
       "date": "2026-09-04",
       "title": "Karcher Hose Connector (Spare Part)",
       "media_id": "18277865830295211",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Karcher Hose Stent (Support / Holder)",
+      "media_id": "18370966849240923",
       "fb_media_id": null
     }
   ],
