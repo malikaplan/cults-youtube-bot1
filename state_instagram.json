@@ -623,11 +623,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-door-rivet",
     "https://cults3d.com/en/3d-model/tool/karcher-head-clip",
     "https://cults3d.com/en/3d-model/tool/karcher-water-inlet",
-    "https://cults3d.com/en/3d-model/tool/karcher-ratcheting-gear-mechanism-part"
+    "https://cults3d.com/en/3d-model/tool/karcher-ratcheting-gear-mechanism-part",
+    "https://cults3d.com/en/3d-model/tool/karcher-hose-fitting-connector-adapter"
   ],
   "today_date": "2026-09-04",
-  "today_count": 10,
-  "total_posted": 591,
+  "today_count": 11,
+  "total_posted": 592,
   "history": [
     {
       "date": "2026-08-08",
@@ -4173,6 +4174,12 @@
       "date": "2026-09-04",
       "title": "Karcher Ratcheting Gear (Mechanism Part)",
       "media_id": "18090804680175455",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-04",
+      "title": "Karcher Hose Fitting (Connector / Adapter)",
+      "media_id": "18625118452014787",
       "fb_media_id": null
     }
   ],
