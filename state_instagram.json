@@ -641,11 +641,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-5-064-396-pressure-washer-outlet-pipe-elbow-connection-m22-thread",
     "https://cults3d.com/en/3d-model/tool/karcher-plug-fixed-pressure-pa66-nozzle",
     "https://cults3d.com/en/3d-model/tool/karcher-wd6-bosch-gex40-150-adapter",
-    "https://cults3d.com/en/3d-model/tool/karcher-spur-gear-19-teeth-15-teeth"
+    "https://cults3d.com/en/3d-model/tool/karcher-spur-gear-19-teeth-15-teeth",
+    "https://cults3d.com/en/3d-model/tool/karcher-reservoir-water-tank-container"
   ],
   "today_date": "2026-09-05",
-  "today_count": 4,
-  "total_posted": 609,
+  "today_count": 5,
+  "total_posted": 610,
   "history": [
     {
       "date": "2026-08-08",
@@ -4299,6 +4300,12 @@
       "date": "2026-09-05",
       "title": "Karcher Spur Gear (19 Teeth / 15 Teeth)",
       "media_id": "17868234144640274",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher Reservoir (Water Tank / Container)",
+      "media_id": "18061249313786315",
       "fb_media_id": null
     }
   ],
