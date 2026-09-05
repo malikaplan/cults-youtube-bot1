@@ -638,11 +638,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-wd3-filter-adapter-moskvich-compatible",
     "https://cults3d.com/en/3d-model/tool/karcher-nozzle-holder-connector",
     "https://cults3d.com/en/3d-model/tool/karcher-safety-lock-part",
-    "https://cults3d.com/en/3d-model/tool/karcher-5-064-396-pressure-washer-outlet-pipe-elbow-connection-m22-thread"
+    "https://cults3d.com/en/3d-model/tool/karcher-5-064-396-pressure-washer-outlet-pipe-elbow-connection-m22-thread",
+    "https://cults3d.com/en/3d-model/tool/karcher-plug-fixed-pressure-pa66-nozzle"
   ],
   "today_date": "2026-09-05",
-  "today_count": 1,
-  "total_posted": 606,
+  "today_count": 2,
+  "total_posted": 607,
   "history": [
     {
       "date": "2026-08-08",
@@ -4278,6 +4279,12 @@
       "date": "2026-09-05",
       "title": "Karcher 5.064‑396 Pressure Washer Outlet Pipe Elbow Connection (M22 Thread)",
       "media_id": "18018962549872623",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher Plug Fixed Pressure PA66 Nozzle",
+      "media_id": "18027106469683873",
       "fb_media_id": null
     }
   ],
