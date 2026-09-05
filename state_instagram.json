@@ -660,11 +660,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-bayonet-adapter-makdesign",
     "https://cults3d.com/en/3d-model/tool/karcher-handle-mount",
     "https://cults3d.com/en/3d-model/tool/karcher-angel-uplytnenie-seal-part",
-    "https://cults3d.com/en/3d-model/tool/karcher-water-vortex-generator"
+    "https://cults3d.com/en/3d-model/tool/karcher-water-vortex-generator",
+    "https://cults3d.com/en/3d-model/tool/2010-2012-subaru-outback-legacy-cabin-air-filter-cover"
   ],
   "today_date": "2026-09-05",
-  "today_count": 23,
-  "total_posted": 628,
+  "today_count": 24,
+  "total_posted": 629,
   "history": [
     {
       "date": "2026-08-08",
@@ -4432,6 +4433,12 @@
       "date": "2026-09-05",
       "title": "Karcher Water Vortex Generator",
       "media_id": "18153194425507988",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "2010–2012 Subaru Outback / Legacy Cabin Air Filter Cover",
+      "media_id": "18172969243451223",
       "fb_media_id": null
     }
   ],
