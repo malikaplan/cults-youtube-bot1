@@ -648,11 +648,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-bracket-mounting-part",
     "https://cults3d.com/en/3d-model/tool/karcher-wv50-button-switch",
     "https://cults3d.com/en/3d-model/tool/karcher-male-hose-receptacle-l-type",
-    "https://cults3d.com/en/3d-model/tool/karcher-l-type-connector-l-connector"
+    "https://cults3d.com/en/3d-model/tool/karcher-l-type-connector-l-connector",
+    "https://cults3d.com/en/3d-model/tool/karcher-spur-gear-34-teeth-30-teeth"
   ],
   "today_date": "2026-09-05",
-  "today_count": 11,
-  "total_posted": 616,
+  "today_count": 12,
+  "total_posted": 617,
   "history": [
     {
       "date": "2026-08-08",
@@ -4348,6 +4349,12 @@
       "date": "2026-09-05",
       "title": "Karcher L‑Type Connector (L‑Connector)",
       "media_id": "18124113673883602",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher Spur Gear (34 Teeth / 30 Teeth)",
+      "media_id": "17898419121664870",
       "fb_media_id": null
     }
   ],
