@@ -649,11 +649,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-wv50-button-switch",
     "https://cults3d.com/en/3d-model/tool/karcher-male-hose-receptacle-l-type",
     "https://cults3d.com/en/3d-model/tool/karcher-l-type-connector-l-connector",
-    "https://cults3d.com/en/3d-model/tool/karcher-spur-gear-34-teeth-30-teeth"
+    "https://cults3d.com/en/3d-model/tool/karcher-spur-gear-34-teeth-30-teeth",
+    "https://cults3d.com/en/3d-model/tool/embout-karcher-threaded-shaft-adapter"
   ],
   "today_date": "2026-09-05",
-  "today_count": 12,
-  "total_posted": 617,
+  "today_count": 13,
+  "total_posted": 618,
   "history": [
     {
       "date": "2026-08-08",
@@ -4355,6 +4356,12 @@
       "date": "2026-09-05",
       "title": "Karcher Spur Gear (34 Teeth / 30 Teeth)",
       "media_id": "17898419121664870",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Embout Karcher Threaded Shaft (Adapter)",
+      "media_id": "17954692284219327",
       "fb_media_id": null
     }
   ],
