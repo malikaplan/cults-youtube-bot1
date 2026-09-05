@@ -659,11 +659,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-wd3-hose-end-adapter",
     "https://cults3d.com/en/3d-model/tool/karcher-bayonet-adapter-makdesign",
     "https://cults3d.com/en/3d-model/tool/karcher-handle-mount",
-    "https://cults3d.com/en/3d-model/tool/karcher-angel-uplytnenie-seal-part"
+    "https://cults3d.com/en/3d-model/tool/karcher-angel-uplytnenie-seal-part",
+    "https://cults3d.com/en/3d-model/tool/karcher-water-vortex-generator"
   ],
   "today_date": "2026-09-05",
-  "today_count": 22,
-  "total_posted": 627,
+  "today_count": 23,
+  "total_posted": 628,
   "history": [
     {
       "date": "2026-08-08",
@@ -4425,6 +4426,12 @@
       "date": "2026-09-05",
       "title": "Karcher Angel Uplytnenie (Seal Part)",
       "media_id": "18467662939113996",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher Water Vortex Generator",
+      "media_id": "18153194425507988",
       "fb_media_id": null
     }
   ],
