@@ -639,11 +639,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-nozzle-holder-connector",
     "https://cults3d.com/en/3d-model/tool/karcher-safety-lock-part",
     "https://cults3d.com/en/3d-model/tool/karcher-5-064-396-pressure-washer-outlet-pipe-elbow-connection-m22-thread",
-    "https://cults3d.com/en/3d-model/tool/karcher-plug-fixed-pressure-pa66-nozzle"
+    "https://cults3d.com/en/3d-model/tool/karcher-plug-fixed-pressure-pa66-nozzle",
+    "https://cults3d.com/en/3d-model/tool/karcher-wd6-bosch-gex40-150-adapter"
   ],
   "today_date": "2026-09-05",
-  "today_count": 2,
-  "total_posted": 607,
+  "today_count": 3,
+  "total_posted": 608,
   "history": [
     {
       "date": "2026-08-08",
@@ -4285,6 +4286,12 @@
       "date": "2026-09-05",
       "title": "Karcher Plug Fixed Pressure PA66 Nozzle",
       "media_id": "18027106469683873",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher WD6 – Bosch GEX40‑150 Adapter",
+      "media_id": "18079325147344081",
       "fb_media_id": null
     }
   ],
