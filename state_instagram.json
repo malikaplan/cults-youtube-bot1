@@ -652,11 +652,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-spur-gear-34-teeth-30-teeth",
     "https://cults3d.com/en/3d-model/tool/embout-karcher-threaded-shaft-adapter",
     "https://cults3d.com/en/3d-model/tool/karcher-textile-nozzle-tip",
-    "https://cults3d.com/en/3d-model/tool/karcher-male-hose-receptacle"
+    "https://cults3d.com/en/3d-model/tool/karcher-male-hose-receptacle",
+    "https://cults3d.com/en/3d-model/tool/karcher-bosch-reducer-adapter"
   ],
   "today_date": "2026-09-05",
-  "today_count": 15,
-  "total_posted": 620,
+  "today_count": 16,
+  "total_posted": 621,
   "history": [
     {
       "date": "2026-08-08",
@@ -4376,6 +4377,12 @@
       "date": "2026-09-05",
       "title": "Karcher Male Hose Receptacle",
       "media_id": "17977449705065256",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher–Bosch Reducer Adapter",
+      "media_id": "18089847488668494",
       "fb_media_id": null
     }
   ],
