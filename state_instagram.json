@@ -647,11 +647,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-lock-button-switch",
     "https://cults3d.com/en/3d-model/tool/karcher-bracket-mounting-part",
     "https://cults3d.com/en/3d-model/tool/karcher-wv50-button-switch",
-    "https://cults3d.com/en/3d-model/tool/karcher-male-hose-receptacle-l-type"
+    "https://cults3d.com/en/3d-model/tool/karcher-male-hose-receptacle-l-type",
+    "https://cults3d.com/en/3d-model/tool/karcher-l-type-connector-l-connector"
   ],
   "today_date": "2026-09-05",
-  "today_count": 10,
-  "total_posted": 615,
+  "today_count": 11,
+  "total_posted": 616,
   "history": [
     {
       "date": "2026-08-08",
@@ -4341,6 +4342,12 @@
       "date": "2026-09-05",
       "title": "Karcher Male Hose Receptacle L Type",
       "media_id": "18353390245223573",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher L‑Type Connector (L‑Connector)",
+      "media_id": "18124113673883602",
       "fb_media_id": null
     }
   ],
