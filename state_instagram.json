@@ -643,11 +643,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-wd6-bosch-gex40-150-adapter",
     "https://cults3d.com/en/3d-model/tool/karcher-spur-gear-19-teeth-15-teeth",
     "https://cults3d.com/en/3d-model/tool/karcher-reservoir-water-tank-container",
-    "https://cults3d.com/en/3d-model/tool/karcher-holder-mounting-part"
+    "https://cults3d.com/en/3d-model/tool/karcher-holder-mounting-part",
+    "https://cults3d.com/en/3d-model/tool/karcher-lock-button-switch"
   ],
   "today_date": "2026-09-05",
-  "today_count": 6,
-  "total_posted": 611,
+  "today_count": 7,
+  "total_posted": 612,
   "history": [
     {
       "date": "2026-08-08",
@@ -4313,6 +4314,12 @@
       "date": "2026-09-05",
       "title": "Karcher Holder (Mounting Part)",
       "media_id": "17921923917202224",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher Lock Button (Switch)",
+      "media_id": "18103022189251178",
       "fb_media_id": null
     }
   ],
