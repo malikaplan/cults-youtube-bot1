@@ -655,11 +655,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-male-hose-receptacle",
     "https://cults3d.com/en/3d-model/tool/karcher-bosch-reducer-adapter",
     "https://cults3d.com/en/3d-model/tool/karcher-latch-locking-mechanism-clip",
-    "https://cults3d.com/en/3d-model/tool/karcher-wdx-hose-end-adapter"
+    "https://cults3d.com/en/3d-model/tool/karcher-wdx-hose-end-adapter",
+    "https://cults3d.com/en/3d-model/tool/karcher-wd3-hose-end-adapter"
   ],
   "today_date": "2026-09-05",
-  "today_count": 18,
-  "total_posted": 623,
+  "today_count": 19,
+  "total_posted": 624,
   "history": [
     {
       "date": "2026-08-08",
@@ -4397,6 +4398,12 @@
       "date": "2026-09-05",
       "title": "Karcher WDx Hose End Adapter",
       "media_id": "18148724206534082",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher WD3 Hose End Adapter",
+      "media_id": "18099097865633869",
       "fb_media_id": null
     }
   ],
