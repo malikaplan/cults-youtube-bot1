@@ -653,11 +653,12 @@
     "https://cults3d.com/en/3d-model/tool/embout-karcher-threaded-shaft-adapter",
     "https://cults3d.com/en/3d-model/tool/karcher-textile-nozzle-tip",
     "https://cults3d.com/en/3d-model/tool/karcher-male-hose-receptacle",
-    "https://cults3d.com/en/3d-model/tool/karcher-bosch-reducer-adapter"
+    "https://cults3d.com/en/3d-model/tool/karcher-bosch-reducer-adapter",
+    "https://cults3d.com/en/3d-model/tool/karcher-latch-locking-mechanism-clip"
   ],
   "today_date": "2026-09-05",
-  "today_count": 16,
-  "total_posted": 621,
+  "today_count": 17,
+  "total_posted": 622,
   "history": [
     {
       "date": "2026-08-08",
@@ -4383,6 +4384,12 @@
       "date": "2026-09-05",
       "title": "Karcher–Bosch Reducer Adapter",
       "media_id": "18089847488668494",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher Latch (Locking Mechanism / Clip)",
+      "media_id": "18343486831281019",
       "fb_media_id": null
     }
   ],
