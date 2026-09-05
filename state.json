@@ -1,43 +1,43 @@
 {
-  "next_index": 270,
-  "next_publish_date": "2026-09-05T00:00:00",
-  "run_count": 43,
-  "total_uploaded": 198,
+  "next_index": 276,
+  "next_publish_date": "2026-09-06T00:00:00",
+  "run_count": 44,
+  "total_uploaded": 204,
   "total_models": 1318,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-04",
-    "day_number": 43,
+    "date": "2026-09-05",
+    "day_number": 44,
     "uploaded": [
       {
-        "title": "AEM AFR Pod v2",
-        "publish_at": "2026-09-04T09:00:00Z",
-        "link": "https://youtu.be/sSMy-HpodGw"
+        "title": "AEM Support Manometre Autometer Two Model",
+        "publish_at": "2026-09-05T09:00:00Z",
+        "link": "https://youtu.be/-7ItIDMfQGM"
       },
       {
-        "title": "AEM Holder / Universal Design",
-        "publish_at": "2026-09-04T11:00:00Z",
-        "link": "https://youtu.be/Q2KqYDm0VlY"
+        "title": "AEM Wideband Ring",
+        "publish_at": "2026-09-05T11:00:00Z",
+        "link": "https://youtu.be/ayHI9Ncw9To"
       },
       {
-        "title": "AEM AFR Gauge Pod",
-        "publish_at": "2026-09-04T13:00:00Z",
-        "link": "https://youtu.be/vxl3IS1EMAM"
+        "title": "FuelTech550 Porsche 944 Digital Dashboard and Blank Version",
+        "publish_at": "2026-09-05T13:00:00Z",
+        "link": "https://youtu.be/OxAhCfiLDeQ"
       },
       {
-        "title": "AEM Gauge Pod Mount and Slider Tab",
-        "publish_at": "2026-09-04T15:00:00Z",
-        "link": "https://youtu.be/BCQdobAmNPQ"
+        "title": "AEM Pod Mount",
+        "publish_at": "2026-09-05T15:00:00Z",
+        "link": "https://youtu.be/rpfoN_j16sM"
       },
       {
-        "title": "AEM Gauge Pod  52mm",
-        "publish_at": "2026-09-04T17:00:00Z",
-        "link": "https://youtu.be/fClBQLfLnYc"
+        "title": "AEM Gauge Pod Adapter",
+        "publish_at": "2026-09-05T17:00:00Z",
+        "link": "https://youtu.be/lAmODmeStIY"
       },
       {
-        "title": "AEM Dash Mount (For DB) CD-7 Carbon",
-        "publish_at": "2026-09-04T19:00:00Z",
-        "link": "https://youtu.be/KFMaZzPAfZ0"
+        "title": "Abarth Boost Gauge Housing",
+        "publish_at": "2026-09-05T19:00:00Z",
+        "link": "https://youtu.be/y5Mhon9pBjg"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-25",
-      "day_number": 34,
-      "uploaded": [
-        {
-          "title": "Tomica Nissan GT‑R Direction Trim",
-          "publish_at": "2026-08-26T09:00:00Z",
-          "link": "https://youtu.be/ycfLxtXcAIw"
-        },
-        {
-          "title": "Nissan Rear Cups Holder",
-          "publish_at": "2026-08-26T11:00:00Z",
-          "link": "https://youtu.be/CFbgpvt6DGA"
-        },
-        {
-          "title": "Nissan Halter Cover Holder / Protective Mount Component",
-          "publish_at": "2026-08-26T13:00:00Z",
-          "link": "https://youtu.be/MU0MVIl7IiM"
-        },
-        {
-          "title": "VW Golf Cluster Right Side (Dashboard Component / Instrument Panel Part)",
-          "publish_at": "2026-08-26T15:00:00Z",
-          "link": "https://youtu.be/pQNilW8FhhM"
-        },
-        {
-          "title": "Nissan Altima Tweeter Mount",
-          "publish_at": "2026-08-26T17:00:00Z",
-          "link": "https://youtu.be/zBRdPRaROUA"
-        },
-        {
-          "title": "Nissan Patrol Clock Support (Interior Console Component / Clock Holder)",
-          "publish_at": "2026-08-26T19:00:00Z",
-          "link": "https://youtu.be/kS7PvnO8W3I"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-26",
       "day_number": 35,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-05",
+      "day_number": 44,
+      "uploaded": [
+        {
+          "title": "AEM Support Manometre Autometer Two Model",
+          "publish_at": "2026-09-05T09:00:00Z",
+          "link": "https://youtu.be/-7ItIDMfQGM"
+        },
+        {
+          "title": "AEM Wideband Ring",
+          "publish_at": "2026-09-05T11:00:00Z",
+          "link": "https://youtu.be/ayHI9Ncw9To"
+        },
+        {
+          "title": "FuelTech550 Porsche 944 Digital Dashboard and Blank Version",
+          "publish_at": "2026-09-05T13:00:00Z",
+          "link": "https://youtu.be/OxAhCfiLDeQ"
+        },
+        {
+          "title": "AEM Pod Mount",
+          "publish_at": "2026-09-05T15:00:00Z",
+          "link": "https://youtu.be/rpfoN_j16sM"
+        },
+        {
+          "title": "AEM Gauge Pod Adapter",
+          "publish_at": "2026-09-05T17:00:00Z",
+          "link": "https://youtu.be/lAmODmeStIY"
+        },
+        {
+          "title": "Abarth Boost Gauge Housing",
+          "publish_at": "2026-09-05T19:00:00Z",
+          "link": "https://youtu.be/y5Mhon9pBjg"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -694,6 +694,12 @@
     "https://cults3d.com/:4805517",
     "https://cults3d.com/:4805575",
     "https://cults3d.com/:4805877",
+    "https://cults3d.com/:4846351",
+    "https://cults3d.com/:4846444",
+    "https://cults3d.com/:4846496",
+    "https://cults3d.com/:4846576",
+    "https://cults3d.com/:4846603",
+    "https://cults3d.com/:4846745",
     "https://cults3d.com/:4846903",
     "https://cults3d.com/:4846957",
     "https://cults3d.com/:4847015",
@@ -762,28 +768,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "sSMy-HpodGw",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-afr-pod-v2"
+      "video_id": "-7ItIDMfQGM",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-support-manometre-autometer-two-model"
     },
     {
-      "video_id": "Q2KqYDm0VlY",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-holder-universal-design"
+      "video_id": "ayHI9Ncw9To",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-wideband-ring"
     },
     {
-      "video_id": "vxl3IS1EMAM",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-afr-gauge-pod-makdesign"
+      "video_id": "OxAhCfiLDeQ",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech550-porsche-944-digital-dashboard-and-blank-version"
     },
     {
-      "video_id": "BCQdobAmNPQ",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-mount-and-slider-tab"
+      "video_id": "rpfoN_j16sM",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-pod-mount"
     },
     {
-      "video_id": "fClBQLfLnYc",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-52mm"
+      "video_id": "lAmODmeStIY",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-adapter"
     },
     {
-      "video_id": "KFMaZzPAfZ0",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-dash-mount-for-db-cd-7-carbon"
+      "video_id": "y5Mhon9pBjg",
+      "text": "https://cults3d.com/en/3d-model/tool/abarth-boost-gauge-housing"
     }
   ]
 }
