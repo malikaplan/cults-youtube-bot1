@@ -656,11 +656,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-bosch-reducer-adapter",
     "https://cults3d.com/en/3d-model/tool/karcher-latch-locking-mechanism-clip",
     "https://cults3d.com/en/3d-model/tool/karcher-wdx-hose-end-adapter",
-    "https://cults3d.com/en/3d-model/tool/karcher-wd3-hose-end-adapter"
+    "https://cults3d.com/en/3d-model/tool/karcher-wd3-hose-end-adapter",
+    "https://cults3d.com/en/3d-model/tool/karcher-bayonet-adapter-makdesign"
   ],
   "today_date": "2026-09-05",
-  "today_count": 19,
-  "total_posted": 624,
+  "today_count": 20,
+  "total_posted": 625,
   "history": [
     {
       "date": "2026-08-08",
@@ -4404,6 +4405,12 @@
       "date": "2026-09-05",
       "title": "Karcher WD3 Hose End Adapter",
       "media_id": "18099097865633869",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-05",
+      "title": "Karcher Bayonet Adapter",
+      "media_id": "17994875882825803",
       "fb_media_id": null
     }
   ],
