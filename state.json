@@ -1,43 +1,43 @@
 {
-  "next_index": 276,
-  "next_publish_date": "2026-09-06T00:00:00",
-  "run_count": 44,
-  "total_uploaded": 204,
+  "next_index": 282,
+  "next_publish_date": "2026-09-07T00:00:00",
+  "run_count": 45,
+  "total_uploaded": 210,
   "total_models": 1318,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-05",
-    "day_number": 44,
+    "date": "2026-09-06",
+    "day_number": 45,
     "uploaded": [
       {
-        "title": "AEM Support Manometre Autometer Two Model",
-        "publish_at": "2026-09-05T09:00:00Z",
-        "link": "https://youtu.be/-7ItIDMfQGM"
+        "title": "AEM Wideband Holder",
+        "publish_at": "2026-09-06T09:00:00Z",
+        "link": "https://youtu.be/NXahCJak-to"
       },
       {
-        "title": "AEM Wideband Ring",
-        "publish_at": "2026-09-05T11:00:00Z",
-        "link": "https://youtu.be/ayHI9Ncw9To"
+        "title": "Toyota Supra AEM Mount",
+        "publish_at": "2026-09-06T11:00:00Z",
+        "link": "https://youtu.be/sGbi91rXyjY"
       },
       {
-        "title": "FuelTech550 Porsche 944 Digital Dashboard and Blank Version",
-        "publish_at": "2026-09-05T13:00:00Z",
-        "link": "https://youtu.be/OxAhCfiLDeQ"
+        "title": "AEM Infinity Mount",
+        "publish_at": "2026-09-06T13:00:00Z",
+        "link": "https://youtu.be/QQrJerPDIDA"
       },
       {
-        "title": "AEM Pod Mount",
-        "publish_at": "2026-09-05T15:00:00Z",
-        "link": "https://youtu.be/rpfoN_j16sM"
+        "title": "AEM Gauge Mount two version",
+        "publish_at": "2026-09-06T15:00:00Z",
+        "link": "https://youtu.be/Q9_f8c2WHhE"
       },
       {
-        "title": "AEM Gauge Pod Adapter",
-        "publish_at": "2026-09-05T17:00:00Z",
-        "link": "https://youtu.be/lAmODmeStIY"
+        "title": "AEM Gauges Support Bracket v1",
+        "publish_at": "2026-09-06T17:00:00Z",
+        "link": "https://youtu.be/OPEchau7K2Q"
       },
       {
-        "title": "Abarth Boost Gauge Housing",
-        "publish_at": "2026-09-05T19:00:00Z",
-        "link": "https://youtu.be/y5Mhon9pBjg"
+        "title": "AEM Gauge Pod & GoPro Action Camera Mount",
+        "publish_at": "2026-09-06T19:00:00Z",
+        "link": "https://youtu.be/R46sliwLQcY"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-26",
-      "day_number": 35,
-      "uploaded": [
-        {
-          "title": "Nissan VG30 Distributor Cover (Engine Component / Protective Cap)",
-          "publish_at": "2026-08-27T09:00:00Z",
-          "link": "https://youtu.be/Jz3_EavhnKA"
-        },
-        {
-          "title": "Nissan Leaf Hatch Handle (Rear Trunk Grip / Cover Mechanism)",
-          "publish_at": "2026-08-27T11:00:00Z",
-          "link": "https://youtu.be/GZhTQtNGzXo"
-        },
-        {
-          "title": "Nissan Spotlight Covers (Fog Light / Auxiliary Lamp Protection)",
-          "publish_at": "2026-08-27T13:00:00Z",
-          "link": "https://youtu.be/pAGl0MWWGnE"
-        },
-        {
-          "title": "Nissan Part AC (Air Conditioning Component)",
-          "publish_at": "2026-08-27T15:00:00Z",
-          "link": "https://youtu.be/wZQdhSh19jM"
-        },
-        {
-          "title": "Nissan Maxima Grommet (Rubber Seal / Mounting Component)",
-          "publish_at": "2026-08-27T17:00:00Z",
-          "link": "https://youtu.be/jLkMxg4kj78"
-        },
-        {
-          "title": "Nissan Spiegelhalter (Mirror Holder / Side Mirror Mount Component)",
-          "publish_at": "2026-08-27T19:00:00Z",
-          "link": "https://youtu.be/FJop49CZ9Xo"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-27",
       "day_number": 36,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-06",
+      "day_number": 45,
+      "uploaded": [
+        {
+          "title": "AEM Wideband Holder",
+          "publish_at": "2026-09-06T09:00:00Z",
+          "link": "https://youtu.be/NXahCJak-to"
+        },
+        {
+          "title": "Toyota Supra AEM Mount",
+          "publish_at": "2026-09-06T11:00:00Z",
+          "link": "https://youtu.be/sGbi91rXyjY"
+        },
+        {
+          "title": "AEM Infinity Mount",
+          "publish_at": "2026-09-06T13:00:00Z",
+          "link": "https://youtu.be/QQrJerPDIDA"
+        },
+        {
+          "title": "AEM Gauge Mount two version",
+          "publish_at": "2026-09-06T15:00:00Z",
+          "link": "https://youtu.be/Q9_f8c2WHhE"
+        },
+        {
+          "title": "AEM Gauges Support Bracket v1",
+          "publish_at": "2026-09-06T17:00:00Z",
+          "link": "https://youtu.be/OPEchau7K2Q"
+        },
+        {
+          "title": "AEM Gauge Pod & GoPro Action Camera Mount",
+          "publish_at": "2026-09-06T19:00:00Z",
+          "link": "https://youtu.be/R46sliwLQcY"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -694,6 +694,12 @@
     "https://cults3d.com/:4805517",
     "https://cults3d.com/:4805575",
     "https://cults3d.com/:4805877",
+    "https://cults3d.com/:4830374",
+    "https://cults3d.com/:4830402",
+    "https://cults3d.com/:4830879",
+    "https://cults3d.com/:4831030",
+    "https://cults3d.com/:4835046",
+    "https://cults3d.com/:4846294",
     "https://cults3d.com/:4846351",
     "https://cults3d.com/:4846444",
     "https://cults3d.com/:4846496",
@@ -768,28 +774,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "-7ItIDMfQGM",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-support-manometre-autometer-two-model"
+      "video_id": "NXahCJak-to",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-wideband-holder"
     },
     {
-      "video_id": "ayHI9Ncw9To",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-wideband-ring"
+      "video_id": "sGbi91rXyjY",
+      "text": "https://cults3d.com/en/3d-model/tool/toyota-supra-aem-mount"
     },
     {
-      "video_id": "OxAhCfiLDeQ",
-      "text": "https://cults3d.com/en/3d-model/tool/fueltech550-porsche-944-digital-dashboard-and-blank-version"
+      "video_id": "QQrJerPDIDA",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-infinity-mount"
     },
     {
-      "video_id": "rpfoN_j16sM",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-pod-mount"
+      "video_id": "Q9_f8c2WHhE",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-mount-two-version"
     },
     {
-      "video_id": "lAmODmeStIY",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-adapter"
+      "video_id": "OPEchau7K2Q",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-gauges-support-bracket-v1"
     },
     {
-      "video_id": "y5Mhon9pBjg",
-      "text": "https://cults3d.com/en/3d-model/tool/abarth-boost-gauge-housing"
+      "video_id": "R46sliwLQcY",
+      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-gopro-action-camera-mount"
     }
   ]
 }
