@@ -663,11 +663,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-water-vortex-generator",
     "https://cults3d.com/en/3d-model/tool/2010-2012-subaru-outback-legacy-cabin-air-filter-cover",
     "https://cults3d.com/en/3d-model/tool/2008-chevy-suburban-cabin-air-filter-cover",
-    "https://cults3d.com/en/3d-model/tool/bmw-e36-individual-throttle-body-housing"
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-individual-throttle-body-housing",
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-switch-panel-aft-frame"
   ],
   "today_date": "2026-09-06",
-  "today_count": 2,
-  "total_posted": 631,
+  "today_count": 3,
+  "total_posted": 632,
   "history": [
     {
       "date": "2026-08-08",
@@ -4453,6 +4454,12 @@
       "date": "2026-09-06",
       "title": "BMW E36 Individual Throttle Body Housing",
       "media_id": "18627583822038129",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E36 Switch Panel Aft + Frame",
+      "media_id": "18100662257525903",
       "fb_media_id": null
     }
   ],
