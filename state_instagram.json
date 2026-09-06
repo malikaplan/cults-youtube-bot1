@@ -678,11 +678,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-carpet-fixing-clip",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-ashtray-delete-cup-holder",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-gearbox-frame",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-front-left-air-intake"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-front-left-air-intake",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-window-regulator-clip"
   ],
   "today_date": "2026-09-06",
-  "today_count": 17,
-  "total_posted": 646,
+  "today_count": 18,
+  "total_posted": 647,
   "history": [
     {
       "date": "2026-08-08",
@@ -4558,6 +4559,12 @@
       "date": "2026-09-06",
       "title": "BMW E46 M3 Front Left Air Intake",
       "media_id": "17860309431694429",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E46 Rear Window Regulator Clip",
+      "media_id": "18006791783971438",
       "fb_media_id": null
     }
   ],
