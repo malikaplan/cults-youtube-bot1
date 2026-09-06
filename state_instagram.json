@@ -661,11 +661,12 @@
     "https://cults3d.com/en/3d-model/tool/karcher-handle-mount",
     "https://cults3d.com/en/3d-model/tool/karcher-angel-uplytnenie-seal-part",
     "https://cults3d.com/en/3d-model/tool/karcher-water-vortex-generator",
-    "https://cults3d.com/en/3d-model/tool/2010-2012-subaru-outback-legacy-cabin-air-filter-cover"
+    "https://cults3d.com/en/3d-model/tool/2010-2012-subaru-outback-legacy-cabin-air-filter-cover",
+    "https://cults3d.com/en/3d-model/tool/2008-chevy-suburban-cabin-air-filter-cover"
   ],
-  "today_date": "2026-09-05",
-  "today_count": 24,
-  "total_posted": 629,
+  "today_date": "2026-09-06",
+  "today_count": 1,
+  "total_posted": 630,
   "history": [
     {
       "date": "2026-08-08",
@@ -4439,6 +4440,12 @@
       "date": "2026-09-05",
       "title": "2010–2012 Subaru Outback / Legacy Cabin Air Filter Cover",
       "media_id": "18172969243451223",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "2008 Chevy Suburban Cabin Air Filter Cover",
+      "media_id": "18141702643573135",
       "fb_media_id": null
     }
   ],
