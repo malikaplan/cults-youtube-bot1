@@ -665,11 +665,12 @@
     "https://cults3d.com/en/3d-model/tool/2008-chevy-suburban-cabin-air-filter-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-individual-throttle-body-housing",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-switch-panel-aft-frame",
-    "https://cults3d.com/en/3d-model/tool/bmw-e36-wiper-retainer"
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-wiper-retainer",
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-gauge-cluster-instrument-panel-housing-dashboard-trim"
   ],
   "today_date": "2026-09-06",
-  "today_count": 4,
-  "total_posted": 633,
+  "today_count": 5,
+  "total_posted": 634,
   "history": [
     {
       "date": "2026-08-08",
@@ -4467,6 +4468,12 @@
       "date": "2026-09-06",
       "title": "BMW E36 Wiper Retainer",
       "media_id": "17985301386060084",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E36 Gauge Cluster  Instrument Panel Housing – Dashboard Trim",
+      "media_id": "18005965973777958",
       "fb_media_id": null
     }
   ],
