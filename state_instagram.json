@@ -682,11 +682,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-window-regulator-clip",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-lower-bumper-air-duct",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-front-tweeter-pod",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-2000-2006-front-wing-mirror-bracket"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-2000-2006-front-wing-mirror-bracket",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-naviblende-closed-radio-panel-large-navigation-system"
   ],
   "today_date": "2026-09-06",
-  "today_count": 21,
-  "total_posted": 650,
+  "today_count": 22,
+  "total_posted": 651,
   "history": [
     {
       "date": "2026-08-08",
@@ -4586,6 +4587,12 @@
       "date": "2026-09-06",
       "title": "BMW E46 M3 (2000–2006) Front Wing Mirror Bracket",
       "media_id": "17895137355395374",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E46 / M3 Naviblende (Closed Radio Panel – Large Navigation System)",
+      "media_id": "18144609868561953",
       "fb_media_id": null
     }
   ],
