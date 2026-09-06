@@ -674,11 +674,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-bumper-trim-tow-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-320-328-air-intake-heat-shield",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-centre-console",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-radio-ac-console-panel"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-radio-ac-console-panel",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-carpet-fixing-clip"
   ],
   "today_date": "2026-09-06",
-  "today_count": 13,
-  "total_posted": 642,
+  "today_count": 14,
+  "total_posted": 643,
   "history": [
     {
       "date": "2026-08-08",
@@ -4530,6 +4531,12 @@
       "date": "2026-09-06",
       "title": "BMW E46 Radio + AC Console Panel",
       "media_id": "18124766824851964",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E46 Rear Carpet Fixing Clip",
+      "media_id": "18145916551504886",
       "fb_media_id": null
     }
   ],
