@@ -667,11 +667,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e36-switch-panel-aft-frame",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-wiper-retainer",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-gauge-cluster-instrument-panel-housing-dashboard-trim",
-    "https://cults3d.com/en/3d-model/tool/bmw-e36-fuse-box-cover-protective-cover"
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-fuse-box-cover-protective-cover",
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-shift-surround-panel"
   ],
   "today_date": "2026-09-06",
-  "today_count": 6,
-  "total_posted": 635,
+  "today_count": 7,
+  "total_posted": 636,
   "history": [
     {
       "date": "2026-08-08",
@@ -4481,6 +4482,12 @@
       "date": "2026-09-06",
       "title": "BMW E36 Fuse Box Cover – Protective Cover",
       "media_id": "18420350599147232",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E36 Shift Surround Panel",
+      "media_id": "18124050055849737",
       "fb_media_id": null
     }
   ],
