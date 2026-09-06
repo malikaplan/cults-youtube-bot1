@@ -684,11 +684,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-front-tweeter-pod",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-2000-2006-front-wing-mirror-bracket",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-naviblende-closed-radio-panel-large-navigation-system",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-front-air-duct"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-front-air-duct",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-side-mirror-housing-back-cover"
   ],
   "today_date": "2026-09-06",
-  "today_count": 23,
-  "total_posted": 652,
+  "today_count": 24,
+  "total_posted": 653,
   "history": [
     {
       "date": "2026-08-08",
@@ -4600,6 +4601,12 @@
       "date": "2026-09-06",
       "title": "BMW E46 Intake Front (Air Duct)",
       "media_id": "18128375041750315",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E46 Side Mirror Housing (Back Cover)",
+      "media_id": "17985615642025936",
       "fb_media_id": null
     }
   ],
