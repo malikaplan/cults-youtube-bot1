@@ -668,11 +668,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e36-wiper-retainer",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-gauge-cluster-instrument-panel-housing-dashboard-trim",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-fuse-box-cover-protective-cover",
-    "https://cults3d.com/en/3d-model/tool/bmw-e36-shift-surround-panel"
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-shift-surround-panel",
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-climate-control-housing"
   ],
   "today_date": "2026-09-06",
-  "today_count": 7,
-  "total_posted": 636,
+  "today_count": 8,
+  "total_posted": 637,
   "history": [
     {
       "date": "2026-08-08",
@@ -4488,6 +4489,12 @@
       "date": "2026-09-06",
       "title": "BMW E36 Shift Surround Panel",
       "media_id": "18124050055849737",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E36 Climate Control Housing",
+      "media_id": "18093049973395233",
       "fb_media_id": null
     }
   ],
