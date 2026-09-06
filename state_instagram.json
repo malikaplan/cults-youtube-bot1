@@ -669,11 +669,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e36-gauge-cluster-instrument-panel-housing-dashboard-trim",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-fuse-box-cover-protective-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-shift-surround-panel",
-    "https://cults3d.com/en/3d-model/tool/bmw-e36-climate-control-housing"
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-climate-control-housing",
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-tool-screw-trunk-tool-fixing-screw"
   ],
   "today_date": "2026-09-06",
-  "today_count": 8,
-  "total_posted": 637,
+  "today_count": 9,
+  "total_posted": 638,
   "history": [
     {
       "date": "2026-08-08",
@@ -4495,6 +4496,12 @@
       "date": "2026-09-06",
       "title": "BMW E36 Climate Control Housing",
       "media_id": "18093049973395233",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E36 Tool Screw (Trunk Tool Fixing Screw)",
+      "media_id": "17962077527982009",
       "fb_media_id": null
     }
   ],
