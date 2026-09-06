@@ -670,11 +670,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e36-fuse-box-cover-protective-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-shift-surround-panel",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-climate-control-housing",
-    "https://cults3d.com/en/3d-model/tool/bmw-e36-tool-screw-trunk-tool-fixing-screw"
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-tool-screw-trunk-tool-fixing-screw",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-bumper-trim-tow-cover"
   ],
   "today_date": "2026-09-06",
-  "today_count": 9,
-  "total_posted": 638,
+  "today_count": 10,
+  "total_posted": 639,
   "history": [
     {
       "date": "2026-08-08",
@@ -4502,6 +4503,12 @@
       "date": "2026-09-06",
       "title": "BMW E36 Tool Screw (Trunk Tool Fixing Screw)",
       "media_id": "17962077527982009",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E46 Bumper Trim + Tow Cover",
+      "media_id": "18085803764259104",
       "fb_media_id": null
     }
   ],
