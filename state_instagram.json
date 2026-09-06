@@ -672,11 +672,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e36-climate-control-housing",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-tool-screw-trunk-tool-fixing-screw",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-bumper-trim-tow-cover",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-320-328-air-intake-heat-shield"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-320-328-air-intake-heat-shield",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-centre-console"
   ],
   "today_date": "2026-09-06",
-  "today_count": 11,
-  "total_posted": 640,
+  "today_count": 12,
+  "total_posted": 641,
   "history": [
     {
       "date": "2026-08-08",
@@ -4516,6 +4517,12 @@
       "date": "2026-09-06",
       "title": "BMW E46 320–328 Air Intake Heat Shield",
       "media_id": "18120261340714281",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-06",
+      "title": "BMW E46 Centre Console",
+      "media_id": "18122077891914196",
       "fb_media_id": null
     }
   ],
