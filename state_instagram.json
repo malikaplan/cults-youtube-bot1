@@ -690,11 +690,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-speaker-frame-grill",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-ac-air-vent-gauge-pod-mount",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-52mm-auxiliary-gauge-mount-panel",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-pressure-gauge-oil-filler-cap"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-pressure-gauge-oil-filler-cap",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-parcel-shelf-dash-mounting-bracket"
   ],
   "today_date": "2026-09-07",
-  "today_count": 5,
-  "total_posted": 658,
+  "today_count": 6,
+  "total_posted": 659,
   "history": [
     {
       "date": "2026-08-08",
@@ -4642,6 +4643,12 @@
       "date": "2026-09-07",
       "title": "BMW E46 Pressure Gauge Oil Filler Cap",
       "media_id": "17962872663188373",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-07",
+      "title": "BMW E46 Rear Parcel Shelf Dash Mounting Bracket",
+      "media_id": "18002706480005581",
       "fb_media_id": null
     }
   ],
