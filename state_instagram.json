@@ -687,11 +687,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-front-air-duct",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-side-mirror-housing-back-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-spuldze-bulb-socket-lamp-holder",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-speaker-frame-grill"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-speaker-frame-grill",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-ac-air-vent-gauge-pod-mount"
   ],
   "today_date": "2026-09-07",
-  "today_count": 2,
-  "total_posted": 655,
+  "today_count": 3,
+  "total_posted": 656,
   "history": [
     {
       "date": "2026-08-08",
@@ -4621,6 +4622,12 @@
       "date": "2026-09-07",
       "title": "BMW E46 Rear Speaker Frame/Grill",
       "media_id": "18151619014456725",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-07",
+      "title": "BMW E46 AC Air Vent Gauge Pod Mount",
+      "media_id": "18109606913616181",
       "fb_media_id": null
     }
   ],
