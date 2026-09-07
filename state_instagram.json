@@ -693,11 +693,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-pressure-gauge-oil-filler-cap",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-parcel-shelf-dash-mounting-bracket",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-dashboard-air-vent-direction-slider-knob-tab",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-snorkel"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-snorkel",
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-dashboard-cluster-mount-insert-panel"
   ],
   "today_date": "2026-09-07",
-  "today_count": 8,
-  "total_posted": 661,
+  "today_count": 9,
+  "total_posted": 662,
   "history": [
     {
       "date": "2026-08-08",
@@ -4663,6 +4664,12 @@
       "date": "2026-09-07",
       "title": "BMW E46 Cold Air Intake Snorkel",
       "media_id": "18129306052707601",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-07",
+      "title": "BMW E36 Dashboard Cluster Mount Insert Panel",
+      "media_id": "18209941162359919",
       "fb_media_id": null
     }
   ],
