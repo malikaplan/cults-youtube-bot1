@@ -688,11 +688,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-side-mirror-housing-back-cover",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-spuldze-bulb-socket-lamp-holder",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-speaker-frame-grill",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-ac-air-vent-gauge-pod-mount"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-ac-air-vent-gauge-pod-mount",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-52mm-auxiliary-gauge-mount-panel"
   ],
   "today_date": "2026-09-07",
-  "today_count": 3,
-  "total_posted": 656,
+  "today_count": 4,
+  "total_posted": 657,
   "history": [
     {
       "date": "2026-08-08",
@@ -4628,6 +4629,12 @@
       "date": "2026-09-07",
       "title": "BMW E46 AC Air Vent Gauge Pod Mount",
       "media_id": "18109606913616181",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-07",
+      "title": "BMW E46 52mm Auxiliary Gauge Mount Panel",
+      "media_id": "18046471607807175",
       "fb_media_id": null
     }
   ],
