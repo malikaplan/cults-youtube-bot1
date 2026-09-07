@@ -701,11 +701,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-silvia-s13-aim-link-mxg-digital-dashboard-mount-bezel",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-door-handle-trim-bezel",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-rear-trunk-boot-bump-stop-buffer",
-    "https://cults3d.com/en/3d-model/tool/nissan-skyline-performance-air-filter-mounting-adapter-maf-flange"
+    "https://cults3d.com/en/3d-model/tool/nissan-skyline-performance-air-filter-mounting-adapter-maf-flange",
+    "https://cults3d.com/en/3d-model/tool/nissan-skyline-radio-antenna-mounting-bracket"
   ],
   "today_date": "2026-09-07",
-  "today_count": 16,
-  "total_posted": 669,
+  "today_count": 17,
+  "total_posted": 670,
   "history": [
     {
       "date": "2026-08-08",
@@ -4719,6 +4720,12 @@
       "date": "2026-09-07",
       "title": "Nissan Skyline Performance Air Filter Mounting Adapter (MAF Flange)",
       "media_id": "18094276202433415",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Nissan Skyline Radio Antenna Mounting Bracket",
+      "media_id": "18624223009000090",
       "fb_media_id": null
     }
   ],
