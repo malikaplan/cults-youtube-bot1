@@ -686,11 +686,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-naviblende-closed-radio-panel-large-navigation-system",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-front-air-duct",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-side-mirror-housing-back-cover",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-spuldze-bulb-socket-lamp-holder"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-spuldze-bulb-socket-lamp-holder",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-speaker-frame-grill"
   ],
   "today_date": "2026-09-07",
-  "today_count": 1,
-  "total_posted": 654,
+  "today_count": 2,
+  "total_posted": 655,
   "history": [
     {
       "date": "2026-08-08",
@@ -4614,6 +4615,12 @@
       "date": "2026-09-07",
       "title": "BMW E46 Spuldze (Bulb Socket / Lamp Holder)",
       "media_id": "18203250841370075",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-07",
+      "title": "BMW E46 Rear Speaker Frame/Grill",
+      "media_id": "18151619014456725",
       "fb_media_id": null
     }
   ],
