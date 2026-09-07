@@ -705,11 +705,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-radio-antenna-mounting-bracket",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-ashtray-delete-and-mounting-adapter",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-door-speaker-mounting-adapter-ring-left-and-right-set",
-    "https://cults3d.com/en/3d-model/tool/nissan-skyline-custom-cup-holder"
+    "https://cults3d.com/en/3d-model/tool/nissan-skyline-custom-cup-holder",
+    "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-power-window-switch-box"
   ],
   "today_date": "2026-09-07",
-  "today_count": 20,
-  "total_posted": 673,
+  "today_count": 21,
+  "total_posted": 674,
   "history": [
     {
       "date": "2026-08-08",
@@ -4747,6 +4748,12 @@
       "date": "2026-09-07",
       "title": "Nissan Skyline Custom Cup Holder",
       "media_id": "17980099497095715",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-07",
+      "title": "Nissan Skyline R32 Power Window Switch Box",
+      "media_id": "17909417364466198",
       "fb_media_id": null
     }
   ],
