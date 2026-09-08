@@ -717,11 +717,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-stub-antenna",
     "https://cults3d.com/en/3d-model/tool/s2000-side-storage",
     "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters-v2",
-    "https://cults3d.com/en/3d-model/tool/s2000-shift-knob-makdesign"
+    "https://cults3d.com/en/3d-model/tool/s2000-shift-knob-makdesign",
+    "https://cults3d.com/en/3d-model/tool/cover-for-s2000-headlight-bulb-wiring-opening"
   ],
   "today_date": "2026-09-08",
-  "today_count": 9,
-  "total_posted": 685,
+  "today_count": 10,
+  "total_posted": 686,
   "history": [
     {
       "date": "2026-08-08",
@@ -4831,6 +4832,12 @@
       "date": "2026-09-08",
       "title": "S2000 Shift Knob",
       "media_id": "18070188866768442",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Cover for S2000 Headlight Bulb Wiring Opening",
+      "media_id": "18111885457839547",
       "fb_media_id": null
     }
   ],
