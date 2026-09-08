@@ -712,11 +712,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-interior-front-dome-light-housing",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-door-handle-replacement",
     "https://cults3d.com/en/3d-model/tool/s2000-hardtop-bracket",
-    "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-for-6-5-speakers"
+    "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-for-6-5-speakers",
+    "https://cults3d.com/en/3d-model/tool/s2000-front-bumper-duct"
   ],
   "today_date": "2026-09-08",
-  "today_count": 4,
-  "total_posted": 680,
+  "today_count": 5,
+  "total_posted": 681,
   "history": [
     {
       "date": "2026-08-08",
@@ -4796,6 +4797,12 @@
       "date": "2026-09-08",
       "title": "S2000 Speaker ring for 6.5\" speakers",
       "media_id": "18403797499092358",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-08",
+      "title": "S2000 Front Bumper Duct",
+      "media_id": "18137616076590409",
       "fb_media_id": null
     }
   ],
