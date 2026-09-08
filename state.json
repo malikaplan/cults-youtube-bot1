@@ -1,43 +1,43 @@
 {
-  "next_index": 282,
-  "next_publish_date": "2026-09-07T00:00:00",
-  "run_count": 45,
-  "total_uploaded": 210,
-  "total_models": 1318,
+  "next_index": 288,
+  "next_publish_date": "2026-09-08T00:00:00",
+  "run_count": 46,
+  "total_uploaded": 216,
+  "total_models": 1367,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-06",
-    "day_number": 45,
+    "date": "2026-09-08",
+    "day_number": 46,
     "uploaded": [
       {
-        "title": "AEM Wideband Holder",
-        "publish_at": "2026-09-06T09:00:00Z",
-        "link": "https://youtu.be/NXahCJak-to"
+        "title": "BMW E46 AC Air Vent Gauge Pod Mount",
+        "publish_at": "2026-09-07T09:00:00Z",
+        "link": "https://youtu.be/cSL6vxL-K4U"
       },
       {
-        "title": "Toyota Supra AEM Mount",
-        "publish_at": "2026-09-06T11:00:00Z",
-        "link": "https://youtu.be/sGbi91rXyjY"
+        "title": "BMW E46 52mm Auxiliary Gauge Mount Panel",
+        "publish_at": "2026-09-07T11:00:00Z",
+        "link": "https://youtu.be/5JpcA2qU5ss"
       },
       {
-        "title": "AEM Infinity Mount",
-        "publish_at": "2026-09-06T13:00:00Z",
-        "link": "https://youtu.be/QQrJerPDIDA"
+        "title": "BMW E46 Pressure Gauge Oil Filler Cap",
+        "publish_at": "2026-09-07T13:00:00Z",
+        "link": "https://youtu.be/aGD6BAswEiU"
       },
       {
-        "title": "AEM Gauge Mount two version",
-        "publish_at": "2026-09-06T15:00:00Z",
-        "link": "https://youtu.be/Q9_f8c2WHhE"
+        "title": "BMW E46 Rear Parcel Shelf Dash Mounting Bracket",
+        "publish_at": "2026-09-07T15:00:00Z",
+        "link": "https://youtu.be/G1AiEuQdqHQ"
       },
       {
-        "title": "AEM Gauges Support Bracket v1",
-        "publish_at": "2026-09-06T17:00:00Z",
-        "link": "https://youtu.be/OPEchau7K2Q"
+        "title": "BMW E46 Dashboard Air Vent Direction Slider Knob Tab",
+        "publish_at": "2026-09-07T17:00:00Z",
+        "link": "https://youtu.be/EtpEzAwizUE"
       },
       {
-        "title": "AEM Gauge Pod & GoPro Action Camera Mount",
-        "publish_at": "2026-09-06T19:00:00Z",
-        "link": "https://youtu.be/R46sliwLQcY"
+        "title": "BMW E46 Cold Air Intake Snorkel",
+        "publish_at": "2026-09-07T19:00:00Z",
+        "link": "https://youtu.be/ZhRbwabMbH0"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-27",
-      "day_number": 36,
-      "uploaded": [
-        {
-          "title": "Nissan Latch (Locking Mechanism Component)",
-          "publish_at": "2026-08-28T09:00:00Z",
-          "link": "https://youtu.be/zD1etMla4w0"
-        },
-        {
-          "title": "Nissan Cluster (Instrument Panel / Dashboard Component)",
-          "publish_at": "2026-08-28T11:00:00Z",
-          "link": "https://youtu.be/2GZf0HcexSk"
-        },
-        {
-          "title": "Nissan Leaf Engine Splash Shield Cover Lower (2013‑2024)",
-          "publish_at": "2026-08-28T13:00:00Z",
-          "link": "https://youtu.be/tPSJHmDT56c"
-        },
-        {
-          "title": "Nissan Truck Vent (Ventilation / Trim Component)",
-          "publish_at": "2026-08-28T15:00:00Z",
-          "link": "https://youtu.be/CcKaHcx75YQ"
-        },
-        {
-          "title": "Nissan Bonnet Clip (Front Trim / Hood Fastener Component) 2 version",
-          "publish_at": "2026-08-28T17:00:00Z",
-          "link": "https://youtu.be/MN7B0dmhkf8"
-        },
-        {
-          "title": "Nissan Button Cover (Control Panel / Interior Console Component)",
-          "publish_at": "2026-08-28T19:00:00Z",
-          "link": "https://youtu.be/A-VkCQYcf08"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-28",
       "day_number": 37,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-08",
+      "day_number": 46,
+      "uploaded": [
+        {
+          "title": "BMW E46 AC Air Vent Gauge Pod Mount",
+          "publish_at": "2026-09-07T09:00:00Z",
+          "link": "https://youtu.be/cSL6vxL-K4U"
+        },
+        {
+          "title": "BMW E46 52mm Auxiliary Gauge Mount Panel",
+          "publish_at": "2026-09-07T11:00:00Z",
+          "link": "https://youtu.be/5JpcA2qU5ss"
+        },
+        {
+          "title": "BMW E46 Pressure Gauge Oil Filler Cap",
+          "publish_at": "2026-09-07T13:00:00Z",
+          "link": "https://youtu.be/aGD6BAswEiU"
+        },
+        {
+          "title": "BMW E46 Rear Parcel Shelf Dash Mounting Bracket",
+          "publish_at": "2026-09-07T15:00:00Z",
+          "link": "https://youtu.be/G1AiEuQdqHQ"
+        },
+        {
+          "title": "BMW E46 Dashboard Air Vent Direction Slider Knob Tab",
+          "publish_at": "2026-09-07T17:00:00Z",
+          "link": "https://youtu.be/EtpEzAwizUE"
+        },
+        {
+          "title": "BMW E46 Cold Air Intake Snorkel",
+          "publish_at": "2026-09-07T19:00:00Z",
+          "link": "https://youtu.be/ZhRbwabMbH0"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -729,7 +729,13 @@
     "https://cults3d.com/:4850601",
     "https://cults3d.com/:4850630",
     "https://cults3d.com/:4850674",
-    "https://cults3d.com/:4850721"
+    "https://cults3d.com/:4850721",
+    "https://cults3d.com/:4877144",
+    "https://cults3d.com/:4877221",
+    "https://cults3d.com/:4877231",
+    "https://cults3d.com/:4881518",
+    "https://cults3d.com/:4881534",
+    "https://cults3d.com/:4881545"
   ],
   "migrated_to_url_tracking": true,
   "pending_comments": [
@@ -774,28 +780,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "NXahCJak-to",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-wideband-holder"
+      "video_id": "cSL6vxL-K4U",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-ac-air-vent-gauge-pod-mount"
     },
     {
-      "video_id": "sGbi91rXyjY",
-      "text": "https://cults3d.com/en/3d-model/tool/toyota-supra-aem-mount"
+      "video_id": "5JpcA2qU5ss",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-52mm-auxiliary-gauge-mount-panel"
     },
     {
-      "video_id": "QQrJerPDIDA",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-infinity-mount"
+      "video_id": "aGD6BAswEiU",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-pressure-gauge-oil-filler-cap"
     },
     {
-      "video_id": "Q9_f8c2WHhE",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-mount-two-version"
+      "video_id": "G1AiEuQdqHQ",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-rear-parcel-shelf-dash-mounting-bracket"
     },
     {
-      "video_id": "OPEchau7K2Q",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-gauges-support-bracket-v1"
+      "video_id": "EtpEzAwizUE",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-dashboard-air-vent-direction-slider-knob-tab"
     },
     {
-      "video_id": "R46sliwLQcY",
-      "text": "https://cults3d.com/en/3d-model/tool/aem-gauge-pod-gopro-action-camera-mount"
+      "video_id": "ZhRbwabMbH0",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-snorkel"
     }
   ]
 }
