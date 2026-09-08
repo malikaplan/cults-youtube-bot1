@@ -728,11 +728,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-radio-pocket-long-version",
     "https://cults3d.com/en/3d-model/tool/s2000-trunk-supports-aero-wing-braces",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-52mm-left-60mm-right-visor-edition",
-    "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-52mm-left-60mm-right-aem-edition"
+    "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-52mm-left-60mm-right-aem-edition",
+    "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-60mm-right-visor-edition"
   ],
   "today_date": "2026-09-08",
-  "today_count": 20,
-  "total_posted": 696,
+  "today_count": 21,
+  "total_posted": 697,
   "history": [
     {
       "date": "2026-08-08",
@@ -4908,6 +4909,12 @@
       "date": "2026-09-08",
       "title": "Nissan Skyline R33 Vent Pod 52mm Left / 60mm Right (AEM Edition)",
       "media_id": "18030796010671429",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-08",
+      "title": "Nissan Skyline R33 Vent Pod 60mm Right (Visor Edition)",
+      "media_id": "18101610383526230",
       "fb_media_id": null
     }
   ],
