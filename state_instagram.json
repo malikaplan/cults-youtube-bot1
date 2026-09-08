@@ -715,11 +715,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-for-6-5-speakers",
     "https://cults3d.com/en/3d-model/tool/s2000-front-bumper-duct",
     "https://cults3d.com/en/3d-model/tool/s2000-stub-antenna",
-    "https://cults3d.com/en/3d-model/tool/s2000-side-storage"
+    "https://cults3d.com/en/3d-model/tool/s2000-side-storage",
+    "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters-v2"
   ],
   "today_date": "2026-09-08",
-  "today_count": 7,
-  "total_posted": 683,
+  "today_count": 8,
+  "total_posted": 684,
   "history": [
     {
       "date": "2026-08-08",
@@ -4817,6 +4818,12 @@
       "date": "2026-09-08",
       "title": "S2000 Side Storage",
       "media_id": "18108317348170941",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-08",
+      "title": "S2000 Rear Sides Skirt Splitters V2",
+      "media_id": "18422885842194236",
       "fb_media_id": null
     }
   ],
