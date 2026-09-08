@@ -725,11 +725,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-gauge-bezel-for-aim-mxs-dash",
     "https://cults3d.com/en/3d-model/tool/s2000-gas-door-grab",
     "https://cults3d.com/en/3d-model/tool/s2000-oil-cap-wrench",
-    "https://cults3d.com/en/3d-model/tool/s2000-radio-pocket-long-version"
+    "https://cults3d.com/en/3d-model/tool/s2000-radio-pocket-long-version",
+    "https://cults3d.com/en/3d-model/tool/s2000-trunk-supports-aero-wing-braces"
   ],
   "today_date": "2026-09-08",
-  "today_count": 17,
-  "total_posted": 693,
+  "today_count": 18,
+  "total_posted": 694,
   "history": [
     {
       "date": "2026-08-08",
@@ -4887,6 +4888,12 @@
       "date": "2026-09-08",
       "title": "S2000 Radio Pocket (Long Version)",
       "media_id": "17879093112533771",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-08",
+      "title": "S2000 Trunk Supports (Aero / Wing Braces)",
+      "media_id": "18122124778877191",
       "fb_media_id": null
     }
   ],
