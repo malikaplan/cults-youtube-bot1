@@ -714,11 +714,12 @@
     "https://cults3d.com/en/3d-model/tool/s2000-hardtop-bracket",
     "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-for-6-5-speakers",
     "https://cults3d.com/en/3d-model/tool/s2000-front-bumper-duct",
-    "https://cults3d.com/en/3d-model/tool/s2000-stub-antenna"
+    "https://cults3d.com/en/3d-model/tool/s2000-stub-antenna",
+    "https://cults3d.com/en/3d-model/tool/s2000-side-storage"
   ],
   "today_date": "2026-09-08",
-  "today_count": 6,
-  "total_posted": 682,
+  "today_count": 7,
+  "total_posted": 683,
   "history": [
     {
       "date": "2026-08-08",
@@ -4810,6 +4811,12 @@
       "date": "2026-09-08",
       "title": "S2000 Stub Antenna",
       "media_id": "18410941153087303",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-08",
+      "title": "S2000 Side Storage",
+      "media_id": "18108317348170941",
       "fb_media_id": null
     }
   ],
