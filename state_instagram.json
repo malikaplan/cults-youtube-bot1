@@ -744,11 +744,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-antenna-plug-v-2",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-compact-fender-vent",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-interior-clip"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-interior-clip",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-glove-box-button"
   ],
   "today_date": "2026-09-09",
-  "today_count": 12,
-  "total_posted": 712,
+  "today_count": 13,
+  "total_posted": 713,
   "history": [
     {
       "date": "2026-08-08",
@@ -5020,6 +5021,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 Interior Clip",
       "media_id": "18091583642156499",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 Glove Box Button",
+      "media_id": "17984332656064884",
       "fb_media_id": null
     }
   ],
