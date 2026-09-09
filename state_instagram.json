@@ -745,11 +745,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-compact-fender-vent",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-interior-clip",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-glove-box-button"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-glove-box-button",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-magsafe-holder-phone-mount-adapter"
   ],
   "today_date": "2026-09-09",
-  "today_count": 13,
-  "total_posted": 713,
+  "today_count": 14,
+  "total_posted": 714,
   "history": [
     {
       "date": "2026-08-08",
@@ -5027,6 +5028,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 Glove Box Button",
       "media_id": "17984332656064884",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 MagSafe Holder (Phone Mount / Adapter)",
+      "media_id": "18118810294898074",
       "fb_media_id": null
     }
   ],
