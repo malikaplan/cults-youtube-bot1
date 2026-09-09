@@ -747,11 +747,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-interior-clip",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-glove-box-button",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-magsafe-holder-phone-mount-adapter",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-centre-console-armrest-v-2"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-centre-console-armrest-v-2",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-center-vent"
   ],
   "today_date": "2026-09-09",
-  "today_count": 15,
-  "total_posted": 715,
+  "today_count": 16,
+  "total_posted": 716,
   "history": [
     {
       "date": "2026-08-08",
@@ -5041,6 +5042,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 Centre Console Armrest V.2",
       "media_id": "18405920572088595",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 Center Vent",
+      "media_id": "18088244861676145",
       "fb_media_id": null
     }
   ],
