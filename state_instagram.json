@@ -740,11 +740,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-bracket-lhd",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-window-switch-cap",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-hall-sensor-board-enclosure-box",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-climate-adapter-frame-double-din-panel-1998-2007-coupe-compact-seda"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-climate-adapter-frame-double-din-panel-1998-2007-coupe-compact-seda",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-antenna-plug-v-2"
   ],
   "today_date": "2026-09-09",
-  "today_count": 8,
-  "total_posted": 708,
+  "today_count": 9,
+  "total_posted": 709,
   "history": [
     {
       "date": "2026-08-08",
@@ -4992,6 +4993,12 @@
       "date": "2026-09-09",
       "title": "BMW E46 Climate Adapter Frame & Double DIN Panel (1998–2007 Coupe, Compact, Sedan)",
       "media_id": "17985622062099372",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 Antenna Plug v.2",
+      "media_id": "17906637744480600",
       "fb_media_id": null
     }
   ],
