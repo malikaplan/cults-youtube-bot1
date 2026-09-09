@@ -741,11 +741,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-window-switch-cap",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-hall-sensor-board-enclosure-box",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-climate-adapter-frame-double-din-panel-1998-2007-coupe-compact-seda",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-antenna-plug-v-2"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-antenna-plug-v-2",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel"
   ],
   "today_date": "2026-09-09",
-  "today_count": 9,
-  "total_posted": 709,
+  "today_count": 10,
+  "total_posted": 710,
   "history": [
     {
       "date": "2026-08-08",
@@ -4999,6 +5000,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 Antenna Plug v.2",
       "media_id": "17906637744480600",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 ADU7 Central Panel",
+      "media_id": "18100757243019770",
       "fb_media_id": null
     }
   ],
