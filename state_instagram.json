@@ -751,11 +751,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-center-vent",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-s-pin-mounting-pin-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-differential-cover",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-heated-seat-switches-frame"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-heated-seat-switches-frame",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-sunroof-motor-cover-replacement-panel"
   ],
   "today_date": "2026-09-09",
-  "today_count": 19,
-  "total_posted": 719,
+  "today_count": 20,
+  "total_posted": 720,
   "history": [
     {
       "date": "2026-08-08",
@@ -5069,6 +5070,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 Heated Seat Switches Frame",
       "media_id": "18135497518620292",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 Sunroof Motor Cover Replacement Panel",
+      "media_id": "17962824951191337",
       "fb_media_id": null
     }
   ],
