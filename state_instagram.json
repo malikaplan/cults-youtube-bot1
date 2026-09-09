@@ -742,11 +742,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-hall-sensor-board-enclosure-box",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-climate-adapter-frame-double-din-panel-1998-2007-coupe-compact-seda",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-antenna-plug-v-2",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-compact-fender-vent"
   ],
   "today_date": "2026-09-09",
-  "today_count": 10,
-  "total_posted": 710,
+  "today_count": 11,
+  "total_posted": 711,
   "history": [
     {
       "date": "2026-08-08",
@@ -5006,6 +5007,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 ADU7 Central Panel",
       "media_id": "18100757243019770",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 Compact Fender Vent",
+      "media_id": "18104356970216285",
       "fb_media_id": null
     }
   ],
