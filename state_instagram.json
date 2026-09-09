@@ -755,11 +755,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-sunroof-motor-cover-replacement-panel",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-halterung-rund-round-mount-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-tweeter-pod",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-door-trim-mount"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-door-trim-mount",
+    "https://cults3d.com/en/3d-model/gadget/hella-motorcycle-headlight-mount-bracket"
   ],
   "today_date": "2026-09-09",
-  "today_count": 23,
-  "total_posted": 723,
+  "today_count": 24,
+  "total_posted": 724,
   "history": [
     {
       "date": "2026-08-08",
@@ -5097,6 +5098,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 Door Trim Mount",
       "media_id": "18131147473736647",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Hella Motorcycle Headlight Mount Bracket",
+      "media_id": "17879099526536334",
       "fb_media_id": null
     }
   ],
