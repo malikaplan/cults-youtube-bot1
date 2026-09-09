@@ -738,11 +738,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-52mm-both",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-60mm-both-dual",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-bracket-lhd",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-window-switch-cap"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-window-switch-cap",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-hall-sensor-board-enclosure-box"
   ],
   "today_date": "2026-09-09",
-  "today_count": 6,
-  "total_posted": 706,
+  "today_count": 7,
+  "total_posted": 707,
   "history": [
     {
       "date": "2026-08-08",
@@ -4978,6 +4979,12 @@
       "date": "2026-09-09",
       "title": "BMW E46 Window Switch Cap",
       "media_id": "18342787507265642",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E46 Hall Sensor Board Enclosure (Box)",
+      "media_id": "17952078594029705",
       "fb_media_id": null
     }
   ],
