@@ -735,11 +735,12 @@
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-left-52mm-right-60mm",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-52mm-right",
     "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-60mm-right",
-    "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-52mm-both"
+    "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-52mm-both",
+    "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-vent-pod-60mm-both-dual"
   ],
   "today_date": "2026-09-09",
-  "today_count": 3,
-  "total_posted": 703,
+  "today_count": 4,
+  "total_posted": 704,
   "history": [
     {
       "date": "2026-08-08",
@@ -4957,6 +4958,12 @@
       "date": "2026-09-09",
       "title": "Nissan Skyline R33 Vent Pod 52mm Both",
       "media_id": "17954479737080644",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "Nissan Skyline R33 Vent Pod 60mm (Both / Dual)",
+      "media_id": "18129341194756575",
       "fb_media_id": null
     }
   ],
