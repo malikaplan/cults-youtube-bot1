@@ -750,11 +750,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-centre-console-armrest-v-2",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-center-vent",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-s-pin-mounting-pin-part",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-differential-cover"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-differential-cover",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-heated-seat-switches-frame"
   ],
   "today_date": "2026-09-09",
-  "today_count": 18,
-  "total_posted": 718,
+  "today_count": 19,
+  "total_posted": 719,
   "history": [
     {
       "date": "2026-08-08",
@@ -5062,6 +5063,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 Differential Cover",
       "media_id": "18048339572805826",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 Heated Seat Switches Frame",
+      "media_id": "18135497518620292",
       "fb_media_id": null
     }
   ],
