@@ -749,11 +749,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-magsafe-holder-phone-mount-adapter",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-centre-console-armrest-v-2",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-center-vent",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-s-pin-mounting-pin-part"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-s-pin-mounting-pin-part",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-differential-cover"
   ],
   "today_date": "2026-09-09",
-  "today_count": 17,
-  "total_posted": 717,
+  "today_count": 18,
+  "total_posted": 718,
   "history": [
     {
       "date": "2026-08-08",
@@ -5055,6 +5056,12 @@
       "date": "2026-09-09",
       "title": "BMW E36 S‑Pin (Mounting Pin Part)",
       "media_id": "17958242462997726",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-09",
+      "title": "BMW E36 Differential Cover",
+      "media_id": "18048339572805826",
       "fb_media_id": null
     }
   ],
