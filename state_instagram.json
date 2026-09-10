@@ -767,11 +767,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-fanatec-indicator-stalk-adapter",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-air-duct-pipe-system-components",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-right-left-air-duct",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-fuse-box-cage"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-fuse-box-cage",
+    "https://cults3d.com/en/3d-model/jewelry/bmw-e36-key-holder-makdesign"
   ],
   "today_date": "2026-09-10",
-  "today_count": 11,
-  "total_posted": 735,
+  "today_count": 12,
+  "total_posted": 736,
   "history": [
     {
       "date": "2026-08-08",
@@ -5181,6 +5182,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Fuse Box Cage",
       "media_id": "18110441299841342",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 Key Holder",
+      "media_id": "18132250138560340",
       "fb_media_id": null
     }
   ],
