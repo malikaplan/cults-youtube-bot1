@@ -777,11 +777,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-rear-window-corner",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-a-pillar-clip-2-0-interior-panel-15mm",
     "https://cults3d.com/en/3d-model/gadget/bmw-z3-e36-d-cup-holder-adapter",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-rear-cup-holder-makdesign"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-rear-cup-holder-makdesign",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e34-e86-hydraulic-belt-tensioner-dust-cover"
   ],
   "today_date": "2026-09-10",
-  "today_count": 21,
-  "total_posted": 745,
+  "today_count": 22,
+  "total_posted": 746,
   "history": [
     {
       "date": "2026-08-08",
@@ -5251,6 +5252,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Rear Cup Holder",
       "media_id": "18101870840629821",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E34–E86 Hydraulic Belt Tensioner Dust Cover",
+      "media_id": "17888343615453630",
       "fb_media_id": null
     }
   ],
