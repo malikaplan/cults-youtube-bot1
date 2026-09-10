@@ -779,11 +779,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-z3-e36-d-cup-holder-adapter",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-rear-cup-holder-makdesign",
     "https://cults3d.com/en/3d-model/gadget/bmw-e34-e86-hydraulic-belt-tensioner-dust-cover",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-embase-mounting-plate"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-embase-mounting-plate",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-ganador-mirror-mount-plates"
   ],
   "today_date": "2026-09-10",
-  "today_count": 23,
-  "total_posted": 747,
+  "today_count": 24,
+  "total_posted": 748,
   "history": [
     {
       "date": "2026-08-08",
@@ -5265,6 +5266,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Embase (Mounting Plate)",
       "media_id": "17970529419138271",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 Ganador Mirror Mount PlatesV1-V2-V3 (Sedan, Touring, and Compact body)",
+      "media_id": "18022900226863881",
       "fb_media_id": null
     }
   ],
