@@ -1,43 +1,43 @@
 {
-  "next_index": 294,
-  "next_publish_date": "2026-09-09T00:00:00",
-  "run_count": 47,
-  "total_uploaded": 222,
+  "next_index": 300,
+  "next_publish_date": "2026-09-10T00:00:00",
+  "run_count": 48,
+  "total_uploaded": 228,
   "total_models": 1367,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-09",
-    "day_number": 47,
+    "date": "2026-09-10",
+    "day_number": 48,
     "uploaded": [
       {
-        "title": "BMW E36 Dashboard Cluster Mount Insert Panel",
-        "publish_at": "2026-09-08T09:00:00Z",
-        "link": "https://youtu.be/M_Pvm-jN3bM"
+        "title": "Nissan Skyline R33 Rear Trunk Boot Bump Stop Buffer",
+        "publish_at": "2026-09-09T09:00:00Z",
+        "link": "https://youtu.be/k4Fi09WiBBI"
       },
       {
-        "title": "Toyota Supra MK3 (1986–1993) Pop-Up Headlight Cover Lid",
-        "publish_at": "2026-09-08T11:00:00Z",
-        "link": "https://youtu.be/j0cwF4ScjpM"
+        "title": "Nissan Skyline Performance Air Filter Mounting Adapter (MAF Flange)",
+        "publish_at": "2026-09-09T11:00:00Z",
+        "link": "https://youtu.be/Q4_nqVs4sRU"
       },
       {
-        "title": "Toyota Supra Interior Trim Screw Cover Cap and Blanking Plug",
-        "publish_at": "2026-09-08T13:00:00Z",
-        "link": "https://youtu.be/jaxEDrowZWg"
+        "title": "Nissan Skyline Radio Antenna Mounting Bracket",
+        "publish_at": "2026-09-09T13:00:00Z",
+        "link": "https://youtu.be/NUS5PFDsqZA"
       },
       {
-        "title": "Toyota Supra Cooling Fan Shroud and Air Duct",
-        "publish_at": "2026-09-08T15:00:00Z",
-        "link": "https://youtu.be/LOLXBRw7fJs"
+        "title": "Nissan Skyline R33 Ashtray Delete and Mounting Adapter",
+        "publish_at": "2026-09-09T15:00:00Z",
+        "link": "https://youtu.be/cla8DQ33oUk"
       },
       {
-        "title": "Nissan Silvia S13 AiM & Link MXG Digital Dashboard Mount Bezel",
-        "publish_at": "2026-09-08T17:00:00Z",
-        "link": "https://youtu.be/7pNEogg9aPo"
+        "title": "Nissan Skyline Door Speaker Mounting Adapter Ring (Left and Right Set)",
+        "publish_at": "2026-09-09T17:00:00Z",
+        "link": "https://youtu.be/KcGw4025jBk"
       },
       {
-        "title": "Nissan Skyline R33 Door Handle Trim Bezel",
-        "publish_at": "2026-09-08T19:00:00Z",
-        "link": "https://youtu.be/WOo2QmA3t_I"
+        "title": "Nissan Skyline Custom Cup Holder",
+        "publish_at": "2026-09-09T19:00:00Z",
+        "link": "https://youtu.be/r__cqRtxvCk"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-29",
-      "day_number": 38,
-      "uploaded": [
-        {
-          "title": "Nissan Patrol Funnel (Oil / Fuel Filling Adapter Component)",
-          "publish_at": "2026-08-30T09:00:00Z",
-          "link": "https://youtu.be/QehMnwlr-OA"
-        },
-        {
-          "title": "Predator 212 Oil Cap (Engine Oil Cover Component)",
-          "publish_at": "2026-08-30T11:00:00Z",
-          "link": "https://youtu.be/6FPvW1i4aVc"
-        },
-        {
-          "title": "Nissan 230V Plug (Vehicle Power Outlet / Electrical Adapter Component)",
-          "publish_at": "2026-08-30T13:00:00Z",
-          "link": "https://youtu.be/cynYaJbodRk"
-        },
-        {
-          "title": "Nissan Navara Tappo",
-          "publish_at": "2026-08-30T15:00:00Z",
-          "link": "https://youtu.be/1M0Ido9uiUA"
-        },
-        {
-          "title": "Nissan Clips Set (Trim / Mounting Fastener Kit)",
-          "publish_at": "2026-08-30T17:00:00Z",
-          "link": "https://youtu.be/nKGKnTfMvk4"
-        },
-        {
-          "title": "Nissan Micro Switch buton cover",
-          "publish_at": "2026-08-30T19:00:00Z",
-          "link": "https://youtu.be/SrNgMN0Uyiw"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-30",
       "day_number": 39,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-10",
+      "day_number": 48,
+      "uploaded": [
+        {
+          "title": "Nissan Skyline R33 Rear Trunk Boot Bump Stop Buffer",
+          "publish_at": "2026-09-09T09:00:00Z",
+          "link": "https://youtu.be/k4Fi09WiBBI"
+        },
+        {
+          "title": "Nissan Skyline Performance Air Filter Mounting Adapter (MAF Flange)",
+          "publish_at": "2026-09-09T11:00:00Z",
+          "link": "https://youtu.be/Q4_nqVs4sRU"
+        },
+        {
+          "title": "Nissan Skyline Radio Antenna Mounting Bracket",
+          "publish_at": "2026-09-09T13:00:00Z",
+          "link": "https://youtu.be/NUS5PFDsqZA"
+        },
+        {
+          "title": "Nissan Skyline R33 Ashtray Delete and Mounting Adapter",
+          "publish_at": "2026-09-09T15:00:00Z",
+          "link": "https://youtu.be/cla8DQ33oUk"
+        },
+        {
+          "title": "Nissan Skyline Door Speaker Mounting Adapter Ring (Left and Right Set)",
+          "publish_at": "2026-09-09T17:00:00Z",
+          "link": "https://youtu.be/KcGw4025jBk"
+        },
+        {
+          "title": "Nissan Skyline Custom Cup Holder",
+          "publish_at": "2026-09-09T19:00:00Z",
+          "link": "https://youtu.be/r__cqRtxvCk"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -730,6 +730,12 @@
     "https://cults3d.com/:4850630",
     "https://cults3d.com/:4850674",
     "https://cults3d.com/:4850721",
+    "https://cults3d.com/:4860438",
+    "https://cults3d.com/:4864264",
+    "https://cults3d.com/:4864289",
+    "https://cults3d.com/:4864695",
+    "https://cults3d.com/:4865133",
+    "https://cults3d.com/:4865194",
     "https://cults3d.com/:4868934",
     "https://cults3d.com/:4869072",
     "https://cults3d.com/:4869285",
@@ -786,28 +792,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "M_Pvm-jN3bM",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e36-dashboard-cluster-mount-insert-panel"
+      "video_id": "k4Fi09WiBBI",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-rear-trunk-boot-bump-stop-buffer"
     },
     {
-      "video_id": "j0cwF4ScjpM",
-      "text": "https://cults3d.com/en/3d-model/tool/toyota-supra-mk3-1986-1993-pop-up-headlight-cover-lid"
+      "video_id": "Q4_nqVs4sRU",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-performance-air-filter-mounting-adapter-maf-flange"
     },
     {
-      "video_id": "jaxEDrowZWg",
-      "text": "https://cults3d.com/en/3d-model/tool/toyota-supra-interior-trim-screw-cover-cap-and-blanking-plug"
+      "video_id": "NUS5PFDsqZA",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-radio-antenna-mounting-bracket"
     },
     {
-      "video_id": "LOLXBRw7fJs",
-      "text": "https://cults3d.com/en/3d-model/tool/toyota-supra-cooling-fan-shroud-and-air-duct"
+      "video_id": "cla8DQ33oUk",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-ashtray-delete-and-mounting-adapter"
     },
     {
-      "video_id": "7pNEogg9aPo",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-silvia-s13-aim-link-mxg-digital-dashboard-mount-bezel"
+      "video_id": "KcGw4025jBk",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-door-speaker-mounting-adapter-ring-left-and-right-set"
     },
     {
-      "video_id": "WOo2QmA3t_I",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-door-handle-trim-bezel"
+      "video_id": "r__cqRtxvCk",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-custom-cup-holder"
     }
   ]
 }
