@@ -764,11 +764,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-a-pillar-trim-right-left-with-without-tweeter",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-door-sills-right-left",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-c-pillar-covers-right-left",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-fanatec-indicator-stalk-adapter"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-fanatec-indicator-stalk-adapter",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-air-duct-pipe-system-components"
   ],
   "today_date": "2026-09-10",
-  "today_count": 8,
-  "total_posted": 732,
+  "today_count": 9,
+  "total_posted": 733,
   "history": [
     {
       "date": "2026-08-08",
@@ -5160,6 +5161,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Fanatec Indicator Stalk Adapter",
       "media_id": "18093631184541875",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 Air Duct Pipe System Components",
+      "media_id": "18123376447869740",
       "fb_media_id": null
     }
   ],
