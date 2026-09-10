@@ -765,11 +765,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-door-sills-right-left",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-c-pillar-covers-right-left",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-fanatec-indicator-stalk-adapter",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-air-duct-pipe-system-components"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-air-duct-pipe-system-components",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-right-left-air-duct"
   ],
   "today_date": "2026-09-10",
-  "today_count": 9,
-  "total_posted": 733,
+  "today_count": 10,
+  "total_posted": 734,
   "history": [
     {
       "date": "2026-08-08",
@@ -5167,6 +5168,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Air Duct Pipe System Components",
       "media_id": "18123376447869740",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 Right + Left Air Duct",
+      "media_id": "17973629658138371",
       "fb_media_id": null
     }
   ],
