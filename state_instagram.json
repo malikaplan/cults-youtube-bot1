@@ -770,11 +770,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-fuse-box-cage",
     "https://cults3d.com/en/3d-model/jewelry/bmw-e36-key-holder-makdesign",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-interior-heating-components",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-seat-controller-button-cap"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-seat-controller-button-cap",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-m3-interior-mirror-clip"
   ],
   "today_date": "2026-09-10",
-  "today_count": 14,
-  "total_posted": 738,
+  "today_count": 15,
+  "total_posted": 739,
   "history": [
     {
       "date": "2026-08-08",
@@ -5202,6 +5203,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Seat Controller Button Cap",
       "media_id": "18209216353367976",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 M3 Interior Mirror Clip",
+      "media_id": "17907988005490591",
       "fb_media_id": null
     }
   ],
