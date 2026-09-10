@@ -760,11 +760,12 @@
     "https://cults3d.com/en/3d-model/gadget/hella-headlight-mounting-bracket-cover",
     "https://cults3d.com/en/3d-model/gadget/hella-garrett-turbo-actuator-worm-gear-mercedes-bmw-ford-jaguar-nissan-vw",
     "https://cults3d.com/en/3d-model/gadget/volkswagen-golf-mk3-hella-covers-parts",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-door-tweeter-holder"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-door-tweeter-holder",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-a-pillar-trim-right-left-with-without-tweeter"
   ],
   "today_date": "2026-09-10",
-  "today_count": 4,
-  "total_posted": 728,
+  "today_count": 5,
+  "total_posted": 729,
   "history": [
     {
       "date": "2026-08-08",
@@ -5132,6 +5133,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Door Tweeter Holder",
       "media_id": "18105830903239379",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 A‑Pillar Trim (Right + Left, With & Without Tweeter)",
+      "media_id": "18109879202127271",
       "fb_media_id": null
     }
   ],
