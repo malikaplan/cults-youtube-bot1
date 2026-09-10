@@ -775,11 +775,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-318i-m42-76mm-maf-adapter-cone-air-filter",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-e34-rear-handle-cover",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-rear-window-corner",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-a-pillar-clip-2-0-interior-panel-15mm"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-a-pillar-clip-2-0-interior-panel-15mm",
+    "https://cults3d.com/en/3d-model/gadget/bmw-z3-e36-d-cup-holder-adapter"
   ],
   "today_date": "2026-09-10",
-  "today_count": 19,
-  "total_posted": 743,
+  "today_count": 20,
+  "total_posted": 744,
   "history": [
     {
       "date": "2026-08-08",
@@ -5237,6 +5238,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 A-Pillar Clip – 2.0 Interior Panel 15mm",
       "media_id": "18164007511417625",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW Z3 → E36 >D Cup Holder Adapter",
+      "media_id": "17868185802642287",
       "fb_media_id": null
     }
   ],
