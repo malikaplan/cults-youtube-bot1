@@ -772,11 +772,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-interior-heating-components",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-seat-controller-button-cap",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-m3-interior-mirror-clip",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-318i-m42-76mm-maf-adapter-cone-air-filter"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-318i-m42-76mm-maf-adapter-cone-air-filter",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-e34-rear-handle-cover"
   ],
   "today_date": "2026-09-10",
-  "today_count": 16,
-  "total_posted": 740,
+  "today_count": 17,
+  "total_posted": 741,
   "history": [
     {
       "date": "2026-08-08",
@@ -5216,6 +5217,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 318i M42 – 76mm MAF Adapter (Cone Air Filter)",
       "media_id": "18132317155567444",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 / E34 Rear Handle Cover",
+      "media_id": "18067535975767781",
       "fb_media_id": null
     }
   ],
