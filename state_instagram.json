@@ -758,11 +758,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-door-trim-mount",
     "https://cults3d.com/en/3d-model/gadget/hella-motorcycle-headlight-mount-bracket",
     "https://cults3d.com/en/3d-model/gadget/hella-headlight-mounting-bracket-cover",
-    "https://cults3d.com/en/3d-model/gadget/hella-garrett-turbo-actuator-worm-gear-mercedes-bmw-ford-jaguar-nissan-vw"
+    "https://cults3d.com/en/3d-model/gadget/hella-garrett-turbo-actuator-worm-gear-mercedes-bmw-ford-jaguar-nissan-vw",
+    "https://cults3d.com/en/3d-model/gadget/volkswagen-golf-mk3-hella-covers-parts"
   ],
   "today_date": "2026-09-10",
-  "today_count": 2,
-  "total_posted": 726,
+  "today_count": 3,
+  "total_posted": 727,
   "history": [
     {
       "date": "2026-08-08",
@@ -5118,6 +5119,12 @@
       "date": "2026-09-10",
       "title": "Hella Garrett Turbo Actuator Worm Gear (Mercedes, BMW, Ford, Jaguar, Nissan, VW, Audi, Jeep, Chrysler, Land Rover)",
       "media_id": "18105376442214545",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "Volkswagen Golf MK3 Hella Covers Parts",
+      "media_id": "18352091917170344",
       "fb_media_id": null
     }
   ],
