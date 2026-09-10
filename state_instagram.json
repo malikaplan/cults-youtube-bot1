@@ -768,11 +768,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-air-duct-pipe-system-components",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-right-left-air-duct",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-fuse-box-cage",
-    "https://cults3d.com/en/3d-model/jewelry/bmw-e36-key-holder-makdesign"
+    "https://cults3d.com/en/3d-model/jewelry/bmw-e36-key-holder-makdesign",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-interior-heating-components"
   ],
   "today_date": "2026-09-10",
-  "today_count": 12,
-  "total_posted": 736,
+  "today_count": 13,
+  "total_posted": 737,
   "history": [
     {
       "date": "2026-08-08",
@@ -5188,6 +5189,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Key Holder",
       "media_id": "18132250138560340",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 Interior Heating Components",
+      "media_id": "18280648318289400",
       "fb_media_id": null
     }
   ],
