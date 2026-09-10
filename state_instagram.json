@@ -778,11 +778,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-a-pillar-clip-2-0-interior-panel-15mm",
     "https://cults3d.com/en/3d-model/gadget/bmw-z3-e36-d-cup-holder-adapter",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-rear-cup-holder-makdesign",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e34-e86-hydraulic-belt-tensioner-dust-cover"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e34-e86-hydraulic-belt-tensioner-dust-cover",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-embase-mounting-plate"
   ],
   "today_date": "2026-09-10",
-  "today_count": 22,
-  "total_posted": 746,
+  "today_count": 23,
+  "total_posted": 747,
   "history": [
     {
       "date": "2026-08-08",
@@ -5258,6 +5259,12 @@
       "date": "2026-09-10",
       "title": "BMW E34–E86 Hydraulic Belt Tensioner Dust Cover",
       "media_id": "17888343615453630",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-10",
+      "title": "BMW E36 Embase (Mounting Plate)",
+      "media_id": "17970529419138271",
       "fb_media_id": null
     }
   ],
