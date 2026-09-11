@@ -797,11 +797,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-duct-intake-makdesign",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-shift-surround-medium-opening",
     "https://cults3d.com/en/3d-model/gadget/ecumaster-mk2-escort-mount-bracket-adu-cover",
-    "https://cults3d.com/en/3d-model/gadget/toyota-gt86-brake-cooling-ducts"
+    "https://cults3d.com/en/3d-model/gadget/toyota-gt86-brake-cooling-ducts",
+    "https://cults3d.com/en/3d-model/gadget/pontiac-fiero-1988-front-brake-cooling-duct"
   ],
   "today_date": "2026-09-11",
-  "today_count": 17,
-  "total_posted": 765,
+  "today_count": 18,
+  "total_posted": 766,
   "history": [
     {
       "date": "2026-08-08",
@@ -5391,6 +5392,12 @@
       "date": "2026-09-11",
       "title": "Toyota GT86 Brake Cooling Ducts",
       "media_id": "18193258633384657",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Pontiac Fiero 1988 Front Brake Cooling Duct",
+      "media_id": "17966673021168222",
       "fb_media_id": null
     }
   ],
