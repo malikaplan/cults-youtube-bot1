@@ -801,11 +801,12 @@
     "https://cults3d.com/en/3d-model/gadget/pontiac-fiero-1988-front-brake-cooling-duct",
     "https://cults3d.com/en/3d-model/gadget/cooling-duct-for-bike-brake-system-front",
     "https://cults3d.com/en/3d-model/gadget/porsche-944-digital-dashboard",
-    "https://cults3d.com/en/3d-model/gadget/ecumaster-racing-steering-wheel"
+    "https://cults3d.com/en/3d-model/gadget/ecumaster-racing-steering-wheel",
+    "https://cults3d.com/en/3d-model/gadget/racing-steering-wheel-techno-formula"
   ],
   "today_date": "2026-09-11",
-  "today_count": 21,
-  "total_posted": 769,
+  "today_count": 22,
+  "total_posted": 770,
   "history": [
     {
       "date": "2026-08-08",
@@ -5419,6 +5420,12 @@
       "date": "2026-09-11",
       "title": "ECUMASTER Racing Steering Wheel",
       "media_id": "18100979600527461",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "Racing Steering Wheel (Techno Formula)",
+      "media_id": "18134232223652312",
       "fb_media_id": null
     }
   ],
