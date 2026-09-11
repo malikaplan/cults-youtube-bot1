@@ -794,11 +794,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-brake-air-intake",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-cup-and-holder",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-air-duct",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-duct-intake-makdesign"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-duct-intake-makdesign",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-shift-surround-medium-opening"
   ],
   "today_date": "2026-09-11",
-  "today_count": 14,
-  "total_posted": 762,
+  "today_count": 15,
+  "total_posted": 763,
   "history": [
     {
       "date": "2026-08-08",
@@ -5370,6 +5371,12 @@
       "date": "2026-09-11",
       "title": "BMW E36 Duct Intake",
       "media_id": "18109150565122050",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Shift Surround – Medium Opening",
+      "media_id": "18144889894564005",
       "fb_media_id": null
     }
   ],
