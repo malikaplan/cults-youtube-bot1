@@ -782,11 +782,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-embase-mounting-plate",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-ganador-mirror-mount-plates",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-stereo-slot-radio-mount",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-additional-gauge-bracket"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-additional-gauge-bracket",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-brake-duct-frame"
   ],
   "today_date": "2026-09-11",
-  "today_count": 2,
-  "total_posted": 750,
+  "today_count": 3,
+  "total_posted": 751,
   "history": [
     {
       "date": "2026-08-08",
@@ -5286,6 +5287,12 @@
       "date": "2026-09-11",
       "title": "BMW E36 Additional Gauge Bracket",
       "media_id": "18103869080256028",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Brake Duct Frame",
+      "media_id": "17934118140388954",
       "fb_media_id": null
     }
   ],
