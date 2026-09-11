@@ -783,11 +783,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-ganador-mirror-mount-plates",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-stereo-slot-radio-mount",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-additional-gauge-bracket",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-brake-duct-frame"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-brake-duct-frame",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-antenna-blank"
   ],
   "today_date": "2026-09-11",
-  "today_count": 3,
-  "total_posted": 751,
+  "today_count": 4,
+  "total_posted": 752,
   "history": [
     {
       "date": "2026-08-08",
@@ -5293,6 +5294,12 @@
       "date": "2026-09-11",
       "title": "BMW E36 Brake Duct Frame",
       "media_id": "17934118140388954",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Antenna Blank",
+      "media_id": "17885481438683593",
       "fb_media_id": null
     }
   ],
