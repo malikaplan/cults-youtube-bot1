@@ -790,11 +790,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-boot-grommet",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-fog-delete-air-intake",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-universal-door-panel-repair-bracket",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-shift-knob"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-shift-knob",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-brake-air-intake"
   ],
   "today_date": "2026-09-11",
-  "today_count": 10,
-  "total_posted": 758,
+  "today_count": 11,
+  "total_posted": 759,
   "history": [
     {
       "date": "2026-08-08",
@@ -5342,6 +5343,12 @@
       "date": "2026-09-11",
       "title": "BMW E36 Shift Knob",
       "media_id": "18070800989726530",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Brake Air Intake",
+      "media_id": "18141852346600414",
       "fb_media_id": null
     }
   ],
