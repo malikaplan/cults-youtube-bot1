@@ -1,43 +1,43 @@
 {
-  "next_index": 300,
-  "next_publish_date": "2026-09-10T00:00:00",
-  "run_count": 48,
-  "total_uploaded": 228,
+  "next_index": 306,
+  "next_publish_date": "2026-09-11T00:00:00",
+  "run_count": 49,
+  "total_uploaded": 234,
   "total_models": 1367,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-10",
-    "day_number": 48,
+    "date": "2026-09-11",
+    "day_number": 49,
     "uploaded": [
       {
-        "title": "Nissan Skyline R33 Rear Trunk Boot Bump Stop Buffer",
-        "publish_at": "2026-09-09T09:00:00Z",
-        "link": "https://youtu.be/k4Fi09WiBBI"
+        "title": "Nissan Skyline R32 Power Window Switch Box",
+        "publish_at": "2026-09-10T09:00:00Z",
+        "link": "https://youtu.be/LKdesuQxM90"
       },
       {
-        "title": "Nissan Skyline Performance Air Filter Mounting Adapter (MAF Flange)",
-        "publish_at": "2026-09-09T11:00:00Z",
-        "link": "https://youtu.be/Q4_nqVs4sRU"
+        "title": "Nissan Skyline R32 GT-R Custom Cup Holder",
+        "publish_at": "2026-09-10T11:00:00Z",
+        "link": "https://youtu.be/xAoA3ubG_zo"
       },
       {
-        "title": "Nissan Skyline Radio Antenna Mounting Bracket",
-        "publish_at": "2026-09-09T13:00:00Z",
-        "link": "https://youtu.be/NUS5PFDsqZA"
+        "title": "Nissan Skyline R32 Wheel Center Cap and Hub Badge",
+        "publish_at": "2026-09-10T13:00:00Z",
+        "link": "https://youtu.be/Ml_SIxAgDXM"
       },
       {
-        "title": "Nissan Skyline R33 Ashtray Delete and Mounting Adapter",
-        "publish_at": "2026-09-09T15:00:00Z",
-        "link": "https://youtu.be/cla8DQ33oUk"
+        "title": "Nissan Skyline R32 Interior Front Dome Light Housing",
+        "publish_at": "2026-09-10T15:00:00Z",
+        "link": "https://youtu.be/ksT1QWHyIRw"
       },
       {
-        "title": "Nissan Skyline Door Speaker Mounting Adapter Ring (Left and Right Set)",
-        "publish_at": "2026-09-09T17:00:00Z",
-        "link": "https://youtu.be/KcGw4025jBk"
+        "title": "Nissan Skyline R32 Door Handle Replacement",
+        "publish_at": "2026-09-10T17:00:00Z",
+        "link": "https://youtu.be/iaDT2CrwVC8"
       },
       {
-        "title": "Nissan Skyline Custom Cup Holder",
-        "publish_at": "2026-09-09T19:00:00Z",
-        "link": "https://youtu.be/r__cqRtxvCk"
+        "title": "S2000 hardtop bracket",
+        "publish_at": "2026-09-10T19:00:00Z",
+        "link": "https://youtu.be/CXiSIbzzfqs"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-30",
-      "day_number": 39,
-      "uploaded": [
-        {
-          "title": "Nissan Cig Holder (Interior Console Component)",
-          "publish_at": "2026-08-31T09:00:00Z",
-          "link": "https://youtu.be/0QH9auhtM-I"
-        },
-        {
-          "title": "Nissan Ashtray",
-          "publish_at": "2026-08-31T11:00:00Z",
-          "link": "https://youtu.be/UhhoyXvHNik"
-        },
-        {
-          "title": "Nissan Oil Adapter (Engine Oil Connection Component)",
-          "publish_at": "2026-08-31T13:00:00Z",
-          "link": "https://youtu.be/8nhiE2PV0es"
-        },
-        {
-          "title": "Nissan Micra Handle (Door / Console Component)",
-          "publish_at": "2026-08-31T15:00:00Z",
-          "link": "https://youtu.be/MbSeQPE2ZXs"
-        },
-        {
-          "title": "Nissan X‑Trail Telefoonsteun (Phone Holder / Console Mount Component)",
-          "publish_at": "2026-08-31T17:00:00Z",
-          "link": "https://youtu.be/zhF6YQpXykg"
-        },
-        {
-          "title": "Nissan Qashqai Cupholder (Center Console / Interior Component)",
-          "publish_at": "2026-08-31T19:00:00Z",
-          "link": "https://youtu.be/DyZ5fVRSq48"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-08-31",
       "day_number": 40,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-11",
+      "day_number": 49,
+      "uploaded": [
+        {
+          "title": "Nissan Skyline R32 Power Window Switch Box",
+          "publish_at": "2026-09-10T09:00:00Z",
+          "link": "https://youtu.be/LKdesuQxM90"
+        },
+        {
+          "title": "Nissan Skyline R32 GT-R Custom Cup Holder",
+          "publish_at": "2026-09-10T11:00:00Z",
+          "link": "https://youtu.be/xAoA3ubG_zo"
+        },
+        {
+          "title": "Nissan Skyline R32 Wheel Center Cap and Hub Badge",
+          "publish_at": "2026-09-10T13:00:00Z",
+          "link": "https://youtu.be/Ml_SIxAgDXM"
+        },
+        {
+          "title": "Nissan Skyline R32 Interior Front Dome Light Housing",
+          "publish_at": "2026-09-10T15:00:00Z",
+          "link": "https://youtu.be/ksT1QWHyIRw"
+        },
+        {
+          "title": "Nissan Skyline R32 Door Handle Replacement",
+          "publish_at": "2026-09-10T17:00:00Z",
+          "link": "https://youtu.be/iaDT2CrwVC8"
+        },
+        {
+          "title": "S2000 hardtop bracket",
+          "publish_at": "2026-09-10T19:00:00Z",
+          "link": "https://youtu.be/CXiSIbzzfqs"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -730,6 +730,12 @@
     "https://cults3d.com/:4850630",
     "https://cults3d.com/:4850674",
     "https://cults3d.com/:4850721",
+    "https://cults3d.com/:4860000",
+    "https://cults3d.com/:4860082",
+    "https://cults3d.com/:4860132",
+    "https://cults3d.com/:4860163",
+    "https://cults3d.com/:4860249",
+    "https://cults3d.com/:4860283",
     "https://cults3d.com/:4860438",
     "https://cults3d.com/:4864264",
     "https://cults3d.com/:4864289",
@@ -792,28 +798,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "k4Fi09WiBBI",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-rear-trunk-boot-bump-stop-buffer"
+      "video_id": "LKdesuQxM90",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-power-window-switch-box"
     },
     {
-      "video_id": "Q4_nqVs4sRU",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-performance-air-filter-mounting-adapter-maf-flange"
+      "video_id": "xAoA3ubG_zo",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-gt-r-custom-cup-holder"
     },
     {
-      "video_id": "NUS5PFDsqZA",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-radio-antenna-mounting-bracket"
+      "video_id": "Ml_SIxAgDXM",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-wheel-center-cap-and-hub-badge"
     },
     {
-      "video_id": "cla8DQ33oUk",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r33-ashtray-delete-and-mounting-adapter"
+      "video_id": "ksT1QWHyIRw",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-interior-front-dome-light-housing"
     },
     {
-      "video_id": "KcGw4025jBk",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-door-speaker-mounting-adapter-ring-left-and-right-set"
+      "video_id": "iaDT2CrwVC8",
+      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-door-handle-replacement"
     },
     {
-      "video_id": "r__cqRtxvCk",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-custom-cup-holder"
+      "video_id": "CXiSIbzzfqs",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-hardtop-bracket"
     }
   ]
 }
