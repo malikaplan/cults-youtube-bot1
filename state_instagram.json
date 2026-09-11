@@ -803,11 +803,12 @@
     "https://cults3d.com/en/3d-model/gadget/porsche-944-digital-dashboard",
     "https://cults3d.com/en/3d-model/gadget/ecumaster-racing-steering-wheel",
     "https://cults3d.com/en/3d-model/gadget/racing-steering-wheel-techno-formula",
-    "https://cults3d.com/en/3d-model/gadget/racing-steering-wheel"
+    "https://cults3d.com/en/3d-model/gadget/racing-steering-wheel",
+    "https://cults3d.com/en/3d-model/gadget/ecumaster-dual-wing-mount"
   ],
   "today_date": "2026-09-11",
-  "today_count": 23,
-  "total_posted": 771,
+  "today_count": 24,
+  "total_posted": 772,
   "history": [
     {
       "date": "2026-08-08",
@@ -5433,6 +5434,12 @@
       "date": "2026-09-11",
       "title": "Racing Steering Wheel",
       "media_id": "17933636469381345",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "ECUMASTER Dual Wing Mount",
+      "media_id": "18136327906527540",
       "fb_media_id": null
     }
   ],
