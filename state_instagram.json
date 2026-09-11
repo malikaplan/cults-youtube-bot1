@@ -791,11 +791,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-fog-delete-air-intake",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-universal-door-panel-repair-bracket",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-shift-knob",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-brake-air-intake"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-brake-air-intake",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-cup-and-holder"
   ],
   "today_date": "2026-09-11",
-  "today_count": 11,
-  "total_posted": 759,
+  "today_count": 12,
+  "total_posted": 760,
   "history": [
     {
       "date": "2026-08-08",
@@ -5349,6 +5350,12 @@
       "date": "2026-09-11",
       "title": "BMW E36 Brake Air Intake",
       "media_id": "18141852346600414",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Cup and Holder",
+      "media_id": "18115659739978171",
       "fb_media_id": null
     }
   ],
