@@ -780,11 +780,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-rear-cup-holder-makdesign",
     "https://cults3d.com/en/3d-model/gadget/bmw-e34-e86-hydraulic-belt-tensioner-dust-cover",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-embase-mounting-plate",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-ganador-mirror-mount-plates"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-ganador-mirror-mount-plates",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-stereo-slot-radio-mount"
   ],
-  "today_date": "2026-09-10",
-  "today_count": 24,
-  "total_posted": 748,
+  "today_date": "2026-09-11",
+  "today_count": 1,
+  "total_posted": 749,
   "history": [
     {
       "date": "2026-08-08",
@@ -5272,6 +5273,12 @@
       "date": "2026-09-10",
       "title": "BMW E36 Ganador Mirror Mount PlatesV1-V2-V3 (Sedan, Touring, and Compact body)",
       "media_id": "18022900226863881",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Stereo Slot (Radio Mount)",
+      "media_id": "18148667782546622",
       "fb_media_id": null
     }
   ],
