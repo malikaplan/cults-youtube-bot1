@@ -793,11 +793,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-shift-knob",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-brake-air-intake",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-cup-and-holder",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-air-duct"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-air-duct",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-duct-intake-makdesign"
   ],
   "today_date": "2026-09-11",
-  "today_count": 13,
-  "total_posted": 761,
+  "today_count": 14,
+  "total_posted": 762,
   "history": [
     {
       "date": "2026-08-08",
@@ -5363,6 +5364,12 @@
       "date": "2026-09-11",
       "title": "BMW E36 Air Duct",
       "media_id": "18468946153112853",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Duct Intake",
+      "media_id": "18109150565122050",
       "fb_media_id": null
     }
   ],
