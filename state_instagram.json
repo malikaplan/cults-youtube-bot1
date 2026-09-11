@@ -781,11 +781,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e34-e86-hydraulic-belt-tensioner-dust-cover",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-embase-mounting-plate",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-ganador-mirror-mount-plates",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-stereo-slot-radio-mount"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-stereo-slot-radio-mount",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-additional-gauge-bracket"
   ],
   "today_date": "2026-09-11",
-  "today_count": 1,
-  "total_posted": 749,
+  "today_count": 2,
+  "total_posted": 750,
   "history": [
     {
       "date": "2026-08-08",
@@ -5279,6 +5280,12 @@
       "date": "2026-09-11",
       "title": "BMW E36 Stereo Slot (Radio Mount)",
       "media_id": "18148667782546622",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Additional Gauge Bracket",
+      "media_id": "18103869080256028",
       "fb_media_id": null
     }
   ],
