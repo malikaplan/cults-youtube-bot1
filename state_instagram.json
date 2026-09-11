@@ -788,11 +788,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-mishimoto-radiator-bracket-grapa",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-fuel-tank-lock-mechanism",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-boot-grommet",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-fog-delete-air-intake"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-fog-delete-air-intake",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-universal-door-panel-repair-bracket"
   ],
   "today_date": "2026-09-11",
-  "today_count": 8,
-  "total_posted": 756,
+  "today_count": 9,
+  "total_posted": 757,
   "history": [
     {
       "date": "2026-08-08",
@@ -5328,6 +5329,12 @@
       "date": "2026-09-11",
       "title": "BMW E36  Fog Delete Air Intake",
       "media_id": "18095490017087829",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-11",
+      "title": "BMW E36 Universal Door Panel Repair Bracket",
+      "media_id": "18101777852201072",
       "fb_media_id": null
     }
   ],
