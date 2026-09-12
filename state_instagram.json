@@ -811,11 +811,12 @@
     "https://cults3d.com/en/3d-model/gadget/ecu-mounting-plate-new",
     "https://cults3d.com/en/3d-model/gadget/ecu-mounting-bracket",
     "https://cults3d.com/en/3d-model/gadget/ecu-mounting-bracket-khonda-k-series-toyota-mr2-85-89-l0002-w10-axx",
-    "https://cults3d.com/en/3d-model/gadget/porsche-914-gauge-panel-box"
+    "https://cults3d.com/en/3d-model/gadget/porsche-914-gauge-panel-box",
+    "https://cults3d.com/en/3d-model/gadget/adu7-sunscreen-support-foot-ver2-2-parts"
   ],
   "today_date": "2026-09-12",
-  "today_count": 7,
-  "total_posted": 779,
+  "today_count": 8,
+  "total_posted": 780,
   "history": [
     {
       "date": "2026-08-08",
@@ -5489,6 +5490,12 @@
       "date": "2026-09-12",
       "title": "Porsche 914 Gauge Panel Box",
       "media_id": "18086202680304784",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "ADU7 Sunscreen Support Foot Ver2.2 Parts",
+      "media_id": "17925867924180832",
       "fb_media_id": null
     }
   ],
