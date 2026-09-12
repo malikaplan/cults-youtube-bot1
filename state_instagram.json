@@ -808,11 +808,12 @@
     "https://cults3d.com/en/3d-model/gadget/ecumaster-btt-sf-sensor-mount-3030-new-version",
     "https://cults3d.com/en/3d-model/gadget/ecumaster-black-mount-bracket",
     "https://cults3d.com/en/3d-model/gadget/porsche-gt3-gm-ecu-wheel-speed-sensor-connector",
-    "https://cults3d.com/en/3d-model/gadget/ecu-mounting-plate-new"
+    "https://cults3d.com/en/3d-model/gadget/ecu-mounting-plate-new",
+    "https://cults3d.com/en/3d-model/gadget/ecu-mounting-bracket"
   ],
   "today_date": "2026-09-12",
-  "today_count": 4,
-  "total_posted": 776,
+  "today_count": 5,
+  "total_posted": 777,
   "history": [
     {
       "date": "2026-08-08",
@@ -5468,6 +5469,12 @@
       "date": "2026-09-12",
       "title": "ECU Mounting Plate (New)",
       "media_id": "18070155899773577",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "ECU Mounting Bracket",
+      "media_id": "18098218862309480",
       "fb_media_id": null
     }
   ],
