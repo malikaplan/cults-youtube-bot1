@@ -814,11 +814,12 @@
     "https://cults3d.com/en/3d-model/gadget/porsche-914-gauge-panel-box",
     "https://cults3d.com/en/3d-model/gadget/adu7-sunscreen-support-foot-ver2-2-parts",
     "https://cults3d.com/en/3d-model/gadget/adu7-sunscreen-ver2-2-parts-new",
-    "https://cults3d.com/en/3d-model/gadget/adu7-sunscreen-parts"
+    "https://cults3d.com/en/3d-model/gadget/adu7-sunscreen-parts",
+    "https://cults3d.com/en/3d-model/gadget/adu7-frame-ver2"
   ],
   "today_date": "2026-09-12",
-  "today_count": 10,
-  "total_posted": 782,
+  "today_count": 11,
+  "total_posted": 783,
   "history": [
     {
       "date": "2026-08-08",
@@ -5510,6 +5511,12 @@
       "date": "2026-09-12",
       "title": "ADU7 Sunscreen Parts",
       "media_id": "18630760510017037",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "ADU7 Frame Ver2",
+      "media_id": "17926306737181579",
       "fb_media_id": null
     }
   ],
