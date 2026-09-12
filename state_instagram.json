@@ -824,11 +824,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-945-speaker-grill-two-model",
     "https://cults3d.com/en/3d-model/gadget/volvo-240-1993-speaker-bracket",
     "https://cults3d.com/en/3d-model/gadget/volvo-940-960-s90-1986-1993-3rd-brake-light-cover-3534077",
-    "https://cults3d.com/en/3d-model/gadget/volvo-p2-dash-vent-side-trim-end-cap-left-right-s60-v70-xc70-2001-200"
+    "https://cults3d.com/en/3d-model/gadget/volvo-p2-dash-vent-side-trim-end-cap-left-right-s60-v70-xc70-2001-200",
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-headlight-bulb-holder-1986-1993"
   ],
   "today_date": "2026-09-12",
-  "today_count": 20,
-  "total_posted": 792,
+  "today_count": 21,
+  "total_posted": 793,
   "history": [
     {
       "date": "2026-08-08",
@@ -5580,6 +5581,12 @@
       "date": "2026-09-12",
       "title": "Volvo P2 Dash Vent Side Trim End Cap (Left + Right) – S60 / V70 / XC70 (2001–2007)",
       "media_id": "18135843358680662",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Volvo 240 Headlight Bulb Holder (1986–1993)",
+      "media_id": "18114008389800568",
       "fb_media_id": null
     }
   ],
