@@ -1,43 +1,43 @@
 {
-  "next_index": 306,
-  "next_publish_date": "2026-09-11T00:00:00",
-  "run_count": 49,
-  "total_uploaded": 234,
+  "next_index": 312,
+  "next_publish_date": "2026-09-12T00:00:00",
+  "run_count": 50,
+  "total_uploaded": 240,
   "total_models": 1367,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-11",
-    "day_number": 49,
+    "date": "2026-09-12",
+    "day_number": 50,
     "uploaded": [
       {
-        "title": "Nissan Skyline R32 Power Window Switch Box",
-        "publish_at": "2026-09-10T09:00:00Z",
-        "link": "https://youtu.be/LKdesuQxM90"
+        "title": "S2000 Speaker ring for 6.5\" speakers",
+        "publish_at": "2026-09-11T09:00:00Z",
+        "link": "https://youtu.be/ZvZCcyD_XSg"
       },
       {
-        "title": "Nissan Skyline R32 GT-R Custom Cup Holder",
-        "publish_at": "2026-09-10T11:00:00Z",
-        "link": "https://youtu.be/xAoA3ubG_zo"
+        "title": "S2000 Front Bumper Duct",
+        "publish_at": "2026-09-11T11:00:00Z",
+        "link": "https://youtu.be/X7_iYupFjm4"
       },
       {
-        "title": "Nissan Skyline R32 Wheel Center Cap and Hub Badge",
-        "publish_at": "2026-09-10T13:00:00Z",
-        "link": "https://youtu.be/Ml_SIxAgDXM"
+        "title": "S2000 Stub Antenna",
+        "publish_at": "2026-09-11T13:00:00Z",
+        "link": "https://youtu.be/ruk3maCjLGg"
       },
       {
-        "title": "Nissan Skyline R32 Interior Front Dome Light Housing",
-        "publish_at": "2026-09-10T15:00:00Z",
-        "link": "https://youtu.be/ksT1QWHyIRw"
+        "title": "S2000 Side Storage",
+        "publish_at": "2026-09-11T15:00:00Z",
+        "link": "https://youtu.be/s_NJPX5vCAI"
       },
       {
-        "title": "Nissan Skyline R32 Door Handle Replacement",
-        "publish_at": "2026-09-10T17:00:00Z",
-        "link": "https://youtu.be/iaDT2CrwVC8"
+        "title": "S2000 Rear Sides Skirt Splitters V2",
+        "publish_at": "2026-09-11T17:00:00Z",
+        "link": "https://youtu.be/8eoXKKbPQMg"
       },
       {
-        "title": "S2000 hardtop bracket",
-        "publish_at": "2026-09-10T19:00:00Z",
-        "link": "https://youtu.be/CXiSIbzzfqs"
+        "title": "S2000 Shift Knob",
+        "publish_at": "2026-09-11T19:00:00Z",
+        "link": "https://youtu.be/dYDWZFjyPOk"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-08-31",
-      "day_number": 40,
-      "uploaded": [
-        {
-          "title": "S2000 Wheel Center Cap / Deckel",
-          "publish_at": "2026-09-01T09:00:00Z",
-          "link": "https://youtu.be/OX2-57Nr98s"
-        },
-        {
-          "title": "S2000 Alternator Bracket",
-          "publish_at": "2026-09-01T11:00:00Z",
-          "link": "https://youtu.be/8CE_G70qoUs"
-        },
-        {
-          "title": "S2000 Rear Sides Skirt Splitters",
-          "publish_at": "2026-09-01T13:00:00Z",
-          "link": "https://youtu.be/8j8CHH9SZBw"
-        },
-        {
-          "title": "S2000 Bezel",
-          "publish_at": "2026-09-01T15:00:00Z",
-          "link": "https://youtu.be/iIY-Nv5h4yU"
-        },
-        {
-          "title": "S2000 Speaker Ring V.2",
-          "publish_at": "2026-09-01T17:00:00Z",
-          "link": "https://youtu.be/bqlhxj6L468"
-        },
-        {
-          "title": "S2000 Speaker Ring",
-          "publish_at": "2026-09-01T19:00:00Z",
-          "link": "https://youtu.be/mtKXk1EpnLU"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-02",
       "day_number": 41,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-12",
+      "day_number": 50,
+      "uploaded": [
+        {
+          "title": "S2000 Speaker ring for 6.5\" speakers",
+          "publish_at": "2026-09-11T09:00:00Z",
+          "link": "https://youtu.be/ZvZCcyD_XSg"
+        },
+        {
+          "title": "S2000 Front Bumper Duct",
+          "publish_at": "2026-09-11T11:00:00Z",
+          "link": "https://youtu.be/X7_iYupFjm4"
+        },
+        {
+          "title": "S2000 Stub Antenna",
+          "publish_at": "2026-09-11T13:00:00Z",
+          "link": "https://youtu.be/ruk3maCjLGg"
+        },
+        {
+          "title": "S2000 Side Storage",
+          "publish_at": "2026-09-11T15:00:00Z",
+          "link": "https://youtu.be/s_NJPX5vCAI"
+        },
+        {
+          "title": "S2000 Rear Sides Skirt Splitters V2",
+          "publish_at": "2026-09-11T17:00:00Z",
+          "link": "https://youtu.be/8eoXKKbPQMg"
+        },
+        {
+          "title": "S2000 Shift Knob",
+          "publish_at": "2026-09-11T19:00:00Z",
+          "link": "https://youtu.be/dYDWZFjyPOk"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -730,6 +730,12 @@
     "https://cults3d.com/:4850630",
     "https://cults3d.com/:4850674",
     "https://cults3d.com/:4850721",
+    "https://cults3d.com/:4855155",
+    "https://cults3d.com/:4855348",
+    "https://cults3d.com/:4855402",
+    "https://cults3d.com/:4855429",
+    "https://cults3d.com/:4855811",
+    "https://cults3d.com/:4859929",
     "https://cults3d.com/:4860000",
     "https://cults3d.com/:4860082",
     "https://cults3d.com/:4860132",
@@ -798,28 +804,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "LKdesuQxM90",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-power-window-switch-box"
+      "video_id": "ZvZCcyD_XSg",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-for-6-5-speakers"
     },
     {
-      "video_id": "xAoA3ubG_zo",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-gt-r-custom-cup-holder"
+      "video_id": "X7_iYupFjm4",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-front-bumper-duct"
     },
     {
-      "video_id": "Ml_SIxAgDXM",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-wheel-center-cap-and-hub-badge"
+      "video_id": "ruk3maCjLGg",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-stub-antenna"
     },
     {
-      "video_id": "ksT1QWHyIRw",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-interior-front-dome-light-housing"
+      "video_id": "s_NJPX5vCAI",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-side-storage"
     },
     {
-      "video_id": "iaDT2CrwVC8",
-      "text": "https://cults3d.com/en/3d-model/tool/nissan-skyline-r32-door-handle-replacement"
+      "video_id": "8eoXKKbPQMg",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters-v2"
     },
     {
-      "video_id": "CXiSIbzzfqs",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-hardtop-bracket"
+      "video_id": "dYDWZFjyPOk",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-shift-knob-makdesign"
     }
   ]
 }
