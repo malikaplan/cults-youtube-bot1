@@ -821,11 +821,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel-bracket",
     "https://cults3d.com/en/3d-model/gadget/volvo-adu7-bracket",
     "https://cults3d.com/en/3d-model/gadget/volvo-700-900-series-b-pillar-front-seat-belt-rosette-trim",
-    "https://cults3d.com/en/3d-model/gadget/volvo-945-speaker-grill-two-model"
+    "https://cults3d.com/en/3d-model/gadget/volvo-945-speaker-grill-two-model",
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-1993-speaker-bracket"
   ],
   "today_date": "2026-09-12",
-  "today_count": 17,
-  "total_posted": 789,
+  "today_count": 18,
+  "total_posted": 790,
   "history": [
     {
       "date": "2026-08-08",
@@ -5559,6 +5560,12 @@
       "date": "2026-09-12",
       "title": "Volvo 945 Speaker Grill- Two Model",
       "media_id": "18089564048673464",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Volvo 240 (1993) Speaker Bracket",
+      "media_id": "18052414646589111",
       "fb_media_id": null
     }
   ],
