@@ -816,11 +816,12 @@
     "https://cults3d.com/en/3d-model/gadget/adu7-sunscreen-ver2-2-parts-new",
     "https://cults3d.com/en/3d-model/gadget/adu7-sunscreen-parts",
     "https://cults3d.com/en/3d-model/gadget/adu7-frame-ver2",
-    "https://cults3d.com/en/3d-model/gadget/ecumaster-adu-rev2-4-bracket"
+    "https://cults3d.com/en/3d-model/gadget/ecumaster-adu-rev2-4-bracket",
+    "https://cults3d.com/en/3d-model/tool/adu7-ver2-3-part-bracket-set"
   ],
   "today_date": "2026-09-12",
-  "today_count": 12,
-  "total_posted": 784,
+  "today_count": 13,
+  "total_posted": 785,
   "history": [
     {
       "date": "2026-08-08",
@@ -5524,6 +5525,12 @@
       "date": "2026-09-12",
       "title": "ECUMASTER ADU Rev2.4 Bracket",
       "media_id": "18110467250002932",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "ADU7 Ver2 – 3 Part Bracket Set (ECUMaster ADU7 Digital Dash Mount)",
+      "media_id": "18093720509281434",
       "fb_media_id": null
     }
   ],
