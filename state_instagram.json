@@ -819,11 +819,12 @@
     "https://cults3d.com/en/3d-model/gadget/ecumaster-adu-rev2-4-bracket",
     "https://cults3d.com/en/3d-model/tool/adu7-ver2-3-part-bracket-set",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel-bracket",
-    "https://cults3d.com/en/3d-model/gadget/volvo-adu7-bracket"
+    "https://cults3d.com/en/3d-model/gadget/volvo-adu7-bracket",
+    "https://cults3d.com/en/3d-model/gadget/volvo-700-900-series-b-pillar-front-seat-belt-rosette-trim"
   ],
   "today_date": "2026-09-12",
-  "today_count": 15,
-  "total_posted": 787,
+  "today_count": 16,
+  "total_posted": 788,
   "history": [
     {
       "date": "2026-08-08",
@@ -5545,6 +5546,12 @@
       "date": "2026-09-12",
       "title": "Volvo ADU7 Bracket",
       "media_id": "17998892543809652",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Volvo 700 / 900 Series B‑Pillar Front Seat Belt Rosette Trim",
+      "media_id": "18095930711090186",
       "fb_media_id": null
     }
   ],
