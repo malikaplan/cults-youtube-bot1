@@ -806,11 +806,12 @@
     "https://cults3d.com/en/3d-model/gadget/racing-steering-wheel",
     "https://cults3d.com/en/3d-model/gadget/ecumaster-dual-wing-mount",
     "https://cults3d.com/en/3d-model/gadget/ecumaster-btt-sf-sensor-mount-3030-new-version",
-    "https://cults3d.com/en/3d-model/gadget/ecumaster-black-mount-bracket"
+    "https://cults3d.com/en/3d-model/gadget/ecumaster-black-mount-bracket",
+    "https://cults3d.com/en/3d-model/gadget/porsche-gt3-gm-ecu-wheel-speed-sensor-connector"
   ],
   "today_date": "2026-09-12",
-  "today_count": 2,
-  "total_posted": 774,
+  "today_count": 3,
+  "total_posted": 775,
   "history": [
     {
       "date": "2026-08-08",
@@ -5454,6 +5455,12 @@
       "date": "2026-09-12",
       "title": "ECUMASTER Black Mount Bracket",
       "media_id": "18111535847277683",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Porsche GT3 – GM ECU Wheel Speed Sensor Connector",
+      "media_id": "18130328431815560",
       "fb_media_id": null
     }
   ],
