@@ -822,11 +822,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-adu7-bracket",
     "https://cults3d.com/en/3d-model/gadget/volvo-700-900-series-b-pillar-front-seat-belt-rosette-trim",
     "https://cults3d.com/en/3d-model/gadget/volvo-945-speaker-grill-two-model",
-    "https://cults3d.com/en/3d-model/gadget/volvo-240-1993-speaker-bracket"
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-1993-speaker-bracket",
+    "https://cults3d.com/en/3d-model/gadget/volvo-940-960-s90-1986-1993-3rd-brake-light-cover-3534077"
   ],
   "today_date": "2026-09-12",
-  "today_count": 18,
-  "total_posted": 790,
+  "today_count": 19,
+  "total_posted": 791,
   "history": [
     {
       "date": "2026-08-08",
@@ -5566,6 +5567,12 @@
       "date": "2026-09-12",
       "title": "Volvo 240 (1993) Speaker Bracket",
       "media_id": "18052414646589111",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Volvo 940 / 960 / S90 (1986–1993) 3rd Brake Light Cover – 3534077",
+      "media_id": "18117304678948578",
       "fb_media_id": null
     }
   ],
