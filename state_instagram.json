@@ -818,11 +818,12 @@
     "https://cults3d.com/en/3d-model/gadget/adu7-frame-ver2",
     "https://cults3d.com/en/3d-model/gadget/ecumaster-adu-rev2-4-bracket",
     "https://cults3d.com/en/3d-model/tool/adu7-ver2-3-part-bracket-set",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel-bracket"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e36-adu7-central-panel-bracket",
+    "https://cults3d.com/en/3d-model/gadget/volvo-adu7-bracket"
   ],
   "today_date": "2026-09-12",
-  "today_count": 14,
-  "total_posted": 786,
+  "today_count": 15,
+  "total_posted": 787,
   "history": [
     {
       "date": "2026-08-08",
@@ -5538,6 +5539,12 @@
       "date": "2026-09-12",
       "title": "BMW E36 ADU7 Central Panel Bracket",
       "media_id": "17957589969239753",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Volvo ADU7 Bracket",
+      "media_id": "17998892543809652",
       "fb_media_id": null
     }
   ],
