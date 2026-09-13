@@ -833,11 +833,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-850-engine-oil-dipstick",
     "https://cults3d.com/en/3d-model/gadget/2002-volvo-s60-interior-screw",
     "https://cults3d.com/en/3d-model/gadget/volvo-v70-lock-bezel",
-    "https://cults3d.com/en/3d-model/gadget/volvo-brake-cooling-clip-oil-cooler-part"
+    "https://cults3d.com/en/3d-model/gadget/volvo-brake-cooling-clip-oil-cooler-part",
+    "https://cults3d.com/en/3d-model/gadget/volvo-mirror-clip-door-mirror-cover-retaining-clip"
   ],
   "today_date": "2026-09-13",
-  "today_count": 5,
-  "total_posted": 801,
+  "today_count": 6,
+  "total_posted": 802,
   "history": [
     {
       "date": "2026-08-08",
@@ -5643,6 +5644,12 @@
       "date": "2026-09-13",
       "title": "Volvo Brake Cooling Clip / Oil Cooler Part",
       "media_id": "18106708225901074",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo Mirror Clip – Door Mirror Cover Retaining Clip",
+      "media_id": "18134084944650711",
       "fb_media_id": null
     }
   ],
