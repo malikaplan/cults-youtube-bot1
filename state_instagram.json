@@ -831,11 +831,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-v70-1996-2000-front-left-seat-floor-bolt-cover-trim",
     "https://cults3d.com/en/3d-model/gadget/volvo-clip-v4",
     "https://cults3d.com/en/3d-model/gadget/volvo-850-engine-oil-dipstick",
-    "https://cults3d.com/en/3d-model/gadget/2002-volvo-s60-interior-screw"
+    "https://cults3d.com/en/3d-model/gadget/2002-volvo-s60-interior-screw",
+    "https://cults3d.com/en/3d-model/gadget/volvo-v70-lock-bezel"
   ],
   "today_date": "2026-09-13",
-  "today_count": 3,
-  "total_posted": 799,
+  "today_count": 4,
+  "total_posted": 800,
   "history": [
     {
       "date": "2026-08-08",
@@ -5629,6 +5630,12 @@
       "date": "2026-09-13",
       "title": "2002 Volvo S60 Interior Screw",
       "media_id": "17943625761343213",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo V70 Lock Bezel",
+      "media_id": "18441044722125881",
       "fb_media_id": null
     }
   ],
