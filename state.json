@@ -1,43 +1,43 @@
 {
-  "next_index": 312,
-  "next_publish_date": "2026-09-12T00:00:00",
-  "run_count": 50,
-  "total_uploaded": 240,
+  "next_index": 318,
+  "next_publish_date": "2026-09-13T00:00:00",
+  "run_count": 51,
+  "total_uploaded": 246,
   "total_models": 1367,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-12",
-    "day_number": 50,
+    "date": "2026-09-13",
+    "day_number": 51,
     "uploaded": [
       {
-        "title": "S2000 Speaker ring for 6.5\" speakers",
-        "publish_at": "2026-09-11T09:00:00Z",
-        "link": "https://youtu.be/ZvZCcyD_XSg"
+        "title": "Cover for S2000 Headlight Bulb Wiring Opening",
+        "publish_at": "2026-09-12T09:00:00Z",
+        "link": "https://youtu.be/J2L6-ynUm9I"
       },
       {
-        "title": "S2000 Front Bumper Duct",
-        "publish_at": "2026-09-11T11:00:00Z",
-        "link": "https://youtu.be/X7_iYupFjm4"
+        "title": "S2000 Front L-Plate Cover",
+        "publish_at": "2026-09-12T11:00:00Z",
+        "link": "https://youtu.be/enhMpNeB-3E"
       },
       {
-        "title": "S2000 Stub Antenna",
-        "publish_at": "2026-09-11T13:00:00Z",
-        "link": "https://youtu.be/ruk3maCjLGg"
+        "title": "S2000 Front Lip (45mm)",
+        "publish_at": "2026-09-12T13:00:00Z",
+        "link": "https://youtu.be/UDVErJUaCmo"
       },
       {
-        "title": "S2000 Side Storage",
-        "publish_at": "2026-09-11T15:00:00Z",
-        "link": "https://youtu.be/s_NJPX5vCAI"
+        "title": "S2000 Oil Filter Wrench",
+        "publish_at": "2026-09-12T15:00:00Z",
+        "link": "https://youtu.be/X2h34mjtpRc"
       },
       {
-        "title": "S2000 Rear Sides Skirt Splitters V2",
-        "publish_at": "2026-09-11T17:00:00Z",
-        "link": "https://youtu.be/8eoXKKbPQMg"
+        "title": "S2000 Gauge Bezel for AiM MXS Dash",
+        "publish_at": "2026-09-12T17:00:00Z",
+        "link": "https://youtu.be/6kOsk2_1EwE"
       },
       {
-        "title": "S2000 Shift Knob",
-        "publish_at": "2026-09-11T19:00:00Z",
-        "link": "https://youtu.be/dYDWZFjyPOk"
+        "title": "S2000 Gas Door Grab",
+        "publish_at": "2026-09-12T19:00:00Z",
+        "link": "https://youtu.be/FyskJnG7ZDQ"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-09-02",
-      "day_number": 41,
-      "uploaded": [
-        {
-          "title": "S2000 Wiper Lid Logo",
-          "publish_at": "2026-09-02T09:00:00Z",
-          "link": "https://youtu.be/3UcdxSlIX1Q"
-        },
-        {
-          "title": "S2000 Splitter Diffuser RH",
-          "publish_at": "2026-09-02T11:00:00Z",
-          "link": "https://youtu.be/U8bvtEa9uGw"
-        },
-        {
-          "title": "S2000 Dash Panel Part",
-          "publish_at": "2026-09-02T13:00:00Z",
-          "link": "https://youtu.be/D9xyP0Q1hzA"
-        },
-        {
-          "title": "S2000 Intake Base Long",
-          "publish_at": "2026-09-02T15:00:00Z",
-          "link": "https://youtu.be/NhSLhvkS8Hg"
-        },
-        {
-          "title": "AEM Water/Meth Controller Mount",
-          "publish_at": "2026-09-02T17:00:00Z",
-          "link": "https://youtu.be/uIOBN3LG64s"
-        },
-        {
-          "title": "AEM Intake Fixation",
-          "publish_at": "2026-09-02T19:00:00Z",
-          "link": "https://youtu.be/dJtucCqniwQ"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-03",
       "day_number": 42,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-13",
+      "day_number": 51,
+      "uploaded": [
+        {
+          "title": "Cover for S2000 Headlight Bulb Wiring Opening",
+          "publish_at": "2026-09-12T09:00:00Z",
+          "link": "https://youtu.be/J2L6-ynUm9I"
+        },
+        {
+          "title": "S2000 Front L-Plate Cover",
+          "publish_at": "2026-09-12T11:00:00Z",
+          "link": "https://youtu.be/enhMpNeB-3E"
+        },
+        {
+          "title": "S2000 Front Lip (45mm)",
+          "publish_at": "2026-09-12T13:00:00Z",
+          "link": "https://youtu.be/UDVErJUaCmo"
+        },
+        {
+          "title": "S2000 Oil Filter Wrench",
+          "publish_at": "2026-09-12T15:00:00Z",
+          "link": "https://youtu.be/X2h34mjtpRc"
+        },
+        {
+          "title": "S2000 Gauge Bezel for AiM MXS Dash",
+          "publish_at": "2026-09-12T17:00:00Z",
+          "link": "https://youtu.be/6kOsk2_1EwE"
+        },
+        {
+          "title": "S2000 Gas Door Grab",
+          "publish_at": "2026-09-12T19:00:00Z",
+          "link": "https://youtu.be/FyskJnG7ZDQ"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -730,6 +730,12 @@
     "https://cults3d.com/:4850630",
     "https://cults3d.com/:4850674",
     "https://cults3d.com/:4850721",
+    "https://cults3d.com/:4852457",
+    "https://cults3d.com/:4854678",
+    "https://cults3d.com/:4854694",
+    "https://cults3d.com/:4854834",
+    "https://cults3d.com/:4855080",
+    "https://cults3d.com/:4855114",
     "https://cults3d.com/:4855155",
     "https://cults3d.com/:4855348",
     "https://cults3d.com/:4855402",
@@ -804,28 +810,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "ZvZCcyD_XSg",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-speaker-ring-for-6-5-speakers"
+      "video_id": "J2L6-ynUm9I",
+      "text": "https://cults3d.com/en/3d-model/tool/cover-for-s2000-headlight-bulb-wiring-opening"
     },
     {
-      "video_id": "X7_iYupFjm4",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-front-bumper-duct"
+      "video_id": "enhMpNeB-3E",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-front-l-plate-cover"
     },
     {
-      "video_id": "ruk3maCjLGg",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-stub-antenna"
+      "video_id": "UDVErJUaCmo",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-front-lip-45mm"
     },
     {
-      "video_id": "s_NJPX5vCAI",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-side-storage"
+      "video_id": "X2h34mjtpRc",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-oil-filter-wrench"
     },
     {
-      "video_id": "8eoXKKbPQMg",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-rear-sides-skirt-splitters-v2"
+      "video_id": "6kOsk2_1EwE",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-gauge-bezel-for-aim-mxs-dash"
     },
     {
-      "video_id": "dYDWZFjyPOk",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-shift-knob-makdesign"
+      "video_id": "FyskJnG7ZDQ",
+      "text": "https://cults3d.com/en/3d-model/tool/s2000-gas-door-grab"
     }
   ]
 }
