@@ -838,11 +838,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-850-stuff-small-knob",
     "https://cults3d.com/en/3d-model/gadget/volvo-240-door-trim-clip-v2",
     "https://cults3d.com/en/3d-model/gadget/volvo-bmw-compatible-86-6-mm-16-flute-oil-filter-socket",
-    "https://cults3d.com/en/3d-model/gadget/volvo-v50-cup-holder-makdesign"
+    "https://cults3d.com/en/3d-model/gadget/volvo-v50-cup-holder-makdesign",
+    "https://cults3d.com/en/3d-model/gadget/volvo-armrest-opening-closing-mechanism"
   ],
   "today_date": "2026-09-13",
-  "today_count": 10,
-  "total_posted": 806,
+  "today_count": 11,
+  "total_posted": 807,
   "history": [
     {
       "date": "2026-08-08",
@@ -5678,6 +5679,12 @@
       "date": "2026-09-13",
       "title": "Volvo V50 Cup Holder",
       "media_id": "17967429453150880",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo Armrest Opening/Closing Mechanism",
+      "media_id": "17944843275306077",
       "fb_media_id": null
     }
   ],
