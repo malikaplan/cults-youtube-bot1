@@ -832,11 +832,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-clip-v4",
     "https://cults3d.com/en/3d-model/gadget/volvo-850-engine-oil-dipstick",
     "https://cults3d.com/en/3d-model/gadget/2002-volvo-s60-interior-screw",
-    "https://cults3d.com/en/3d-model/gadget/volvo-v70-lock-bezel"
+    "https://cults3d.com/en/3d-model/gadget/volvo-v70-lock-bezel",
+    "https://cults3d.com/en/3d-model/gadget/volvo-brake-cooling-clip-oil-cooler-part"
   ],
   "today_date": "2026-09-13",
-  "today_count": 4,
-  "total_posted": 800,
+  "today_count": 5,
+  "total_posted": 801,
   "history": [
     {
       "date": "2026-08-08",
@@ -5636,6 +5637,12 @@
       "date": "2026-09-13",
       "title": "Volvo V70 Lock Bezel",
       "media_id": "18441044722125881",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo Brake Cooling Clip / Oil Cooler Part",
+      "media_id": "18106708225901074",
       "fb_media_id": null
     }
   ],
