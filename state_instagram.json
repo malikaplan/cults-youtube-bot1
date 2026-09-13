@@ -835,11 +835,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-v70-lock-bezel",
     "https://cults3d.com/en/3d-model/gadget/volvo-brake-cooling-clip-oil-cooler-part",
     "https://cults3d.com/en/3d-model/gadget/volvo-mirror-clip-door-mirror-cover-retaining-clip",
-    "https://cults3d.com/en/3d-model/gadget/volvo-850-stuff-small-knob"
+    "https://cults3d.com/en/3d-model/gadget/volvo-850-stuff-small-knob",
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-door-trim-clip-v2"
   ],
   "today_date": "2026-09-13",
-  "today_count": 7,
-  "total_posted": 803,
+  "today_count": 8,
+  "total_posted": 804,
   "history": [
     {
       "date": "2026-08-08",
@@ -5657,6 +5658,12 @@
       "date": "2026-09-13",
       "title": "Volvo 850 Stuff Small Knob",
       "media_id": "18143102827583333",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo 240 Door Trim Clip V2",
+      "media_id": "17980383233901962",
       "fb_media_id": null
     }
   ],
