@@ -844,11 +844,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-seat-rail-track-cover-trim",
     "https://cults3d.com/en/3d-model/gadget/volvo-850-glove-box-repair-kit-durable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/volvo-855-brake-light-cover-1994-1997",
-    "https://cults3d.com/en/3d-model/gadget/volvo-tweeter-adapter-ring-xc60-xc90-2015-present"
+    "https://cults3d.com/en/3d-model/gadget/volvo-tweeter-adapter-ring-xc60-xc90-2015-present",
+    "https://cults3d.com/en/3d-model/gadget/volvo-helix-165-speaker-adapter"
   ],
   "today_date": "2026-09-13",
-  "today_count": 16,
-  "total_posted": 812,
+  "today_count": 17,
+  "total_posted": 813,
   "history": [
     {
       "date": "2026-08-08",
@@ -5720,6 +5721,12 @@
       "date": "2026-09-13",
       "title": "Volvo Tweeter Adapter Ring – XC60 & XC90 (2015–present)",
       "media_id": "18163974577486330",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo Helix 165 Speaker Adapter",
+      "media_id": "17935150599368287",
       "fb_media_id": null
     }
   ],
