@@ -843,11 +843,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-fh4-fh5-switch-cap",
     "https://cults3d.com/en/3d-model/gadget/volvo-seat-rail-track-cover-trim",
     "https://cults3d.com/en/3d-model/gadget/volvo-850-glove-box-repair-kit-durable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/volvo-855-brake-light-cover-1994-1997"
+    "https://cults3d.com/en/3d-model/gadget/volvo-855-brake-light-cover-1994-1997",
+    "https://cults3d.com/en/3d-model/gadget/volvo-tweeter-adapter-ring-xc60-xc90-2015-present"
   ],
   "today_date": "2026-09-13",
-  "today_count": 15,
-  "total_posted": 811,
+  "today_count": 16,
+  "total_posted": 812,
   "history": [
     {
       "date": "2026-08-08",
@@ -5713,6 +5714,12 @@
       "date": "2026-09-13",
       "title": "Volvo 855 Brake Light Cover (1994–1997)",
       "media_id": "17985692517064524",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo Tweeter Adapter Ring – XC60 & XC90 (2015–present)",
+      "media_id": "18163974577486330",
       "fb_media_id": null
     }
   ],
