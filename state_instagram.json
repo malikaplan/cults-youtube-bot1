@@ -840,11 +840,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-bmw-compatible-86-6-mm-16-flute-oil-filter-socket",
     "https://cults3d.com/en/3d-model/gadget/volvo-v50-cup-holder-makdesign",
     "https://cults3d.com/en/3d-model/gadget/volvo-armrest-opening-closing-mechanism",
-    "https://cults3d.com/en/3d-model/gadget/volvo-fh4-fh5-switch-cap"
+    "https://cults3d.com/en/3d-model/gadget/volvo-fh4-fh5-switch-cap",
+    "https://cults3d.com/en/3d-model/gadget/volvo-seat-rail-track-cover-trim"
   ],
   "today_date": "2026-09-13",
-  "today_count": 12,
-  "total_posted": 808,
+  "today_count": 13,
+  "total_posted": 809,
   "history": [
     {
       "date": "2026-08-08",
@@ -5692,6 +5693,12 @@
       "date": "2026-09-13",
       "title": "Volvo FH4 & FH5 Switch Cap",
       "media_id": "17867105415630859",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo Seat Rail Track Cover Trim",
+      "media_id": "18099540491574020",
       "fb_media_id": null
     }
   ],
