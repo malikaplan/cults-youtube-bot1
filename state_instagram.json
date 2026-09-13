@@ -836,11 +836,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-brake-cooling-clip-oil-cooler-part",
     "https://cults3d.com/en/3d-model/gadget/volvo-mirror-clip-door-mirror-cover-retaining-clip",
     "https://cults3d.com/en/3d-model/gadget/volvo-850-stuff-small-knob",
-    "https://cults3d.com/en/3d-model/gadget/volvo-240-door-trim-clip-v2"
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-door-trim-clip-v2",
+    "https://cults3d.com/en/3d-model/gadget/volvo-bmw-compatible-86-6-mm-16-flute-oil-filter-socket"
   ],
   "today_date": "2026-09-13",
-  "today_count": 8,
-  "total_posted": 804,
+  "today_count": 9,
+  "total_posted": 805,
   "history": [
     {
       "date": "2026-08-08",
@@ -5664,6 +5665,12 @@
       "date": "2026-09-13",
       "title": "Volvo 240 Door Trim Clip V2",
       "media_id": "17980383233901962",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Volvo & BMW Compatible 86.6 mm 16 Flute Oil Filter Socket",
+      "media_id": "18139779574593586",
       "fb_media_id": null
     }
   ],
