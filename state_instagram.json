@@ -858,11 +858,12 @@
     "https://cults3d.com/en/3d-model/tool/fueltech-dual-nano-1-250-roll-bar-top-bar-tube-clamp-mount",
     "https://cults3d.com/en/3d-model/tool/volkswagen-polo-gti-52mm-auxiliary-gauge-pod-mount-bezel",
     "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support",
-    "https://cults3d.com/en/3d-model/tool/sw-motech-zzr1400-2016-passenger-grab-rail-top-box-mount-adapter-bracket"
+    "https://cults3d.com/en/3d-model/tool/sw-motech-zzr1400-2016-passenger-grab-rail-top-box-mount-adapter-bracket",
+    "https://cults3d.com/en/3d-model/tool/motec-cosworth-rs-digital-dashboard-static-mounting-bracket-set"
   ],
   "today_date": "2026-09-14",
-  "today_count": 6,
-  "total_posted": 826,
+  "today_count": 7,
+  "total_posted": 827,
   "history": [
     {
       "date": "2026-08-08",
@@ -5818,6 +5819,12 @@
       "date": "2026-09-14",
       "title": "SW-Motech ZZR1400 (2016) Passenger Grab Rail Top Box Mount Adapter Bracket",
       "media_id": "17945847609296803",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "MoTeC Cosworth RS Digital Dashboard Static Mounting Bracket Set",
+      "media_id": "18591317608071729",
       "fb_media_id": null
     }
   ],
