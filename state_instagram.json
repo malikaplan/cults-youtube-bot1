@@ -872,11 +872,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-heat-shield-partition-pre-facelift-edition",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-single-piece-center-console-storage-tray-pocket",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-d-corsa-e-parcel-shelf-string-holder-2007-2014",
-    "https://cults3d.com/en/3d-model/gadget/opel-corsa-b-sun-visor-clip-v2"
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-b-sun-visor-clip-v2",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-b-cable-clip-wire-holder"
   ],
   "today_date": "2026-09-14",
-  "today_count": 20,
-  "total_posted": 840,
+  "today_count": 21,
+  "total_posted": 841,
   "history": [
     {
       "date": "2026-08-08",
@@ -5916,6 +5917,12 @@
       "date": "2026-09-14",
       "title": "Opel Corsa B Sun Visor Clip V2.",
       "media_id": "18564140740075913",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Opel Corsa B Cable Clip (Wire Holder)",
+      "media_id": "18112969622049231",
       "fb_media_id": null
     }
   ],
