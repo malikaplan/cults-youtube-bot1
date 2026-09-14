@@ -865,11 +865,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-front-right-brake-cooling-air-duct-rh",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-air-lift-performance-air-suspension-controller-mount-holder",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-ashtray-delete-gauge-pod-holder",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-dsc-switch-panel-console-relocation-plate"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-dsc-switch-panel-console-relocation-plate",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-spare-wheel-retaining-nut-pin"
   ],
   "today_date": "2026-09-14",
-  "today_count": 13,
-  "total_posted": 833,
+  "today_count": 14,
+  "total_posted": 834,
   "history": [
     {
       "date": "2026-08-08",
@@ -5867,6 +5868,12 @@
       "date": "2026-09-14",
       "title": "BMW E46 DSC Switch Panel Console Relocation Plate",
       "media_id": "17906707812537108",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "BMW E46 Spare Wheel Retaining Nut Pin",
+      "media_id": "17994848892039926",
       "fb_media_id": null
     }
   ],
