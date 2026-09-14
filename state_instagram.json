@@ -867,11 +867,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-ashtray-delete-gauge-pod-holder",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-dsc-switch-panel-console-relocation-plate",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-spare-wheel-retaining-nut-pin",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-dual-cup-holder"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-dual-cup-holder",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-air-intake-heat-shield-partition-wall-plate"
   ],
   "today_date": "2026-09-14",
-  "today_count": 15,
-  "total_posted": 835,
+  "today_count": 16,
+  "total_posted": 836,
   "history": [
     {
       "date": "2026-08-08",
@@ -5881,6 +5882,12 @@
       "date": "2026-09-14",
       "title": "BMW E46 Center Console Dual Cup Holder",
       "media_id": "18103809215193753",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "BMW E46 Air Intake Heat Shield Partition Wall Plate",
+      "media_id": "17970676062140844",
       "fb_media_id": null
     }
   ],
