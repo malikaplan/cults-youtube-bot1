@@ -857,11 +857,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-f-rear-bumper-clip",
     "https://cults3d.com/en/3d-model/tool/fueltech-dual-nano-1-250-roll-bar-top-bar-tube-clamp-mount",
     "https://cults3d.com/en/3d-model/tool/volkswagen-polo-gti-52mm-auxiliary-gauge-pod-mount-bezel",
-    "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support"
+    "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support",
+    "https://cults3d.com/en/3d-model/tool/sw-motech-zzr1400-2016-passenger-grab-rail-top-box-mount-adapter-bracket"
   ],
   "today_date": "2026-09-14",
-  "today_count": 5,
-  "total_posted": 825,
+  "today_count": 6,
+  "total_posted": 826,
   "history": [
     {
       "date": "2026-08-08",
@@ -5811,6 +5812,12 @@
       "date": "2026-09-14",
       "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
       "media_id": "17901749676595479",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "SW-Motech ZZR1400 (2016) Passenger Grab Rail Top Box Mount Adapter Bracket",
+      "media_id": "17945847609296803",
       "fb_media_id": null
     }
   ],
