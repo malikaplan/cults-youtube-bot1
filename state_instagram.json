@@ -868,11 +868,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-dsc-switch-panel-console-relocation-plate",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-spare-wheel-retaining-nut-pin",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-dual-cup-holder",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-air-intake-heat-shield-partition-wall-plate"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-air-intake-heat-shield-partition-wall-plate",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-heat-shield-partition-pre-facelift-edition"
   ],
   "today_date": "2026-09-14",
-  "today_count": 16,
-  "total_posted": 836,
+  "today_count": 17,
+  "total_posted": 837,
   "history": [
     {
       "date": "2026-08-08",
@@ -5888,6 +5889,12 @@
       "date": "2026-09-14",
       "title": "BMW E46 Air Intake Heat Shield Partition Wall Plate",
       "media_id": "17970676062140844",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-14",
+      "title": "BMW E46 Cold Air Intake Heat Shield Partition (Pre-Facelift Edition)",
+      "media_id": "18142728964578543",
       "fb_media_id": null
     }
   ],
