@@ -889,11 +889,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-zafira-a-trunk-cover-hook",
     "https://cults3d.com/en/3d-model/gadget/opel-combo-knagg-trunk-hook-holder",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-gama-parcel-shelf-stud-part",
-    "https://cults3d.com/en/3d-model/gadget/opel-vauxhall-armrest-organizer"
+    "https://cults3d.com/en/3d-model/gadget/opel-vauxhall-armrest-organizer",
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-vent-cover-mounting-clips"
   ],
   "today_date": "2026-09-15",
-  "today_count": 13,
-  "total_posted": 857,
+  "today_count": 14,
+  "total_posted": 858,
   "history": [
     {
       "date": "2026-08-08",
@@ -6035,6 +6036,12 @@
       "date": "2026-09-15",
       "title": "Opel Vauxhall Armrest Organizer",
       "media_id": "18389151247204265",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Astra Vent Cover & Mounting Clips",
+      "media_id": "18121278331934448",
       "fb_media_id": null
     }
   ],
