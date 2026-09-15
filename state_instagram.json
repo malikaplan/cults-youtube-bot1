@@ -877,11 +877,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-kadett-vent-cover",
     "https://cults3d.com/en/3d-model/gadget/opel-mokka-mokka-x-handbrake-button-2012-2019",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-d-parcel-shelf-rod-holder",
-    "https://cults3d.com/en/3d-model/gadget/opel-window-handle-part"
+    "https://cults3d.com/en/3d-model/gadget/opel-window-handle-part",
+    "https://cults3d.com/en/3d-model/gadget/opel-frontera-side-panel-cover-clip"
   ],
   "today_date": "2026-09-15",
-  "today_count": 1,
-  "total_posted": 845,
+  "today_count": 2,
+  "total_posted": 846,
   "history": [
     {
       "date": "2026-08-08",
@@ -5951,6 +5952,12 @@
       "date": "2026-09-15",
       "title": "Opel Window Handle Part",
       "media_id": "18132292234634341",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Frontera Side Panel Cover Clip",
+      "media_id": "18329768182273261",
       "fb_media_id": null
     }
   ],
