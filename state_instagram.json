@@ -892,11 +892,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-vauxhall-armrest-organizer",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-vent-cover-mounting-clips",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-f-trunk-shelf-strap",
-    "https://cults3d.com/en/3d-model/gadget/opel-vectra-c-cup-holder-makdesign"
+    "https://cults3d.com/en/3d-model/gadget/opel-vectra-c-cup-holder-makdesign",
+    "https://cults3d.com/en/3d-model/gadget/opel-brake-cooling-duct-parts"
   ],
   "today_date": "2026-09-15",
-  "today_count": 16,
-  "total_posted": 860,
+  "today_count": 17,
+  "total_posted": 861,
   "history": [
     {
       "date": "2026-08-08",
@@ -6056,6 +6057,12 @@
       "date": "2026-09-15",
       "title": "Opel Vectra C Cup Holder",
       "media_id": "18117173482969175",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Brake Cooling Duct parts",
+      "media_id": "17906812326515427",
       "fb_media_id": null
     }
   ],
