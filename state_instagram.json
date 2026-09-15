@@ -882,11 +882,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-heater-housing-part",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-cable-clamp",
     "https://cults3d.com/en/3d-model/gadget/opel-hood-rubber-stopper",
-    "https://cults3d.com/en/3d-model/gadget/opel-corsa-side-support-holder"
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-side-support-holder",
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-parcel-shelf-stud-pin"
   ],
   "today_date": "2026-09-15",
-  "today_count": 6,
-  "total_posted": 850,
+  "today_count": 7,
+  "total_posted": 851,
   "history": [
     {
       "date": "2026-08-08",
@@ -5986,6 +5987,12 @@
       "date": "2026-09-15",
       "title": "Opel Corsa Side Support Holder",
       "media_id": "17907493167539772",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Astra Parcel Shelf Stud/Pin",
+      "media_id": "18190003150399685",
       "fb_media_id": null
     }
   ],
