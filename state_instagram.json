@@ -898,11 +898,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-astra-j-hb-trunk-lock-cover",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-parcel-shelf-support-left-right",
     "https://cults3d.com/en/3d-model/gadget/165-mm-speaker-mounting-adapter-opel-jazz-compatible",
-    "https://cults3d.com/en/3d-model/gadget/opel-astra-g-headlight-bulb-mounting-clip"
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-g-headlight-bulb-mounting-clip",
+    "https://cults3d.com/en/3d-model/gadget/opel-kadett-headlight-cap"
   ],
   "today_date": "2026-09-15",
-  "today_count": 22,
-  "total_posted": 866,
+  "today_count": 23,
+  "total_posted": 867,
   "history": [
     {
       "date": "2026-08-08",
@@ -6098,6 +6099,12 @@
       "date": "2026-09-15",
       "title": "Opel Astra G Headlight Bulb Mounting Clip",
       "media_id": "18109355804522699",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Kadett  Headlight Cap",
+      "media_id": "18353990647174848",
       "fb_media_id": null
     }
   ],
