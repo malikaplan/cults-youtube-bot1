@@ -887,11 +887,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-astra-trunk-usb-port-holder",
     "https://cults3d.com/en/3d-model/gadget/opel-zafira-a-door-ashtray-cover",
     "https://cults3d.com/en/3d-model/gadget/opel-zafira-a-trunk-cover-hook",
-    "https://cults3d.com/en/3d-model/gadget/opel-combo-knagg-trunk-hook-holder"
+    "https://cults3d.com/en/3d-model/gadget/opel-combo-knagg-trunk-hook-holder",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-gama-parcel-shelf-stud-part"
   ],
   "today_date": "2026-09-15",
-  "today_count": 11,
-  "total_posted": 855,
+  "today_count": 12,
+  "total_posted": 856,
   "history": [
     {
       "date": "2026-08-08",
@@ -6021,6 +6022,12 @@
       "date": "2026-09-15",
       "title": "Opel Combo Knagg – Trunk Hook Holder",
       "media_id": "18110592001861245",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Corsa Gama Parcel Shelf Stud part",
+      "media_id": "17942341122086690",
       "fb_media_id": null
     }
   ],
