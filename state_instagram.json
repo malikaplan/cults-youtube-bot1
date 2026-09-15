@@ -897,11 +897,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-b-headlight-housing",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-j-hb-trunk-lock-cover",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-parcel-shelf-support-left-right",
-    "https://cults3d.com/en/3d-model/gadget/165-mm-speaker-mounting-adapter-opel-jazz-compatible"
+    "https://cults3d.com/en/3d-model/gadget/165-mm-speaker-mounting-adapter-opel-jazz-compatible",
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-g-headlight-bulb-mounting-clip"
   ],
   "today_date": "2026-09-15",
-  "today_count": 21,
-  "total_posted": 865,
+  "today_count": 22,
+  "total_posted": 866,
   "history": [
     {
       "date": "2026-08-08",
@@ -6091,6 +6092,12 @@
       "date": "2026-09-15",
       "title": "165 mm Speaker Mounting Adapter – Opel & Jazz Compatible",
       "media_id": "17870635674601713",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Astra G Headlight Bulb Mounting Clip",
+      "media_id": "18109355804522699",
       "fb_media_id": null
     }
   ],
