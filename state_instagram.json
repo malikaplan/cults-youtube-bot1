@@ -879,11 +879,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-d-parcel-shelf-rod-holder",
     "https://cults3d.com/en/3d-model/gadget/opel-window-handle-part",
     "https://cults3d.com/en/3d-model/gadget/opel-frontera-side-panel-cover-clip",
-    "https://cults3d.com/en/3d-model/gadget/opel-heater-housing-part"
+    "https://cults3d.com/en/3d-model/gadget/opel-heater-housing-part",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-cable-clamp"
   ],
   "today_date": "2026-09-15",
-  "today_count": 3,
-  "total_posted": 847,
+  "today_count": 4,
+  "total_posted": 848,
   "history": [
     {
       "date": "2026-08-08",
@@ -5965,6 +5966,12 @@
       "date": "2026-09-15",
       "title": "Opel Heater Housing Part",
       "media_id": "18123165313898697",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Corsa Cable Clamp",
+      "media_id": "17917106610242609",
       "fb_media_id": null
     }
   ],
