@@ -1,43 +1,43 @@
 {
-  "next_index": 318,
-  "next_publish_date": "2026-09-13T00:00:00",
-  "run_count": 51,
-  "total_uploaded": 246,
-  "total_models": 1367,
+  "next_index": 324,
+  "next_publish_date": "2026-09-14T00:00:00",
+  "run_count": 52,
+  "total_uploaded": 252,
+  "total_models": 1383,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-13",
-    "day_number": 51,
+    "date": "2026-09-15",
+    "day_number": 52,
     "uploaded": [
       {
-        "title": "Cover for S2000 Headlight Bulb Wiring Opening",
-        "publish_at": "2026-09-12T09:00:00Z",
-        "link": "https://youtu.be/J2L6-ynUm9I"
+        "title": "FuelTech Dual NANO 1.250\" Roll Bar / Top Bar Tube Clamp Mount",
+        "publish_at": "2026-09-13T09:00:00Z",
+        "link": "https://youtu.be/eApMnvPvgHE"
       },
       {
-        "title": "S2000 Front L-Plate Cover",
-        "publish_at": "2026-09-12T11:00:00Z",
-        "link": "https://youtu.be/enhMpNeB-3E"
+        "title": "Volkswagen Polo GTI 52mm Auxiliary Gauge Pod Mount Bezel",
+        "publish_at": "2026-09-13T11:00:00Z",
+        "link": "https://youtu.be/DO9v2kK7ipA"
       },
       {
-        "title": "S2000 Front Lip (45mm)",
-        "publish_at": "2026-09-12T13:00:00Z",
-        "link": "https://youtu.be/UDVErJUaCmo"
+        "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
+        "publish_at": "2026-09-13T13:00:00Z",
+        "link": "https://youtu.be/xGTAO3UoJiE"
       },
       {
-        "title": "S2000 Oil Filter Wrench",
-        "publish_at": "2026-09-12T15:00:00Z",
-        "link": "https://youtu.be/X2h34mjtpRc"
+        "title": "SW-Motech ZZR1400 (2016) Passenger Grab Rail Top Box Mount Adapter Bracket",
+        "publish_at": "2026-09-13T15:00:00Z",
+        "link": "https://youtu.be/K-2MnSEXqQE"
       },
       {
-        "title": "S2000 Gauge Bezel for AiM MXS Dash",
-        "publish_at": "2026-09-12T17:00:00Z",
-        "link": "https://youtu.be/6kOsk2_1EwE"
+        "title": "MoTeC Cosworth RS Digital Dashboard Static Mounting Bracket Set",
+        "publish_at": "2026-09-13T17:00:00Z",
+        "link": "https://youtu.be/dTFKAGmDqHE"
       },
       {
-        "title": "S2000 Gas Door Grab",
-        "publish_at": "2026-09-12T19:00:00Z",
-        "link": "https://youtu.be/FyskJnG7ZDQ"
+        "title": "SW-Motec MT-01 Center Stand Spring Retaining Plate Template",
+        "publish_at": "2026-09-13T19:00:00Z",
+        "link": "https://youtu.be/QYsO3OYEtP4"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-09-03",
-      "day_number": 42,
-      "uploaded": [
-        {
-          "title": "AEM Halter",
-          "publish_at": "2026-09-03T09:00:00Z",
-          "link": "https://youtu.be/tzQh9EqjNN0"
-        },
-        {
-          "title": "FuelTech Mini 8 Mount",
-          "publish_at": "2026-09-03T11:00:00Z",
-          "link": "https://youtu.be/oNso6I5kL8U"
-        },
-        {
-          "title": "AEM Dual Gauge Housing",
-          "publish_at": "2026-09-03T13:00:00Z",
-          "link": "https://youtu.be/Tbr95a-r_T4"
-        },
-        {
-          "title": "AEM A-Pillar Gauge Mount",
-          "publish_at": "2026-09-03T15:00:00Z",
-          "link": "https://youtu.be/ewo4Uzx7Ym4"
-        },
-        {
-          "title": "AEM Holder V3",
-          "publish_at": "2026-09-03T17:00:00Z",
-          "link": "https://youtu.be/j0rpEfjVhK4"
-        },
-        {
-          "title": "AEM Fuel Pump Mount",
-          "publish_at": "2026-09-03T19:00:00Z",
-          "link": "https://youtu.be/p3U9kIPvRNM"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-04",
       "day_number": 43,
@@ -445,6 +405,46 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-15",
+      "day_number": 52,
+      "uploaded": [
+        {
+          "title": "FuelTech Dual NANO 1.250\" Roll Bar / Top Bar Tube Clamp Mount",
+          "publish_at": "2026-09-13T09:00:00Z",
+          "link": "https://youtu.be/eApMnvPvgHE"
+        },
+        {
+          "title": "Volkswagen Polo GTI 52mm Auxiliary Gauge Pod Mount Bezel",
+          "publish_at": "2026-09-13T11:00:00Z",
+          "link": "https://youtu.be/DO9v2kK7ipA"
+        },
+        {
+          "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
+          "publish_at": "2026-09-13T13:00:00Z",
+          "link": "https://youtu.be/xGTAO3UoJiE"
+        },
+        {
+          "title": "SW-Motech ZZR1400 (2016) Passenger Grab Rail Top Box Mount Adapter Bracket",
+          "publish_at": "2026-09-13T15:00:00Z",
+          "link": "https://youtu.be/K-2MnSEXqQE"
+        },
+        {
+          "title": "MoTeC Cosworth RS Digital Dashboard Static Mounting Bracket Set",
+          "publish_at": "2026-09-13T17:00:00Z",
+          "link": "https://youtu.be/dTFKAGmDqHE"
+        },
+        {
+          "title": "SW-Motec MT-01 Center Stand Spring Retaining Plate Template",
+          "publish_at": "2026-09-13T19:00:00Z",
+          "link": "https://youtu.be/QYsO3OYEtP4"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -765,7 +765,13 @@
     "https://cults3d.com/:4877231",
     "https://cults3d.com/:4881518",
     "https://cults3d.com/:4881534",
-    "https://cults3d.com/:4881545"
+    "https://cults3d.com/:4881545",
+    "https://cults3d.com/:4898299",
+    "https://cults3d.com/:4898309",
+    "https://cults3d.com/:4903006",
+    "https://cults3d.com/:4903135",
+    "https://cults3d.com/:4906716",
+    "https://cults3d.com/:4907351"
   ],
   "migrated_to_url_tracking": true,
   "pending_comments": [
@@ -810,28 +816,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "J2L6-ynUm9I",
-      "text": "https://cults3d.com/en/3d-model/tool/cover-for-s2000-headlight-bulb-wiring-opening"
+      "video_id": "eApMnvPvgHE",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech-dual-nano-1-250-roll-bar-top-bar-tube-clamp-mount"
     },
     {
-      "video_id": "enhMpNeB-3E",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-front-l-plate-cover"
+      "video_id": "DO9v2kK7ipA",
+      "text": "https://cults3d.com/en/3d-model/tool/volkswagen-polo-gti-52mm-auxiliary-gauge-pod-mount-bezel"
     },
     {
-      "video_id": "UDVErJUaCmo",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-front-lip-45mm"
+      "video_id": "xGTAO3UoJiE",
+      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support"
     },
     {
-      "video_id": "X2h34mjtpRc",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-oil-filter-wrench"
+      "video_id": "K-2MnSEXqQE",
+      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-zzr1400-2016-passenger-grab-rail-top-box-mount-adapter-bracket"
     },
     {
-      "video_id": "6kOsk2_1EwE",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-gauge-bezel-for-aim-mxs-dash"
+      "video_id": "dTFKAGmDqHE",
+      "text": "https://cults3d.com/en/3d-model/tool/motec-cosworth-rs-digital-dashboard-static-mounting-bracket-set"
     },
     {
-      "video_id": "FyskJnG7ZDQ",
-      "text": "https://cults3d.com/en/3d-model/tool/s2000-gas-door-grab"
+      "video_id": "QYsO3OYEtP4",
+      "text": "https://cults3d.com/en/3d-model/tool/sw-motec-mt-01-center-stand-spring-retaining-plate-template"
     }
   ]
 }
