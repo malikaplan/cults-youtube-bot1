@@ -885,11 +885,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-side-support-holder",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-parcel-shelf-stud-pin",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-trunk-usb-port-holder",
-    "https://cults3d.com/en/3d-model/gadget/opel-zafira-a-door-ashtray-cover"
+    "https://cults3d.com/en/3d-model/gadget/opel-zafira-a-door-ashtray-cover",
+    "https://cults3d.com/en/3d-model/gadget/opel-zafira-a-trunk-cover-hook"
   ],
   "today_date": "2026-09-15",
-  "today_count": 9,
-  "total_posted": 853,
+  "today_count": 10,
+  "total_posted": 854,
   "history": [
     {
       "date": "2026-08-08",
@@ -6007,6 +6008,12 @@
       "date": "2026-09-15",
       "title": "Opel Zafira A Door Ashtray Cover",
       "media_id": "17879530854535492",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Zafira A Trunk Cover Hook",
+      "media_id": "17910933882465084",
       "fb_media_id": null
     }
   ],
