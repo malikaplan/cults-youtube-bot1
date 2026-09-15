@@ -890,11 +890,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-combo-knagg-trunk-hook-holder",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-gama-parcel-shelf-stud-part",
     "https://cults3d.com/en/3d-model/gadget/opel-vauxhall-armrest-organizer",
-    "https://cults3d.com/en/3d-model/gadget/opel-astra-vent-cover-mounting-clips"
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-vent-cover-mounting-clips",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-f-trunk-shelf-strap"
   ],
   "today_date": "2026-09-15",
-  "today_count": 14,
-  "total_posted": 858,
+  "today_count": 15,
+  "total_posted": 859,
   "history": [
     {
       "date": "2026-08-08",
@@ -6042,6 +6043,12 @@
       "date": "2026-09-15",
       "title": "Opel Astra Vent Cover & Mounting Clips",
       "media_id": "18121278331934448",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Corsa F Trunk Shelf Strap",
+      "media_id": "17936148792363451",
       "fb_media_id": null
     }
   ],
