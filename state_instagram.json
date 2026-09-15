@@ -899,11 +899,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-parcel-shelf-support-left-right",
     "https://cults3d.com/en/3d-model/gadget/165-mm-speaker-mounting-adapter-opel-jazz-compatible",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-g-headlight-bulb-mounting-clip",
-    "https://cults3d.com/en/3d-model/gadget/opel-kadett-headlight-cap"
+    "https://cults3d.com/en/3d-model/gadget/opel-kadett-headlight-cap",
+    "https://cults3d.com/en/3d-model/gadget/opel-gt-sliding-ashtray-handle"
   ],
   "today_date": "2026-09-15",
-  "today_count": 23,
-  "total_posted": 867,
+  "today_count": 24,
+  "total_posted": 868,
   "history": [
     {
       "date": "2026-08-08",
@@ -6105,6 +6106,12 @@
       "date": "2026-09-15",
       "title": "Opel Kadett  Headlight Cap",
       "media_id": "18353990647174848",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel GT Sliding Ashtray Handle",
+      "media_id": "18034903115896819",
       "fb_media_id": null
     }
   ],
