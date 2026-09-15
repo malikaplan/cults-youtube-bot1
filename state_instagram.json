@@ -895,11 +895,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-vectra-c-cup-holder-makdesign",
     "https://cults3d.com/en/3d-model/gadget/opel-brake-cooling-duct-parts",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-b-headlight-housing",
-    "https://cults3d.com/en/3d-model/gadget/opel-astra-j-hb-trunk-lock-cover"
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-j-hb-trunk-lock-cover",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-parcel-shelf-support-left-right"
   ],
   "today_date": "2026-09-15",
-  "today_count": 19,
-  "total_posted": 863,
+  "today_count": 20,
+  "total_posted": 864,
   "history": [
     {
       "date": "2026-08-08",
@@ -6077,6 +6078,12 @@
       "date": "2026-09-15",
       "title": "Opel Astra J HB Trunk Lock Cover",
       "media_id": "18069900155578364",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Opel Corsa Parcel Shelf Support – Left / Right",
+      "media_id": "18115608992472758",
       "fb_media_id": null
     }
   ],
