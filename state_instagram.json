@@ -907,11 +907,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-vauxhall-corsa-c-shifting-knob",
     "https://cults3d.com/en/3d-model/gadget/opel-chevrolet-cruze-5-gear-pattern",
     "https://cults3d.com/en/3d-model/gadget/opel-frontera-window-switch-button",
-    "https://cults3d.com/en/3d-model/gadget/opel-insignia-wheel-lug-nut-cover"
+    "https://cults3d.com/en/3d-model/gadget/opel-insignia-wheel-lug-nut-cover",
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-f-sunvisor-clip"
   ],
   "today_date": "2026-09-16",
-  "today_count": 7,
-  "total_posted": 875,
+  "today_count": 8,
+  "total_posted": 876,
   "history": [
     {
       "date": "2026-08-08",
@@ -6161,6 +6162,12 @@
       "date": "2026-09-16",
       "title": "Opel Insignia Wheel Lug Nut Cover",
       "media_id": "18051725771589266",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Opel Astra F Sunvisor Clip",
+      "media_id": "18088091147230128",
       "fb_media_id": null
     }
   ],
