@@ -908,11 +908,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-chevrolet-cruze-5-gear-pattern",
     "https://cults3d.com/en/3d-model/gadget/opel-frontera-window-switch-button",
     "https://cults3d.com/en/3d-model/gadget/opel-insignia-wheel-lug-nut-cover",
-    "https://cults3d.com/en/3d-model/gadget/opel-astra-f-sunvisor-clip"
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-f-sunvisor-clip",
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-g-air-vent-grille"
   ],
   "today_date": "2026-09-16",
-  "today_count": 8,
-  "total_posted": 876,
+  "today_count": 9,
+  "total_posted": 877,
   "history": [
     {
       "date": "2026-08-08",
@@ -6168,6 +6169,12 @@
       "date": "2026-09-16",
       "title": "Opel Astra F Sunvisor Clip",
       "media_id": "18088091147230128",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Opel Astra G Air Vent Grille",
+      "media_id": "17888564376456223",
       "fb_media_id": null
     }
   ],
