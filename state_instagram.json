@@ -901,11 +901,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-astra-g-headlight-bulb-mounting-clip",
     "https://cults3d.com/en/3d-model/gadget/opel-kadett-headlight-cap",
     "https://cults3d.com/en/3d-model/gadget/opel-gt-sliding-ashtray-handle",
-    "https://cults3d.com/en/3d-model/gadget/opel-meriva-a-washer-reservoir-cap"
+    "https://cults3d.com/en/3d-model/gadget/opel-meriva-a-washer-reservoir-cap",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-wheel-bolt-cover"
   ],
   "today_date": "2026-09-16",
-  "today_count": 1,
-  "total_posted": 869,
+  "today_count": 2,
+  "total_posted": 870,
   "history": [
     {
       "date": "2026-08-08",
@@ -6119,6 +6120,12 @@
       "date": "2026-09-16",
       "title": "Opel Meriva A Washer Reservoir Cap",
       "media_id": "17899694877372589",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Opel Corsa Wheel Bolt Cover",
+      "media_id": "18121367827856100",
       "fb_media_id": null
     }
   ],
