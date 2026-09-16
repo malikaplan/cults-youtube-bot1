@@ -900,11 +900,12 @@
     "https://cults3d.com/en/3d-model/gadget/165-mm-speaker-mounting-adapter-opel-jazz-compatible",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-g-headlight-bulb-mounting-clip",
     "https://cults3d.com/en/3d-model/gadget/opel-kadett-headlight-cap",
-    "https://cults3d.com/en/3d-model/gadget/opel-gt-sliding-ashtray-handle"
+    "https://cults3d.com/en/3d-model/gadget/opel-gt-sliding-ashtray-handle",
+    "https://cults3d.com/en/3d-model/gadget/opel-meriva-a-washer-reservoir-cap"
   ],
-  "today_date": "2026-09-15",
-  "today_count": 24,
-  "total_posted": 868,
+  "today_date": "2026-09-16",
+  "today_count": 1,
+  "total_posted": 869,
   "history": [
     {
       "date": "2026-08-08",
@@ -6112,6 +6113,12 @@
       "date": "2026-09-15",
       "title": "Opel GT Sliding Ashtray Handle",
       "media_id": "18034903115896819",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Opel Meriva A Washer Reservoir Cap",
+      "media_id": "17899694877372589",
       "fb_media_id": null
     }
   ],
