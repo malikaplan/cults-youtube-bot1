@@ -1,91 +1,22 @@
 {
   "next_index": 324,
   "next_publish_date": "2026-09-14T00:00:00",
-  "run_count": 52,
+  "run_count": 53,
   "total_uploaded": 252,
   "total_models": 1383,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-15",
-    "day_number": 52,
-    "uploaded": [
-      {
-        "title": "FuelTech Dual NANO 1.250\" Roll Bar / Top Bar Tube Clamp Mount",
-        "publish_at": "2026-09-13T09:00:00Z",
-        "link": "https://youtu.be/eApMnvPvgHE"
-      },
-      {
-        "title": "Volkswagen Polo GTI 52mm Auxiliary Gauge Pod Mount Bezel",
-        "publish_at": "2026-09-13T11:00:00Z",
-        "link": "https://youtu.be/DO9v2kK7ipA"
-      },
-      {
-        "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
-        "publish_at": "2026-09-13T13:00:00Z",
-        "link": "https://youtu.be/xGTAO3UoJiE"
-      },
-      {
-        "title": "SW-Motech ZZR1400 (2016) Passenger Grab Rail Top Box Mount Adapter Bracket",
-        "publish_at": "2026-09-13T15:00:00Z",
-        "link": "https://youtu.be/K-2MnSEXqQE"
-      },
-      {
-        "title": "MoTeC Cosworth RS Digital Dashboard Static Mounting Bracket Set",
-        "publish_at": "2026-09-13T17:00:00Z",
-        "link": "https://youtu.be/dTFKAGmDqHE"
-      },
-      {
-        "title": "SW-Motec MT-01 Center Stand Spring Retaining Plate Template",
-        "publish_at": "2026-09-13T19:00:00Z",
-        "link": "https://youtu.be/QYsO3OYEtP4"
-      }
-    ],
+    "date": "2026-09-16",
+    "day_number": 53,
+    "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
     "skipped_blocked": 0,
-    "errors": []
+    "errors": [
+      "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+    ]
   },
   "history": [
-    {
-      "date": "2026-09-04",
-      "day_number": 43,
-      "uploaded": [
-        {
-          "title": "AEM AFR Pod v2",
-          "publish_at": "2026-09-04T09:00:00Z",
-          "link": "https://youtu.be/sSMy-HpodGw"
-        },
-        {
-          "title": "AEM Holder / Universal Design",
-          "publish_at": "2026-09-04T11:00:00Z",
-          "link": "https://youtu.be/Q2KqYDm0VlY"
-        },
-        {
-          "title": "AEM AFR Gauge Pod",
-          "publish_at": "2026-09-04T13:00:00Z",
-          "link": "https://youtu.be/vxl3IS1EMAM"
-        },
-        {
-          "title": "AEM Gauge Pod Mount and Slider Tab",
-          "publish_at": "2026-09-04T15:00:00Z",
-          "link": "https://youtu.be/BCQdobAmNPQ"
-        },
-        {
-          "title": "AEM Gauge Pod  52mm",
-          "publish_at": "2026-09-04T17:00:00Z",
-          "link": "https://youtu.be/fClBQLfLnYc"
-        },
-        {
-          "title": "AEM Dash Mount (For DB) CD-7 Carbon",
-          "publish_at": "2026-09-04T19:00:00Z",
-          "link": "https://youtu.be/KFMaZzPAfZ0"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-05",
       "day_number": 44,
@@ -445,6 +376,17 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-16",
+      "day_number": 53,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
     }
   ],
   "processed_urls": [
@@ -814,30 +756,6 @@
     {
       "video_id": "SwlsZK19Rc4",
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
-    },
-    {
-      "video_id": "eApMnvPvgHE",
-      "text": "https://cults3d.com/en/3d-model/tool/fueltech-dual-nano-1-250-roll-bar-top-bar-tube-clamp-mount"
-    },
-    {
-      "video_id": "DO9v2kK7ipA",
-      "text": "https://cults3d.com/en/3d-model/tool/volkswagen-polo-gti-52mm-auxiliary-gauge-pod-mount-bezel"
-    },
-    {
-      "video_id": "xGTAO3UoJiE",
-      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support"
-    },
-    {
-      "video_id": "K-2MnSEXqQE",
-      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-zzr1400-2016-passenger-grab-rail-top-box-mount-adapter-bracket"
-    },
-    {
-      "video_id": "dTFKAGmDqHE",
-      "text": "https://cults3d.com/en/3d-model/tool/motec-cosworth-rs-digital-dashboard-static-mounting-bracket-set"
-    },
-    {
-      "video_id": "QYsO3OYEtP4",
-      "text": "https://cults3d.com/en/3d-model/tool/sw-motec-mt-01-center-stand-spring-retaining-plate-template"
     }
   ]
 }
