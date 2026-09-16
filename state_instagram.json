@@ -919,11 +919,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-cc-hydraulic-oil-expansion-tank",
     "https://cults3d.com/en/3d-model/gadget/peugeot-pars-405-406-fuel-tank-cap",
     "https://cults3d.com/en/3d-model/gadget/peugeot-ventilator-channel",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-siemens-window-motor-gear"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-siemens-window-motor-gear",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-406-front-end-coolant-tube-holder"
   ],
   "today_date": "2026-09-16",
-  "today_count": 19,
-  "total_posted": 887,
+  "today_count": 20,
+  "total_posted": 888,
   "history": [
     {
       "date": "2026-08-08",
@@ -6245,6 +6246,12 @@
       "date": "2026-09-16",
       "title": "Peugeot Siemens Window Motor Gear",
       "media_id": "17963180303980396",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Peugeot 406 Front End Coolant Tube Holder",
+      "media_id": "18626545603058596",
       "fb_media_id": null
     }
   ],
