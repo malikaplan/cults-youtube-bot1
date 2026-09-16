@@ -920,11 +920,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-pars-405-406-fuel-tank-cap",
     "https://cults3d.com/en/3d-model/gadget/peugeot-ventilator-channel",
     "https://cults3d.com/en/3d-model/gadget/peugeot-siemens-window-motor-gear",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-406-front-end-coolant-tube-holder"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-406-front-end-coolant-tube-holder",
+    "https://cults3d.com/en/3d-model/jewelry/peugeot-307-keychain"
   ],
   "today_date": "2026-09-16",
-  "today_count": 20,
-  "total_posted": 888,
+  "today_count": 21,
+  "total_posted": 889,
   "history": [
     {
       "date": "2026-08-08",
@@ -6252,6 +6253,12 @@
       "date": "2026-09-16",
       "title": "Peugeot 406 Front End Coolant Tube Holder",
       "media_id": "18626545603058596",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Peugeot 307 Keychain",
+      "media_id": "18120774959482884",
       "fb_media_id": null
     }
   ],
