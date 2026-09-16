@@ -906,11 +906,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-wheel-bolt-cover-cap",
     "https://cults3d.com/en/3d-model/gadget/opel-vauxhall-corsa-c-shifting-knob",
     "https://cults3d.com/en/3d-model/gadget/opel-chevrolet-cruze-5-gear-pattern",
-    "https://cults3d.com/en/3d-model/gadget/opel-frontera-window-switch-button"
+    "https://cults3d.com/en/3d-model/gadget/opel-frontera-window-switch-button",
+    "https://cults3d.com/en/3d-model/gadget/opel-insignia-wheel-lug-nut-cover"
   ],
   "today_date": "2026-09-16",
-  "today_count": 6,
-  "total_posted": 874,
+  "today_count": 7,
+  "total_posted": 875,
   "history": [
     {
       "date": "2026-08-08",
@@ -6154,6 +6155,12 @@
       "date": "2026-09-16",
       "title": "Opel Frontera Window Switch Button",
       "media_id": "18028409420851688",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Opel Insignia Wheel Lug Nut Cover",
+      "media_id": "18051725771589266",
       "fb_media_id": null
     }
   ],
