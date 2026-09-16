@@ -922,11 +922,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-siemens-window-motor-gear",
     "https://cults3d.com/en/3d-model/gadget/peugeot-406-front-end-coolant-tube-holder",
     "https://cults3d.com/en/3d-model/jewelry/peugeot-307-keychain",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-205-309-brake-and-fuel-hose-clip"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-205-309-brake-and-fuel-hose-clip",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-504-rear-window-switch-panel"
   ],
   "today_date": "2026-09-16",
-  "today_count": 22,
-  "total_posted": 890,
+  "today_count": 23,
+  "total_posted": 891,
   "history": [
     {
       "date": "2026-08-08",
@@ -6266,6 +6267,12 @@
       "date": "2026-09-16",
       "title": "Peugeot 205 & 309 Brake and Fuel Hose Clip",
       "media_id": "18114353864102275",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Peugeot 504 Rear Window Switch Panel",
+      "media_id": "18030125207851222",
       "fb_media_id": null
     }
   ],
