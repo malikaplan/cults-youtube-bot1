@@ -917,11 +917,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-citroen-rear-seat-under-bracket",
     "https://cults3d.com/en/3d-model/gadget/peugeot-partner-2006-window-regulator-part",
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-cc-hydraulic-oil-expansion-tank",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-pars-405-406-fuel-tank-cap"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-pars-405-406-fuel-tank-cap",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-ventilator-channel"
   ],
   "today_date": "2026-09-16",
-  "today_count": 17,
-  "total_posted": 885,
+  "today_count": 18,
+  "total_posted": 886,
   "history": [
     {
       "date": "2026-08-08",
@@ -6231,6 +6232,12 @@
       "date": "2026-09-16",
       "title": "Peugeot PARS 405‑406 Fuel Tank Cap",
       "media_id": "17901965073592369",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Peugeot Ventilator Channel",
+      "media_id": "18463361845141940",
       "fb_media_id": null
     }
   ],
