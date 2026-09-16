@@ -918,11 +918,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-partner-2006-window-regulator-part",
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-cc-hydraulic-oil-expansion-tank",
     "https://cults3d.com/en/3d-model/gadget/peugeot-pars-405-406-fuel-tank-cap",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-ventilator-channel"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-ventilator-channel",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-siemens-window-motor-gear"
   ],
   "today_date": "2026-09-16",
-  "today_count": 18,
-  "total_posted": 886,
+  "today_count": 19,
+  "total_posted": 887,
   "history": [
     {
       "date": "2026-08-08",
@@ -6238,6 +6239,12 @@
       "date": "2026-09-16",
       "title": "Peugeot Ventilator Channel",
       "media_id": "18463361845141940",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Peugeot Siemens Window Motor Gear",
+      "media_id": "17963180303980396",
       "fb_media_id": null
     }
   ],
