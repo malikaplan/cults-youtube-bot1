@@ -904,11 +904,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-meriva-a-washer-reservoir-cap",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-wheel-bolt-cover",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-wheel-bolt-cover-cap",
-    "https://cults3d.com/en/3d-model/gadget/opel-vauxhall-corsa-c-shifting-knob"
+    "https://cults3d.com/en/3d-model/gadget/opel-vauxhall-corsa-c-shifting-knob",
+    "https://cults3d.com/en/3d-model/gadget/opel-chevrolet-cruze-5-gear-pattern"
   ],
   "today_date": "2026-09-16",
-  "today_count": 4,
-  "total_posted": 872,
+  "today_count": 5,
+  "total_posted": 873,
   "history": [
     {
       "date": "2026-08-08",
@@ -6140,6 +6141,12 @@
       "date": "2026-09-16",
       "title": "Opel / Vauxhall Corsa C Shifting Knob",
       "media_id": "18391585315206794",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Opel / Chevrolet Cruze - 5 Gear Pattern",
+      "media_id": "18079106924710545",
       "fb_media_id": null
     }
   ],
