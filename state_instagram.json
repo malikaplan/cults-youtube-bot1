@@ -914,11 +914,12 @@
     "https://cults3d.com/en/3d-model/gadget/opel-f-sun-visor-body-part",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-h-13-cm-speaker-adapter",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-h-headlight-mounting-clip-gm",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-citroen-rear-seat-under-bracket"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-citroen-rear-seat-under-bracket",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-partner-2006-window-regulator-part"
   ],
   "today_date": "2026-09-16",
-  "today_count": 14,
-  "total_posted": 882,
+  "today_count": 15,
+  "total_posted": 883,
   "history": [
     {
       "date": "2026-08-08",
@@ -6210,6 +6211,12 @@
       "date": "2026-09-16",
       "title": "Peugeot & Citroën Rear Seat Under Bracket",
       "media_id": "18484218490129100",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Peugeot Partner 2006 Window Regulator Part",
+      "media_id": "18107947532240956",
       "fb_media_id": null
     }
   ],
