@@ -923,11 +923,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-406-front-end-coolant-tube-holder",
     "https://cults3d.com/en/3d-model/jewelry/peugeot-307-keychain",
     "https://cults3d.com/en/3d-model/gadget/peugeot-205-309-brake-and-fuel-hose-clip",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-504-rear-window-switch-panel"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-504-rear-window-switch-panel",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-2008-cup-holder-makdesign"
   ],
   "today_date": "2026-09-16",
-  "today_count": 23,
-  "total_posted": 891,
+  "today_count": 24,
+  "total_posted": 892,
   "history": [
     {
       "date": "2026-08-08",
@@ -6273,6 +6274,12 @@
       "date": "2026-09-16",
       "title": "Peugeot 504 Rear Window Switch Panel",
       "media_id": "18030125207851222",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-16",
+      "title": "Peugeot 2008 Cup Holder",
+      "media_id": "18086513396256250",
       "fb_media_id": null
     }
   ],
