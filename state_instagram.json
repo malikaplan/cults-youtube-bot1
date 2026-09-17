@@ -928,11 +928,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-208-keychain-makdesign",
     "https://cults3d.com/en/3d-model/gadget/peugeot-106-window-guide",
     "https://cults3d.com/en/3d-model/gadget/peugeot-ashtray-top-cover-makdesign-2",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-206-tweeter-adapter"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-206-tweeter-adapter",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-2008-1-5-turbo-inlet-mouth"
   ],
   "today_date": "2026-09-17",
-  "today_count": 4,
-  "total_posted": 896,
+  "today_count": 5,
+  "total_posted": 897,
   "history": [
     {
       "date": "2026-08-08",
@@ -6308,6 +6309,12 @@
       "date": "2026-09-17",
       "title": "Peugeot 206 Tweeter Adapter",
       "media_id": "18122232850919514",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Peugeot 2008 1.5 Turbo Inlet Mouth",
+      "media_id": "18134957050726605",
       "fb_media_id": null
     }
   ],
