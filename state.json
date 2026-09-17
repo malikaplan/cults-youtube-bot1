@@ -1,13 +1,13 @@
 {
   "next_index": 324,
   "next_publish_date": "2026-09-14T00:00:00",
-  "run_count": 53,
+  "run_count": 54,
   "total_uploaded": 252,
   "total_models": 1383,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-16",
-    "day_number": 53,
+    "date": "2026-09-17",
+    "day_number": 54,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,46 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-05",
-      "day_number": 44,
-      "uploaded": [
-        {
-          "title": "AEM Support Manometre Autometer Two Model",
-          "publish_at": "2026-09-05T09:00:00Z",
-          "link": "https://youtu.be/-7ItIDMfQGM"
-        },
-        {
-          "title": "AEM Wideband Ring",
-          "publish_at": "2026-09-05T11:00:00Z",
-          "link": "https://youtu.be/ayHI9Ncw9To"
-        },
-        {
-          "title": "FuelTech550 Porsche 944 Digital Dashboard and Blank Version",
-          "publish_at": "2026-09-05T13:00:00Z",
-          "link": "https://youtu.be/OxAhCfiLDeQ"
-        },
-        {
-          "title": "AEM Pod Mount",
-          "publish_at": "2026-09-05T15:00:00Z",
-          "link": "https://youtu.be/rpfoN_j16sM"
-        },
-        {
-          "title": "AEM Gauge Pod Adapter",
-          "publish_at": "2026-09-05T17:00:00Z",
-          "link": "https://youtu.be/lAmODmeStIY"
-        },
-        {
-          "title": "Abarth Boost Gauge Housing",
-          "publish_at": "2026-09-05T19:00:00Z",
-          "link": "https://youtu.be/y5Mhon9pBjg"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-06",
       "day_number": 45,
@@ -380,6 +340,17 @@
     {
       "date": "2026-09-16",
       "day_number": 53,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "day_number": 54,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
