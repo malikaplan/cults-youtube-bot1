@@ -933,11 +933,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-shift-stick-knob",
     "https://cults3d.com/en/3d-model/gadget/peugeot-306-window-regulator",
     "https://cults3d.com/en/3d-model/gadget/peugeot-407-rear-bumper-cap",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-106-gauges-holder-bracket"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-106-gauges-holder-bracket",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-205-gas-stop-cable-part-model"
   ],
   "today_date": "2026-09-17",
-  "today_count": 9,
-  "total_posted": 901,
+  "today_count": 10,
+  "total_posted": 902,
   "history": [
     {
       "date": "2026-08-08",
@@ -6343,6 +6344,12 @@
       "date": "2026-09-17",
       "title": "Peugeot 106 Gauges Holder Bracket",
       "media_id": "18479673505105353",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Peugeot 205 Gas Stop Cable Part Model",
+      "media_id": "18097063064245074",
       "fb_media_id": null
     }
   ],
