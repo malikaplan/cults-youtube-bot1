@@ -929,11 +929,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-106-window-guide",
     "https://cults3d.com/en/3d-model/gadget/peugeot-ashtray-top-cover-makdesign-2",
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-tweeter-adapter",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-2008-1-5-turbo-inlet-mouth"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-2008-1-5-turbo-inlet-mouth",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-206-shift-stick-knob"
   ],
   "today_date": "2026-09-17",
-  "today_count": 5,
-  "total_posted": 897,
+  "today_count": 6,
+  "total_posted": 898,
   "history": [
     {
       "date": "2026-08-08",
@@ -6315,6 +6316,12 @@
       "date": "2026-09-17",
       "title": "Peugeot 2008 1.5 Turbo Inlet Mouth",
       "media_id": "18134957050726605",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Peugeot 206 Shift Stick Knob",
+      "media_id": "18097992137382037",
       "fb_media_id": null
     }
   ],
