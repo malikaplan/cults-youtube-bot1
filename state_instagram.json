@@ -935,11 +935,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-407-rear-bumper-cap",
     "https://cults3d.com/en/3d-model/gadget/peugeot-106-gauges-holder-bracket",
     "https://cults3d.com/en/3d-model/gadget/peugeot-205-gas-stop-cable-part-model",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-508-washer-fluid-cap"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-508-washer-fluid-cap",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-107-exhaust-silencer-silent-bloc"
   ],
   "today_date": "2026-09-17",
-  "today_count": 11,
-  "total_posted": 903,
+  "today_count": 12,
+  "total_posted": 904,
   "history": [
     {
       "date": "2026-08-08",
@@ -6357,6 +6358,12 @@
       "date": "2026-09-17",
       "title": "Peugeot 508 Washer Fluid Cap",
       "media_id": "18114466060804136",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Peugeot 107 Exhaust Silencer Silent Bloc",
+      "media_id": "17916418074449159",
       "fb_media_id": null
     }
   ],
