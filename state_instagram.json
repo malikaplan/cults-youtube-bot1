@@ -940,11 +940,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-boxer-seat-adjustment-knob",
     "https://cults3d.com/en/3d-model/gadget/peugeot-rear-speaker-grate",
     "https://cults3d.com/en/3d-model/gadget/peugeot-307-car-audio-frame",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-107-radio-cover"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-107-radio-cover",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-205-ventilation-knob"
   ],
   "today_date": "2026-09-17",
-  "today_count": 16,
-  "total_posted": 908,
+  "today_count": 17,
+  "total_posted": 909,
   "history": [
     {
       "date": "2026-08-08",
@@ -6392,6 +6393,12 @@
       "date": "2026-09-17",
       "title": "Peugeot 107 Radio Cover",
       "media_id": "18028074641687457",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Peugeot 205 Ventilation Knob",
+      "media_id": "18012639095971920",
       "fb_media_id": null
     }
   ],
