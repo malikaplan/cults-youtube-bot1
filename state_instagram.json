@@ -930,11 +930,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-ashtray-top-cover-makdesign-2",
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-tweeter-adapter",
     "https://cults3d.com/en/3d-model/gadget/peugeot-2008-1-5-turbo-inlet-mouth",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-206-shift-stick-knob"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-206-shift-stick-knob",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-306-window-regulator"
   ],
   "today_date": "2026-09-17",
-  "today_count": 6,
-  "total_posted": 898,
+  "today_count": 7,
+  "total_posted": 899,
   "history": [
     {
       "date": "2026-08-08",
@@ -6322,6 +6323,12 @@
       "date": "2026-09-17",
       "title": "Peugeot 206 Shift Stick Knob",
       "media_id": "18097992137382037",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Peugeot 306 Window Regulator",
+      "media_id": "17947384785308850",
       "fb_media_id": null
     }
   ],
