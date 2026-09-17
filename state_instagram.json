@@ -926,11 +926,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-504-rear-window-switch-panel",
     "https://cults3d.com/en/3d-model/gadget/peugeot-2008-cup-holder-makdesign",
     "https://cults3d.com/en/3d-model/gadget/peugeot-208-keychain-makdesign",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-106-window-guide"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-106-window-guide",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-ashtray-top-cover-makdesign-2"
   ],
   "today_date": "2026-09-17",
-  "today_count": 2,
-  "total_posted": 894,
+  "today_count": 3,
+  "total_posted": 895,
   "history": [
     {
       "date": "2026-08-08",
@@ -6294,6 +6295,12 @@
       "date": "2026-09-17",
       "title": "Peugeot 106 Window Guide",
       "media_id": "17971205067140658",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Peugeot Ashtray Top Cover",
+      "media_id": "18115843051959906",
       "fb_media_id": null
     }
   ],
