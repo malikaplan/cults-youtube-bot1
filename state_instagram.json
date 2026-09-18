@@ -962,11 +962,12 @@
     "https://cults3d.com/en/3d-model/gadget/audi-quattro-front-window-trim-clip",
     "https://cults3d.com/en/3d-model/gadget/alfa-romeo-giulietta-rear-boot-door-moulding-trim-clip",
     "https://cults3d.com/en/3d-model/gadget/universal-trim-clip-removal-tool",
-    "https://cults3d.com/en/3d-model/gadget/bmw-mini-cooper-trim-panel-fender-extension-holder-fastener"
+    "https://cults3d.com/en/3d-model/gadget/bmw-mini-cooper-trim-panel-fender-extension-holder-fastener",
+    "https://cults3d.com/en/3d-model/gadget/volkswagen-weatherstrip-trim-clip"
   ],
   "today_date": "2026-09-18",
-  "today_count": 14,
-  "total_posted": 930,
+  "today_count": 15,
+  "total_posted": 931,
   "history": [
     {
       "date": "2026-08-08",
@@ -6546,6 +6547,12 @@
       "date": "2026-09-18",
       "title": "BMW Mini-Cooper – Trim Panel Fender Extension Holder Fastener",
       "media_id": "17945875515316546",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Volkswagen – Weatherstrip Trim Clip",
+      "media_id": "18177518365430678",
       "fb_media_id": null
     }
   ],
