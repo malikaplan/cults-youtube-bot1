@@ -955,11 +955,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-boxer-windshield-cap",
     "https://cults3d.com/en/3d-model/gadget/peugeot-berlingo-hood-handle",
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-fuse-box-cover-lock",
-    "https://cults3d.com/en/3d-model/gadget/ford-fiesta-trim-clip-8x16mm"
+    "https://cults3d.com/en/3d-model/gadget/ford-fiesta-trim-clip-8x16mm",
+    "https://cults3d.com/en/3d-model/gadget/porsche-trunk-trim-panel-clip-two-piece-interlocking-3d-printer-compatible-v"
   ],
   "today_date": "2026-09-18",
-  "today_count": 7,
-  "total_posted": 923,
+  "today_count": 8,
+  "total_posted": 924,
   "history": [
     {
       "date": "2026-08-08",
@@ -6497,6 +6498,12 @@
       "date": "2026-09-18",
       "title": "Ford Fiesta – Trim Clip 8x16mm",
       "media_id": "18057797321539238",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Porsche – Trunk Trim Panel Clip (Two-Piece Interlocking, 3D Printer Compatible Version)",
+      "media_id": "18101626754343753",
       "fb_media_id": null
     }
   ],
