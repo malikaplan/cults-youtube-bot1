@@ -952,11 +952,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-207-tray",
     "https://cults3d.com/en/3d-model/gadget/peugeot-3008-suv-bag-hook",
     "https://cults3d.com/en/3d-model/gadget/peugeot-boxer-windshield-cap-makdesign",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-boxer-windshield-cap"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-boxer-windshield-cap",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-berlingo-hood-handle"
   ],
   "today_date": "2026-09-18",
-  "today_count": 4,
-  "total_posted": 920,
+  "today_count": 5,
+  "total_posted": 921,
   "history": [
     {
       "date": "2026-08-08",
@@ -6476,6 +6477,12 @@
       "date": "2026-09-18",
       "title": "Peugeot Boxer Windshield Cap",
       "media_id": "18045602144818524",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Peugeot Berlingo Hood Handle",
+      "media_id": "18105308681261584",
       "fb_media_id": null
     }
   ],
