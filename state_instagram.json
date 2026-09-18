@@ -956,11 +956,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-berlingo-hood-handle",
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-fuse-box-cover-lock",
     "https://cults3d.com/en/3d-model/gadget/ford-fiesta-trim-clip-8x16mm",
-    "https://cults3d.com/en/3d-model/gadget/porsche-trunk-trim-panel-clip-two-piece-interlocking-3d-printer-compatible-v"
+    "https://cults3d.com/en/3d-model/gadget/porsche-trunk-trim-panel-clip-two-piece-interlocking-3d-printer-compatible-v",
+    "https://cults3d.com/en/3d-model/gadget/volvo-xc90-wheel-arch-trim-retaining-clip"
   ],
   "today_date": "2026-09-18",
-  "today_count": 8,
-  "total_posted": 924,
+  "today_count": 9,
+  "total_posted": 925,
   "history": [
     {
       "date": "2026-08-08",
@@ -6504,6 +6505,12 @@
       "date": "2026-09-18",
       "title": "Porsche – Trunk Trim Panel Clip (Two-Piece Interlocking, 3D Printer Compatible Version)",
       "media_id": "18101626754343753",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Volvo XC90 – Wheel Arch Trim Retaining Clip",
+      "media_id": "18108608012170400",
       "fb_media_id": null
     }
   ],
