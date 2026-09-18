@@ -965,11 +965,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-mini-cooper-trim-panel-fender-extension-holder-fastener",
     "https://cults3d.com/en/3d-model/gadget/volkswagen-weatherstrip-trim-clip",
     "https://cults3d.com/en/3d-model/gadget/ford-door-panel-clips",
-    "https://cults3d.com/en/3d-model/gadget/volkswagen-body-trim-clip"
+    "https://cults3d.com/en/3d-model/gadget/volkswagen-body-trim-clip",
+    "https://cults3d.com/en/3d-model/gadget/mazda-cx-headliner-trim-clips"
   ],
   "today_date": "2026-09-18",
-  "today_count": 17,
-  "total_posted": 933,
+  "today_count": 18,
+  "total_posted": 934,
   "history": [
     {
       "date": "2026-08-08",
@@ -6567,6 +6568,12 @@
       "date": "2026-09-18",
       "title": "Volkswagen – Body Trim Clip",
       "media_id": "18115213088073624",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Mazda CX – Headliner Trim Clips",
+      "media_id": "18252886936309424",
       "fb_media_id": null
     }
   ],
