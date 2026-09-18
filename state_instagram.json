@@ -971,11 +971,12 @@
     "https://cults3d.com/en/3d-model/gadget/audi-a4-under-tray-clip-trim-clip-trim-nut-5mm-4-8mm-set",
     "https://cults3d.com/en/3d-model/gadget/bmw-640-seat-trim-clip",
     "https://cults3d.com/en/3d-model/gadget/volvo-240-front-grille-clip",
-    "https://cults3d.com/en/3d-model/gadget/volvo-240-door-panel-clips-long-short-version"
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-door-panel-clips-long-short-version",
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-station-wagon-5th-door-trim-clip-holder"
   ],
   "today_date": "2026-09-18",
-  "today_count": 23,
-  "total_posted": 939,
+  "today_count": 24,
+  "total_posted": 940,
   "history": [
     {
       "date": "2026-08-08",
@@ -6609,6 +6610,12 @@
       "date": "2026-09-18",
       "title": "Volvo 240 – Door Panel Clips (Long & Short Version)",
       "media_id": "18024371963863430",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Volvo 240 Station Wagon – 5th Door Trim Clip & Holder",
+      "media_id": "18630325717004153",
       "fb_media_id": null
     }
   ],
