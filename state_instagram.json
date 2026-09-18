@@ -953,11 +953,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-3008-suv-bag-hook",
     "https://cults3d.com/en/3d-model/gadget/peugeot-boxer-windshield-cap-makdesign",
     "https://cults3d.com/en/3d-model/gadget/peugeot-boxer-windshield-cap",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-berlingo-hood-handle"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-berlingo-hood-handle",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-206-fuse-box-cover-lock"
   ],
   "today_date": "2026-09-18",
-  "today_count": 5,
-  "total_posted": 921,
+  "today_count": 6,
+  "total_posted": 922,
   "history": [
     {
       "date": "2026-08-08",
@@ -6483,6 +6484,12 @@
       "date": "2026-09-18",
       "title": "Peugeot Berlingo Hood Handle",
       "media_id": "18105308681261584",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Peugeot 206 – Fuse Box Cover Lock v2",
+      "media_id": "18027769967909311",
       "fb_media_id": null
     }
   ],
