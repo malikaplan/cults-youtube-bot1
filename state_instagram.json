@@ -950,11 +950,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-107-wheel-cap",
     "https://cults3d.com/en/3d-model/gadget/peugeot-106-rooflight-body",
     "https://cults3d.com/en/3d-model/gadget/peugeot-207-tray",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-3008-suv-bag-hook"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-3008-suv-bag-hook",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-boxer-windshield-cap-makdesign"
   ],
   "today_date": "2026-09-18",
-  "today_count": 2,
-  "total_posted": 918,
+  "today_count": 3,
+  "total_posted": 919,
   "history": [
     {
       "date": "2026-08-08",
@@ -6462,6 +6463,12 @@
       "date": "2026-09-18",
       "title": "Peugeot 3008 SUV Bag Hook",
       "media_id": "18102109766458438",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Peugeot Boxer Windshield Cap",
+      "media_id": "18125262361890486",
       "fb_media_id": null
     }
   ],
