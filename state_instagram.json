@@ -969,11 +969,12 @@
     "https://cults3d.com/en/3d-model/gadget/mazda-cx-headliner-trim-clips",
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-trim-clip",
     "https://cults3d.com/en/3d-model/gadget/audi-a4-under-tray-clip-trim-clip-trim-nut-5mm-4-8mm-set",
-    "https://cults3d.com/en/3d-model/gadget/bmw-640-seat-trim-clip"
+    "https://cults3d.com/en/3d-model/gadget/bmw-640-seat-trim-clip",
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-front-grille-clip"
   ],
   "today_date": "2026-09-18",
-  "today_count": 21,
-  "total_posted": 937,
+  "today_count": 22,
+  "total_posted": 938,
   "history": [
     {
       "date": "2026-08-08",
@@ -6595,6 +6596,12 @@
       "date": "2026-09-18",
       "title": "BMW 640 – Seat Trim Clip",
       "media_id": "17872671912650281",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Volvo 240 – Front Grille Clip",
+      "media_id": "18225455530331016",
       "fb_media_id": null
     }
   ],
