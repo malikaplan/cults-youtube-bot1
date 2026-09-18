@@ -964,11 +964,12 @@
     "https://cults3d.com/en/3d-model/gadget/universal-trim-clip-removal-tool",
     "https://cults3d.com/en/3d-model/gadget/bmw-mini-cooper-trim-panel-fender-extension-holder-fastener",
     "https://cults3d.com/en/3d-model/gadget/volkswagen-weatherstrip-trim-clip",
-    "https://cults3d.com/en/3d-model/gadget/ford-door-panel-clips"
+    "https://cults3d.com/en/3d-model/gadget/ford-door-panel-clips",
+    "https://cults3d.com/en/3d-model/gadget/volkswagen-body-trim-clip"
   ],
   "today_date": "2026-09-18",
-  "today_count": 16,
-  "total_posted": 932,
+  "today_count": 17,
+  "total_posted": 933,
   "history": [
     {
       "date": "2026-08-08",
@@ -6560,6 +6561,12 @@
       "date": "2026-09-18",
       "title": "Ford – Door Panel Clips",
       "media_id": "18341976175271036",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Volkswagen – Body Trim Clip",
+      "media_id": "18115213088073624",
       "fb_media_id": null
     }
   ],
