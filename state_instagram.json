@@ -948,11 +948,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-cigarette-lighter-cover",
     "https://cults3d.com/en/3d-model/gadget/peugeot-205-tray",
     "https://cults3d.com/en/3d-model/gadget/peugeot-107-wheel-cap",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-106-rooflight-body"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-106-rooflight-body",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-207-tray"
   ],
-  "today_date": "2026-09-17",
-  "today_count": 24,
-  "total_posted": 916,
+  "today_date": "2026-09-18",
+  "today_count": 1,
+  "total_posted": 917,
   "history": [
     {
       "date": "2026-08-08",
@@ -6448,6 +6449,12 @@
       "date": "2026-09-17",
       "title": "Peugeot 106 Rooflight Body",
       "media_id": "18131208058737667",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Peugeot 207 Tray",
+      "media_id": "17878074129547446",
       "fb_media_id": null
     }
   ],
