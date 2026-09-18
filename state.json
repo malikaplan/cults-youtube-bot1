@@ -1,13 +1,13 @@
 {
   "next_index": 324,
   "next_publish_date": "2026-09-14T00:00:00",
-  "run_count": 54,
+  "run_count": 55,
   "total_uploaded": 252,
   "total_models": 1383,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-17",
-    "day_number": 54,
+    "date": "2026-09-18",
+    "day_number": 55,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,46 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-06",
-      "day_number": 45,
-      "uploaded": [
-        {
-          "title": "AEM Wideband Holder",
-          "publish_at": "2026-09-06T09:00:00Z",
-          "link": "https://youtu.be/NXahCJak-to"
-        },
-        {
-          "title": "Toyota Supra AEM Mount",
-          "publish_at": "2026-09-06T11:00:00Z",
-          "link": "https://youtu.be/sGbi91rXyjY"
-        },
-        {
-          "title": "AEM Infinity Mount",
-          "publish_at": "2026-09-06T13:00:00Z",
-          "link": "https://youtu.be/QQrJerPDIDA"
-        },
-        {
-          "title": "AEM Gauge Mount two version",
-          "publish_at": "2026-09-06T15:00:00Z",
-          "link": "https://youtu.be/Q9_f8c2WHhE"
-        },
-        {
-          "title": "AEM Gauges Support Bracket v1",
-          "publish_at": "2026-09-06T17:00:00Z",
-          "link": "https://youtu.be/OPEchau7K2Q"
-        },
-        {
-          "title": "AEM Gauge Pod & GoPro Action Camera Mount",
-          "publish_at": "2026-09-06T19:00:00Z",
-          "link": "https://youtu.be/R46sliwLQcY"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-08",
       "day_number": 46,
@@ -351,6 +311,17 @@
     {
       "date": "2026-09-17",
       "day_number": 54,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "day_number": 55,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
