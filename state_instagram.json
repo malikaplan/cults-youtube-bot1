@@ -959,11 +959,12 @@
     "https://cults3d.com/en/3d-model/gadget/porsche-trunk-trim-panel-clip-two-piece-interlocking-3d-printer-compatible-v",
     "https://cults3d.com/en/3d-model/gadget/volvo-xc90-wheel-arch-trim-retaining-clip",
     "https://cults3d.com/en/3d-model/gadget/volvo-240-door-trim-clip",
-    "https://cults3d.com/en/3d-model/gadget/audi-quattro-front-window-trim-clip"
+    "https://cults3d.com/en/3d-model/gadget/audi-quattro-front-window-trim-clip",
+    "https://cults3d.com/en/3d-model/gadget/alfa-romeo-giulietta-rear-boot-door-moulding-trim-clip"
   ],
   "today_date": "2026-09-18",
-  "today_count": 11,
-  "total_posted": 927,
+  "today_count": 12,
+  "total_posted": 928,
   "history": [
     {
       "date": "2026-08-08",
@@ -6525,6 +6526,12 @@
       "date": "2026-09-18",
       "title": "AUDI Quattro – Front Window Trim Clip",
       "media_id": "17971920129141509",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Alfa Romeo Giulietta – Rear Boot Door Moulding Trim Clip",
+      "media_id": "18036371819840284",
       "fb_media_id": null
     }
   ],
