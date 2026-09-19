@@ -972,11 +972,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-640-seat-trim-clip",
     "https://cults3d.com/en/3d-model/gadget/volvo-240-front-grille-clip",
     "https://cults3d.com/en/3d-model/gadget/volvo-240-door-panel-clips-long-short-version",
-    "https://cults3d.com/en/3d-model/gadget/volvo-240-station-wagon-5th-door-trim-clip-holder"
+    "https://cults3d.com/en/3d-model/gadget/volvo-240-station-wagon-5th-door-trim-clip-holder",
+    "https://cults3d.com/en/3d-model/gadget/mercedes-benz-w202-roof-trim-clip"
   ],
-  "today_date": "2026-09-18",
-  "today_count": 24,
-  "total_posted": 940,
+  "today_date": "2026-09-19",
+  "today_count": 1,
+  "total_posted": 941,
   "history": [
     {
       "date": "2026-08-08",
@@ -6616,6 +6617,12 @@
       "date": "2026-09-18",
       "title": "Volvo 240 Station Wagon – 5th Door Trim Clip & Holder",
       "media_id": "18630325717004153",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Mercedes-Benz W202 – Roof Trim Clip",
+      "media_id": "17999932862800163",
       "fb_media_id": null
     }
   ],
