@@ -1,13 +1,13 @@
 {
   "next_index": 324,
   "next_publish_date": "2026-09-14T00:00:00",
-  "run_count": 56,
+  "run_count": 57,
   "total_uploaded": 252,
   "total_models": 1383,
   "start_date": "2026-08-01",
   "last_run": {
     "date": "2026-09-19",
-    "day_number": 56,
+    "day_number": 57,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,46 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-09",
-      "day_number": 47,
-      "uploaded": [
-        {
-          "title": "BMW E36 Dashboard Cluster Mount Insert Panel",
-          "publish_at": "2026-09-08T09:00:00Z",
-          "link": "https://youtu.be/M_Pvm-jN3bM"
-        },
-        {
-          "title": "Toyota Supra MK3 (1986–1993) Pop-Up Headlight Cover Lid",
-          "publish_at": "2026-09-08T11:00:00Z",
-          "link": "https://youtu.be/j0cwF4ScjpM"
-        },
-        {
-          "title": "Toyota Supra Interior Trim Screw Cover Cap and Blanking Plug",
-          "publish_at": "2026-09-08T13:00:00Z",
-          "link": "https://youtu.be/jaxEDrowZWg"
-        },
-        {
-          "title": "Toyota Supra Cooling Fan Shroud and Air Duct",
-          "publish_at": "2026-09-08T15:00:00Z",
-          "link": "https://youtu.be/LOLXBRw7fJs"
-        },
-        {
-          "title": "Nissan Silvia S13 AiM & Link MXG Digital Dashboard Mount Bezel",
-          "publish_at": "2026-09-08T17:00:00Z",
-          "link": "https://youtu.be/7pNEogg9aPo"
-        },
-        {
-          "title": "Nissan Skyline R33 Door Handle Trim Bezel",
-          "publish_at": "2026-09-08T19:00:00Z",
-          "link": "https://youtu.be/WOo2QmA3t_I"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-10",
       "day_number": 48,
@@ -293,6 +253,17 @@
     {
       "date": "2026-09-19",
       "day_number": 56,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "day_number": 57,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
