@@ -974,11 +974,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-240-door-panel-clips-long-short-version",
     "https://cults3d.com/en/3d-model/gadget/volvo-240-station-wagon-5th-door-trim-clip-holder",
     "https://cults3d.com/en/3d-model/gadget/mercedes-benz-w202-roof-trim-clip",
-    "https://cults3d.com/en/3d-model/gadget/fiat-500-interior-trim-clip"
+    "https://cults3d.com/en/3d-model/gadget/fiat-500-interior-trim-clip",
+    "https://cults3d.com/en/3d-model/gadget/land-rover-discovery-xs-camel-trophy-trim-clip-awr2098pmd-awr2105pmd"
   ],
   "today_date": "2026-09-19",
-  "today_count": 2,
-  "total_posted": 942,
+  "today_count": 3,
+  "total_posted": 943,
   "history": [
     {
       "date": "2026-08-08",
@@ -6630,6 +6631,12 @@
       "date": "2026-09-19",
       "title": "Fiat 500 – Interior Trim Clip",
       "media_id": "18129634786702519",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Land Rover Discovery XS / Camel Trophy – Trim Clip (AWR2098PMD – AWR2105PMD)",
+      "media_id": "18038176874831419",
       "fb_media_id": null
     }
   ],
