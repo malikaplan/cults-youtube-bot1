@@ -978,11 +978,12 @@
     "https://cults3d.com/en/3d-model/gadget/land-rover-discovery-xs-camel-trophy-trim-clip-awr2098pmd-awr2105pmd",
     "https://cults3d.com/en/3d-model/gadget/volkswagen-golf-5-rear-headlight-cover-bulb-access-cap",
     "https://cults3d.com/en/3d-model/gadget/volkswagen-transporter-t5-hood-release-lever-gear-connector",
-    "https://cults3d.com/en/3d-model/gadget/volkswagen-golf-mk4-radio-knob"
+    "https://cults3d.com/en/3d-model/gadget/volkswagen-golf-mk4-radio-knob",
+    "https://cults3d.com/en/3d-model/gadget/volkswagen-golf-mk3-torpedo-plug-two-model"
   ],
   "today_date": "2026-09-19",
-  "today_count": 6,
-  "total_posted": 946,
+  "today_count": 7,
+  "total_posted": 947,
   "history": [
     {
       "date": "2026-08-08",
@@ -6658,6 +6659,12 @@
       "date": "2026-09-19",
       "title": "Volkswagen Golf MK4 – Radio Knob",
       "media_id": "18113662151148663",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Volkswagen Golf MK3 – Torpedo Plug (Two Model)",
+      "media_id": "17931570450141709",
       "fb_media_id": null
     }
   ],
