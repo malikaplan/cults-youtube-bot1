@@ -1006,11 +1006,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e36-1998-headlight-washer-3d-print-spare-part-left-right-base",
     "https://cults3d.com/en/3d-model/gadget/renault-kangoo-headlight-adjustment-gear",
     "https://cults3d.com/en/3d-model/gadget/renault-zoe-wall-charger-holder",
-    "https://cults3d.com/en/3d-model/gadget/renault-clio-2002-2013-scenic-2002-2012-and-duster-2011-2014-side-marker-lights"
+    "https://cults3d.com/en/3d-model/gadget/renault-clio-2002-2013-scenic-2002-2012-and-duster-2011-2014-side-marker-lights",
+    "https://cults3d.com/en/3d-model/gadget/air-conditioner-ac-vent"
   ],
   "today_date": "2026-09-20",
-  "today_count": 10,
-  "total_posted": 974,
+  "today_count": 11,
+  "total_posted": 975,
   "history": [
     {
       "date": "2026-08-08",
@@ -6854,6 +6855,12 @@
       "date": "2026-09-20",
       "title": "Renault Clio 2002~2013, Scenic 2002~2012 and Duster 2011~2014 Side Marker Lights",
       "media_id": "18122133707300153",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Air conditioner (AC) Vent",
+      "media_id": "17917893645240938",
       "fb_media_id": null
     }
   ],
