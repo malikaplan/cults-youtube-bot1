@@ -1015,11 +1015,12 @@
     "https://cults3d.com/en/3d-model/gadget/renault-laguna-interior-clamp-durable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/renault-phone-vent-holder",
     "https://cults3d.com/en/3d-model/gadget/renault-trim-clip-multi-model-compatible-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/renault-gear-knob-durable-3d-print-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/renault-gear-knob-durable-3d-print-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/renault-captur-large-cupholder"
   ],
   "today_date": "2026-09-20",
-  "today_count": 19,
-  "total_posted": 983,
+  "today_count": 20,
+  "total_posted": 984,
   "history": [
     {
       "date": "2026-08-08",
@@ -6917,6 +6918,12 @@
       "date": "2026-09-20",
       "title": "Renault Gear Knob – Durable 3D Print Spare Part",
       "media_id": "18106223519269596",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Renault Captur Large Cupholder",
+      "media_id": "18433645741179218",
       "fb_media_id": null
     }
   ],
