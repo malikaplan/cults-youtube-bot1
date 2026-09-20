@@ -1013,11 +1013,12 @@
     "https://cults3d.com/en/3d-model/gadget/renault-kadjar-door-rivet-durable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/renault-power-window-cap-multi-model-compatible-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/renault-laguna-interior-clamp-durable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/renault-phone-vent-holder"
+    "https://cults3d.com/en/3d-model/gadget/renault-phone-vent-holder",
+    "https://cults3d.com/en/3d-model/gadget/renault-trim-clip-multi-model-compatible-3d-print-spare-part"
   ],
   "today_date": "2026-09-20",
-  "today_count": 17,
-  "total_posted": 981,
+  "today_count": 18,
+  "total_posted": 982,
   "history": [
     {
       "date": "2026-08-08",
@@ -6903,6 +6904,12 @@
       "date": "2026-09-20",
       "title": "Renault Phone Vent Holder",
       "media_id": "18120716861513351",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Renault Trim Clip – Multi‑Model Compatible 3D Print Spare Part",
+      "media_id": "17974115705934458",
       "fb_media_id": null
     }
   ],
