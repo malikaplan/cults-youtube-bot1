@@ -1,13 +1,13 @@
 {
   "next_index": 324,
   "next_publish_date": "2026-09-14T00:00:00",
-  "run_count": 57,
+  "run_count": 58,
   "total_uploaded": 252,
   "total_models": 1383,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-19",
-    "day_number": 57,
+    "date": "2026-09-20",
+    "day_number": 58,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,46 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-10",
-      "day_number": 48,
-      "uploaded": [
-        {
-          "title": "Nissan Skyline R33 Rear Trunk Boot Bump Stop Buffer",
-          "publish_at": "2026-09-09T09:00:00Z",
-          "link": "https://youtu.be/k4Fi09WiBBI"
-        },
-        {
-          "title": "Nissan Skyline Performance Air Filter Mounting Adapter (MAF Flange)",
-          "publish_at": "2026-09-09T11:00:00Z",
-          "link": "https://youtu.be/Q4_nqVs4sRU"
-        },
-        {
-          "title": "Nissan Skyline Radio Antenna Mounting Bracket",
-          "publish_at": "2026-09-09T13:00:00Z",
-          "link": "https://youtu.be/NUS5PFDsqZA"
-        },
-        {
-          "title": "Nissan Skyline R33 Ashtray Delete and Mounting Adapter",
-          "publish_at": "2026-09-09T15:00:00Z",
-          "link": "https://youtu.be/cla8DQ33oUk"
-        },
-        {
-          "title": "Nissan Skyline Door Speaker Mounting Adapter Ring (Left and Right Set)",
-          "publish_at": "2026-09-09T17:00:00Z",
-          "link": "https://youtu.be/KcGw4025jBk"
-        },
-        {
-          "title": "Nissan Skyline Custom Cup Holder",
-          "publish_at": "2026-09-09T19:00:00Z",
-          "link": "https://youtu.be/r__cqRtxvCk"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-11",
       "day_number": 49,
@@ -264,6 +224,17 @@
     {
       "date": "2026-09-19",
       "day_number": 57,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "day_number": 58,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
