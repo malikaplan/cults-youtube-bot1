@@ -1019,11 +1019,12 @@
     "https://cults3d.com/en/3d-model/gadget/renault-captur-large-cupholder",
     "https://cults3d.com/en/3d-model/gadget/mitsubishi-wheel-center-cap-makdesign",
     "https://cults3d.com/en/3d-model/gadget/2016-ford-f150-wheel-center-cap",
-    "https://cults3d.com/en/3d-model/gadget/tesla-model-y-luggage-hook"
+    "https://cults3d.com/en/3d-model/gadget/tesla-model-y-luggage-hook",
+    "https://cults3d.com/en/3d-model/gadget/skoda-seat-adjustment-handle-reliable-3d-print-spare-part"
   ],
   "today_date": "2026-09-20",
-  "today_count": 23,
-  "total_posted": 987,
+  "today_count": 24,
+  "total_posted": 988,
   "history": [
     {
       "date": "2026-08-08",
@@ -6945,6 +6946,12 @@
       "date": "2026-09-20",
       "title": "Tesla Model Y Luggage Hook",
       "media_id": "18035522825832276",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Skoda Seat Adjustment Handle – Reliable 3D Print Spare Part",
+      "media_id": "18098309897334121",
       "fb_media_id": null
     }
   ],
