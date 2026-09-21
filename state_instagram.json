@@ -1026,11 +1026,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-x3-rear-tailgate-trunk-hatch-release-button-repair-part",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-brake-cooling-air-intake-hose-duct-adapter-flange",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-vacuum-leak-diagnostic-smoke-test-adapter",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-snorkel-tube-airbox-scoop"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-snorkel-tube-airbox-scoop",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-front-bumper-grille-led-light-bar-mounting-bracket"
   ],
   "today_date": "2026-09-21",
-  "today_count": 6,
-  "total_posted": 994,
+  "today_count": 7,
+  "total_posted": 995,
   "history": [
     {
       "date": "2026-08-08",
@@ -6994,6 +6995,12 @@
       "date": "2026-09-21",
       "title": "BMW E46 Cold Air Intake Snorkel Tube (Airbox Scoop)",
       "media_id": "18346861033253717",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-21",
+      "title": "BMW E46 Front Bumper & Grille LED Light Bar Mounting Bracket",
+      "media_id": "18073076315470537",
       "fb_media_id": null
     }
   ],
