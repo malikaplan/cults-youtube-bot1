@@ -1040,11 +1040,12 @@
     "https://cults3d.com/en/3d-model/tool/sw-motech-gps-to-gopro-action-camera-mount-adapter",
     "https://cults3d.com/en/3d-model/tool/sp-connect-to-sw-motech-molle-tank-bag-phone-mount-adapter",
     "https://cults3d.com/en/3d-model/tool/motech-sw-motorcycle-crash-bar-vertical-protective-slider-block",
-    "https://cults3d.com/en/3d-model/tool/motec-standard-digital-racing-dashboard-mounting-bracket"
+    "https://cults3d.com/en/3d-model/tool/motec-standard-digital-racing-dashboard-mounting-bracket",
+    "https://cults3d.com/en/3d-model/tool/sw-motech-blaze-saddlebag-male-quick-lock-mounting-adapter"
   ],
   "today_date": "2026-09-21",
-  "today_count": 20,
-  "total_posted": 1008,
+  "today_count": 21,
+  "total_posted": 1009,
   "history": [
     {
       "date": "2026-08-08",
@@ -7092,6 +7093,12 @@
       "date": "2026-09-21",
       "title": "MoTeC Standard Digital Racing Dashboard Mounting Bracket",
       "media_id": "17952042168037764",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-21",
+      "title": "SW-Motech BLAZE Saddlebag Male Quick-Lock Mounting Adapter",
+      "media_id": "17892172809610535",
       "fb_media_id": null
     }
   ],
