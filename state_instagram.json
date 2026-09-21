@@ -1036,11 +1036,12 @@
     "https://cults3d.com/en/3d-model/tool/motec-digital-racing-dashboard-mount-surround-bezel-v2",
     "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-base-height-increase-spacer-riser",
     "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-crash-bar-luggage-rack-protective-cover-cap",
-    "https://cults3d.com/en/3d-model/tool/sw-motec-ktm-890-evo-tank-bag-mounting-ring-adapter-anillo-tank-ring"
+    "https://cults3d.com/en/3d-model/tool/sw-motec-ktm-890-evo-tank-bag-mounting-ring-adapter-anillo-tank-ring",
+    "https://cults3d.com/en/3d-model/tool/sw-motech-gps-to-gopro-action-camera-mount-adapter"
   ],
   "today_date": "2026-09-21",
-  "today_count": 16,
-  "total_posted": 1004,
+  "today_count": 17,
+  "total_posted": 1005,
   "history": [
     {
       "date": "2026-08-08",
@@ -7064,6 +7065,12 @@
       "date": "2026-09-21",
       "title": "SW-Motec KTM 890 EVO Tank Bag Mounting Ring Adapter (Anillo Tank Ring)",
       "media_id": "18130010620674064",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-21",
+      "title": "SW-Motech GPS to GoPro Action Camera Mount Adapter",
+      "media_id": "18131001319739074",
       "fb_media_id": null
     }
   ],
