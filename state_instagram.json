@@ -1025,11 +1025,12 @@
     "https://cults3d.com/en/3d-model/gadget/skoda-rapid-radio-reduction-frame-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/tool/bmw-x3-rear-tailgate-trunk-hatch-release-button-repair-part",
     "https://cults3d.com/en/3d-model/tool/bmw-e46-brake-cooling-air-intake-hose-duct-adapter-flange",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-vacuum-leak-diagnostic-smoke-test-adapter"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-vacuum-leak-diagnostic-smoke-test-adapter",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-snorkel-tube-airbox-scoop"
   ],
   "today_date": "2026-09-21",
-  "today_count": 5,
-  "total_posted": 993,
+  "today_count": 6,
+  "total_posted": 994,
   "history": [
     {
       "date": "2026-08-08",
@@ -6987,6 +6988,12 @@
       "date": "2026-09-21",
       "title": "BMW E46 Intake Vacuum Leak Diagnostic Smoke Test Adapter",
       "media_id": "18114547780806107",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-21",
+      "title": "BMW E46 Cold Air Intake Snorkel Tube (Airbox Scoop)",
+      "media_id": "18346861033253717",
       "fb_media_id": null
     }
   ],
