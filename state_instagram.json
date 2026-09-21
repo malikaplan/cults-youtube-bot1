@@ -1042,11 +1042,12 @@
     "https://cults3d.com/en/3d-model/tool/motech-sw-motorcycle-crash-bar-vertical-protective-slider-block",
     "https://cults3d.com/en/3d-model/tool/motec-standard-digital-racing-dashboard-mounting-bracket",
     "https://cults3d.com/en/3d-model/tool/sw-motech-blaze-saddlebag-male-quick-lock-mounting-adapter",
-    "https://cults3d.com/en/3d-model/tool/motec-universal-digital-dashboard"
+    "https://cults3d.com/en/3d-model/tool/motec-universal-digital-dashboard",
+    "https://cults3d.com/en/3d-model/tool/motec-c127-digital-racing-dashboard-screen-protective-cover-and-shroud"
   ],
   "today_date": "2026-09-21",
-  "today_count": 22,
-  "total_posted": 1010,
+  "today_count": 23,
+  "total_posted": 1011,
   "history": [
     {
       "date": "2026-08-08",
@@ -7106,6 +7107,12 @@
       "date": "2026-09-21",
       "title": "MoTeC Universal Digital Dashboard",
       "media_id": "17976598739922880",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-21",
+      "title": "MoTeC C127 Digital Racing Dashboard Screen Protective Cover and Shroud",
+      "media_id": "17985681300066135",
       "fb_media_id": null
     }
   ],
