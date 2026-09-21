@@ -1022,11 +1022,12 @@
     "https://cults3d.com/en/3d-model/gadget/tesla-model-y-luggage-hook",
     "https://cults3d.com/en/3d-model/gadget/skoda-seat-adjustment-handle-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/radio-tool-vw-audi-seat-skoda-3d-print-tool",
-    "https://cults3d.com/en/3d-model/gadget/skoda-rapid-radio-reduction-frame-reliable-3d-print-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/skoda-rapid-radio-reduction-frame-reliable-3d-print-spare-part",
+    "https://cults3d.com/en/3d-model/tool/bmw-x3-rear-tailgate-trunk-hatch-release-button-repair-part"
   ],
   "today_date": "2026-09-21",
-  "today_count": 2,
-  "total_posted": 990,
+  "today_count": 3,
+  "total_posted": 991,
   "history": [
     {
       "date": "2026-08-08",
@@ -6966,6 +6967,12 @@
       "date": "2026-09-21",
       "title": "Skoda Rapid Radio Reduction Frame – Reliable 3D Print Spare Part",
       "media_id": "17908411446490160",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-21",
+      "title": "BMW X3 Rear Tailgate Trunk Hatch Release Button Repair Part",
+      "media_id": "17990132619021334",
       "fb_media_id": null
     }
   ],
