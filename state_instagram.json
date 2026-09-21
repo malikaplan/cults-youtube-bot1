@@ -1024,11 +1024,12 @@
     "https://cults3d.com/en/3d-model/gadget/radio-tool-vw-audi-seat-skoda-3d-print-tool",
     "https://cults3d.com/en/3d-model/gadget/skoda-rapid-radio-reduction-frame-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/tool/bmw-x3-rear-tailgate-trunk-hatch-release-button-repair-part",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-brake-cooling-air-intake-hose-duct-adapter-flange"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-brake-cooling-air-intake-hose-duct-adapter-flange",
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-vacuum-leak-diagnostic-smoke-test-adapter"
   ],
   "today_date": "2026-09-21",
-  "today_count": 4,
-  "total_posted": 992,
+  "today_count": 5,
+  "total_posted": 993,
   "history": [
     {
       "date": "2026-08-08",
@@ -6980,6 +6981,12 @@
       "date": "2026-09-21",
       "title": "BMW E46 Brake Cooling Air Intake Hose Duct Adapter Flange",
       "media_id": "17932908819393408",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-21",
+      "title": "BMW E46 Intake Vacuum Leak Diagnostic Smoke Test Adapter",
+      "media_id": "18114547780806107",
       "fb_media_id": null
     }
   ],
