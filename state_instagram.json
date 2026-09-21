@@ -1021,11 +1021,12 @@
     "https://cults3d.com/en/3d-model/gadget/2016-ford-f150-wheel-center-cap",
     "https://cults3d.com/en/3d-model/gadget/tesla-model-y-luggage-hook",
     "https://cults3d.com/en/3d-model/gadget/skoda-seat-adjustment-handle-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/radio-tool-vw-audi-seat-skoda-3d-print-tool"
+    "https://cults3d.com/en/3d-model/gadget/radio-tool-vw-audi-seat-skoda-3d-print-tool",
+    "https://cults3d.com/en/3d-model/gadget/skoda-rapid-radio-reduction-frame-reliable-3d-print-spare-part"
   ],
   "today_date": "2026-09-21",
-  "today_count": 1,
-  "total_posted": 989,
+  "today_count": 2,
+  "total_posted": 990,
   "history": [
     {
       "date": "2026-08-08",
@@ -6959,6 +6960,12 @@
       "date": "2026-09-21",
       "title": "Radio Tool VW Audi Seat Skoda – 3D Print Tool",
       "media_id": "18131057824773704",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-21",
+      "title": "Skoda Rapid Radio Reduction Frame – Reliable 3D Print Spare Part",
+      "media_id": "17908411446490160",
       "fb_media_id": null
     }
   ],
