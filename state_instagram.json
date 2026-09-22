@@ -1067,11 +1067,12 @@
     "https://cults3d.com/en/3d-model/gadget/skoda-curtain-holder-2-separate-models-3d-print",
     "https://cults3d.com/en/3d-model/gadget/skoda-2-5-tailgate-grommet",
     "https://cults3d.com/en/3d-model/gadget/skoda-forman-luggage-parcel-shelf-hanger",
-    "https://cults3d.com/en/3d-model/gadget/skoda-roomster-luggage-hook-pin-makdesign"
+    "https://cults3d.com/en/3d-model/gadget/skoda-roomster-luggage-hook-pin-makdesign",
+    "https://cults3d.com/en/3d-model/gadget/skoda-favorit-door-lock-pin"
   ],
   "today_date": "2026-09-22",
-  "today_count": 23,
-  "total_posted": 1035,
+  "today_count": 24,
+  "total_posted": 1036,
   "history": [
     {
       "date": "2026-08-08",
@@ -7281,6 +7282,12 @@
       "date": "2026-09-22",
       "title": "Skoda Roomster Luggage Hook Pin",
       "media_id": "18093719648538867",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Skoda Favorit Door Lock Pin",
+      "media_id": "18122828962857652",
       "fb_media_id": null
     }
   ],
