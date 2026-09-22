@@ -1045,11 +1045,12 @@
     "https://cults3d.com/en/3d-model/tool/motec-universal-digital-dashboard",
     "https://cults3d.com/en/3d-model/tool/motec-c127-digital-racing-dashboard-screen-protective-cover-and-shroud",
     "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-luggage-molle-connection-clip-adapter-part",
-    "https://cults3d.com/en/3d-model/tool/sw-motech-universal-motorcycle-mounting-bracket-clamp"
+    "https://cults3d.com/en/3d-model/tool/sw-motech-universal-motorcycle-mounting-bracket-clamp",
+    "https://cults3d.com/en/3d-model/tool/motec-motorsports-video-camera-data-logger-mounting-bracket"
   ],
   "today_date": "2026-09-22",
-  "today_count": 1,
-  "total_posted": 1013,
+  "today_count": 2,
+  "total_posted": 1014,
   "history": [
     {
       "date": "2026-08-08",
@@ -7127,6 +7128,12 @@
       "date": "2026-09-22",
       "title": "SW-Motech Universal Motorcycle Mounting Bracket Clamp",
       "media_id": "18102032861346311",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-22",
+      "title": "MoTeC Motorsports Video Camera & Data Logger Mounting Bracket",
+      "media_id": "18031311110896906",
       "fb_media_id": null
     }
   ],
