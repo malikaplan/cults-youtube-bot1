@@ -1,62 +1,51 @@
 {
-  "next_index": 324,
-  "next_publish_date": "2026-09-14T00:00:00",
-  "run_count": 58,
-  "total_uploaded": 252,
-  "total_models": 1383,
+  "next_index": 331,
+  "next_publish_date": "2026-09-15T00:00:00",
+  "run_count": 59,
+  "total_uploaded": 258,
+  "total_models": 1416,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-20",
-    "day_number": 58,
-    "uploaded": [],
+    "date": "2026-09-22",
+    "day_number": 59,
+    "uploaded": [
+      {
+        "title": "BMW X3 Rear Tailgate Trunk Hatch Release Button Repair Part",
+        "publish_at": "2026-09-14T09:00:00Z",
+        "link": "https://youtu.be/0Pflp_oulFc"
+      },
+      {
+        "title": "BMW E46 Brake Cooling Air Intake Hose Duct Adapter Flange",
+        "publish_at": "2026-09-14T11:00:00Z",
+        "link": "https://youtu.be/RvxSknH4Yh4"
+      },
+      {
+        "title": "BMW E46 Intake Vacuum Leak Diagnostic Smoke Test Adapter",
+        "publish_at": "2026-09-14T13:00:00Z",
+        "link": "https://youtu.be/buSpUku5Rk0"
+      },
+      {
+        "title": "BMW E46 Cold Air Intake Snorkel Tube (Airbox Scoop)",
+        "publish_at": "2026-09-14T15:00:00Z",
+        "link": "https://youtu.be/oirXOOunbHw"
+      },
+      {
+        "title": "BMW E46 Front Bumper & Grille LED Light Bar Mounting Bracket",
+        "publish_at": "2026-09-14T17:00:00Z",
+        "link": "https://youtu.be/Np2f7bsD3HI"
+      },
+      {
+        "title": "BMW E46 Center Console Cup Holder Expander Extension Adapter",
+        "publish_at": "2026-09-14T19:00:00Z",
+        "link": "https://youtu.be/AbYPb53PsK4"
+      }
+    ],
     "skipped_nsfw": 0,
-    "skipped_no_video": 0,
+    "skipped_no_video": 1,
     "skipped_blocked": 0,
-    "errors": [
-      "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
-    ]
+    "errors": []
   },
   "history": [
-    {
-      "date": "2026-09-11",
-      "day_number": 49,
-      "uploaded": [
-        {
-          "title": "Nissan Skyline R32 Power Window Switch Box",
-          "publish_at": "2026-09-10T09:00:00Z",
-          "link": "https://youtu.be/LKdesuQxM90"
-        },
-        {
-          "title": "Nissan Skyline R32 GT-R Custom Cup Holder",
-          "publish_at": "2026-09-10T11:00:00Z",
-          "link": "https://youtu.be/xAoA3ubG_zo"
-        },
-        {
-          "title": "Nissan Skyline R32 Wheel Center Cap and Hub Badge",
-          "publish_at": "2026-09-10T13:00:00Z",
-          "link": "https://youtu.be/Ml_SIxAgDXM"
-        },
-        {
-          "title": "Nissan Skyline R32 Interior Front Dome Light Housing",
-          "publish_at": "2026-09-10T15:00:00Z",
-          "link": "https://youtu.be/ksT1QWHyIRw"
-        },
-        {
-          "title": "Nissan Skyline R32 Door Handle Replacement",
-          "publish_at": "2026-09-10T17:00:00Z",
-          "link": "https://youtu.be/iaDT2CrwVC8"
-        },
-        {
-          "title": "S2000 hardtop bracket",
-          "publish_at": "2026-09-10T19:00:00Z",
-          "link": "https://youtu.be/CXiSIbzzfqs"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-12",
       "day_number": 50,
@@ -242,6 +231,46 @@
       "errors": [
         "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
       ]
+    },
+    {
+      "date": "2026-09-22",
+      "day_number": 59,
+      "uploaded": [
+        {
+          "title": "BMW X3 Rear Tailgate Trunk Hatch Release Button Repair Part",
+          "publish_at": "2026-09-14T09:00:00Z",
+          "link": "https://youtu.be/0Pflp_oulFc"
+        },
+        {
+          "title": "BMW E46 Brake Cooling Air Intake Hose Duct Adapter Flange",
+          "publish_at": "2026-09-14T11:00:00Z",
+          "link": "https://youtu.be/RvxSknH4Yh4"
+        },
+        {
+          "title": "BMW E46 Intake Vacuum Leak Diagnostic Smoke Test Adapter",
+          "publish_at": "2026-09-14T13:00:00Z",
+          "link": "https://youtu.be/buSpUku5Rk0"
+        },
+        {
+          "title": "BMW E46 Cold Air Intake Snorkel Tube (Airbox Scoop)",
+          "publish_at": "2026-09-14T15:00:00Z",
+          "link": "https://youtu.be/oirXOOunbHw"
+        },
+        {
+          "title": "BMW E46 Front Bumper & Grille LED Light Bar Mounting Bracket",
+          "publish_at": "2026-09-14T17:00:00Z",
+          "link": "https://youtu.be/Np2f7bsD3HI"
+        },
+        {
+          "title": "BMW E46 Center Console Cup Holder Expander Extension Adapter",
+          "publish_at": "2026-09-14T19:00:00Z",
+          "link": "https://youtu.be/AbYPb53PsK4"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 1,
+      "skipped_blocked": 0,
+      "errors": []
     }
   ],
   "processed_urls": [
@@ -568,7 +597,14 @@
     "https://cults3d.com/:4903006",
     "https://cults3d.com/:4903135",
     "https://cults3d.com/:4906716",
-    "https://cults3d.com/:4907351"
+    "https://cults3d.com/:4907351",
+    "https://cults3d.com/:4934743",
+    "https://cults3d.com/:4935009",
+    "https://cults3d.com/:4935426",
+    "https://cults3d.com/:4939073",
+    "https://cults3d.com/:4941424",
+    "https://cults3d.com/:4943801",
+    "https://cults3d.com/:4944233"
   ],
   "migrated_to_url_tracking": true,
   "pending_comments": [
@@ -611,6 +647,30 @@
     {
       "video_id": "SwlsZK19Rc4",
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
+    },
+    {
+      "video_id": "0Pflp_oulFc",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-x3-rear-tailgate-trunk-hatch-release-button-repair-part"
+    },
+    {
+      "video_id": "RvxSknH4Yh4",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-brake-cooling-air-intake-hose-duct-adapter-flange"
+    },
+    {
+      "video_id": "buSpUku5Rk0",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-vacuum-leak-diagnostic-smoke-test-adapter"
+    },
+    {
+      "video_id": "oirXOOunbHw",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-snorkel-tube-airbox-scoop"
+    },
+    {
+      "video_id": "Np2f7bsD3HI",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-front-bumper-grille-led-light-bar-mounting-bracket"
+    },
+    {
+      "video_id": "AbYPb53PsK4",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-cup-holder-expander-extension-adapter"
     }
   ]
 }
