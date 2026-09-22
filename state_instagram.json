@@ -1049,11 +1049,12 @@
     "https://cults3d.com/en/3d-model/tool/motec-motorsports-video-camera-data-logger-mounting-bracket",
     "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support-makdesign",
     "https://cults3d.com/en/3d-model/tool/fueltech-digital-racing-dashboard-mounting-bracket-holder",
-    "https://cults3d.com/en/3d-model/tool/fueltech-eg-1992-1995-digital-dashboard-instrument-cluster-bezel-panel-quadra"
+    "https://cults3d.com/en/3d-model/tool/fueltech-eg-1992-1995-digital-dashboard-instrument-cluster-bezel-panel-quadra",
+    "https://cults3d.com/en/3d-model/tool/fueltech-dashboard-clock-location-gauge-mounting-bezel-frame"
   ],
   "today_date": "2026-09-22",
-  "today_count": 5,
-  "total_posted": 1017,
+  "today_count": 6,
+  "total_posted": 1018,
   "history": [
     {
       "date": "2026-08-08",
@@ -7155,6 +7156,12 @@
       "date": "2026-09-22",
       "title": "FuelTech EG (1992–1995) Digital Dashboard Instrument Cluster Bezel Panel (Quadrante)",
       "media_id": "18116090444003144",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-22",
+      "title": "FuelTech Dashboard Clock Location Gauge Mounting Bezel Frame",
+      "media_id": "18115661797797888",
       "fb_media_id": null
     }
   ],
