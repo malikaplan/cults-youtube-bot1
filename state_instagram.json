@@ -1047,11 +1047,12 @@
     "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-luggage-molle-connection-clip-adapter-part",
     "https://cults3d.com/en/3d-model/tool/sw-motech-universal-motorcycle-mounting-bracket-clamp",
     "https://cults3d.com/en/3d-model/tool/motec-motorsports-video-camera-data-logger-mounting-bracket",
-    "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support-makdesign"
+    "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support-makdesign",
+    "https://cults3d.com/en/3d-model/tool/fueltech-digital-racing-dashboard-mounting-bracket-holder"
   ],
   "today_date": "2026-09-22",
-  "today_count": 3,
-  "total_posted": 1015,
+  "today_count": 4,
+  "total_posted": 1016,
   "history": [
     {
       "date": "2026-08-08",
@@ -7141,6 +7142,12 @@
       "date": "2026-09-22",
       "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
       "media_id": "18077791535429696",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-22",
+      "title": "FuelTech Digital Racing Dashboard Mounting Bracket Holder",
+      "media_id": "18113481761099402",
       "fb_media_id": null
     }
   ],
