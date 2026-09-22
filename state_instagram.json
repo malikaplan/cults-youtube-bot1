@@ -1053,11 +1053,12 @@
     "https://cults3d.com/en/3d-model/tool/fueltech-dashboard-clock-location-gauge-mounting-bezel-frame",
     "https://cults3d.com/en/3d-model/tool/fueltech-ft450-square-dashboard-mounting-bezel-panel",
     "https://cults3d.com/en/3d-model/tool/fueltech-ft450-nanopro-flexx-handlebar-dual-mounting-bracket",
-    "https://cults3d.com/en/3d-model/tool/ft450-proton-wira-satria-fueltech-digital-dashboard-cluster-mounting-panel"
+    "https://cults3d.com/en/3d-model/tool/ft450-proton-wira-satria-fueltech-digital-dashboard-cluster-mounting-panel",
+    "https://cults3d.com/en/3d-model/tool/fueltech-dual-power-driver-module-mounting-bracket"
   ],
   "today_date": "2026-09-22",
-  "today_count": 9,
-  "total_posted": 1021,
+  "today_count": 10,
+  "total_posted": 1022,
   "history": [
     {
       "date": "2026-08-08",
@@ -7183,6 +7184,12 @@
       "date": "2026-09-22",
       "title": "FT450 Proton Wira  Satria FuelTech  Digital Dashboard Cluster Mounting Panel",
       "media_id": "17875665348568194",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-22",
+      "title": "FuelTech Dual Power Driver Module Mounting Bracket",
+      "media_id": "18113953318832985",
       "fb_media_id": null
     }
   ],
