@@ -1046,11 +1046,12 @@
     "https://cults3d.com/en/3d-model/tool/motec-c127-digital-racing-dashboard-screen-protective-cover-and-shroud",
     "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-luggage-molle-connection-clip-adapter-part",
     "https://cults3d.com/en/3d-model/tool/sw-motech-universal-motorcycle-mounting-bracket-clamp",
-    "https://cults3d.com/en/3d-model/tool/motec-motorsports-video-camera-data-logger-mounting-bracket"
+    "https://cults3d.com/en/3d-model/tool/motec-motorsports-video-camera-data-logger-mounting-bracket",
+    "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support-makdesign"
   ],
   "today_date": "2026-09-22",
-  "today_count": 2,
-  "total_posted": 1014,
+  "today_count": 3,
+  "total_posted": 1015,
   "history": [
     {
       "date": "2026-08-08",
@@ -7134,6 +7135,12 @@
       "date": "2026-09-22",
       "title": "MoTeC Motorsports Video Camera & Data Logger Mounting Bracket",
       "media_id": "18031311110896906",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-22",
+      "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
+      "media_id": "18077791535429696",
       "fb_media_id": null
     }
   ],
