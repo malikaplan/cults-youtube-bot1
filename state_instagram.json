@@ -1088,11 +1088,12 @@
     "https://cults3d.com/en/3d-model/gadget/skoda-superb-luggage-curtain-pin",
     "https://cults3d.com/en/3d-model/tool/volkswagen-golf-ice-scraper-elegant-logo-design-3d-print",
     "https://cults3d.com/en/3d-model/gadget/skoda-165mm-woofer-adapter-reliable-3d-print-mounting-part",
-    "https://cults3d.com/en/3d-model/jewelry/skoda-superb-car-magic-keychain-desktop-decorative-object-3d-print"
+    "https://cults3d.com/en/3d-model/jewelry/skoda-superb-car-magic-keychain-desktop-decorative-object-3d-print",
+    "https://cults3d.com/en/3d-model/gadget/ice-scraper-skoda"
   ],
   "today_date": "2026-09-23",
-  "today_count": 20,
-  "total_posted": 1056,
+  "today_count": 21,
+  "total_posted": 1057,
   "history": [
     {
       "date": "2026-08-08",
@@ -7428,6 +7429,12 @@
       "date": "2026-09-23",
       "title": "Skoda Superb Car – Magic Keychain / Desktop Decorative Object (3D Print)",
       "media_id": "18137995699620754",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Ice scraper Skoda",
+      "media_id": "18116682694988774",
       "fb_media_id": null
     }
   ],
