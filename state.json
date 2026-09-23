@@ -1,91 +1,51 @@
 {
-  "next_index": 331,
-  "next_publish_date": "2026-09-15T00:00:00",
-  "run_count": 59,
-  "total_uploaded": 258,
+  "next_index": 337,
+  "next_publish_date": "2026-09-16T00:00:00",
+  "run_count": 60,
+  "total_uploaded": 264,
   "total_models": 1416,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-22",
-    "day_number": 59,
+    "date": "2026-09-23",
+    "day_number": 60,
     "uploaded": [
       {
-        "title": "BMW X3 Rear Tailgate Trunk Hatch Release Button Repair Part",
-        "publish_at": "2026-09-14T09:00:00Z",
-        "link": "https://youtu.be/0Pflp_oulFc"
+        "title": "BMW E46 M3 GTR Racing GT Wing Spoiler Mounting Bracket Risers (Spoiler Halter)",
+        "publish_at": "2026-09-15T09:00:00Z",
+        "link": "https://youtu.be/bBJYegIS4mY"
       },
       {
-        "title": "BMW E46 Brake Cooling Air Intake Hose Duct Adapter Flange",
-        "publish_at": "2026-09-14T11:00:00Z",
-        "link": "https://youtu.be/RvxSknH4Yh4"
+        "title": "MoTeC Digital Racing Dashboard Anti-Glare Sunshade Visor Shroud",
+        "publish_at": "2026-09-15T11:00:00Z",
+        "link": "https://youtu.be/tULQLoWXu9w"
       },
       {
-        "title": "BMW E46 Intake Vacuum Leak Diagnostic Smoke Test Adapter",
-        "publish_at": "2026-09-14T13:00:00Z",
-        "link": "https://youtu.be/buSpUku5Rk0"
+        "title": "Mercedes-AMG MoTeC Scrutineering Dash Logger Mounting Bracket",
+        "publish_at": "2026-09-15T13:00:00Z",
+        "link": "https://youtu.be/b0Wfw5EmxAc"
       },
       {
-        "title": "BMW E46 Cold Air Intake Snorkel Tube (Airbox Scoop)",
-        "publish_at": "2026-09-14T15:00:00Z",
-        "link": "https://youtu.be/oirXOOunbHw"
+        "title": "Porsche MoTeC Scrutineering Dash Logger Mounting Bracket",
+        "publish_at": "2026-09-15T15:00:00Z",
+        "link": "https://youtu.be/TEw18vRZ2fs"
       },
       {
-        "title": "BMW E46 Front Bumper & Grille LED Light Bar Mounting Bracket",
-        "publish_at": "2026-09-14T17:00:00Z",
-        "link": "https://youtu.be/Np2f7bsD3HI"
+        "title": "MoTeC Digital Racing Dashboard Mount Surround Bezel V2",
+        "publish_at": "2026-09-15T17:00:00Z",
+        "link": "https://youtu.be/GBfSJ13Nil8"
       },
       {
-        "title": "BMW E46 Center Console Cup Holder Expander Extension Adapter",
-        "publish_at": "2026-09-14T19:00:00Z",
-        "link": "https://youtu.be/AbYPb53PsK4"
+        "title": "SW-Motech Motorcycle Tank Bag Base Height Increase Spacer Riser",
+        "publish_at": "2026-09-15T19:00:00Z",
+        "link": "https://youtu.be/xoy9lTUhZIo"
       }
     ],
     "skipped_nsfw": 0,
-    "skipped_no_video": 1,
+    "skipped_no_video": 0,
     "skipped_blocked": 0,
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-09-12",
-      "day_number": 50,
-      "uploaded": [
-        {
-          "title": "S2000 Speaker ring for 6.5\" speakers",
-          "publish_at": "2026-09-11T09:00:00Z",
-          "link": "https://youtu.be/ZvZCcyD_XSg"
-        },
-        {
-          "title": "S2000 Front Bumper Duct",
-          "publish_at": "2026-09-11T11:00:00Z",
-          "link": "https://youtu.be/X7_iYupFjm4"
-        },
-        {
-          "title": "S2000 Stub Antenna",
-          "publish_at": "2026-09-11T13:00:00Z",
-          "link": "https://youtu.be/ruk3maCjLGg"
-        },
-        {
-          "title": "S2000 Side Storage",
-          "publish_at": "2026-09-11T15:00:00Z",
-          "link": "https://youtu.be/s_NJPX5vCAI"
-        },
-        {
-          "title": "S2000 Rear Sides Skirt Splitters V2",
-          "publish_at": "2026-09-11T17:00:00Z",
-          "link": "https://youtu.be/8eoXKKbPQMg"
-        },
-        {
-          "title": "S2000 Shift Knob",
-          "publish_at": "2026-09-11T19:00:00Z",
-          "link": "https://youtu.be/dYDWZFjyPOk"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-13",
       "day_number": 51,
@@ -269,6 +229,46 @@
       ],
       "skipped_nsfw": 0,
       "skipped_no_video": 1,
+      "skipped_blocked": 0,
+      "errors": []
+    },
+    {
+      "date": "2026-09-23",
+      "day_number": 60,
+      "uploaded": [
+        {
+          "title": "BMW E46 M3 GTR Racing GT Wing Spoiler Mounting Bracket Risers (Spoiler Halter)",
+          "publish_at": "2026-09-15T09:00:00Z",
+          "link": "https://youtu.be/bBJYegIS4mY"
+        },
+        {
+          "title": "MoTeC Digital Racing Dashboard Anti-Glare Sunshade Visor Shroud",
+          "publish_at": "2026-09-15T11:00:00Z",
+          "link": "https://youtu.be/tULQLoWXu9w"
+        },
+        {
+          "title": "Mercedes-AMG MoTeC Scrutineering Dash Logger Mounting Bracket",
+          "publish_at": "2026-09-15T13:00:00Z",
+          "link": "https://youtu.be/b0Wfw5EmxAc"
+        },
+        {
+          "title": "Porsche MoTeC Scrutineering Dash Logger Mounting Bracket",
+          "publish_at": "2026-09-15T15:00:00Z",
+          "link": "https://youtu.be/TEw18vRZ2fs"
+        },
+        {
+          "title": "MoTeC Digital Racing Dashboard Mount Surround Bezel V2",
+          "publish_at": "2026-09-15T17:00:00Z",
+          "link": "https://youtu.be/GBfSJ13Nil8"
+        },
+        {
+          "title": "SW-Motech Motorcycle Tank Bag Base Height Increase Spacer Riser",
+          "publish_at": "2026-09-15T19:00:00Z",
+          "link": "https://youtu.be/xoy9lTUhZIo"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
     }
@@ -598,6 +598,12 @@
     "https://cults3d.com/:4903135",
     "https://cults3d.com/:4906716",
     "https://cults3d.com/:4907351",
+    "https://cults3d.com/:4925448",
+    "https://cults3d.com/:4929323",
+    "https://cults3d.com/:4929594",
+    "https://cults3d.com/:4929689",
+    "https://cults3d.com/:4929790",
+    "https://cults3d.com/:4934014",
     "https://cults3d.com/:4934743",
     "https://cults3d.com/:4935009",
     "https://cults3d.com/:4935426",
@@ -649,28 +655,24 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "0Pflp_oulFc",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-x3-rear-tailgate-trunk-hatch-release-button-repair-part"
+      "video_id": "bBJYegIS4mY",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-gtr-racing-gt-wing-spoiler-mounting-bracket-risers-spoiler-halter"
     },
     {
-      "video_id": "RvxSknH4Yh4",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-brake-cooling-air-intake-hose-duct-adapter-flange"
+      "video_id": "tULQLoWXu9w",
+      "text": "https://cults3d.com/en/3d-model/tool/motec-digital-racing-dashboard-anti-glare-sunshade-visor-shroud"
     },
     {
-      "video_id": "buSpUku5Rk0",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-intake-vacuum-leak-diagnostic-smoke-test-adapter"
+      "video_id": "b0Wfw5EmxAc",
+      "text": "https://cults3d.com/en/3d-model/tool/mercedes-amg-motec-scrutineering-dash-logger-mounting-bracket"
     },
     {
-      "video_id": "oirXOOunbHw",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-cold-air-intake-snorkel-tube-airbox-scoop"
+      "video_id": "TEw18vRZ2fs",
+      "text": "https://cults3d.com/en/3d-model/tool/porsche-motec-scrutineering-dash-logger-mounting-bracket"
     },
     {
-      "video_id": "Np2f7bsD3HI",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-front-bumper-grille-led-light-bar-mounting-bracket"
-    },
-    {
-      "video_id": "AbYPb53PsK4",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-cup-holder-expander-extension-adapter"
+      "video_id": "GBfSJ13Nil8",
+      "text": "https://cults3d.com/en/3d-model/tool/motec-digital-racing-dashboard-mount-surround-bezel-v2"
     }
   ]
 }
