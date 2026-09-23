@@ -1072,11 +1072,12 @@
     "https://cults3d.com/en/3d-model/gadget/skoda-wheel-center-cap",
     "https://cults3d.com/en/3d-model/gadget/skoda-octavia-hood-insulation-felt-mounting-clip-1997-2001-compatible-3d-pri",
     "https://cults3d.com/en/3d-model/gadget/renault-fuel-pump-nut-compatible-with-megane-scenic-kangoo",
-    "https://cults3d.com/en/3d-model/gadget/renault-megane-platelight-cover"
+    "https://cults3d.com/en/3d-model/gadget/renault-megane-platelight-cover",
+    "https://cults3d.com/en/3d-model/gadget/renault-hub-cap-v2"
   ],
   "today_date": "2026-09-23",
-  "today_count": 4,
-  "total_posted": 1040,
+  "today_count": 5,
+  "total_posted": 1041,
   "history": [
     {
       "date": "2026-08-08",
@@ -7316,6 +7317,12 @@
       "date": "2026-09-23",
       "title": "Renault Megane PlateLight Cover",
       "media_id": "18012005078955976",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Renault Hub Cap v2",
+      "media_id": "18088357622678805",
       "fb_media_id": null
     }
   ],
