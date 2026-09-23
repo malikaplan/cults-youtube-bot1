@@ -1073,11 +1073,12 @@
     "https://cults3d.com/en/3d-model/gadget/skoda-octavia-hood-insulation-felt-mounting-clip-1997-2001-compatible-3d-pri",
     "https://cults3d.com/en/3d-model/gadget/renault-fuel-pump-nut-compatible-with-megane-scenic-kangoo",
     "https://cults3d.com/en/3d-model/gadget/renault-megane-platelight-cover",
-    "https://cults3d.com/en/3d-model/gadget/renault-hub-cap-v2"
+    "https://cults3d.com/en/3d-model/gadget/renault-hub-cap-v2",
+    "https://cults3d.com/en/3d-model/gadget/renault-panel-protective-grille-durable-3d-print-spare-part"
   ],
   "today_date": "2026-09-23",
-  "today_count": 5,
-  "total_posted": 1041,
+  "today_count": 6,
+  "total_posted": 1042,
   "history": [
     {
       "date": "2026-08-08",
@@ -7323,6 +7324,12 @@
       "date": "2026-09-23",
       "title": "Renault Hub Cap v2",
       "media_id": "18088357622678805",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Renault Panel Protective Grille – Durable 3D Print Spare Part",
+      "media_id": "18027191897855814",
       "fb_media_id": null
     }
   ],
