@@ -1,43 +1,43 @@
 {
-  "next_index": 337,
-  "next_publish_date": "2026-09-16T00:00:00",
-  "run_count": 60,
-  "total_uploaded": 264,
+  "next_index": 343,
+  "next_publish_date": "2026-09-17T00:00:00",
+  "run_count": 61,
+  "total_uploaded": 270,
   "total_models": 1416,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-23",
-    "day_number": 60,
+    "date": "2026-09-24",
+    "day_number": 61,
     "uploaded": [
       {
-        "title": "BMW E46 M3 GTR Racing GT Wing Spoiler Mounting Bracket Risers (Spoiler Halter)",
-        "publish_at": "2026-09-15T09:00:00Z",
-        "link": "https://youtu.be/bBJYegIS4mY"
+        "title": "SW-Motech Motorcycle Crash Bar  Luggage Rack Protective Cover Cap",
+        "publish_at": "2026-09-16T09:00:00Z",
+        "link": "https://youtu.be/AzdRA7QfkbE"
       },
       {
-        "title": "MoTeC Digital Racing Dashboard Anti-Glare Sunshade Visor Shroud",
-        "publish_at": "2026-09-15T11:00:00Z",
-        "link": "https://youtu.be/tULQLoWXu9w"
+        "title": "SW-Motec KTM 890 EVO Tank Bag Mounting Ring Adapter (Anillo Tank Ring)",
+        "publish_at": "2026-09-16T11:00:00Z",
+        "link": "https://youtu.be/yFFP8VfmNVg"
       },
       {
-        "title": "Mercedes-AMG MoTeC Scrutineering Dash Logger Mounting Bracket",
-        "publish_at": "2026-09-15T13:00:00Z",
-        "link": "https://youtu.be/b0Wfw5EmxAc"
+        "title": "SW-Motech GPS to GoPro Action Camera Mount Adapter",
+        "publish_at": "2026-09-16T13:00:00Z",
+        "link": "https://youtu.be/2k6k4m5tdq8"
       },
       {
-        "title": "Porsche MoTeC Scrutineering Dash Logger Mounting Bracket",
-        "publish_at": "2026-09-15T15:00:00Z",
-        "link": "https://youtu.be/TEw18vRZ2fs"
+        "title": "SP Connect to SW-Motech MOLLE Tank Bag Phone Mount Adapter",
+        "publish_at": "2026-09-16T15:00:00Z",
+        "link": "https://youtu.be/CP1XXCBG82E"
       },
       {
-        "title": "MoTeC Digital Racing Dashboard Mount Surround Bezel V2",
-        "publish_at": "2026-09-15T17:00:00Z",
-        "link": "https://youtu.be/GBfSJ13Nil8"
+        "title": "Motech-SW Motorcycle Crash Bar Vertical Protective Slider Block",
+        "publish_at": "2026-09-16T17:00:00Z",
+        "link": "https://youtu.be/ixiRg8pWGzg"
       },
       {
-        "title": "SW-Motech Motorcycle Tank Bag Base Height Increase Spacer Riser",
-        "publish_at": "2026-09-15T19:00:00Z",
-        "link": "https://youtu.be/xoy9lTUhZIo"
+        "title": "MoTeC Standard Digital Racing Dashboard Mounting Bracket",
+        "publish_at": "2026-09-16T19:00:00Z",
+        "link": "https://youtu.be/4Q7Jv-Tjyz0"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,46 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-09-13",
-      "day_number": 51,
-      "uploaded": [
-        {
-          "title": "Cover for S2000 Headlight Bulb Wiring Opening",
-          "publish_at": "2026-09-12T09:00:00Z",
-          "link": "https://youtu.be/J2L6-ynUm9I"
-        },
-        {
-          "title": "S2000 Front L-Plate Cover",
-          "publish_at": "2026-09-12T11:00:00Z",
-          "link": "https://youtu.be/enhMpNeB-3E"
-        },
-        {
-          "title": "S2000 Front Lip (45mm)",
-          "publish_at": "2026-09-12T13:00:00Z",
-          "link": "https://youtu.be/UDVErJUaCmo"
-        },
-        {
-          "title": "S2000 Oil Filter Wrench",
-          "publish_at": "2026-09-12T15:00:00Z",
-          "link": "https://youtu.be/X2h34mjtpRc"
-        },
-        {
-          "title": "S2000 Gauge Bezel for AiM MXS Dash",
-          "publish_at": "2026-09-12T17:00:00Z",
-          "link": "https://youtu.be/6kOsk2_1EwE"
-        },
-        {
-          "title": "S2000 Gas Door Grab",
-          "publish_at": "2026-09-12T19:00:00Z",
-          "link": "https://youtu.be/FyskJnG7ZDQ"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-15",
       "day_number": 52,
@@ -265,6 +225,46 @@
           "title": "SW-Motech Motorcycle Tank Bag Base Height Increase Spacer Riser",
           "publish_at": "2026-09-15T19:00:00Z",
           "link": "https://youtu.be/xoy9lTUhZIo"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
+    },
+    {
+      "date": "2026-09-24",
+      "day_number": 61,
+      "uploaded": [
+        {
+          "title": "SW-Motech Motorcycle Crash Bar  Luggage Rack Protective Cover Cap",
+          "publish_at": "2026-09-16T09:00:00Z",
+          "link": "https://youtu.be/AzdRA7QfkbE"
+        },
+        {
+          "title": "SW-Motec KTM 890 EVO Tank Bag Mounting Ring Adapter (Anillo Tank Ring)",
+          "publish_at": "2026-09-16T11:00:00Z",
+          "link": "https://youtu.be/yFFP8VfmNVg"
+        },
+        {
+          "title": "SW-Motech GPS to GoPro Action Camera Mount Adapter",
+          "publish_at": "2026-09-16T13:00:00Z",
+          "link": "https://youtu.be/2k6k4m5tdq8"
+        },
+        {
+          "title": "SP Connect to SW-Motech MOLLE Tank Bag Phone Mount Adapter",
+          "publish_at": "2026-09-16T15:00:00Z",
+          "link": "https://youtu.be/CP1XXCBG82E"
+        },
+        {
+          "title": "Motech-SW Motorcycle Crash Bar Vertical Protective Slider Block",
+          "publish_at": "2026-09-16T17:00:00Z",
+          "link": "https://youtu.be/ixiRg8pWGzg"
+        },
+        {
+          "title": "MoTeC Standard Digital Racing Dashboard Mounting Bracket",
+          "publish_at": "2026-09-16T19:00:00Z",
+          "link": "https://youtu.be/4Q7Jv-Tjyz0"
         }
       ],
       "skipped_nsfw": 0,
@@ -598,6 +598,12 @@
     "https://cults3d.com/:4903135",
     "https://cults3d.com/:4906716",
     "https://cults3d.com/:4907351",
+    "https://cults3d.com/:4924386",
+    "https://cults3d.com/:4924578",
+    "https://cults3d.com/:4924669",
+    "https://cults3d.com/:4924699",
+    "https://cults3d.com/:4924994",
+    "https://cults3d.com/:4925155",
     "https://cults3d.com/:4925448",
     "https://cults3d.com/:4929323",
     "https://cults3d.com/:4929594",
@@ -655,24 +661,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "bBJYegIS4mY",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-m3-gtr-racing-gt-wing-spoiler-mounting-bracket-risers-spoiler-halter"
+      "video_id": "AzdRA7QfkbE",
+      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-crash-bar-luggage-rack-protective-cover-cap"
     },
     {
-      "video_id": "tULQLoWXu9w",
-      "text": "https://cults3d.com/en/3d-model/tool/motec-digital-racing-dashboard-anti-glare-sunshade-visor-shroud"
+      "video_id": "yFFP8VfmNVg",
+      "text": "https://cults3d.com/en/3d-model/tool/sw-motec-ktm-890-evo-tank-bag-mounting-ring-adapter-anillo-tank-ring"
     },
     {
-      "video_id": "b0Wfw5EmxAc",
-      "text": "https://cults3d.com/en/3d-model/tool/mercedes-amg-motec-scrutineering-dash-logger-mounting-bracket"
+      "video_id": "2k6k4m5tdq8",
+      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-gps-to-gopro-action-camera-mount-adapter"
     },
     {
-      "video_id": "TEw18vRZ2fs",
-      "text": "https://cults3d.com/en/3d-model/tool/porsche-motec-scrutineering-dash-logger-mounting-bracket"
+      "video_id": "CP1XXCBG82E",
+      "text": "https://cults3d.com/en/3d-model/tool/sp-connect-to-sw-motech-molle-tank-bag-phone-mount-adapter"
     },
     {
-      "video_id": "GBfSJ13Nil8",
-      "text": "https://cults3d.com/en/3d-model/tool/motec-digital-racing-dashboard-mount-surround-bezel-v2"
+      "video_id": "ixiRg8pWGzg",
+      "text": "https://cults3d.com/en/3d-model/tool/motech-sw-motorcycle-crash-bar-vertical-protective-slider-block"
+    },
+    {
+      "video_id": "4Q7Jv-Tjyz0",
+      "text": "https://cults3d.com/en/3d-model/tool/motec-standard-digital-racing-dashboard-mounting-bracket"
     }
   ]
 }
