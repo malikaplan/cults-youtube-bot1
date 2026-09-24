@@ -1098,11 +1098,12 @@
     "https://cults3d.com/en/3d-model/home/elegant-decorative-vase-multi-purpose",
     "https://cults3d.com/en/3d-model/home/cute-cat-ghost-decorative-figure-keychain",
     "https://cults3d.com/en/3d-model/jewelry/cute-cat-keychain-necklace-stylish-3d-print-accessory",
-    "https://cults3d.com/en/3d-model/home/eheim-pipes"
+    "https://cults3d.com/en/3d-model/home/eheim-pipes",
+    "https://cults3d.com/en/3d-model/home/eheim-filter-outlet-aquarium-water-flow-regulator"
   ],
   "today_date": "2026-09-24",
-  "today_count": 6,
-  "total_posted": 1066,
+  "today_count": 7,
+  "total_posted": 1067,
   "history": [
     {
       "date": "2026-08-08",
@@ -7498,6 +7499,12 @@
       "date": "2026-09-24",
       "title": "Eheim Pipes",
       "media_id": "17873892534635441",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Eheim Filter Outlet – Aquarium Water Flow Regulator",
+      "media_id": "18119669839940178",
       "fb_media_id": null
     }
   ],
