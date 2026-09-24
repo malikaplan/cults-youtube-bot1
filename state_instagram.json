@@ -1103,11 +1103,12 @@
     "https://cults3d.com/en/3d-model/home/eheim-uv800-halter-aquarium-uv-filter-holder",
     "https://cults3d.com/en/3d-model/home/eheim-wide-jet-outlet-aquarium-filter-wide-flow-nozzle",
     "https://cults3d.com/en/3d-model/home/aquarium-filter-hose-plug-eheim",
-    "https://cults3d.com/en/3d-model/home/eheim-intake-strainer-aquarium-filter-inlet-protector"
+    "https://cults3d.com/en/3d-model/home/eheim-intake-strainer-aquarium-filter-inlet-protector",
+    "https://cults3d.com/en/3d-model/home/eheim-xl-verteiler-aquarium-hose-distributor-connector-3d-print"
   ],
   "today_date": "2026-09-24",
-  "today_count": 11,
-  "total_posted": 1071,
+  "today_count": 12,
+  "total_posted": 1072,
   "history": [
     {
       "date": "2026-08-08",
@@ -7533,6 +7534,12 @@
       "date": "2026-09-24",
       "title": "Eheim Intake Strainer – Aquarium Filter Inlet Protector",
       "media_id": "18122893075923690",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-24",
+      "title": "EHEIM XL Verteiler – Aquarium Hose Distributor / Connector (3D Print)",
+      "media_id": "18156370276510527",
       "fb_media_id": null
     }
   ],
