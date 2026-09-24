@@ -1105,11 +1105,12 @@
     "https://cults3d.com/en/3d-model/home/aquarium-filter-hose-plug-eheim",
     "https://cults3d.com/en/3d-model/home/eheim-intake-strainer-aquarium-filter-inlet-protector",
     "https://cults3d.com/en/3d-model/home/eheim-xl-verteiler-aquarium-hose-distributor-connector-3d-print",
-    "https://cults3d.com/en/3d-model/home/eheim-skimmer-top-aquarium-surface-cleaner-spare-part-3d-print"
+    "https://cults3d.com/en/3d-model/home/eheim-skimmer-top-aquarium-surface-cleaner-spare-part-3d-print",
+    "https://cults3d.com/en/3d-model/home/eheim-spona-clip-aquarium-hose-pipe-holder-3d-print"
   ],
   "today_date": "2026-09-24",
-  "today_count": 13,
-  "total_posted": 1073,
+  "today_count": 14,
+  "total_posted": 1074,
   "history": [
     {
       "date": "2026-08-08",
@@ -7547,6 +7548,12 @@
       "date": "2026-09-24",
       "title": "Eheim Skimmer Top – Aquarium Surface Cleaner Spare Part (3D Print)",
       "media_id": "18081760748356701",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Eheim Spona Clip – Aquarium Hose & Pipe Holder (3D Print)",
+      "media_id": "18122106694912947",
       "fb_media_id": null
     }
   ],
