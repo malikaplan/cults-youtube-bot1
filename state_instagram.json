@@ -1101,11 +1101,12 @@
     "https://cults3d.com/en/3d-model/home/eheim-pipes",
     "https://cults3d.com/en/3d-model/home/eheim-filter-outlet-aquarium-water-flow-regulator",
     "https://cults3d.com/en/3d-model/home/eheim-uv800-halter-aquarium-uv-filter-holder",
-    "https://cults3d.com/en/3d-model/home/eheim-wide-jet-outlet-aquarium-filter-wide-flow-nozzle"
+    "https://cults3d.com/en/3d-model/home/eheim-wide-jet-outlet-aquarium-filter-wide-flow-nozzle",
+    "https://cults3d.com/en/3d-model/home/aquarium-filter-hose-plug-eheim"
   ],
   "today_date": "2026-09-24",
-  "today_count": 9,
-  "total_posted": 1069,
+  "today_count": 10,
+  "total_posted": 1070,
   "history": [
     {
       "date": "2026-08-08",
@@ -7519,6 +7520,12 @@
       "date": "2026-09-24",
       "title": "Eheim Wide Jet Outlet – Aquarium Filter Wide Flow Nozzle",
       "media_id": "17918107806243167",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Aquarium Filter Hose Plug eheim",
+      "media_id": "17880804399689622",
       "fb_media_id": null
     }
   ],
