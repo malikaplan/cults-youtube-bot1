@@ -1125,11 +1125,12 @@
     "https://cults3d.com/en/3d-model/tool/guitar-pick-kitcard-0-6mm-0-8mm-1-0mm-1-2mm-multi-thickness-set",
     "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-airscoops-performance-focused-3d-print-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-front-axle-brake-cooling-duct-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-rear-axle-brake-cooling-duct-reliable-3d-print-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-rear-axle-brake-cooling-duct-reliable-3d-print-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-kitcard-multicolor-3d-print-model"
   ],
   "today_date": "2026-09-25",
-  "today_count": 9,
-  "total_posted": 1093,
+  "today_count": 10,
+  "total_posted": 1094,
   "history": [
     {
       "date": "2026-08-08",
@@ -7687,6 +7688,12 @@
       "date": "2026-09-25",
       "title": "BMW M4 F82 Rear Axle Brake Cooling Duct – Reliable 3D Print Spare Part",
       "media_id": "18163978903485526",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-25",
+      "title": "BMW M4 (F82) Kitcard – Multicolor 3D Print Model",
+      "media_id": "18599994040066010",
       "fb_media_id": null
     }
   ],
