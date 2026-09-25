@@ -1136,11 +1136,12 @@
     "https://cults3d.com/en/3d-model/gadget/supra-compatible-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e61-gear-shift-knob-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e46-gear-shift-knob-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/drift-gear-shift-knob-stylish-and-durable-3d-print-design"
+    "https://cults3d.com/en/3d-model/gadget/drift-gear-shift-knob-stylish-and-durable-3d-print-design",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e60-wiper-axis-cap-reliable-3d-print-spare-part"
   ],
   "today_date": "2026-09-25",
-  "today_count": 20,
-  "total_posted": 1104,
+  "today_count": 21,
+  "total_posted": 1105,
   "history": [
     {
       "date": "2026-08-08",
@@ -7764,6 +7765,12 @@
       "date": "2026-09-25",
       "title": "Drift Gear Shift Knob – Stylish and Durable 3D Print Design",
       "media_id": "18155002483514610",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-25",
+      "title": "BMW E60 Wiper Axis Cap – Reliable 3D Print Spare Part",
+      "media_id": "17918290209444664",
       "fb_media_id": null
     }
   ],
