@@ -1127,11 +1127,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-front-axle-brake-cooling-duct-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-rear-axle-brake-cooling-duct-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-kitcard-multicolor-3d-print-model",
-    "https://cults3d.com/en/3d-model/gadget/bmw-z4-e89-center-console-double-cup-holder-reliable-3d-print-accessory"
+    "https://cults3d.com/en/3d-model/gadget/bmw-z4-e89-center-console-double-cup-holder-reliable-3d-print-accessory",
+    "https://cults3d.com/en/3d-model/gadget/bmw-f36-door-gutter-protector-reliable-3d-print-spare-part"
   ],
   "today_date": "2026-09-25",
-  "today_count": 11,
-  "total_posted": 1095,
+  "today_count": 12,
+  "total_posted": 1096,
   "history": [
     {
       "date": "2026-08-08",
@@ -7701,6 +7702,12 @@
       "date": "2026-09-25",
       "title": "BMW Z4 E89 Center Console Double Cup Holder – Reliable 3D Print Accessory",
       "media_id": "18034736408838871",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-25",
+      "title": "BMW F36 Door Gutter Protector – Reliable 3D Print Spare Part",
+      "media_id": "18136829656727060",
       "fb_media_id": null
     }
   ],
