@@ -1123,11 +1123,12 @@
     "https://cults3d.com/en/3d-model/game/golden-snitch-kitcard-multicolor-3d-print-collectible-model",
     "https://cults3d.com/en/3d-model/game/flower-pot-kitcard-decorative-3d-print-model",
     "https://cults3d.com/en/3d-model/tool/guitar-pick-kitcard-0-6mm-0-8mm-1-0mm-1-2mm-multi-thickness-set",
-    "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-airscoops-performance-focused-3d-print-part"
+    "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-airscoops-performance-focused-3d-print-part",
+    "https://cults3d.com/en/3d-model/gadget/bmw-m4-f82-front-axle-brake-cooling-duct-reliable-3d-print-spare-part"
   ],
   "today_date": "2026-09-25",
-  "today_count": 7,
-  "total_posted": 1091,
+  "today_count": 8,
+  "total_posted": 1092,
   "history": [
     {
       "date": "2026-08-08",
@@ -7673,6 +7674,12 @@
       "date": "2026-09-25",
       "title": "BMW M4 F82 Airscoops – Performance‑Focused 3D Print Part",
       "media_id": "18137160259621757",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-25",
+      "title": "BMW M4 F82 Front Axle Brake Cooling Duct – Reliable 3D Print Spare Part",
+      "media_id": "18121744708931718",
       "fb_media_id": null
     }
   ],
