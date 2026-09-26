@@ -1162,11 +1162,12 @@
     "https://cults3d.com/en/3d-model/gadget/civic-speaker-adapter-reliable-3d-print-mounting-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e30-m20-76mm-intake-adaptor-extension-pipe-reliable-3d-print-performance",
     "https://cults3d.com/en/3d-model/gadget/ford-focus-wiper-cap-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/window-wiper-end-cap-reliable-3d-print-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/window-wiper-end-cap-reliable-3d-print-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e91-rear-wiper-delete-cap-reliable-3d-print-spare-part"
   ],
   "today_date": "2026-09-26",
-  "today_count": 22,
-  "total_posted": 1130,
+  "today_count": 23,
+  "total_posted": 1131,
   "history": [
     {
       "date": "2026-08-08",
@@ -7946,6 +7947,12 @@
       "date": "2026-09-26",
       "title": "Window Wiper End Cap – Reliable 3D Print Spare Part",
       "media_id": "17861989602693923",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-26",
+      "title": "BMW E91 Rear Wiper Delete Cap – Reliable 3D Print Spare Part",
+      "media_id": "18029184428907008",
       "fb_media_id": null
     }
   ],
