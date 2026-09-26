@@ -1158,11 +1158,12 @@
     "https://cults3d.com/en/3d-model/gadget/volvo-s40-2011-sunroof-gear-3d-printable-roof-mechanism-gear",
     "https://cults3d.com/en/3d-model/various/fishing-lure-spiral-3d-printable-bait-holder",
     "https://cults3d.com/en/3d-model/various/fishing-reel-3d-printable-reel-part",
-    "https://cults3d.com/en/3d-model/jewelry/stylish-keychain-elegant-and-durable-3d-print-design"
+    "https://cults3d.com/en/3d-model/jewelry/stylish-keychain-elegant-and-durable-3d-print-design",
+    "https://cults3d.com/en/3d-model/gadget/civic-speaker-adapter-reliable-3d-print-mounting-part"
   ],
   "today_date": "2026-09-26",
-  "today_count": 18,
-  "total_posted": 1126,
+  "today_count": 19,
+  "total_posted": 1127,
   "history": [
     {
       "date": "2026-08-08",
@@ -7918,6 +7919,12 @@
       "date": "2026-09-26",
       "title": "Stylish Keychain – Elegant and Durable 3D Print Design",
       "media_id": "18122258468474274",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Civic Speaker Adapter – Reliable 3D Print Mounting Part",
+      "media_id": "18381384658226905",
       "fb_media_id": null
     }
   ],
