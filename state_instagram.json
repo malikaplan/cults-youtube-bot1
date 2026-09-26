@@ -1156,11 +1156,12 @@
     "https://cults3d.com/en/3d-model/game/tanker-truck-toy-v2-3d-printable-fuel-truck",
     "https://cults3d.com/en/3d-model/game/tanker-truck-toy-3d-printable-fuel-truck",
     "https://cults3d.com/en/3d-model/gadget/volvo-s40-2011-sunroof-gear-3d-printable-roof-mechanism-gear",
-    "https://cults3d.com/en/3d-model/various/fishing-lure-spiral-3d-printable-bait-holder"
+    "https://cults3d.com/en/3d-model/various/fishing-lure-spiral-3d-printable-bait-holder",
+    "https://cults3d.com/en/3d-model/various/fishing-reel-3d-printable-reel-part"
   ],
   "today_date": "2026-09-26",
-  "today_count": 16,
-  "total_posted": 1124,
+  "today_count": 17,
+  "total_posted": 1125,
   "history": [
     {
       "date": "2026-08-08",
@@ -7904,6 +7905,12 @@
       "date": "2026-09-26",
       "title": "Fishing Lure Spiral – 3D Printable Bait Holder",
       "media_id": "18117087010752814",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Fishing Reel – 3D Printable Reel Part",
+      "media_id": "18206339380370227",
       "fb_media_id": null
     }
   ],
