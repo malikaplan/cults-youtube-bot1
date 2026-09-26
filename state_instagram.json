@@ -1145,11 +1145,12 @@
     "https://cults3d.com/en/3d-model/tool/3d-printable-bottle-and-screw-cap-practical-design",
     "https://cults3d.com/en/3d-model/game/m1-abrams-tank-model-reliable-3d-print-decorative-and-collectible-piece",
     "https://cults3d.com/en/3d-model/tool/xbox-buttons-x-y-a-b-3d-printable-controller-keys",
-    "https://cults3d.com/en/3d-model/tool/xbox-controller-stand-3d-printable-gamepad-holder"
+    "https://cults3d.com/en/3d-model/tool/xbox-controller-stand-3d-printable-gamepad-holder",
+    "https://cults3d.com/en/3d-model/tool/playstation-4-vertical-stand-3d-printable-console-holder"
   ],
   "today_date": "2026-09-26",
-  "today_count": 5,
-  "total_posted": 1113,
+  "today_count": 6,
+  "total_posted": 1114,
   "history": [
     {
       "date": "2026-08-08",
@@ -7827,6 +7828,12 @@
       "date": "2026-09-26",
       "title": "Xbox Controller Stand – 3D Printable Gamepad Holder",
       "media_id": "18134207980639542",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-26",
+      "title": "PlayStation 4 Vertical Stand – 3D Printable Console Holder",
+      "media_id": "18153816295521822",
       "fb_media_id": null
     }
   ],
