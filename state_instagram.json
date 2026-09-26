@@ -1147,11 +1147,12 @@
     "https://cults3d.com/en/3d-model/tool/xbox-buttons-x-y-a-b-3d-printable-controller-keys",
     "https://cults3d.com/en/3d-model/tool/xbox-controller-stand-3d-printable-gamepad-holder",
     "https://cults3d.com/en/3d-model/tool/playstation-4-vertical-stand-3d-printable-console-holder",
-    "https://cults3d.com/en/3d-model/tool/playstation-4-stand-3d-printable-console-holder"
+    "https://cults3d.com/en/3d-model/tool/playstation-4-stand-3d-printable-console-holder",
+    "https://cults3d.com/en/3d-model/tool/ps5-slim-pro-stand-3d-printable-console-holder"
   ],
   "today_date": "2026-09-26",
-  "today_count": 7,
-  "total_posted": 1115,
+  "today_count": 8,
+  "total_posted": 1116,
   "history": [
     {
       "date": "2026-08-08",
@@ -7841,6 +7842,12 @@
       "date": "2026-09-26",
       "title": "PlayStation 4 Stand – 3D Printable Console Holder",
       "media_id": "18113559524468691",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-26",
+      "title": "PS5 Slim Pro Stand – 3D Printable Console Holder",
+      "media_id": "18011993837971046",
       "fb_media_id": null
     }
   ],
