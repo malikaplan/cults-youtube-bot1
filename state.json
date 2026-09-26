@@ -1,43 +1,43 @@
 {
-  "next_index": 349,
-  "next_publish_date": "2026-09-18T00:00:00",
-  "run_count": 62,
-  "total_uploaded": 276,
+  "next_index": 355,
+  "next_publish_date": "2026-09-19T00:00:00",
+  "run_count": 63,
+  "total_uploaded": 282,
   "total_models": 1416,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-25",
-    "day_number": 62,
+    "date": "2026-09-26",
+    "day_number": 63,
     "uploaded": [
       {
-        "title": "SW-Motech BLAZE Saddlebag Male Quick-Lock Mounting Adapter",
-        "publish_at": "2026-09-17T09:00:00Z",
-        "link": "https://youtu.be/RekJF-8lvhY"
+        "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
+        "publish_at": "2026-09-18T09:00:00Z",
+        "link": "https://youtu.be/lZueD9IiMvo"
       },
       {
-        "title": "MoTeC Universal Digital Dashboard",
-        "publish_at": "2026-09-17T11:00:00Z",
-        "link": "https://youtu.be/n4qQexFsfXQ"
+        "title": "FuelTech Digital Racing Dashboard Mounting Bracket Holder",
+        "publish_at": "2026-09-18T11:00:00Z",
+        "link": "https://youtu.be/SkgZFeEe0AU"
       },
       {
-        "title": "MoTeC C127 Digital Racing Dashboard Screen Protective Cover and Shroud",
-        "publish_at": "2026-09-17T13:00:00Z",
-        "link": "https://youtu.be/toyD9_hXPgw"
+        "title": "FuelTech EG (1992–1995) Digital Dashboard Instrument Cluster Bezel Panel (Quadrante)",
+        "publish_at": "2026-09-18T13:00:00Z",
+        "link": "https://youtu.be/U9rBywUvk7s"
       },
       {
-        "title": "SW-Motech Motorcycle Luggage MOLLE Connection Clip Adapter Part",
-        "publish_at": "2026-09-17T15:00:00Z",
-        "link": "https://youtu.be/0nMBv6qV09Y"
+        "title": "FuelTech Dashboard Clock Location Gauge Mounting Bezel Frame",
+        "publish_at": "2026-09-18T15:00:00Z",
+        "link": "https://youtu.be/Fi3a3hxLkH8"
       },
       {
-        "title": "SW-Motech Universal Motorcycle Mounting Bracket Clamp",
-        "publish_at": "2026-09-17T17:00:00Z",
-        "link": "https://youtu.be/bSrykn_PJMU"
+        "title": "FuelTech FT450 Square Dashboard Mounting Bezel Panel",
+        "publish_at": "2026-09-18T17:00:00Z",
+        "link": "https://youtu.be/etIT5NGfI1Y"
       },
       {
-        "title": "MoTeC Motorsports Video Camera & Data Logger Mounting Bracket",
-        "publish_at": "2026-09-17T19:00:00Z",
-        "link": "https://youtu.be/lGIP4gmYeQc"
+        "title": "FuelTech FT450 & NanoPRO Flexx Handlebar Dual Mounting Bracket",
+        "publish_at": "2026-09-18T19:00:00Z",
+        "link": "https://youtu.be/JHoBVsvh9XI"
       }
     ],
     "skipped_nsfw": 0,
@@ -46,17 +46,6 @@
     "errors": []
   },
   "history": [
-    {
-      "date": "2026-09-16",
-      "day_number": 53,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
-      ]
-    },
     {
       "date": "2026-09-17",
       "day_number": 54,
@@ -265,6 +254,46 @@
           "title": "MoTeC Motorsports Video Camera & Data Logger Mounting Bracket",
           "publish_at": "2026-09-17T19:00:00Z",
           "link": "https://youtu.be/lGIP4gmYeQc"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": []
+    },
+    {
+      "date": "2026-09-26",
+      "day_number": 63,
+      "uploaded": [
+        {
+          "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
+          "publish_at": "2026-09-18T09:00:00Z",
+          "link": "https://youtu.be/lZueD9IiMvo"
+        },
+        {
+          "title": "FuelTech Digital Racing Dashboard Mounting Bracket Holder",
+          "publish_at": "2026-09-18T11:00:00Z",
+          "link": "https://youtu.be/SkgZFeEe0AU"
+        },
+        {
+          "title": "FuelTech EG (1992–1995) Digital Dashboard Instrument Cluster Bezel Panel (Quadrante)",
+          "publish_at": "2026-09-18T13:00:00Z",
+          "link": "https://youtu.be/U9rBywUvk7s"
+        },
+        {
+          "title": "FuelTech Dashboard Clock Location Gauge Mounting Bezel Frame",
+          "publish_at": "2026-09-18T15:00:00Z",
+          "link": "https://youtu.be/Fi3a3hxLkH8"
+        },
+        {
+          "title": "FuelTech FT450 Square Dashboard Mounting Bezel Panel",
+          "publish_at": "2026-09-18T17:00:00Z",
+          "link": "https://youtu.be/etIT5NGfI1Y"
+        },
+        {
+          "title": "FuelTech FT450 & NanoPRO Flexx Handlebar Dual Mounting Bracket",
+          "publish_at": "2026-09-18T19:00:00Z",
+          "link": "https://youtu.be/JHoBVsvh9XI"
         }
       ],
       "skipped_nsfw": 0,
@@ -598,6 +627,12 @@
     "https://cults3d.com/:4903135",
     "https://cults3d.com/:4906716",
     "https://cults3d.com/:4907351",
+    "https://cults3d.com/:4915371",
+    "https://cults3d.com/:4916231",
+    "https://cults3d.com/:4916730",
+    "https://cults3d.com/:4916777",
+    "https://cults3d.com/:4919766",
+    "https://cults3d.com/:4919888",
     "https://cults3d.com/:4919893",
     "https://cults3d.com/:4920219",
     "https://cults3d.com/:4920684",
@@ -667,28 +702,28 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "RekJF-8lvhY",
-      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-blaze-saddlebag-male-quick-lock-mounting-adapter"
+      "video_id": "lZueD9IiMvo",
+      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support-makdesign"
     },
     {
-      "video_id": "n4qQexFsfXQ",
-      "text": "https://cults3d.com/en/3d-model/tool/motec-universal-digital-dashboard"
+      "video_id": "SkgZFeEe0AU",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech-digital-racing-dashboard-mounting-bracket-holder"
     },
     {
-      "video_id": "toyD9_hXPgw",
-      "text": "https://cults3d.com/en/3d-model/tool/motec-c127-digital-racing-dashboard-screen-protective-cover-and-shroud"
+      "video_id": "U9rBywUvk7s",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech-eg-1992-1995-digital-dashboard-instrument-cluster-bezel-panel-quadra"
     },
     {
-      "video_id": "0nMBv6qV09Y",
-      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-luggage-molle-connection-clip-adapter-part"
+      "video_id": "Fi3a3hxLkH8",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech-dashboard-clock-location-gauge-mounting-bezel-frame"
     },
     {
-      "video_id": "bSrykn_PJMU",
-      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-universal-motorcycle-mounting-bracket-clamp"
+      "video_id": "etIT5NGfI1Y",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech-ft450-square-dashboard-mounting-bezel-panel"
     },
     {
-      "video_id": "lGIP4gmYeQc",
-      "text": "https://cults3d.com/en/3d-model/tool/motec-motorsports-video-camera-data-logger-mounting-bracket"
+      "video_id": "JHoBVsvh9XI",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech-ft450-nanopro-flexx-handlebar-dual-mounting-bracket"
     }
   ]
 }
