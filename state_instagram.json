@@ -1172,11 +1172,12 @@
     "https://cults3d.com/en/3d-model/gadget/title-bmw-e30-shift-knob-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e30-wiper-leash-caps-wiper-arm-covers",
     "https://cults3d.com/en/3d-model/tool/phone-storage-box-chargeable-sliding-lid-case",
-    "https://cults3d.com/en/3d-model/tool/lockable-sliding-lid-box-secure-storage-container"
+    "https://cults3d.com/en/3d-model/tool/lockable-sliding-lid-box-secure-storage-container",
+    "https://cults3d.com/en/3d-model/tool/parametric-sliding-lid-enclosure-scalable-storage-box"
   ],
   "today_date": "2026-09-27",
-  "today_count": 8,
-  "total_posted": 1140,
+  "today_count": 9,
+  "total_posted": 1141,
   "history": [
     {
       "date": "2026-08-08",
@@ -8016,6 +8017,12 @@
       "date": "2026-09-27",
       "title": "Lockable Sliding Lid Box – Secure Storage Container",
       "media_id": "17885919267619133",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Parametric Sliding Lid Enclosure – Scalable Storage Box",
+      "media_id": "17981613140905567",
       "fb_media_id": null
     }
   ],
