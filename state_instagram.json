@@ -1164,11 +1164,12 @@
     "https://cults3d.com/en/3d-model/gadget/ford-focus-wiper-cap-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/window-wiper-end-cap-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e91-rear-wiper-delete-cap-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/2017-vw-alltrack-rear-wiper-cap-reliable-3d-print-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/2017-vw-alltrack-rear-wiper-cap-reliable-3d-print-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/volvo-v40-front-windshield-wiper-cap"
   ],
-  "today_date": "2026-09-26",
-  "today_count": 24,
-  "total_posted": 1132,
+  "today_date": "2026-09-27",
+  "today_count": 1,
+  "total_posted": 1133,
   "history": [
     {
       "date": "2026-08-08",
@@ -7960,6 +7961,12 @@
       "date": "2026-09-26",
       "title": "2017 VW AllTrack Rear Wiper Cap – Reliable 3D Print Spare Part",
       "media_id": "18104517458357474",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Volvo V40 Front Windshield Wiper Cap",
+      "media_id": "18103312874458742",
       "fb_media_id": null
     }
   ],
