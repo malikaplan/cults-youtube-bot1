@@ -1186,11 +1186,12 @@
     "https://cults3d.com/en/3d-model/tool/slide-lid-box-90x40x18-3d-printable-storage-container",
     "https://cults3d.com/en/3d-model/gadget/bmw-e46-keychain-3d-printable-accessory",
     "https://cults3d.com/en/3d-model/gadget/bmw-e30-e32-e39-e46-x3-e83-floor-mat-fixing-screw-clip-holder-3d-printable-int",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-e36-ecu-master-adu7-dash-cluster-mount-3d-printable-interior-console"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-e36-ecu-master-adu7-dash-cluster-mount-3d-printable-interior-console",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e46-double-din-radio-frame-adapter-panel-3d-printable-interior-console-p"
   ],
   "today_date": "2026-09-27",
-  "today_count": 22,
-  "total_posted": 1154,
+  "today_count": 23,
+  "total_posted": 1155,
   "history": [
     {
       "date": "2026-08-08",
@@ -8114,6 +8115,12 @@
       "date": "2026-09-27",
       "title": "BMW E46 / E36 ECU Master ADU7 Dash Cluster Mount – 3D Printable Interior Console Adapter (Multi-Part & Interlocking)",
       "media_id": "18130201579690005",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-27",
+      "title": "BMW E46 Double DIN Radio Frame / Adapter Panel – 3D Printable Interior Console Part",
+      "media_id": "17981662340901310",
       "fb_media_id": null
     }
   ],
