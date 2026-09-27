@@ -1167,11 +1167,12 @@
     "https://cults3d.com/en/3d-model/gadget/2017-vw-alltrack-rear-wiper-cap-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/volvo-v40-front-windshield-wiper-cap",
     "https://cults3d.com/en/3d-model/gadget/2008-suzuki-swift-wiper-reservoir-cap",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e21-e30-e36-strut-mount-cover"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e21-e30-e36-strut-mount-cover",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e30-mirror-triangle-cover"
   ],
   "today_date": "2026-09-27",
-  "today_count": 3,
-  "total_posted": 1135,
+  "today_count": 4,
+  "total_posted": 1136,
   "history": [
     {
       "date": "2026-08-08",
@@ -7981,6 +7982,12 @@
       "date": "2026-09-27",
       "title": "BMW E21 / E30 / E36 Strut Mount Cover",
       "media_id": "18636163822011142",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-27",
+      "title": "BMW E30 Mirror Triangle Cover",
+      "media_id": "17867302812660886",
       "fb_media_id": null
     }
   ],
