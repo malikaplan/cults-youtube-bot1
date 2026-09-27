@@ -1169,11 +1169,12 @@
     "https://cults3d.com/en/3d-model/gadget/2008-suzuki-swift-wiper-reservoir-cap",
     "https://cults3d.com/en/3d-model/gadget/bmw-e21-e30-e36-strut-mount-cover",
     "https://cults3d.com/en/3d-model/gadget/bmw-e30-mirror-triangle-cover",
-    "https://cults3d.com/en/3d-model/gadget/title-bmw-e30-shift-knob-reliable-3d-print-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/title-bmw-e30-shift-knob-reliable-3d-print-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/bmw-e30-wiper-leash-caps-wiper-arm-covers"
   ],
   "today_date": "2026-09-27",
-  "today_count": 5,
-  "total_posted": 1137,
+  "today_count": 6,
+  "total_posted": 1138,
   "history": [
     {
       "date": "2026-08-08",
@@ -7995,6 +7996,12 @@
       "date": "2026-09-27",
       "title": "Title: BMW E30 Shift Knob – Reliable 3D Print Spare Part",
       "media_id": "18028253486908823",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-27",
+      "title": "BMW E30 Wiper Leash Caps – Wiper Arm Covers",
+      "media_id": "18219286267350674",
       "fb_media_id": null
     }
   ],
