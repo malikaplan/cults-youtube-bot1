@@ -1,62 +1,33 @@
 {
-  "next_index": 355,
+  "next_index": 357,
   "next_publish_date": "2026-09-19T00:00:00",
-  "run_count": 63,
-  "total_uploaded": 282,
+  "run_count": 64,
+  "total_uploaded": 284,
   "total_models": 1416,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-26",
-    "day_number": 63,
+    "date": "2026-09-27",
+    "day_number": 64,
     "uploaded": [
       {
-        "title": "SW-Motech Motorcycle Tank Bag Lower Support Bracket (Tank Support)",
-        "publish_at": "2026-09-18T09:00:00Z",
-        "link": "https://youtu.be/lZueD9IiMvo"
+        "title": "FT450 Proton Wira  Satria FuelTech  Digital Dashboard Cluster Mounting Panel",
+        "publish_at": "2026-09-19T09:00:00Z",
+        "link": "https://youtu.be/pmtaMiGdd2c"
       },
       {
-        "title": "FuelTech Digital Racing Dashboard Mounting Bracket Holder",
-        "publish_at": "2026-09-18T11:00:00Z",
-        "link": "https://youtu.be/SkgZFeEe0AU"
-      },
-      {
-        "title": "FuelTech EG (1992–1995) Digital Dashboard Instrument Cluster Bezel Panel (Quadrante)",
-        "publish_at": "2026-09-18T13:00:00Z",
-        "link": "https://youtu.be/U9rBywUvk7s"
-      },
-      {
-        "title": "FuelTech Dashboard Clock Location Gauge Mounting Bezel Frame",
-        "publish_at": "2026-09-18T15:00:00Z",
-        "link": "https://youtu.be/Fi3a3hxLkH8"
-      },
-      {
-        "title": "FuelTech FT450 Square Dashboard Mounting Bezel Panel",
-        "publish_at": "2026-09-18T17:00:00Z",
-        "link": "https://youtu.be/etIT5NGfI1Y"
-      },
-      {
-        "title": "FuelTech FT450 & NanoPRO Flexx Handlebar Dual Mounting Bracket",
-        "publish_at": "2026-09-18T19:00:00Z",
-        "link": "https://youtu.be/JHoBVsvh9XI"
+        "title": "FuelTech Dual Power Driver Module Mounting Bracket",
+        "publish_at": "2026-09-19T11:00:00Z",
+        "link": "https://youtu.be/mmuW_4XPRFA"
       }
     ],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
     "skipped_blocked": 0,
-    "errors": []
+    "errors": [
+      "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+    ]
   },
   "history": [
-    {
-      "date": "2026-09-17",
-      "day_number": 54,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
-      ]
-    },
     {
       "date": "2026-09-18",
       "day_number": 55,
@@ -300,6 +271,28 @@
       "skipped_no_video": 0,
       "skipped_blocked": 0,
       "errors": []
+    },
+    {
+      "date": "2026-09-27",
+      "day_number": 64,
+      "uploaded": [
+        {
+          "title": "FT450 Proton Wira  Satria FuelTech  Digital Dashboard Cluster Mounting Panel",
+          "publish_at": "2026-09-19T09:00:00Z",
+          "link": "https://youtu.be/pmtaMiGdd2c"
+        },
+        {
+          "title": "FuelTech Dual Power Driver Module Mounting Bracket",
+          "publish_at": "2026-09-19T11:00:00Z",
+          "link": "https://youtu.be/mmuW_4XPRFA"
+        }
+      ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
     }
   ],
   "processed_urls": [
@@ -627,6 +620,8 @@
     "https://cults3d.com/:4903135",
     "https://cults3d.com/:4906716",
     "https://cults3d.com/:4907351",
+    "https://cults3d.com/:4911356",
+    "https://cults3d.com/:4912648",
     "https://cults3d.com/:4915371",
     "https://cults3d.com/:4916231",
     "https://cults3d.com/:4916730",
@@ -702,28 +697,12 @@
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
     },
     {
-      "video_id": "lZueD9IiMvo",
-      "text": "https://cults3d.com/en/3d-model/tool/sw-motech-motorcycle-tank-bag-lower-support-bracket-tank-support-makdesign"
+      "video_id": "pmtaMiGdd2c",
+      "text": "https://cults3d.com/en/3d-model/tool/ft450-proton-wira-satria-fueltech-digital-dashboard-cluster-mounting-panel"
     },
     {
-      "video_id": "SkgZFeEe0AU",
-      "text": "https://cults3d.com/en/3d-model/tool/fueltech-digital-racing-dashboard-mounting-bracket-holder"
-    },
-    {
-      "video_id": "U9rBywUvk7s",
-      "text": "https://cults3d.com/en/3d-model/tool/fueltech-eg-1992-1995-digital-dashboard-instrument-cluster-bezel-panel-quadra"
-    },
-    {
-      "video_id": "Fi3a3hxLkH8",
-      "text": "https://cults3d.com/en/3d-model/tool/fueltech-dashboard-clock-location-gauge-mounting-bezel-frame"
-    },
-    {
-      "video_id": "etIT5NGfI1Y",
-      "text": "https://cults3d.com/en/3d-model/tool/fueltech-ft450-square-dashboard-mounting-bezel-panel"
-    },
-    {
-      "video_id": "JHoBVsvh9XI",
-      "text": "https://cults3d.com/en/3d-model/tool/fueltech-ft450-nanopro-flexx-handlebar-dual-mounting-bracket"
+      "video_id": "mmuW_4XPRFA",
+      "text": "https://cults3d.com/en/3d-model/tool/fueltech-dual-power-driver-module-mounting-bracket"
     }
   ]
 }
