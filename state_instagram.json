@@ -1165,11 +1165,12 @@
     "https://cults3d.com/en/3d-model/gadget/window-wiper-end-cap-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e91-rear-wiper-delete-cap-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/2017-vw-alltrack-rear-wiper-cap-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/volvo-v40-front-windshield-wiper-cap"
+    "https://cults3d.com/en/3d-model/gadget/volvo-v40-front-windshield-wiper-cap",
+    "https://cults3d.com/en/3d-model/gadget/2008-suzuki-swift-wiper-reservoir-cap"
   ],
   "today_date": "2026-09-27",
-  "today_count": 1,
-  "total_posted": 1133,
+  "today_count": 2,
+  "total_posted": 1134,
   "history": [
     {
       "date": "2026-08-08",
@@ -7967,6 +7968,12 @@
       "date": "2026-09-27",
       "title": "Volvo V40 Front Windshield Wiper Cap",
       "media_id": "18103312874458742",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-27",
+      "title": "2008 Suzuki Swift Wiper Reservoir Cap",
+      "media_id": "18104599802370244",
       "fb_media_id": null
     }
   ],
