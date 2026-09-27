@@ -1170,11 +1170,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e21-e30-e36-strut-mount-cover",
     "https://cults3d.com/en/3d-model/gadget/bmw-e30-mirror-triangle-cover",
     "https://cults3d.com/en/3d-model/gadget/title-bmw-e30-shift-knob-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e30-wiper-leash-caps-wiper-arm-covers"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e30-wiper-leash-caps-wiper-arm-covers",
+    "https://cults3d.com/en/3d-model/tool/phone-storage-box-chargeable-sliding-lid-case"
   ],
   "today_date": "2026-09-27",
-  "today_count": 6,
-  "total_posted": 1138,
+  "today_count": 7,
+  "total_posted": 1139,
   "history": [
     {
       "date": "2026-08-08",
@@ -8002,6 +8003,12 @@
       "date": "2026-09-27",
       "title": "BMW E30 Wiper Leash Caps – Wiper Arm Covers",
       "media_id": "18219286267350674",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Phone Storage Box – Chargeable Sliding Lid Case",
+      "media_id": "17909629569474589",
       "fb_media_id": null
     }
   ],
