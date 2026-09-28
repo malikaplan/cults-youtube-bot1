@@ -1201,11 +1201,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-digital-voltmeter-module-housing-enclosure-case",
     "https://cults3d.com/en/3d-model/tool/bmw-x3-e83-f25-xdrive-transfer-case-actuator-motor-repair-gear",
     "https://cults3d.com/en/3d-model/tool/bmw-x3-interior-door-speaker-protection-grill-cover-trim",
-    "https://cults3d.com/en/3d-model/tool/bmw-e46-fuse-box-support-mounting-bracket"
+    "https://cults3d.com/en/3d-model/tool/bmw-e46-fuse-box-support-mounting-bracket",
+    "https://cults3d.com/en/3d-model/tool/bmw-x3-infinity-3-5-89mm-speaker-mounting-adapter-ring"
   ],
   "today_date": "2026-09-28",
-  "today_count": 13,
-  "total_posted": 1169,
+  "today_count": 14,
+  "total_posted": 1170,
   "history": [
     {
       "date": "2026-08-08",
@@ -8219,6 +8220,12 @@
       "date": "2026-09-28",
       "title": "BMW E46 Fuse Box Support Mounting Bracket",
       "media_id": "18151623007532733",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "title": "BMW X3 Infinity 3.5\" (89mm) Speaker Mounting Adapter Ring",
+      "media_id": "18142726972596104",
       "fb_media_id": null
     }
   ],
