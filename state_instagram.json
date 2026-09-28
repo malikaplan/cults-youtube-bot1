@@ -1192,11 +1192,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e46-oil-filler-funnel-adapter-einfulltrichter-3d-printable-service-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e46-sunroof-motor-cover-3d-printable-interior-trim-part",
     "https://cults3d.com/en/3d-model/tool/bmw-e36-aim-mxm-digital-dashboard-mount-bezel-panel",
-    "https://cults3d.com/en/3d-model/tool/bmw-e36-aim-mxl2-digital-dashboard-mount-bezel-panel"
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-aim-mxl2-digital-dashboard-mount-bezel-panel",
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-dme-ecu-engine-control-unit-mounting-bracket"
   ],
   "today_date": "2026-09-28",
-  "today_count": 4,
-  "total_posted": 1160,
+  "today_count": 5,
+  "total_posted": 1161,
   "history": [
     {
       "date": "2026-08-08",
@@ -8156,6 +8157,12 @@
       "date": "2026-09-28",
       "title": "BMW E36 AiM MXL2 Digital Dashboard Mount Bezel Panel",
       "media_id": "18104154670998758",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "title": "BMW E36 DME / ECU Engine Control Unit Mounting Bracket",
+      "media_id": "18011051324973938",
       "fb_media_id": null
     }
   ],
