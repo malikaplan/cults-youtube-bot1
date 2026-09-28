@@ -1191,11 +1191,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e46-door-trim-clip-3d-printable-interior-panel-mount-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e46-oil-filler-funnel-adapter-einfulltrichter-3d-printable-service-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e46-sunroof-motor-cover-3d-printable-interior-trim-part",
-    "https://cults3d.com/en/3d-model/tool/bmw-e36-aim-mxm-digital-dashboard-mount-bezel-panel"
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-aim-mxm-digital-dashboard-mount-bezel-panel",
+    "https://cults3d.com/en/3d-model/tool/bmw-e36-aim-mxl2-digital-dashboard-mount-bezel-panel"
   ],
   "today_date": "2026-09-28",
-  "today_count": 3,
-  "total_posted": 1159,
+  "today_count": 4,
+  "total_posted": 1160,
   "history": [
     {
       "date": "2026-08-08",
@@ -8149,6 +8150,12 @@
       "date": "2026-09-28",
       "title": "BMW E36 AiM MXM Digital Dashboard Mount Bezel Panel",
       "media_id": "17915024142264081",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-28",
+      "title": "BMW E36 AiM MXL2 Digital Dashboard Mount Bezel Panel",
+      "media_id": "18104154670998758",
       "fb_media_id": null
     }
   ],
