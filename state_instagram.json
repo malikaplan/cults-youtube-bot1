@@ -1228,11 +1228,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-window-switch-3d-printable-power-window-button",
     "https://cults3d.com/en/3d-model/gadget/peugeot-window-regulator-clip-glass-lift-part",
     "https://cults3d.com/en/3d-model/gadget/peugeot-led-adapter-3d-printable-headlight-ring",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-air-duct-3d-printable-cooling-channel"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-air-duct-3d-printable-cooling-channel",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-speaker-grill"
   ],
   "today_date": "2026-09-29",
-  "today_count": 16,
-  "total_posted": 1196,
+  "today_count": 17,
+  "total_posted": 1197,
   "history": [
     {
       "date": "2026-08-08",
@@ -8408,6 +8409,12 @@
       "date": "2026-09-29",
       "title": "Peugeot Air Duct – 3D Printable Cooling Channel",
       "media_id": "18474822697112607",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Peugeot  Speaker Grill",
+      "media_id": "17990773464110821",
       "fb_media_id": null
     }
   ],
