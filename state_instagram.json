@@ -1231,11 +1231,12 @@
     "https://cults3d.com/en/3d-model/gadget/peugeot-air-duct-3d-printable-cooling-channel",
     "https://cults3d.com/en/3d-model/gadget/peugeot-speaker-grill",
     "https://cults3d.com/en/3d-model/gadget/peugeot-206-roof-rack-cap-3d-printable-cover",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-206-fuse-box-cover-lock-3d-printable-clip"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-206-fuse-box-cover-lock-3d-printable-clip",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-205-wheel-cap-3d-printable-hub-cover"
   ],
   "today_date": "2026-09-29",
-  "today_count": 19,
-  "total_posted": 1199,
+  "today_count": 20,
+  "total_posted": 1200,
   "history": [
     {
       "date": "2026-08-08",
@@ -8429,6 +8430,12 @@
       "date": "2026-09-29",
       "title": "Peugeot 206 Fuse Box Cover Lock – 3D Printable Clip",
       "media_id": "18130611160670621",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Peugeot 205 Wheel Cap – 3D Printable Hub Cover",
+      "media_id": "18112662443164429",
       "fb_media_id": null
     }
   ],
