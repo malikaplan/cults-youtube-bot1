@@ -1227,11 +1227,12 @@
     "https://cults3d.com/en/3d-model/gadget/cadillac-arm-rest-cover-center-console-lid-interior-accessory-3d-printable",
     "https://cults3d.com/en/3d-model/gadget/peugeot-window-switch-3d-printable-power-window-button",
     "https://cults3d.com/en/3d-model/gadget/peugeot-window-regulator-clip-glass-lift-part",
-    "https://cults3d.com/en/3d-model/gadget/peugeot-led-adapter-3d-printable-headlight-ring"
+    "https://cults3d.com/en/3d-model/gadget/peugeot-led-adapter-3d-printable-headlight-ring",
+    "https://cults3d.com/en/3d-model/gadget/peugeot-air-duct-3d-printable-cooling-channel"
   ],
   "today_date": "2026-09-29",
-  "today_count": 15,
-  "total_posted": 1195,
+  "today_count": 16,
+  "total_posted": 1196,
   "history": [
     {
       "date": "2026-08-08",
@@ -8401,6 +8402,12 @@
       "date": "2026-09-29",
       "title": "Peugeot LED Adapter – 3D Printable Headlight Ring",
       "media_id": "18137532418549468",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Peugeot Air Duct – 3D Printable Cooling Channel",
+      "media_id": "18474822697112607",
       "fb_media_id": null
     }
   ],
