@@ -1214,11 +1214,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e90-e92-f30-f32-e60-e36-clutch-pedal-bushing-3d-printable-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-e30-bosch-headlight-rear-cap-housing-and-mounting-element-oem-1300508085",
     "https://cults3d.com/en/3d-model/gadget/bmw-headlight-cleaner-cover-3d-printable-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/cadillac-cts-v-carbon-mesh-3d-printable-collector-model"
+    "https://cults3d.com/en/3d-model/gadget/cadillac-cts-v-carbon-mesh-3d-printable-collector-model",
+    "https://cults3d.com/en/3d-model/gadget/cadillac-srx-2010-mirror-bracket-mounting-part-3d-printable-spare-part"
   ],
   "today_date": "2026-09-29",
-  "today_count": 2,
-  "total_posted": 1182,
+  "today_count": 3,
+  "total_posted": 1183,
   "history": [
     {
       "date": "2026-08-08",
@@ -8310,6 +8311,12 @@
       "date": "2026-09-29",
       "title": "Cadillac CTS-V Carbon Mesh / 3D Printable Collector Model",
       "media_id": "18354813988170844",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Cadillac SRX 2010 Mirror Bracket / Mounting Part – 3D Printable Spare Part",
+      "media_id": "17935868280126892",
       "fb_media_id": null
     }
   ],
