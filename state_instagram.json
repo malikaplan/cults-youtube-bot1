@@ -1242,11 +1242,12 @@
     "https://cults3d.com/en/3d-model/gadget/bentley-small-paddle-steering-wheel-shift-paddle-gear-selector-lr",
     "https://cults3d.com/en/3d-model/gadget/bentley-gt3-steering-wheel-timepiece-shroud-trim-clock-frame-3d-printable",
     "https://cults3d.com/en/3d-model/gadget/tesla-model-y-midbass-adapter-speaker-mount-audio-bracket-3d-printable-spa",
-    "https://cults3d.com/en/3d-model/gadget/tesla-model-y-rivet-fastener-panel-clip-3d-printable-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/tesla-model-y-rivet-fastener-panel-clip-3d-printable-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/tesla-model-y-trash-bin-waste-container-car-garbage-holder-3d-printable-ac"
   ],
   "today_date": "2026-09-30",
-  "today_count": 6,
-  "total_posted": 1210,
+  "today_count": 7,
+  "total_posted": 1211,
   "history": [
     {
       "date": "2026-08-08",
@@ -8506,6 +8507,12 @@
       "date": "2026-09-30",
       "title": "Tesla Model Y Rivet / Fastener / Panel Clip – 3D Printable Spare Part",
       "media_id": "18446816785120983",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Tesla Model Y Trash Bin / Waste Container / Car Garbage Holder – 3D Printable Accessory",
+      "media_id": "18071131721738103",
       "fb_media_id": null
     }
   ],
