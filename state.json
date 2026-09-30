@@ -1,35 +1,14 @@
 {
   "next_index": 361,
   "next_publish_date": "2026-09-19T00:00:00",
-  "run_count": 65,
+  "run_count": 66,
   "total_uploaded": 288,
   "total_models": 1428,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-09-29",
-    "day_number": 65,
-    "uploaded": [
-      {
-        "title": "BMW E36 AiM MXM Digital Dashboard Mount Bezel Panel",
-        "publish_at": "2026-09-19T09:00:00Z",
-        "link": "https://youtu.be/n1jylpho4a8"
-      },
-      {
-        "title": "BMW E36 AiM MXL2 Digital Dashboard Mount Bezel Panel",
-        "publish_at": "2026-09-19T11:00:00Z",
-        "link": "https://youtu.be/qqkLJvnFuIM"
-      },
-      {
-        "title": "BMW E36 DME / ECU Engine Control Unit Mounting Bracket",
-        "publish_at": "2026-09-19T13:00:00Z",
-        "link": "https://youtu.be/Af0RSTe_NXI"
-      },
-      {
-        "title": "BMW E36 M3 Budget DIY Front Mount Intercooler Bracket",
-        "publish_at": "2026-09-19T15:00:00Z",
-        "link": "https://youtu.be/tS3f8aBAIko"
-      }
-    ],
+    "date": "2026-09-30",
+    "day_number": 66,
+    "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
     "skipped_blocked": 0,
@@ -38,17 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-19",
-      "day_number": 56,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
-      ]
-    },
     {
       "date": "2026-09-19",
       "day_number": 57,
@@ -318,6 +286,17 @@
           "link": "https://youtu.be/tS3f8aBAIko"
         }
       ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "day_number": 66,
+      "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
       "skipped_blocked": 0,
@@ -730,22 +709,6 @@
     {
       "video_id": "SwlsZK19Rc4",
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
-    },
-    {
-      "video_id": "n1jylpho4a8",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e36-aim-mxm-digital-dashboard-mount-bezel-panel"
-    },
-    {
-      "video_id": "qqkLJvnFuIM",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e36-aim-mxl2-digital-dashboard-mount-bezel-panel"
-    },
-    {
-      "video_id": "Af0RSTe_NXI",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e36-dme-ecu-engine-control-unit-mounting-bracket"
-    },
-    {
-      "video_id": "tS3f8aBAIko",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e36-m3-budget-diy-front-mount-intercooler-bracket"
     }
   ]
 }
