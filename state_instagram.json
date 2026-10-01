@@ -1272,11 +1272,12 @@
     "https://cults3d.com/en/3d-model/gadget/toyota-rav4-door-stopper-flexible-tpu-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/toyota-hiace-door-slide-stopper-top-bottom-oem-69415-26010-reliable-3d-pri",
     "https://cults3d.com/en/3d-model/gadget/toyota-corolla-ed-interior-door-handle-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/bmw-e30-interior-door-cover-handle-reliable-3d-print-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/bmw-e30-interior-door-cover-handle-reliable-3d-print-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/bmw-i3-interior-door-handle-reliable-3d-print-spare-part"
   ],
   "today_date": "2026-10-01",
-  "today_count": 12,
-  "total_posted": 1240,
+  "today_count": 13,
+  "total_posted": 1241,
   "history": [
     {
       "date": "2026-08-08",
@@ -8716,6 +8717,12 @@
       "date": "2026-10-01",
       "title": "BMW E30 Interior Door Cover Handle – Reliable 3D Print Spare Part",
       "media_id": "18099199571566215",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-01",
+      "title": "BMW i3 Interior Door Handle – Reliable 3D Print Spare Part",
+      "media_id": "18116556772785805",
       "fb_media_id": null
     }
   ],
