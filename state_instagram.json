@@ -1276,11 +1276,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-i3-interior-door-handle-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/audi-tt-mk2-air-vent-arm-ac-vent-adjustment-arm-3d-printable-spare-part",
     "https://cults3d.com/en/3d-model/gadget/audi-tt-air-vent-cover-ac-vent-cap-3d-printable-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/audi-s3-air-vent-flag-gear-ac-vent-adjustment-gear-3d-printable-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/audi-s3-air-vent-flag-gear-ac-vent-adjustment-gear-3d-printable-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/bmw-air-vent-slider-adjuster-ac-vent-clip-64119855415"
   ],
   "today_date": "2026-10-01",
-  "today_count": 16,
-  "total_posted": 1244,
+  "today_count": 17,
+  "total_posted": 1245,
   "history": [
     {
       "date": "2026-08-08",
@@ -8744,6 +8745,12 @@
       "date": "2026-10-01",
       "title": "Audi S3 Air Vent Flag Gear – AC Vent Adjustment Gear (3D Printable Spare Part)",
       "media_id": "18103643174653857",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-01",
+      "title": "BMW Air Vent Slider Adjuster – AC Vent Clip (64119855415)",
+      "media_id": "18096276443409541",
       "fb_media_id": null
     }
   ],
