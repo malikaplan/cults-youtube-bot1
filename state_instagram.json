@@ -1265,11 +1265,12 @@
     "https://cults3d.com/en/3d-model/gadget/vw-golf-jetta-mk2-cup-holder-arm-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/2017-subaru-impreza-wiper-blade-cap-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/mercedes-vito-wiper-cap-reliable-3d-print-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/vw-golf-mk1-door-handle-reliable-3d-print-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/vw-golf-mk1-door-handle-reliable-3d-print-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/vw-jetta-mk2-door-lock-collar-and-door-locker-reliable-3d-print-spare-parts"
   ],
   "today_date": "2026-10-01",
-  "today_count": 5,
-  "total_posted": 1233,
+  "today_count": 6,
+  "total_posted": 1234,
   "history": [
     {
       "date": "2026-08-08",
@@ -8667,6 +8668,12 @@
       "date": "2026-10-01",
       "title": "VW Golf Mk1 Door Handle – Reliable 3D Print Spare Part",
       "media_id": "18174440530455160",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-01",
+      "title": "VW Jetta Mk2 Door Lock Collar and Door Locker – Reliable 3D Print Spare Parts",
+      "media_id": "18073878329465489",
       "fb_media_id": null
     }
   ],
