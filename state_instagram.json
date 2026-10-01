@@ -1275,11 +1275,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-e30-interior-door-cover-handle-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/bmw-i3-interior-door-handle-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/audi-tt-mk2-air-vent-arm-ac-vent-adjustment-arm-3d-printable-spare-part",
-    "https://cults3d.com/en/3d-model/gadget/audi-tt-air-vent-cover-ac-vent-cap-3d-printable-spare-part"
+    "https://cults3d.com/en/3d-model/gadget/audi-tt-air-vent-cover-ac-vent-cap-3d-printable-spare-part",
+    "https://cults3d.com/en/3d-model/gadget/audi-s3-air-vent-flag-gear-ac-vent-adjustment-gear-3d-printable-spare-part"
   ],
   "today_date": "2026-10-01",
-  "today_count": 15,
-  "total_posted": 1243,
+  "today_count": 16,
+  "total_posted": 1244,
   "history": [
     {
       "date": "2026-08-08",
@@ -8737,6 +8738,12 @@
       "date": "2026-10-01",
       "title": "Audi TT Air Vent Cover – AC Vent Cap (3D Printable Spare Part)",
       "media_id": "18115985323952718",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Audi S3 Air Vent Flag Gear – AC Vent Adjustment Gear (3D Printable Spare Part)",
+      "media_id": "18103643174653857",
       "fb_media_id": null
     }
   ],
