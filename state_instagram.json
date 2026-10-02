@@ -1293,11 +1293,12 @@
     "https://cults3d.com/en/3d-model/gadget/hyundai-i10-parcel-shelf-clip",
     "https://cults3d.com/en/3d-model/gadget/ford-parcel-shelf-clip-designed-for-focus-fiesta-mondeo-b-max",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-boot-flap-joint-3d-printable-trunk-connector",
-    "https://cults3d.com/en/3d-model/gadget/opel-astra-gtc-keychain-3d-printed-accessory"
+    "https://cults3d.com/en/3d-model/gadget/opel-astra-gtc-keychain-3d-printed-accessory",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-d-armrest-3d-printable-center-console"
   ],
   "today_date": "2026-10-02",
-  "today_count": 9,
-  "total_posted": 1261,
+  "today_count": 10,
+  "total_posted": 1262,
   "history": [
     {
       "date": "2026-08-08",
@@ -8863,6 +8864,12 @@
       "date": "2026-10-02",
       "title": "Opel Astra GTC Keychain – 3D Printed Accessory",
       "media_id": "17906479872333640",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Opel Corsa D Armrest – 3D Printable Center Console",
+      "media_id": "18124722244845860",
       "fb_media_id": null
     }
   ],
