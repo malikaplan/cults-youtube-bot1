@@ -1287,11 +1287,12 @@
     "https://cults3d.com/en/3d-model/gadget/bmw-x1-e84-2009-2014-rear-window-shelf-rubber-buffer-reliable-3d-print-spare",
     "https://cults3d.com/en/3d-model/gadget/opel-corsa-parcel-shelf-cable-reliable-3d-print-spare-part",
     "https://cults3d.com/en/3d-model/gadget/tesla-parcel-shelf-clamp",
-    "https://cults3d.com/en/3d-model/gadget/kia-venga-parcel-shelf-pivot-mount-durable-3d-print-with-infill"
+    "https://cults3d.com/en/3d-model/gadget/kia-venga-parcel-shelf-pivot-mount-durable-3d-print-with-infill",
+    "https://cults3d.com/en/3d-model/gadget/mazda-3-cx-3-parcel-shelf-strap-hanger-pin-3d-print-with-supports"
   ],
   "today_date": "2026-10-02",
-  "today_count": 3,
-  "total_posted": 1255,
+  "today_count": 4,
+  "total_posted": 1256,
   "history": [
     {
       "date": "2026-08-08",
@@ -8821,6 +8822,12 @@
       "date": "2026-10-02",
       "title": "Kia Venga Parcel Shelf Pivot Mount – Durable 3D Print with Infill",
       "media_id": "17959699476249209",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Mazda 3 & CX‑3 Parcel Shelf Strap Hanger Pin – 3D Print with Supports",
+      "media_id": "18124962757919256",
       "fb_media_id": null
     }
   ],
