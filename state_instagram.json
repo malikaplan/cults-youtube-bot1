@@ -1307,11 +1307,12 @@
     "https://cults3d.com/en/3d-model/gadget/ford-focus-parcel-shelf-hinge-3d-printable-hinge",
     "https://cults3d.com/en/3d-model/gadget/audi-tt-parcel-shelf-repair-clip-mk1-3d-printable-clip",
     "https://cults3d.com/en/3d-model/gadget/audi-q3-parcel-shelf-mounts-screw-3d-printable-component",
-    "https://cults3d.com/en/3d-model/gadget/audi-parcel-shelf-hinge-3d-printable-hinge"
+    "https://cults3d.com/en/3d-model/gadget/audi-parcel-shelf-hinge-3d-printable-hinge",
+    "https://cults3d.com/en/3d-model/gadget/mercedes-a-class-parcel-shelf-clip-3d-printable-accessory"
   ],
   "today_date": "2026-10-02",
-  "today_count": 23,
-  "total_posted": 1275,
+  "today_count": 24,
+  "total_posted": 1276,
   "history": [
     {
       "date": "2026-08-08",
@@ -8961,6 +8962,12 @@
       "date": "2026-10-02",
       "title": "Audi Parcel Shelf Hinge – 3D Printable Hinge",
       "media_id": "18097583498437342",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Mercedes A-Class Parcel Shelf Clip – 3D Printable Accessory",
+      "media_id": "18233229742321948",
       "fb_media_id": null
     }
   ],
