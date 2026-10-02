@@ -1294,11 +1294,12 @@
     "https://cults3d.com/en/3d-model/gadget/ford-parcel-shelf-clip-designed-for-focus-fiesta-mondeo-b-max",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-boot-flap-joint-3d-printable-trunk-connector",
     "https://cults3d.com/en/3d-model/gadget/opel-astra-gtc-keychain-3d-printed-accessory",
-    "https://cults3d.com/en/3d-model/gadget/opel-corsa-d-armrest-3d-printable-center-console"
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-d-armrest-3d-printable-center-console",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-side-support-holder-3d-printable-clip"
   ],
   "today_date": "2026-10-02",
-  "today_count": 10,
-  "total_posted": 1262,
+  "today_count": 11,
+  "total_posted": 1263,
   "history": [
     {
       "date": "2026-08-08",
@@ -8870,6 +8871,12 @@
       "date": "2026-10-02",
       "title": "Opel Corsa D Armrest – 3D Printable Center Console",
       "media_id": "18124722244845860",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Opel Corsa Side Support Holder – 3D Printable Clip",
+      "media_id": "18112759520275262",
       "fb_media_id": null
     }
   ],
