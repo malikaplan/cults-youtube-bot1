@@ -1322,11 +1322,12 @@
     "https://cults3d.com/en/3d-model/gadget/renault-clio-mirror-switch-guide-oem-compatible-part",
     "https://cults3d.com/en/3d-model/gadget/renault-clio-radio-panel-cover-oem-compatible-design",
     "https://cults3d.com/en/3d-model/gadget/renault-clio-seat-handle-durable-and-compatible-design",
-    "https://cults3d.com/en/3d-model/home/aquarium-surface-rake"
+    "https://cults3d.com/en/3d-model/home/aquarium-surface-rake",
+    "https://cults3d.com/en/3d-model/home/aquarium-shovel"
   ],
   "today_date": "2026-10-03",
-  "today_count": 14,
-  "total_posted": 1290,
+  "today_count": 15,
+  "total_posted": 1291,
   "history": [
     {
       "date": "2026-08-08",
@@ -9066,6 +9067,12 @@
       "date": "2026-10-03",
       "title": "Aquarium Surface Rake",
       "media_id": "17991628167107550",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Aquarium Shovel",
+      "media_id": "17964681815983498",
       "fb_media_id": null
     }
   ],
