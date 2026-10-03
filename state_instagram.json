@@ -1325,11 +1325,12 @@
     "https://cults3d.com/en/3d-model/home/aquarium-surface-rake",
     "https://cults3d.com/en/3d-model/home/aquarium-shovel",
     "https://cults3d.com/en/3d-model/home/aquarium-filter-outlet-nozzle-filter-exit-piece",
-    "https://cults3d.com/en/3d-model/home/aquarium-heater-corner-holder"
+    "https://cults3d.com/en/3d-model/home/aquarium-heater-corner-holder",
+    "https://cults3d.com/en/3d-model/home/aquarium-tool-holder-equipment-organizer"
   ],
   "today_date": "2026-10-03",
-  "today_count": 17,
-  "total_posted": 1293,
+  "today_count": 18,
+  "total_posted": 1294,
   "history": [
     {
       "date": "2026-08-08",
@@ -9087,6 +9088,12 @@
       "date": "2026-10-03",
       "title": "Aquarium Heater Corner  Holder",
       "media_id": "18176148703454108",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Aquarium Tool Holder – Equipment Organizer",
+      "media_id": "18160297180435936",
       "fb_media_id": null
     }
   ],
