@@ -1310,11 +1310,12 @@
     "https://cults3d.com/en/3d-model/gadget/audi-parcel-shelf-hinge-3d-printable-hinge",
     "https://cults3d.com/en/3d-model/gadget/mercedes-a-class-parcel-shelf-clip-3d-printable-accessory",
     "https://cults3d.com/en/3d-model/gadget/bmw-i4-parcel-shelf-pin-3d-printable-connector",
-    "https://cults3d.com/en/3d-model/gadget/bmw-x2-parcel-shelf-clip-3d-printable-accessory"
+    "https://cults3d.com/en/3d-model/gadget/bmw-x2-parcel-shelf-clip-3d-printable-accessory",
+    "https://cults3d.com/en/3d-model/gadget/bmw-parcel-shelf-hook-3d-printable-accessory"
   ],
   "today_date": "2026-10-03",
-  "today_count": 2,
-  "total_posted": 1278,
+  "today_count": 3,
+  "total_posted": 1279,
   "history": [
     {
       "date": "2026-08-08",
@@ -8982,6 +8983,12 @@
       "date": "2026-10-03",
       "title": "BMW X2 Parcel Shelf Clip – 3D Printable Accessory",
       "media_id": "18098023415540779",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-03",
+      "title": "BMW Parcel Shelf Hook – 3D Printable Accessory",
+      "media_id": "18115938143071697",
       "fb_media_id": null
     }
   ],
