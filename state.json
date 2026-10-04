@@ -1,13 +1,13 @@
 {
   "next_index": 361,
   "next_publish_date": "2026-09-19T00:00:00",
-  "run_count": 69,
+  "run_count": 70,
   "total_uploaded": 288,
   "total_models": 1428,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-10-03",
-    "day_number": 69,
+    "date": "2026-10-04",
+    "day_number": 70,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,46 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-23",
-      "day_number": 60,
-      "uploaded": [
-        {
-          "title": "BMW E46 M3 GTR Racing GT Wing Spoiler Mounting Bracket Risers (Spoiler Halter)",
-          "publish_at": "2026-09-15T09:00:00Z",
-          "link": "https://youtu.be/bBJYegIS4mY"
-        },
-        {
-          "title": "MoTeC Digital Racing Dashboard Anti-Glare Sunshade Visor Shroud",
-          "publish_at": "2026-09-15T11:00:00Z",
-          "link": "https://youtu.be/tULQLoWXu9w"
-        },
-        {
-          "title": "Mercedes-AMG MoTeC Scrutineering Dash Logger Mounting Bracket",
-          "publish_at": "2026-09-15T13:00:00Z",
-          "link": "https://youtu.be/b0Wfw5EmxAc"
-        },
-        {
-          "title": "Porsche MoTeC Scrutineering Dash Logger Mounting Bracket",
-          "publish_at": "2026-09-15T15:00:00Z",
-          "link": "https://youtu.be/TEw18vRZ2fs"
-        },
-        {
-          "title": "MoTeC Digital Racing Dashboard Mount Surround Bezel V2",
-          "publish_at": "2026-09-15T17:00:00Z",
-          "link": "https://youtu.be/GBfSJ13Nil8"
-        },
-        {
-          "title": "SW-Motech Motorcycle Tank Bag Base Height Increase Spacer Riser",
-          "publish_at": "2026-09-15T19:00:00Z",
-          "link": "https://youtu.be/xoy9lTUhZIo"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-24",
       "day_number": 61,
@@ -267,6 +227,17 @@
     {
       "date": "2026-10-03",
       "day_number": 69,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "day_number": 70,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
