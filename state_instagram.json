@@ -1362,11 +1362,12 @@
     "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-armrest-storage-organizer-tray-insert",
     "https://cults3d.com/en/3d-model/tool/drill-sharpening-jig-1-0-14mm-118-angle",
     "https://cults3d.com/en/3d-model/home/sliding-lid-storage-box-2-parts",
-    "https://cults3d.com/en/3d-model/gadget/audi-tt-parcel-shelf-support-2007"
+    "https://cults3d.com/en/3d-model/gadget/audi-tt-parcel-shelf-support-2007",
+    "https://cults3d.com/en/3d-model/gadget/alfa-romeo-brera-159-boot-clip-set-left-right"
   ],
   "today_date": "2026-10-05",
-  "today_count": 6,
-  "total_posted": 1330,
+  "today_count": 7,
+  "total_posted": 1331,
   "history": [
     {
       "date": "2026-08-08",
@@ -9346,6 +9347,12 @@
       "date": "2026-10-05",
       "title": "Audi TT Parcel Shelf Support (2007)",
       "media_id": "18413495290080682",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Alfa Romeo Brera & 159 Boot Clip Set (Left & Right)",
+      "media_id": "18126692845839955",
       "fb_media_id": null
     }
   ],
