@@ -1364,11 +1364,12 @@
     "https://cults3d.com/en/3d-model/home/sliding-lid-storage-box-2-parts",
     "https://cults3d.com/en/3d-model/gadget/audi-tt-parcel-shelf-support-2007",
     "https://cults3d.com/en/3d-model/gadget/alfa-romeo-brera-159-boot-clip-set-left-right",
-    "https://cults3d.com/en/3d-model/gadget/fiat-tipo-parcel-shelf-bracket"
+    "https://cults3d.com/en/3d-model/gadget/fiat-tipo-parcel-shelf-bracket",
+    "https://cults3d.com/en/3d-model/gadget/opel-corsa-air-vent-direction-control-1995"
   ],
   "today_date": "2026-10-05",
-  "today_count": 8,
-  "total_posted": 1332,
+  "today_count": 9,
+  "total_posted": 1333,
   "history": [
     {
       "date": "2026-08-08",
@@ -9360,6 +9361,12 @@
       "date": "2026-10-05",
       "title": "Fiat Tipo Parcel Shelf Bracket",
       "media_id": "17982609260897918",
+      "fb_media_id": null
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Opel Corsa Air Vent Direction Control (1995)",
+      "media_id": "18077851892419122",
       "fb_media_id": null
     }
   ],
