@@ -1,14 +1,20 @@
 {
-  "next_index": 361,
+  "next_index": 362,
   "next_publish_date": "2026-09-19T00:00:00",
-  "run_count": 70,
-  "total_uploaded": 288,
-  "total_models": 1428,
+  "run_count": 71,
+  "total_uploaded": 289,
+  "total_models": 1429,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-10-04",
-    "day_number": 70,
-    "uploaded": [],
+    "date": "2026-10-06",
+    "day_number": 71,
+    "uploaded": [
+      {
+        "title": "BMW E46 Center Console Armrest Storage Organizer Tray Insert",
+        "publish_at": "2026-09-19T09:00:00Z",
+        "link": "https://youtu.be/XVIJ8YSZTo0"
+      }
+    ],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
     "skipped_blocked": 0,
@@ -17,46 +23,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-24",
-      "day_number": 61,
-      "uploaded": [
-        {
-          "title": "SW-Motech Motorcycle Crash Bar  Luggage Rack Protective Cover Cap",
-          "publish_at": "2026-09-16T09:00:00Z",
-          "link": "https://youtu.be/AzdRA7QfkbE"
-        },
-        {
-          "title": "SW-Motec KTM 890 EVO Tank Bag Mounting Ring Adapter (Anillo Tank Ring)",
-          "publish_at": "2026-09-16T11:00:00Z",
-          "link": "https://youtu.be/yFFP8VfmNVg"
-        },
-        {
-          "title": "SW-Motech GPS to GoPro Action Camera Mount Adapter",
-          "publish_at": "2026-09-16T13:00:00Z",
-          "link": "https://youtu.be/2k6k4m5tdq8"
-        },
-        {
-          "title": "SP Connect to SW-Motech MOLLE Tank Bag Phone Mount Adapter",
-          "publish_at": "2026-09-16T15:00:00Z",
-          "link": "https://youtu.be/CP1XXCBG82E"
-        },
-        {
-          "title": "Motech-SW Motorcycle Crash Bar Vertical Protective Slider Block",
-          "publish_at": "2026-09-16T17:00:00Z",
-          "link": "https://youtu.be/ixiRg8pWGzg"
-        },
-        {
-          "title": "MoTeC Standard Digital Racing Dashboard Mounting Bracket",
-          "publish_at": "2026-09-16T19:00:00Z",
-          "link": "https://youtu.be/4Q7Jv-Tjyz0"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-25",
       "day_number": 62,
@@ -239,6 +205,23 @@
       "date": "2026-10-04",
       "day_number": 70,
       "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "day_number": 71,
+      "uploaded": [
+        {
+          "title": "BMW E46 Center Console Armrest Storage Organizer Tray Insert",
+          "publish_at": "2026-09-19T09:00:00Z",
+          "link": "https://youtu.be/XVIJ8YSZTo0"
+        }
+      ],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
       "skipped_blocked": 0,
@@ -608,7 +591,8 @@
     "https://cults3d.com/:4959727",
     "https://cults3d.com/:4960899",
     "https://cults3d.com/:4964748",
-    "https://cults3d.com/:4976696"
+    "https://cults3d.com/:4976696",
+    "https://cults3d.com/:4979020"
   ],
   "migrated_to_url_tracking": true,
   "pending_comments": [
@@ -651,6 +635,10 @@
     {
       "video_id": "SwlsZK19Rc4",
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
+    },
+    {
+      "video_id": "XVIJ8YSZTo0",
+      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-armrest-storage-organizer-tray-insert"
     }
   ]
 }
