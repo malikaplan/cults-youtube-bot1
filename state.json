@@ -1,20 +1,14 @@
 {
   "next_index": 362,
   "next_publish_date": "2026-09-19T00:00:00",
-  "run_count": 71,
+  "run_count": 72,
   "total_uploaded": 289,
   "total_models": 1429,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-10-06",
-    "day_number": 71,
-    "uploaded": [
-      {
-        "title": "BMW E46 Center Console Armrest Storage Organizer Tray Insert",
-        "publish_at": "2026-09-19T09:00:00Z",
-        "link": "https://youtu.be/XVIJ8YSZTo0"
-      }
-    ],
+    "date": "2026-10-07",
+    "day_number": 72,
+    "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
     "skipped_blocked": 0,
@@ -23,46 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-25",
-      "day_number": 62,
-      "uploaded": [
-        {
-          "title": "SW-Motech BLAZE Saddlebag Male Quick-Lock Mounting Adapter",
-          "publish_at": "2026-09-17T09:00:00Z",
-          "link": "https://youtu.be/RekJF-8lvhY"
-        },
-        {
-          "title": "MoTeC Universal Digital Dashboard",
-          "publish_at": "2026-09-17T11:00:00Z",
-          "link": "https://youtu.be/n4qQexFsfXQ"
-        },
-        {
-          "title": "MoTeC C127 Digital Racing Dashboard Screen Protective Cover and Shroud",
-          "publish_at": "2026-09-17T13:00:00Z",
-          "link": "https://youtu.be/toyD9_hXPgw"
-        },
-        {
-          "title": "SW-Motech Motorcycle Luggage MOLLE Connection Clip Adapter Part",
-          "publish_at": "2026-09-17T15:00:00Z",
-          "link": "https://youtu.be/0nMBv6qV09Y"
-        },
-        {
-          "title": "SW-Motech Universal Motorcycle Mounting Bracket Clamp",
-          "publish_at": "2026-09-17T17:00:00Z",
-          "link": "https://youtu.be/bSrykn_PJMU"
-        },
-        {
-          "title": "MoTeC Motorsports Video Camera & Data Logger Mounting Bracket",
-          "publish_at": "2026-09-17T19:00:00Z",
-          "link": "https://youtu.be/lGIP4gmYeQc"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": []
-    },
     {
       "date": "2026-09-26",
       "day_number": 63,
@@ -222,6 +176,17 @@
           "link": "https://youtu.be/XVIJ8YSZTo0"
         }
       ],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "day_number": 72,
+      "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
       "skipped_blocked": 0,
@@ -635,10 +600,6 @@
     {
       "video_id": "SwlsZK19Rc4",
       "text": "https://cults3d.com/en/3d-model/tool/renault-trunk-hook-main-body-boot-cargo-clip"
-    },
-    {
-      "video_id": "XVIJ8YSZTo0",
-      "text": "https://cults3d.com/en/3d-model/tool/bmw-e46-center-console-armrest-storage-organizer-tray-insert"
     }
   ]
 }
