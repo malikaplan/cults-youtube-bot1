@@ -1,13 +1,13 @@
 {
   "next_index": 362,
   "next_publish_date": "2026-09-19T00:00:00",
-  "run_count": 73,
+  "run_count": 74,
   "total_uploaded": 289,
   "total_models": 1429,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-10-08",
-    "day_number": 73,
+    "date": "2026-10-09",
+    "day_number": 74,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,28 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-27",
-      "day_number": 64,
-      "uploaded": [
-        {
-          "title": "FT450 Proton Wira  Satria FuelTech  Digital Dashboard Cluster Mounting Panel",
-          "publish_at": "2026-09-19T09:00:00Z",
-          "link": "https://youtu.be/pmtaMiGdd2c"
-        },
-        {
-          "title": "FuelTech Dual Power Driver Module Mounting Bracket",
-          "publish_at": "2026-09-19T11:00:00Z",
-          "link": "https://youtu.be/mmuW_4XPRFA"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "BMW E46 M3 Strut Brace Clearance – Modular Cabin Filter Housing & Cowl Kit: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
-      ]
-    },
     {
       "date": "2026-09-29",
       "day_number": 65,
@@ -157,6 +135,17 @@
     {
       "date": "2026-10-08",
       "day_number": 73,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "day_number": 74,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
