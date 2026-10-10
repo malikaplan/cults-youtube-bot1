@@ -1,13 +1,13 @@
 {
   "next_index": 362,
   "next_publish_date": "2026-09-19T00:00:00",
-  "run_count": 74,
+  "run_count": 75,
   "total_uploaded": 289,
   "total_models": 1429,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-10-09",
-    "day_number": 74,
+    "date": "2026-10-10",
+    "day_number": 75,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,38 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-09-29",
-      "day_number": 65,
-      "uploaded": [
-        {
-          "title": "BMW E36 AiM MXM Digital Dashboard Mount Bezel Panel",
-          "publish_at": "2026-09-19T09:00:00Z",
-          "link": "https://youtu.be/n1jylpho4a8"
-        },
-        {
-          "title": "BMW E36 AiM MXL2 Digital Dashboard Mount Bezel Panel",
-          "publish_at": "2026-09-19T11:00:00Z",
-          "link": "https://youtu.be/qqkLJvnFuIM"
-        },
-        {
-          "title": "BMW E36 DME / ECU Engine Control Unit Mounting Bracket",
-          "publish_at": "2026-09-19T13:00:00Z",
-          "link": "https://youtu.be/Af0RSTe_NXI"
-        },
-        {
-          "title": "BMW E36 M3 Budget DIY Front Mount Intercooler Bracket",
-          "publish_at": "2026-09-19T15:00:00Z",
-          "link": "https://youtu.be/tS3f8aBAIko"
-        }
-      ],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
-      ]
-    },
     {
       "date": "2026-09-30",
       "day_number": 66,
@@ -146,6 +114,17 @@
     {
       "date": "2026-10-09",
       "day_number": 74,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "day_number": 75,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
