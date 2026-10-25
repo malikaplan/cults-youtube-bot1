@@ -1,13 +1,13 @@
 {
   "next_index": 362,
   "next_publish_date": "2026-09-19T00:00:00",
-  "run_count": 88,
+  "run_count": 89,
   "total_uploaded": 289,
   "total_models": 1429,
   "start_date": "2026-08-01",
   "last_run": {
-    "date": "2026-10-24",
-    "day_number": 88,
+    "date": "2026-10-25",
+    "day_number": 89,
     "uploaded": [],
     "skipped_nsfw": 0,
     "skipped_no_video": 0,
@@ -17,17 +17,6 @@
     ]
   },
   "history": [
-    {
-      "date": "2026-10-15",
-      "day_number": 79,
-      "uploaded": [],
-      "skipped_nsfw": 0,
-      "skipped_no_video": 0,
-      "skipped_blocked": 0,
-      "errors": [
-        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
-      ]
-    },
     {
       "date": "2026-10-16",
       "day_number": 80,
@@ -119,6 +108,17 @@
     {
       "date": "2026-10-24",
       "day_number": 88,
+      "uploaded": [],
+      "skipped_nsfw": 0,
+      "skipped_no_video": 0,
+      "skipped_blocked": 0,
+      "errors": [
+        "BMW E36 (1992–1999) Center Console Radio & AC Delete Blank Panel: <HttpError 400 when requesting None returned \"The request metadata specifies an invalid video description.\". Details: \"[{'message': 'The request metadata specifies an invalid video description.', 'domain': 'youtube.video', 'reason': 'invalidDescription', 'location': 'body.snippet.description', 'locationType': 'other'}]\">"
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "day_number": 89,
       "uploaded": [],
       "skipped_nsfw": 0,
       "skipped_no_video": 0,
